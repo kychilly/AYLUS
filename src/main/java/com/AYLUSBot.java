@@ -1,8 +1,5 @@
-package com.kychilly.DiscordBot;
+package com;
 
-import com.kychilly.DiscordBot.commands.CommandManager;
-//import com.kychilly.DiscordBot.commands.ReminderCommand;
-import com.kychilly.DiscordBot.listeners.*;
 import io.github.cdimascio.dotenv.Dotenv;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
@@ -14,12 +11,12 @@ import net.dv8tion.jda.api.utils.MemberCachePolicy;
 
 import javax.security.auth.login.LoginException;
 
-public class KychillyBot {
+public class AYLUSBot {
 
     private final ShardManager shardManager;
     private final Dotenv config;
 
-    public KychillyBot() throws LoginException {
+    public AYLUSBot() throws LoginException {
         config = Dotenv.configure().ignoreIfMissing().load();
         String token = config.get("TOKEN");
 
@@ -35,17 +32,8 @@ public class KychillyBot {
         shardManager = builder.build();
 
         //register listeners
-        shardManager.addEventListener(new PingCommands());
-        shardManager.addEventListener(new MemberJoin());
-        shardManager.addEventListener(new SlashCommands());
-        shardManager.addEventListener(new CommandManager());
-        shardManager.addEventListener(new Typeracer());
-        shardManager.addEventListener(new ReminderCommand());
-        shardManager.addEventListener(new TimerCommand());
-        shardManager.addEventListener(new TyperacerListener());
-        shardManager.addEventListener(new TyperacerListener());
+        //shardManager.addEventListener(new PingCommands());
 
-        //shardManager.addEventListener(new RussianRouletteListener());
     }
 
     public ShardManager getShardManager() {
@@ -58,7 +46,7 @@ public class KychillyBot {
 
     public static void main(String[] args) {
         try {
-            KychillyBot bot = new KychillyBot();
+            AYLUSBot bot = new AYLUSBot();
         } catch (LoginException e) {
             System.out.println("lol your bot token is wrong");
         } catch (Exception e) {
@@ -67,4 +55,6 @@ public class KychillyBot {
         }
 
     }
+
+
 }
