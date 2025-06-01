@@ -1,0 +1,161 @@
+package com.AYLUS.DiscordBot.Classes;
+
+// VolunteerCommands.java
+import net.dv8tion.jda.api.EmbedBuilder;
+import net.dv8tion.jda.api.entities.User;
+import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
+import net.dv8tion.jda.api.hooks.ListenerAdapter;
+import net.dv8tion.jda.api.interactions.commands.OptionType;
+import net.dv8tion.jda.api.interactions.commands.build.Commands;
+import net.dv8tion.jda.api.interactions.commands.build.CommandData;
+import net.dv8tion.jda.api.interactions.commands.build.OptionData;
+import net.dv8tion.jda.api.Permission;
+
+
+import com.AYLUS.DiscordBot.Classes.VolunteerCommands;
+
+
+import java.awt.*;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+import java.util.List;
+
+public class VolunteerCommands extends ListenerAdapter {
+    private final VolunteerManager volunteerManager;
+
+    public VolunteerCommands() {
+        this.volunteerManager = new VolunteerManager();
+    }
+
+    public static List<CommandData> getCommandData() {
+        return List.of(
+                Commands.slash("volunteer-log", "Log volunteer hours")
+                        .addOptions(
+                                new OptionData(OptionType.STRING, "event", "Name of the event", true),
+                                new OptionData(OptionType.NUMBER, "hours", "Hours volunteered", true)
+                                        .setMinValue(0.1)
+                                        .setMaxValue(24.0),
+                                new OptionData(OptionType.STRING, "date", "Date (YYYY-MM-DD)", false)
+                        ),
+                Commands.slash("volunteer-profile", "View volunteer profile")
+                        .addOptions(
+                                new OptionData(OptionType.USER, "user", "User to view", false)
+                        ),
+                Commands.slash("volunteer-leaderboard", "View volunteer leaderboard"),
+                Commands.slash("volunteer-remove", "Remove a volunteer event")
+                        .addOption(OptionType.USER, "user", "User whose event to remove", true)
+                        .addOption(OptionType.STRING, "event", "Name of the event to remove", true)
+                        .addOption(OptionType.STRING, "date", "Date of the event (YYYY-MM-DD)", true)
+        );
+    }
+
+    @Override
+    public void onSlashCommandInteraction(SlashCommandInteractionEvent event) {
+        switch (event.getName()) {
+            case "volunteer-log":
+                handleLogCommand(event);
+                break;
+            case "volunteer-profile":
+                handleProfileCommand(event);
+                break;
+            case "volunteer-leaderboard":
+                handleLeaderboardCommand(event);
+                break;
+        }
+    }
+
+    private void handleLogCommand(SlashCommandInteractionEvent event) {
+        String eventName = event.getOption("event").getAsString();
+        double hours = event.getOption("hours").getAsDouble();
+        String dateStr = event.getOption("date") != null
+                ? event.getOption("date").getAsString()
+                : LocalDate.now().format(DateTimeFormatter.ISO_DATE);
+
+        User user = event.getUser();
+        volunteerManager.logHours(user.getId(), user.getName(), eventName, hours, dateStr);
+
+        event.replyEmbeds(
+                new EmbedBuilder()
+                        .setTitle("Volunteer Hours Logged")
+                        .setColor(Color.GREEN)
+                        .setDescription(String.format(
+                                "✅ Logged **%.1f hours** for %s at **%s** on %s",
+                                hours, user.getAsMention(), eventName, dateStr
+                        ))
+                        .build()
+        ).queue();
+    }
+
+    private void handleProfileCommand(SlashCommandInteractionEvent event) {
+        User target = event.getOption("user") != null
+                ? event.getOption("user").getAsUser()
+                : event.getUser();
+
+        UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
+
+        EmbedBuilder embed = new EmbedBuilder()
+                .setTitle(target.getName() + "'s Volunteer Profile")
+                .setColor(Color.BLUE)
+                .setThumbnail(target.getEffectiveAvatarUrl())
+                .addField("Total Hours", String.format("%.1f hours", profile.getTotalHours()), false);
+
+        if (!profile.getEntries().isEmpty()) {
+            StringBuilder breakdown = new StringBuilder();
+            for (VolunteerEntry entry : profile.getEntries()) {
+                breakdown.append(String.format(
+                        "• **%s**: %.1f hours (%s)\n",
+                        entry.getEventName(), entry.getHours(), entry.getDate()
+                ));
+            }
+            embed.addField("Breakdown", breakdown.toString(), false);
+        }
+
+        event.replyEmbeds(embed.build()).queue();
+    }
+
+    private void handleLeaderboardCommand(SlashCommandInteractionEvent event) {
+        List<UserVolunteerProfile> leaderboard = volunteerManager.getLeaderboard();
+
+        EmbedBuilder embed = new EmbedBuilder()
+                .setTitle("Volunteer Leaderboard")
+                .setColor(Color.ORANGE);
+
+        if (leaderboard.isEmpty()) {
+            embed.setDescription("No volunteer hours logged yet!");
+        } else {
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < Math.min(10, leaderboard.size()); i++) {
+                UserVolunteerProfile profile = leaderboard.get(i);
+                sb.append(String.format(
+                        "%d. **%s** - %.1f hours\n",
+                        i + 1, profile.getUsername(), profile.getTotalHours()
+                ));
+            }
+            embed.setDescription(sb.toString());
+        }
+
+        event.replyEmbeds(embed.build()).queue();
+    }
+
+    private void handleRemoveCommand(SlashCommandInteractionEvent event) {
+        event.deferReply().setEphemeral(true).queue(hook -> {
+            try {
+                User user = event.getOption("user").getAsUser();
+                String eventName = event.getOption("event").getAsString();
+                String date = event.getOption("date").getAsString();
+
+                new Thread(() -> { // Process in background
+                    boolean success = volunteerManager.removeEvent(user.getId(), eventName, date);
+                    String response = success
+                            ? "✅ Removed event from " + user.getAsMention()
+                            : "❌ Event not found";
+                    hook.sendMessage(response).queue();
+                }).start();
+
+            } catch (Exception e) {
+                hook.sendMessage("⚠️ Error: " + e.getMessage()).queue();
+            }
+        });
+    }
+
+}

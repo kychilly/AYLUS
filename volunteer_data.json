@@ -1,0 +1,19 @@
+{
+  "840216337119969301": {
+    "userId": "840216337119969301",
+    "username": "62_620",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "test",
+        "hours": 5.0,
+        "date": "5-5-25"
+      },
+      {
+        "eventName": "FOODBANK",
+        "hours": 1.0,
+        "date": "1-2-25"
+      }
+    ]
+  }
+}
