@@ -2,24 +2,8 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 21.0,
-    "entries": [
-      {
-        "eventName": "ttt",
-        "hours": 5.0,
-        "date": "5-5-5"
-      },
-      {
-        "eventName": "asd",
-        "hours": 5.0,
-        "date": "5-2-78"
-      },
-      {
-        "eventName": "events",
-        "hours": 11.0,
-        "date": "3-25-2025"
-      }
-    ]
+    "totalHours": 0.0,
+    "entries": []
   },
   "680189020076376080": {
     "userId": "680189020076376080",
@@ -30,25 +14,19 @@
   "253988281086246912": {
     "userId": "253988281086246912",
     "username": "_.ninir._",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "event",
-        "hours": 1.0,
-        "date": "1-1-11"
-      }
-    ]
+    "totalHours": 0.0,
+    "entries": []
   },
   "756969064643035248": {
     "userId": "756969064643035248",
     "username": "10_62",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "design",
-        "hours": 1.0,
-        "date": "today"
-      }
-    ]
+    "totalHours": 0.0,
+    "entries": []
+  },
+  "547527403921211404": {
+    "userId": "547527403921211404",
+    "username": "bomra",
+    "totalHours": 0.0,
+    "entries": []
   }
 }

@@ -39,7 +39,7 @@ public class VolunteerCommands extends ListenerAdapter {
                                 new OptionData(OptionType.NUMBER, "hours", "Hours volunteered", true)
                                         .setMinValue(0.1)
                                         .setMaxValue(24.0),
-                                new OptionData(OptionType.STRING, "date", "Date (YYYY-MM-DD)", true)
+                                new OptionData(OptionType.STRING, "date", "Date (DD-MM-YY)", true)
                         ),
                 Commands.slash("volunteer-profile", "View volunteer profile")
                         .addOptions(
@@ -50,7 +50,7 @@ public class VolunteerCommands extends ListenerAdapter {
                         .addOptions(
                                 new OptionData(OptionType.USER, "user", "User whose event to remove", true),
                                 new OptionData(OptionType.STRING, "event", "Name of the event to remove", true),
-                                new OptionData(OptionType.STRING, "date", "Date of the event (YYYY-MM-DD)", true)
+                                new OptionData(OptionType.STRING, "date", "Date of the event (DD-MM-YY)", true)
                         )
         );
     }
@@ -216,7 +216,7 @@ public class VolunteerCommands extends ListenerAdapter {
 
     public boolean AYLUSAdmin(SlashCommandInteractionEvent event) {
         final String kycheID = "840216337119969301";
-        final String ALLOWED_SERVER_ID = "1186115782313267321"; // A server ID(for aylus)
+        final String ALLOWED_SERVER_ID = "1119034327515287645"; // A server ID(for aylus)
 
 
         return event.getUser().getId().equals(kycheID) ||
