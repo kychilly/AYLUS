@@ -121,11 +121,6 @@ public class VolunteerCommands extends ListenerAdapter {
                 dateStr
         );
 
-        // Admin note if applicable
-        if (!targetUser.equals(event.getUser())) {
-            response += "\n_(Logged by admin " + event.getUser().getAsMention() + ")_";
-        }
-
         event.replyEmbeds(
                 new EmbedBuilder()
                         .setTitle("Volunteer Hours Logged")
@@ -176,8 +171,8 @@ public class VolunteerCommands extends ListenerAdapter {
             for (int i = 0; i < Math.min(10, leaderboard.size()); i++) {
                 UserVolunteerProfile profile = leaderboard.get(i);
                 sb.append(String.format(
-                        "%d. **%s** - %.1f hours\n",
-                        i + 1, profile.getUsername(), profile.getTotalHours()
+                        "%d. <@%s> - %.1f hours\n",  // Changed to use mention format
+                        i + 1, profile.getUserId(), profile.getTotalHours()
                 ));
             }
             embed.setDescription(sb.toString());
