@@ -20,6 +20,8 @@ import net.dv8tion.jda.api.interactions.commands.build.OptionData;
 import net.dv8tion.jda.api.interactions.commands.OptionType;
 import com.AYLUS.DiscordBot.listeners.EventListener;
 
+import java.util.Timer;
+import java.util.TimerTask;
 
 
 import javax.security.auth.login.LoginException;
@@ -114,7 +116,6 @@ public class AYLUSBot {
                         }
                 );
     }
-
     private void registerGlobalCommands(JDA jda) {
         jda.updateCommands()
                 .addCommands(VolunteerCommands.getCommandData())

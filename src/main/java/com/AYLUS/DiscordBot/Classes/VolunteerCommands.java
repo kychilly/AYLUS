@@ -64,6 +64,9 @@ public class VolunteerCommands extends ListenerAdapter {
             case "volunteer-leaderboard":
                 handleLeaderboardCommand(event);
                 break;
+            case "volunteer-remove":
+                handleRemoveCommand(event);
+                break;
         }
     }
 
