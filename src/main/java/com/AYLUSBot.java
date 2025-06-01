@@ -8,6 +8,7 @@ import net.dv8tion.jda.api.sharding.DefaultShardManagerBuilder;
 import net.dv8tion.jda.api.sharding.ShardManager;
 import net.dv8tion.jda.api.utils.ChunkingFilter;
 import net.dv8tion.jda.api.utils.MemberCachePolicy;
+import com.AYLUS.DiscordBot.commands.CommandManager;
 
 import javax.security.auth.login.LoginException;
 
@@ -32,7 +33,7 @@ public class AYLUSBot {
         shardManager = builder.build();
 
         //register listeners
-        //shardManager.addEventListener(new PingCommands());
+        shardManager.addEventListener(new CommandManager());
 
     }
 
