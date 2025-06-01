@@ -15,5 +15,17 @@
         "date": "1-2-25"
       }
     ]
+  },
+  "680189020076376080": {
+    "userId": "680189020076376080",
+    "username": "yashidow",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "test",
+        "hours": 1.0,
+        "date": "1-1-1"
+      }
+    ]
   }
 }

@@ -18,6 +18,8 @@ import net.dv8tion.jda.api.entities.Guild;
 import net.dv8tion.jda.api.interactions.commands.build.Commands;
 import net.dv8tion.jda.api.interactions.commands.build.OptionData;
 import net.dv8tion.jda.api.interactions.commands.OptionType;
+import com.AYLUS.DiscordBot.listeners.EventListener;
+
 
 
 import javax.security.auth.login.LoginException;
@@ -44,6 +46,9 @@ public class AYLUSBot {
         // Register event listeners
         shardManager.addEventListener(new CommandManager());
         shardManager.addEventListener(new VolunteerCommands());
+        shardManager.addEventListener(new EventListener());
+
+
 
         // Add listener for command registration
         shardManager.addEventListener(new ListenerAdapter() {
@@ -71,16 +76,26 @@ public class AYLUSBot {
         // 2. Register guild-specific commands
         testGuild.updateCommands()
                 .addCommands(
-                        // Include ALL your commands
                         Commands.slash("volunteer-log", "Log volunteer hours")
-                                .addOptions(/* your options */),
+                                .addOptions(
+                                        new OptionData(OptionType.USER, "user", "User to log hours for", true),
+                                        new OptionData(OptionType.STRING, "event", "Name of the event", true),
+                                        new OptionData(OptionType.NUMBER, "hours", "Hours volunteered", true)
+                                                .setMinValue(0.1)
+                                                .setMaxValue(24.0),
+                                        new OptionData(OptionType.STRING, "date", "Date (YYYY-MM-DD)", true)
+                                ),
                         Commands.slash("volunteer-profile", "View volunteer profile")
-                                .addOptions(/* your options */),
+                                .addOptions(
+                                        new OptionData(OptionType.USER, "user", "User to view", false)
+                                ),
                         Commands.slash("volunteer-leaderboard", "View leaderboard"),
                         Commands.slash("volunteer-remove", "Remove a volunteer entry")
-                                .addOption(OptionType.USER, "user", "User to remove from", true)
-                                .addOption(OptionType.STRING, "event", "Event name", true)
-                                .addOption(OptionType.STRING, "date", "Date (YYYY-MM-DD)", true)
+                                .addOptions(
+                                        new OptionData(OptionType.USER, "user", "User whose event to remove", true),
+                                        new OptionData(OptionType.STRING, "event", "Name of the event to remove", true),
+                                        new OptionData(OptionType.STRING, "date", "Date of the event (YYYY-MM-DD)", true)
+                                )
                 )
                 .queue(
                         success -> {
