@@ -13,12 +13,21 @@ public class MainPageCommand extends ListenerAdapter {
 
     public static CommandData getCommandData() {
         return Commands.slash("aylus", "AYLUS webpage")
-                .addOption(OptionType.STRING, "cheshire", "Cheshire AYLUS webpage", false);
+                .addOption(OptionType.BOOLEAN, "cheshire", "Cheshire AYLUS webpage", false);
 
     }
 
     public static void HandleEvent(SlashCommandInteractionEvent event) {
-        event.reply("test").queue();
+        OptionMapping option = event.getOption("cheshire");
+        boolean cheshire = option != null && option.getAsBoolean();
+
+
+        if (cheshire) {
+            event.reply("https://aylus.org/cheshire-ct/").queue();
+            return;
+        }
+        event.reply("https://aylus.org").queue();
+
     }
 
 }
