@@ -71,6 +71,23 @@ public class VolunteerCommands extends ListenerAdapter {
     }
 
     private void handleLogCommand(SlashCommandInteractionEvent event) {
+        if (!AYLUSAdmin(event)) {
+            event.reply("❌ You do not have permission to use this command.")
+                    .setEphemeral(true)
+                    .queue();
+        }
+        final String kycheID = "840216337119969301";
+        final String ALLOWED_SERVER_ID = "1119034327515287645"; // A server ID(for aylus)
+        // Only block if NONE of these conditions are met
+        if (!event.getGuild().getId().equals(ALLOWED_SERVER_ID) &&
+                !event.getUser().getId().equals(kycheID) &&
+                !event.getMember().hasPermission(Permission.ADMINISTRATOR)) {
+
+            event.reply("❌ You do not have permission to use this command.")
+                    .setEphemeral(true)
+                    .queue();
+            return;
+        }
         // Get command options
         String eventName = event.getOption("event").getAsString();
         double hours = event.getOption("hours").getAsDouble();
@@ -104,7 +121,7 @@ public class VolunteerCommands extends ListenerAdapter {
 
         // Build response
         String response = String.format(
-                "✅ Logged **%.1f hours** for %s at **%s** on %s",
+                "✅ Logged **%.1f hours** for %s for **%s** on %s",
                 hours,
                 targetUser.getAsMention(),
                 eventName,
@@ -177,6 +194,17 @@ public class VolunteerCommands extends ListenerAdapter {
     }
 
     private void handleRemoveCommand(SlashCommandInteractionEvent event) {
+        if (!AYLUSAdmin(event)) {
+            event.reply("❌ You do not have permission to use this command.")
+                    .setEphemeral(true)
+                    .queue();
+        }
+        if (!event.getMember().hasPermission(Permission.ADMINISTRATOR)) {
+            event.reply("❌ You need administrator permissions to remove volunteer hours")
+                    .setEphemeral(true)
+                    .queue();
+            return;
+        }
         event.deferReply().setEphemeral(true).queue(hook -> {
             try {
                 User user = event.getOption("user").getAsUser();
@@ -195,6 +223,18 @@ public class VolunteerCommands extends ListenerAdapter {
                 hook.sendMessage("⚠️ Error: " + e.getMessage()).queue();
             }
         });
+    }
+
+    public boolean AYLUSAdmin(SlashCommandInteractionEvent event) {
+        final String kycheID = "840216337119969301";
+        final String ALLOWED_SERVER_ID = "1119034327515287645"; // A server ID(for aylus)
+        // Only block if NONE of these conditions are met
+        if (!event.getGuild().getId().equals(ALLOWED_SERVER_ID) &&
+                !event.getUser().getId().equals(kycheID) &&
+                !event.getMember().hasPermission(Permission.ADMINISTRATOR)) {
+            return false;
+        }
+        return true;
     }
 
 }

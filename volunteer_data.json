@@ -2,30 +2,19 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 6.0,
-    "entries": [
-      {
-        "eventName": "test",
-        "hours": 1.0,
-        "date": "1-1-1"
-      },
-      {
-        "eventName": "test",
-        "hours": 5.0,
-        "date": "2025-05-31"
-      }
-    ]
+    "totalHours": 0.0,
+    "entries": []
   },
   "680189020076376080": {
     "userId": "680189020076376080",
     "username": "yashidow",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "test",
-        "hours": 1.0,
-        "date": "5-5-1"
-      }
-    ]
+    "totalHours": 0.0,
+    "entries": []
+  },
+  "253988281086246912": {
+    "userId": "253988281086246912",
+    "username": "_.ninir._",
+    "totalHours": 0.0,
+    "entries": []
   }
 }
