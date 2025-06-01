@@ -10,9 +10,12 @@ import net.dv8tion.jda.api.interactions.commands.build.Commands;
 import net.dv8tion.jda.api.interactions.commands.build.CommandData;
 import net.dv8tion.jda.api.interactions.commands.build.OptionData;
 import net.dv8tion.jda.api.Permission;
+import net.dv8tion.jda.api.entities.Member;
+
 
 
 import com.AYLUS.DiscordBot.Classes.VolunteerCommands;
+
 
 
 import java.awt.*;
@@ -75,19 +78,9 @@ public class VolunteerCommands extends ListenerAdapter {
             event.reply("❌ You do not have permission to use this command.")
                     .setEphemeral(true)
                     .queue();
-        }
-        final String kycheID = "840216337119969301";
-        final String ALLOWED_SERVER_ID = "1119034327515287645"; // A server ID(for aylus)
-        // Only block if NONE of these conditions are met
-        if (!event.getGuild().getId().equals(ALLOWED_SERVER_ID) &&
-                !event.getUser().getId().equals(kycheID) &&
-                !event.getMember().hasPermission(Permission.ADMINISTRATOR)) {
-
-            event.reply("❌ You do not have permission to use this command.")
-                    .setEphemeral(true)
-                    .queue();
             return;
         }
+
         // Get command options
         String eventName = event.getOption("event").getAsString();
         double hours = event.getOption("hours").getAsDouble();
@@ -198,13 +191,9 @@ public class VolunteerCommands extends ListenerAdapter {
             event.reply("❌ You do not have permission to use this command.")
                     .setEphemeral(true)
                     .queue();
-        }
-        if (!event.getMember().hasPermission(Permission.ADMINISTRATOR)) {
-            event.reply("❌ You need administrator permissions to remove volunteer hours")
-                    .setEphemeral(true)
-                    .queue();
             return;
         }
+
         event.deferReply().setEphemeral(true).queue(hook -> {
             try {
                 User user = event.getOption("user").getAsUser();
@@ -227,14 +216,13 @@ public class VolunteerCommands extends ListenerAdapter {
 
     public boolean AYLUSAdmin(SlashCommandInteractionEvent event) {
         final String kycheID = "840216337119969301";
-        final String ALLOWED_SERVER_ID = "1119034327515287645"; // A server ID(for aylus)
-        // Only block if NONE of these conditions are met
-        if (!event.getGuild().getId().equals(ALLOWED_SERVER_ID) &&
-                !event.getUser().getId().equals(kycheID) &&
-                !event.getMember().hasPermission(Permission.ADMINISTRATOR)) {
-            return false;
-        }
-        return true;
+        final String ALLOWED_SERVER_ID = "1186115782313267321"; // A server ID(for aylus)
+
+
+        return event.getUser().getId().equals(kycheID) ||
+                (event.getGuild().getId().equals(ALLOWED_SERVER_ID) &&
+                        event.getMember().hasPermission(Permission.ADMINISTRATOR));
+
     }
 
 }
