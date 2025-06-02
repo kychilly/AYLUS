@@ -1,1 +1,1 @@
-Kyche's wonderful discord bot
+Custom discrod bot for AYLUS cheshire branch
