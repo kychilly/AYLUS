@@ -153,7 +153,7 @@ public class VolunteerCommands extends ListenerAdapter {
             }
             embed.addField("Breakdown", breakdown.toString(), false);
         }
-
+        embed.setFooter("Format: event, hours, date");
         event.replyEmbeds(embed.build()).queue();
     }
 
@@ -176,6 +176,29 @@ public class VolunteerCommands extends ListenerAdapter {
                 ));
             }
             embed.setDescription(sb.toString());
+
+            //Footer calls
+            String userId = event.getUser().getId();
+
+            int rank = -1; // -1 means not found
+
+            for (int i = 0; i < leaderboard.size(); i++) {
+                if (leaderboard.get(i).getUserId().equals(String.valueOf(userId))) {
+                    rank = i + 1; // +1 because ranks start at 1
+                    break;
+                }
+            }
+
+
+            String username = event.getMember().getEffectiveName();
+            UserVolunteerProfile userProfile = volunteerManager.getProfile(userId, username);
+            if (userProfile != null) {
+                String footerText = "Rank #" + rank + " - " + event.getUser().getName() + "\nYour hours: " + userProfile.getTotalHours();
+
+                embed.setFooter(footerText, event.getUser().getEffectiveAvatarUrl());
+            } else {
+                embed.setFooter("You haven't logged any hours yet!");
+            }
         }
 
         event.replyEmbeds(embed.build()).queue();
