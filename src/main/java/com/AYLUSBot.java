@@ -1,5 +1,6 @@
 package com;
 
+import com.AYLUS.DiscordBot.listeners.shutdownListener;
 import io.github.cdimascio.dotenv.Dotenv;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
@@ -43,6 +44,7 @@ public class AYLUSBot {
         shardManager.addEventListener(new CommandManager());
         shardManager.addEventListener(new VolunteerCommands());
         shardManager.addEventListener(new EventListener());
+        shardManager.addEventListener(new shutdownListener());
 
         // Add listener for command registration
         shardManager.addEventListener(new ListenerAdapter() {

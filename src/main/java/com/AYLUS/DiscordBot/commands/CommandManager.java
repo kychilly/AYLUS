@@ -28,6 +28,8 @@ public class CommandManager extends ListenerAdapter {
         String command = event.getName();
         if (command.equals("aylus")) {
             MainPageCommand.HandleEvent(event);
+        } else if (command.equals("shutdown")) {
+            ShutdownCommand.execute(event);
         }
     }
 
@@ -35,6 +37,7 @@ public class CommandManager extends ListenerAdapter {
     public void onGuildReady(@NotNull GuildReadyEvent event) {
         List<CommandData> commandData = new ArrayList<>();
         commandData.add(MainPageCommand.getCommandData());
+        commandData.add(ShutdownCommand.getCommandData());
 
 
         event.getGuild().updateCommands().addCommands(commandData).queue();
