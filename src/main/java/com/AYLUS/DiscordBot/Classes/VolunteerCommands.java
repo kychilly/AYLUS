@@ -7,6 +7,7 @@ import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEve
 import net.dv8tion.jda.api.events.interaction.component.ButtonInteractionEvent;
 import net.dv8tion.jda.api.events.interaction.component.GenericComponentInteractionCreateEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
+import net.dv8tion.jda.api.interactions.Interaction;
 import net.dv8tion.jda.api.interactions.commands.OptionType;
 import net.dv8tion.jda.api.interactions.commands.build.Commands;
 import net.dv8tion.jda.api.interactions.commands.build.CommandData;
@@ -184,7 +185,7 @@ public class VolunteerCommands extends ListenerAdapter {
         // Create pagination with 10 entries per page
         LeaderboardPagination pagination = new LeaderboardPagination(leaderboard, 10);
 
-        // Send first page (pageIndex 0)
+        // Send first page (pageIndex 0) and store the message
         sendLeaderboardPage(event, pagination, 0);
     }
 
@@ -192,100 +193,33 @@ public class VolunteerCommands extends ListenerAdapter {
     public void sendLeaderboardPage(SlashCommandInteractionEvent event, LeaderboardPagination pagination, int pageIndex) {
         List<UserVolunteerProfile> page = pagination.getPage(pageIndex);
 
-        EmbedBuilder embed = new EmbedBuilder()
-                .setTitle("Volunteer Leaderboard")
-                .setColor(Color.ORANGE);
-
-        StringBuilder sb = new StringBuilder();
-        int startRank = pageIndex * pagination.getItemsPerPage() + 1;
-
-        for (int i = 0; i < page.size(); i++) {
-            UserVolunteerProfile profile = page.get(i);
-            sb.append(String.format(
-                    "%d. <@%s> - %.1f hours\n",
-                    startRank + i, profile.getUserId(), profile.getTotalHours()
-            ));
-        }
-        embed.setDescription(sb.toString());
-
-        // Get user info
-        String userId = event.getUser().getId();
-        List<UserVolunteerProfile> fullList = pagination.getFullList();
-        int rank = getRank(fullList, userId);
-        UserVolunteerProfile userProfile = volunteerManager.getProfile(userId, event.getMember().getEffectiveName());
-
-        if (userProfile != null) {
-            String footerText = String.format("Page %d/%d | Your rank: #%d | Your hours: %.1f",
-                    pageIndex + 1, pagination.getTotalPages(), rank, userProfile.getTotalHours());
-            embed.setFooter(footerText, event.getUser().getEffectiveAvatarUrl());
-        } else {
-            embed.setFooter(String.format("Page %d/%d", pageIndex + 1, pagination.getTotalPages()));
-        }
+        EmbedBuilder embed = buildLeaderboardEmbed(event, pagination, pageIndex, page);
 
         // Buttons
-        ActionRow actionRow = ActionRow.of(
-                Button.danger("leaderboard_prev:" + pageIndex, "◀ Previous")
-                        .withDisabled(pageIndex == 0),
-                Button.success("leaderboard_next:" + pageIndex, "Next ▶")
-                        .withDisabled(pageIndex == pagination.getTotalPages() - 1)
-        );
+        ActionRow actionRow = buildLeaderboardActionRow(pagination, pageIndex);
 
+        // Reply and keep the message reference for future edits
         event.replyEmbeds(embed.build())
                 .setComponents(actionRow)
-                .queue();
+                .queue(interactionHook -> {
+                    // You might want to store this message ID somewhere if you need to reference it later
+                });
     }
 
     // For ButtonInteractionEvent
     public void sendLeaderboardPage(ButtonInteractionEvent event, LeaderboardPagination pagination, int pageIndex) {
         List<UserVolunteerProfile> page = pagination.getPage(pageIndex);
 
-        EmbedBuilder embed = new EmbedBuilder()
-                .setTitle("Volunteer Leaderboard")
-                .setColor(Color.ORANGE);
-
-        StringBuilder sb = new StringBuilder();
-        int startRank = pageIndex * pagination.getItemsPerPage() + 1;
-
-        for (int i = 0; i < page.size(); i++) {
-            UserVolunteerProfile profile = page.get(i);
-            sb.append(String.format(
-                    "%d. <@%s> - %.1f hours\n",
-                    startRank + i, profile.getUserId(), profile.getTotalHours()
-            ));
-        }
-        embed.setDescription(sb.toString());
-
-        // Get user info
-        String userId = event.getUser().getId();
-        List<UserVolunteerProfile> fullList = pagination.getFullList();
-        int rank = getRank(fullList, userId);
-        UserVolunteerProfile userProfile = volunteerManager.getProfile(userId, event.getMember().getEffectiveName());
-
-        if (userProfile != null) {
-            String footerText = String.format("Page %d/%d | Your rank: #%d | Your hours: %.1f",
-                    pageIndex + 1, pagination.getTotalPages(), rank, userProfile.getTotalHours());
-            embed.setFooter(footerText, event.getUser().getEffectiveAvatarUrl());
-        } else {
-            embed.setFooter(String.format("Page %d/%d", pageIndex + 1, pagination.getTotalPages()));
-        }
+        EmbedBuilder embed = buildLeaderboardEmbed(event, pagination, pageIndex, page);
 
         // Buttons
-        ActionRow actionRow = ActionRow.of(
-                Button.secondary("leaderboard_prev:" + pageIndex, "◀ Previous")
-                        .withDisabled(pageIndex == 0),
-                Button.secondary("leaderboard_next:" + pageIndex, "Next ▶")
-                        .withDisabled(pageIndex == pagination.getTotalPages() - 1)
-        );
+        ActionRow actionRow = buildLeaderboardActionRow(pagination, pageIndex);
 
-        if (event.isAcknowledged()) {
-            event.getHook().editOriginalEmbeds(embed.build())
-                    .setComponents(actionRow)
-                    .queue();
-        } else {
-            event.replyEmbeds(embed.build())
-                    .setComponents(actionRow)
-                    .queue();
-        }
+        // Always edit the original message
+        event.deferEdit().queue(); // Important to defer first
+        event.getHook().editOriginalEmbeds(embed.build())
+                .setComponents(actionRow)
+                .queue();
     }
 
     private void handleRemoveCommand(SlashCommandInteractionEvent event) {
@@ -316,7 +250,50 @@ public class VolunteerCommands extends ListenerAdapter {
         });
     }
 
+    // Helper method to build the embed
+    private EmbedBuilder buildLeaderboardEmbed(Interaction event, LeaderboardPagination pagination, int pageIndex, List<UserVolunteerProfile> page) {
+        EmbedBuilder embed = new EmbedBuilder()
+                .setTitle("Volunteer Leaderboard")
+                .setColor(Color.ORANGE);
 
+        StringBuilder sb = new StringBuilder();
+        int startRank = pageIndex * pagination.getItemsPerPage() + 1;
+
+        for (int i = 0; i < page.size(); i++) {
+            UserVolunteerProfile profile = page.get(i);
+            sb.append(String.format(
+                    "%d. <@%s> - %.1f hours\n",
+                    startRank + i, profile.getUserId(), profile.getTotalHours()
+            ));
+        }
+        embed.setDescription(sb.toString());
+
+        // Get user info
+        String userId = event.getUser().getId();
+        List<UserVolunteerProfile> fullList = pagination.getFullList();
+        int rank = getRank(fullList, userId);
+        UserVolunteerProfile userProfile = volunteerManager.getProfile(userId, event.getMember().getEffectiveName());
+
+        if (userProfile != null) {
+            String footerText = String.format("Page %d/%d | Your rank: #%d | Your hours: %.1f",
+                    pageIndex + 1, pagination.getTotalPages(), rank, userProfile.getTotalHours());
+            embed.setFooter(footerText, event.getUser().getEffectiveAvatarUrl());
+        } else {
+            embed.setFooter(String.format("Page %d/%d", pageIndex + 1, pagination.getTotalPages()));
+        }
+
+        return embed;
+    }
+
+    // Helper method to build action row
+    private ActionRow buildLeaderboardActionRow(LeaderboardPagination pagination, int pageIndex) {
+        return ActionRow.of(
+                Button.secondary("leaderboard_prev:" + pageIndex, "◀ Previous")
+                        .withDisabled(pageIndex == 0),
+                Button.secondary("leaderboard_next:" + pageIndex, "Next ▶")
+                        .withDisabled(pageIndex == pagination.getTotalPages() - 1)
+        );
+    }
 
     private int getRank(List<UserVolunteerProfile> leaderboard, String userId) {
         for (int i = 0; i < leaderboard.size(); i++) {
