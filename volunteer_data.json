@@ -2,8 +2,14 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 0.0,
-    "entries": []
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Yellowhouse",
+        "hours": 2.0,
+        "date": "01-01-2025"
+      }
+    ]
   },
   "680189020076376080": {
     "userId": "680189020076376080",
@@ -26,6 +32,12 @@
   "547527403921211404": {
     "userId": "547527403921211404",
     "username": "bomra",
+    "totalHours": 0.0,
+    "entries": []
+  },
+  "976231813037056040": {
+    "userId": "976231813037056040",
+    "username": "elijesh2",
     "totalHours": 0.0,
     "entries": []
   }

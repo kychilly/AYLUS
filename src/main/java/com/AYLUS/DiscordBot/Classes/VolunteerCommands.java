@@ -135,10 +135,16 @@ public class VolunteerCommands extends ListenerAdapter {
                 ? event.getOption("user").getAsUser()
                 : event.getUser();
 
+        Member mention = event.getOption("user") != null
+                ? event.getOption("user").getAsMember()
+                : event.getMember();
+
         UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
+        String displayName;
+        displayName = mention.getNickname() == null ? target.getName() : mention.getNickname();
 
         EmbedBuilder embed = new EmbedBuilder()
-                .setTitle(target.getName() + "'s Volunteer Profile")
+                .setTitle(displayName + "'s Volunteer Profile")
                 .setColor(Color.BLUE)
                 .setThumbnail(target.getEffectiveAvatarUrl())
                 .addField("Total Hours", String.format("%.1f hours", profile.getTotalHours()), false);
@@ -152,6 +158,8 @@ public class VolunteerCommands extends ListenerAdapter {
                 ));
             }
             embed.addField("Breakdown", breakdown.toString(), false);
+        } else {
+            embed.addField("Breakdown", "This user has no events!", false);
         }
         embed.setFooter("Format: event, hours, date");
         event.replyEmbeds(embed.build()).queue();
