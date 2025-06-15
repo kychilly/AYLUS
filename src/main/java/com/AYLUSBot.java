@@ -71,7 +71,7 @@ public class AYLUSBot {
                                         new OptionData(OptionType.NUMBER, "hours", "Hours volunteered", true)
                                                 .setMinValue(0.1)
                                                 .setMaxValue(24.0),
-                                        new OptionData(OptionType.STRING, "date", "Date (YYYY-MM-DD)", true)
+                                        new OptionData(OptionType.STRING, "date", "Date (DD-MM-YYYY)", true)
                                 ),
                         Commands.slash("volunteer-profile", "View volunteer profile")
                                 .addOptions(
@@ -82,7 +82,7 @@ public class AYLUSBot {
                                 .addOptions(
                                         new OptionData(OptionType.USER, "user", "User whose event to remove", true),
                                         new OptionData(OptionType.STRING, "event", "Name of the event to remove", true),
-                                        new OptionData(OptionType.STRING, "date", "Date of the event (YYYY-MM-DD)", true)
+                                        new OptionData(OptionType.STRING, "date", "Date of the event (DD-MM-YYYY)", true)
                                 )
                 )
                 .queue(
