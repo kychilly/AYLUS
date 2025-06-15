@@ -36,7 +36,7 @@ public class shutdownListener extends ListenerAdapter {
         }
         if (message.equals("!shutdown")) {
             if (event.getMember().getUser().getIdLong() == 840216337119969301L) {
-                event.getChannel().sendMessage("\uD83D\uDEA8 I am shutting down \uD83D\uDEA8  - Bye bye D:").queue(response -> {
+                event.getChannel().sendMessage("Shutting down bot.").queue(response -> {
                     event.getJDA().shutdown();
                 });
                 return;

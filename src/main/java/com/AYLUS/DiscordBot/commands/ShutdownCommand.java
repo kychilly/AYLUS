@@ -8,12 +8,12 @@ public class ShutdownCommand {
 
 
     public static CommandData getCommandData() {
-        return Commands.slash("shutdown", "(Owner only) Shuts bot down");
+        return Commands.slash("shutdown", "Only use for bot issues + corruption");
     }
 
     public static void execute(SlashCommandInteractionEvent event) {
         if (event.getUser().getIdLong() == 840216337119969301L) {
-            event.reply("\uD83D\uDEA8 I am shutting down \uD83D\uDEA8  - Bye bye D:").queue();
+            event.reply("Shutting down bot.").queue();
             event.getJDA().shutdown();
         } else {
             event.reply("You don't have permission to use this command!").setEphemeral(true).queue();
