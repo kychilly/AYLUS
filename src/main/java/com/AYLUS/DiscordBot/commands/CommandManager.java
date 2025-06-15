@@ -30,6 +30,8 @@ public class CommandManager extends ListenerAdapter {
             MainPageCommand.HandleEvent(event);
         } else if (command.equals("shutdown")) {
             ShutdownCommand.execute(event);
+        } else if (command.equals("help")) {
+            HelpCommand.execute(event);
         }
     }
 
@@ -38,6 +40,7 @@ public class CommandManager extends ListenerAdapter {
         List<CommandData> commandData = new ArrayList<>();
         commandData.add(MainPageCommand.getCommandData());
         commandData.add(ShutdownCommand.getCommandData());
+        commandData.add(HelpCommand.getCommandData());
 
 
         event.getGuild().updateCommands().addCommands(commandData).queue();

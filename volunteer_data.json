@@ -14,8 +14,14 @@
   "680189020076376080": {
     "userId": "680189020076376080",
     "username": "yashidow",
-    "totalHours": 0.0,
-    "entries": []
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "a",
+        "hours": 1.0,
+        "date": "1"
+      }
+    ]
   },
   "253988281086246912": {
     "userId": "253988281086246912",

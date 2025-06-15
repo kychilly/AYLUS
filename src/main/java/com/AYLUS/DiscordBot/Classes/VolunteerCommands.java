@@ -175,7 +175,7 @@ public class VolunteerCommands extends ListenerAdapter {
 
         if (leaderboard.isEmpty()) {
             EmbedBuilder embed = new EmbedBuilder()
-                    .setTitle("Volunteer Leaderboard")
+                    .setTitle("Volunteering Leaderboard")
                     .setColor(Color.ORANGE)
                     .setDescription("No volunteer hours logged yet!");
             event.replyEmbeds(embed.build()).queue();
@@ -253,7 +253,7 @@ public class VolunteerCommands extends ListenerAdapter {
     // Helper method to build the embed
     private EmbedBuilder buildLeaderboardEmbed(Interaction event, LeaderboardPagination pagination, int pageIndex, List<UserVolunteerProfile> page) {
         EmbedBuilder embed = new EmbedBuilder()
-                .setTitle("Volunteer Leaderboard")
+                .setTitle("Volunteering Leaderboard")
                 .setColor(Color.ORANGE);
 
         StringBuilder sb = new StringBuilder();
