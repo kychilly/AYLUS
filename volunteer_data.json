@@ -40,5 +40,65 @@
     "username": "elijesh2",
     "totalHours": 0.0,
     "entries": []
+  },
+  "1321967650557005888": {
+    "userId": "1321967650557005888",
+    "username": "kychillyBot",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "test",
+        "hours": 1.0,
+        "date": "1"
+      }
+    ]
+  },
+  "1373463589083680768": {
+    "userId": "1373463589083680768",
+    "username": "Woodland Mansion",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "test",
+        "hours": 1.0,
+        "date": "1"
+      }
+    ]
+  },
+  "1378013788065759242": {
+    "userId": "1378013788065759242",
+    "username": "AYLUS bot",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "test",
+        "hours": 1.0,
+        "date": "1"
+      }
+    ]
+  },
+  "916504570857922560": {
+    "userId": "916504570857922560",
+    "username": "xlmz",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "test",
+        "hours": 1.0,
+        "date": "1"
+      }
+    ]
+  },
+  "683127229583982634": {
+    "userId": "683127229583982634",
+    "username": "owiess",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "test",
+        "hours": 1.0,
+        "date": "1"
+      }
+    ]
   }
 }

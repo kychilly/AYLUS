@@ -4,6 +4,8 @@ package com.AYLUS.DiscordBot.Classes;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
+import net.dv8tion.jda.api.events.interaction.component.ButtonInteractionEvent;
+import net.dv8tion.jda.api.events.interaction.component.GenericComponentInteractionCreateEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import net.dv8tion.jda.api.interactions.commands.OptionType;
 import net.dv8tion.jda.api.interactions.commands.build.Commands;
@@ -11,11 +13,13 @@ import net.dv8tion.jda.api.interactions.commands.build.CommandData;
 import net.dv8tion.jda.api.interactions.commands.build.OptionData;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Member;
+import net.dv8tion.jda.api.interactions.components.buttons.Button;
 
 
 
-import com.AYLUS.DiscordBot.Classes.VolunteerCommands;
 
+import com.AYLUS.DiscordBot.Classes.LeaderboardPagination;
+import net.dv8tion.jda.api.interactions.components.ActionRow;
 
 
 import java.awt.*;
@@ -168,48 +172,120 @@ public class VolunteerCommands extends ListenerAdapter {
     private void handleLeaderboardCommand(SlashCommandInteractionEvent event) {
         List<UserVolunteerProfile> leaderboard = volunteerManager.getLeaderboard();
 
+        if (leaderboard.isEmpty()) {
+            EmbedBuilder embed = new EmbedBuilder()
+                    .setTitle("Volunteer Leaderboard")
+                    .setColor(Color.ORANGE)
+                    .setDescription("No volunteer hours logged yet!");
+            event.replyEmbeds(embed.build()).queue();
+            return;
+        }
+
+        // Create pagination with 10 entries per page
+        LeaderboardPagination pagination = new LeaderboardPagination(leaderboard, 10);
+
+        // Send first page (pageIndex 0)
+        sendLeaderboardPage(event, pagination, 0);
+    }
+
+    // For SlashCommandInteractionEvent
+    public void sendLeaderboardPage(SlashCommandInteractionEvent event, LeaderboardPagination pagination, int pageIndex) {
+        List<UserVolunteerProfile> page = pagination.getPage(pageIndex);
+
         EmbedBuilder embed = new EmbedBuilder()
                 .setTitle("Volunteer Leaderboard")
                 .setColor(Color.ORANGE);
 
-        if (leaderboard.isEmpty()) {
-            embed.setDescription("No volunteer hours logged yet!");
+        StringBuilder sb = new StringBuilder();
+        int startRank = pageIndex * pagination.getItemsPerPage() + 1;
+
+        for (int i = 0; i < page.size(); i++) {
+            UserVolunteerProfile profile = page.get(i);
+            sb.append(String.format(
+                    "%d. <@%s> - %.1f hours\n",
+                    startRank + i, profile.getUserId(), profile.getTotalHours()
+            ));
+        }
+        embed.setDescription(sb.toString());
+
+        // Get user info
+        String userId = event.getUser().getId();
+        List<UserVolunteerProfile> fullList = pagination.getFullList();
+        int rank = getRank(fullList, userId);
+        UserVolunteerProfile userProfile = volunteerManager.getProfile(userId, event.getMember().getEffectiveName());
+
+        if (userProfile != null) {
+            String footerText = String.format("Page %d/%d | Your rank: #%d | Your hours: %.1f",
+                    pageIndex + 1, pagination.getTotalPages(), rank, userProfile.getTotalHours());
+            embed.setFooter(footerText, event.getUser().getEffectiveAvatarUrl());
         } else {
-            StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < Math.min(10, leaderboard.size()); i++) {
-                UserVolunteerProfile profile = leaderboard.get(i);
-                sb.append(String.format(
-                        "%d. <@%s> - %.1f hours\n",  // Changed to use mention format
-                        i + 1, profile.getUserId(), profile.getTotalHours()
-                ));
-            }
-            embed.setDescription(sb.toString());
-
-            //Footer calls
-            String userId = event.getUser().getId();
-
-            int rank = -1; // -1 means not found
-
-            for (int i = 0; i < leaderboard.size(); i++) {
-                if (leaderboard.get(i).getUserId().equals(String.valueOf(userId))) {
-                    rank = i + 1; // +1 because ranks start at 1
-                    break;
-                }
-            }
-
-
-            String username = event.getMember().getEffectiveName();
-            UserVolunteerProfile userProfile = volunteerManager.getProfile(userId, username);
-            if (userProfile != null) {
-                String footerText = "Rank #" + rank + " - " + event.getUser().getName() + "\nYour hours: " + userProfile.getTotalHours();
-
-                embed.setFooter(footerText, event.getUser().getEffectiveAvatarUrl());
-            } else {
-                embed.setFooter("You haven't logged any hours yet!");
-            }
+            embed.setFooter(String.format("Page %d/%d", pageIndex + 1, pagination.getTotalPages()));
         }
 
-        event.replyEmbeds(embed.build()).queue();
+        // Buttons
+        ActionRow actionRow = ActionRow.of(
+                Button.danger("leaderboard_prev:" + pageIndex, "◀ Previous")
+                        .withDisabled(pageIndex == 0),
+                Button.success("leaderboard_next:" + pageIndex, "Next ▶")
+                        .withDisabled(pageIndex == pagination.getTotalPages() - 1)
+        );
+
+        event.replyEmbeds(embed.build())
+                .setComponents(actionRow)
+                .queue();
+    }
+
+    // For ButtonInteractionEvent
+    public void sendLeaderboardPage(ButtonInteractionEvent event, LeaderboardPagination pagination, int pageIndex) {
+        List<UserVolunteerProfile> page = pagination.getPage(pageIndex);
+
+        EmbedBuilder embed = new EmbedBuilder()
+                .setTitle("Volunteer Leaderboard")
+                .setColor(Color.ORANGE);
+
+        StringBuilder sb = new StringBuilder();
+        int startRank = pageIndex * pagination.getItemsPerPage() + 1;
+
+        for (int i = 0; i < page.size(); i++) {
+            UserVolunteerProfile profile = page.get(i);
+            sb.append(String.format(
+                    "%d. <@%s> - %.1f hours\n",
+                    startRank + i, profile.getUserId(), profile.getTotalHours()
+            ));
+        }
+        embed.setDescription(sb.toString());
+
+        // Get user info
+        String userId = event.getUser().getId();
+        List<UserVolunteerProfile> fullList = pagination.getFullList();
+        int rank = getRank(fullList, userId);
+        UserVolunteerProfile userProfile = volunteerManager.getProfile(userId, event.getMember().getEffectiveName());
+
+        if (userProfile != null) {
+            String footerText = String.format("Page %d/%d | Your rank: #%d | Your hours: %.1f",
+                    pageIndex + 1, pagination.getTotalPages(), rank, userProfile.getTotalHours());
+            embed.setFooter(footerText, event.getUser().getEffectiveAvatarUrl());
+        } else {
+            embed.setFooter(String.format("Page %d/%d", pageIndex + 1, pagination.getTotalPages()));
+        }
+
+        // Buttons
+        ActionRow actionRow = ActionRow.of(
+                Button.secondary("leaderboard_prev:" + pageIndex, "◀ Previous")
+                        .withDisabled(pageIndex == 0),
+                Button.secondary("leaderboard_next:" + pageIndex, "Next ▶")
+                        .withDisabled(pageIndex == pagination.getTotalPages() - 1)
+        );
+
+        if (event.isAcknowledged()) {
+            event.getHook().editOriginalEmbeds(embed.build())
+                    .setComponents(actionRow)
+                    .queue();
+        } else {
+            event.replyEmbeds(embed.build())
+                    .setComponents(actionRow)
+                    .queue();
+        }
     }
 
     private void handleRemoveCommand(SlashCommandInteractionEvent event) {
@@ -238,6 +314,41 @@ public class VolunteerCommands extends ListenerAdapter {
                 hook.sendMessage("⚠️ Error: " + e.getMessage()).queue();
             }
         });
+    }
+
+
+
+    private int getRank(List<UserVolunteerProfile> leaderboard, String userId) {
+        for (int i = 0; i < leaderboard.size(); i++) {
+            if (leaderboard.get(i).getUserId().equals(userId)) {
+                return i + 1;
+            }
+        }
+        return -1;
+    }
+
+
+    @Override
+    public void onButtonInteraction(ButtonInteractionEvent event) {
+        String buttonId = event.getComponentId();
+
+        if (buttonId.startsWith("leaderboard_")) {
+            handleLeaderboardButton(event, buttonId);
+            return;
+        }
+
+    }
+
+    private void handleLeaderboardButton(ButtonInteractionEvent event, String buttonId) {
+        String[] parts = buttonId.split(":");
+        String direction = parts[0].substring("leaderboard_".length());
+        int currentPage = Integer.parseInt(parts[1]);
+
+        List<UserVolunteerProfile> leaderboard = volunteerManager.getLeaderboard();
+        LeaderboardPagination pagination = new LeaderboardPagination(leaderboard, 10);
+
+        int newPage = direction.equals("prev") ? currentPage - 1 : currentPage + 1;
+        sendLeaderboardPage(event, pagination, newPage);
     }
 
     public boolean AYLUSAdmin(SlashCommandInteractionEvent event) {
