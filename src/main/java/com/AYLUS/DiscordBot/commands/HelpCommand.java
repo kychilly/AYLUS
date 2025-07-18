@@ -12,7 +12,7 @@ public class HelpCommand extends ListenerAdapter {
 **📋 Volunteer Command List** 📋
 
 🔹 **Log Hours** (Admin only)
-`/volunteer-log @User, "Event Name", hours, date(DD/MM/YYYY)
+`/volunteer-log @User, "Event Name", hours, date(format in DD/MM/YYYY), Money Owed(format: xx.xx  ex: 5.50  LEAVE BLANK IF NONE)
 
 🔹 **View Profile**
 `/volunteer-profile` - Shows your profile
@@ -28,6 +28,7 @@ Removes the specified event entry
 📌 **Notes:**
 - Dates should be in DD-MM-YY format
 - Hours must be between 0.1 and 24.0
+- Leave money owed blank if none
 - Some commands require admin permissions
 """;
 

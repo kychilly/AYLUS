@@ -45,9 +45,9 @@ public class VolunteerManager {
         return profiles.computeIfAbsent(userId, k -> new UserVolunteerProfile(userId, username));
     }
 
-    public void logHours(String userId, String username, String eventName, double hours, String date) {
+    public void logHours(String userId, String username, String eventName, double hours, String date, double moneyOwed) {
         UserVolunteerProfile profile = getProfile(userId, username);
-        profile.addEntry(eventName, hours, date);
+        profile.addEntry(eventName, hours, date, moneyOwed);
         saveData();
     }
 

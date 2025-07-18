@@ -5,21 +5,13 @@ import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.events.interaction.component.ButtonInteractionEvent;
-import net.dv8tion.jda.api.events.interaction.component.GenericComponentInteractionCreateEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import net.dv8tion.jda.api.interactions.Interaction;
-import net.dv8tion.jda.api.interactions.commands.OptionType;
-import net.dv8tion.jda.api.interactions.commands.build.Commands;
-import net.dv8tion.jda.api.interactions.commands.build.CommandData;
-import net.dv8tion.jda.api.interactions.commands.build.OptionData;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Member;
 import net.dv8tion.jda.api.interactions.components.buttons.Button;
 
 
-
-
-import com.AYLUS.DiscordBot.Classes.LeaderboardPagination;
 import net.dv8tion.jda.api.interactions.components.ActionRow;
 
 
@@ -27,37 +19,13 @@ import java.awt.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
+import java.util.Objects;
 
 public class VolunteerCommands extends ListenerAdapter {
     private final VolunteerManager volunteerManager;
 
     public VolunteerCommands() {
         this.volunteerManager = new VolunteerManager();
-    }
-
-    public static List<CommandData> getCommandData() {
-        return List.of(
-                Commands.slash("volunteer-log", "Log volunteer hours")
-                        .addOptions(
-                                new OptionData(OptionType.USER, "user", "User to log hours for", true),
-                                new OptionData(OptionType.STRING, "event", "Name of the event", true),
-                                new OptionData(OptionType.NUMBER, "hours", "Hours volunteered", true)
-                                        .setMinValue(0.1)
-                                        .setMaxValue(24.0),
-                                new OptionData(OptionType.STRING, "date", "Date (DD-MM-YY)", true)
-                        ),
-                Commands.slash("volunteer-profile", "View volunteer profile")
-                        .addOptions(
-                                new OptionData(OptionType.USER, "user", "User to view", false)
-                        ),
-                Commands.slash("volunteer-leaderboard", "View volunteer leaderboard"),
-                Commands.slash("volunteer-remove", "Remove a volunteer event")
-                        .addOptions(
-                                new OptionData(OptionType.USER, "user", "User whose event to remove", true),
-                                new OptionData(OptionType.STRING, "event", "Name of the event to remove", true),
-                                new OptionData(OptionType.STRING, "date", "Date of the event (DD-MM-YY)", true)
-                        )
-        );
     }
 
     @Override
@@ -92,6 +60,9 @@ public class VolunteerCommands extends ListenerAdapter {
         String dateStr = event.getOption("date") != null
                 ? event.getOption("date").getAsString()
                 : LocalDate.now().format(DateTimeFormatter.ISO_DATE);
+        double moneyOwed = event.getOption("money-owed") != null
+                ?event.getOption("money-owed").getAsDouble()
+                : 0;
 
         // Determine target user
         User targetUser;
@@ -114,12 +85,19 @@ public class VolunteerCommands extends ListenerAdapter {
                 targetUser.getName(),
                 eventName,
                 hours,
-                dateStr
+                dateStr,
+                moneyOwed
         );
+
+        //money check before response
+        String temp = "";
+        if (moneyOwed != 0) {
+            temp = String.format("\nMoney Owed: $%.2f", moneyOwed);
+        }
 
         // Build response
         String response = String.format(
-                "✅ Logged **%.1f hours** for %s for **%s** on %s",
+                "✅ Logged **%.1f hours** for %s for **%s** on %s" + temp,
                 hours,
                 targetUser.getAsMention(),
                 eventName,
@@ -152,7 +130,8 @@ public class VolunteerCommands extends ListenerAdapter {
                 .setTitle(displayName + "'s Volunteer Profile")
                 .setColor(Color.BLUE)
                 .setThumbnail(target.getEffectiveAvatarUrl())
-                .addField("Total Hours", String.format("%.1f hours", profile.getTotalHours()), false);
+                .addField("Total Hours", String.format("%.1f hours", profile.getTotalHours()), false)
+                .addField("Total Money Owed(To AYLUS)", String.format("$%.2f owed", profile.getTotalMoneyOwed()), false);
 
         if (!profile.getEntries().isEmpty()) {
             StringBuilder breakdown = new StringBuilder();
@@ -166,7 +145,7 @@ public class VolunteerCommands extends ListenerAdapter {
         } else {
             embed.addField("Breakdown", "This user has no events!", false);
         }
-        embed.setFooter("Format: event, hours, date");
+        embed.setFooter("Format: **event**, hours, date");
         event.replyEmbeds(embed.build()).queue();
     }
 

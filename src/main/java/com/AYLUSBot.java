@@ -1,9 +1,11 @@
 package com;
 
+import com.AYLUS.DiscordBot.Classes.ProfilePagination;
 import com.AYLUS.DiscordBot.listeners.shutdownListener;
 import io.github.cdimascio.dotenv.Dotenv;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
+import net.dv8tion.jda.api.events.interaction.component.ButtonInteractionEvent;
 import net.dv8tion.jda.api.requests.GatewayIntent;
 import net.dv8tion.jda.api.sharding.DefaultShardManagerBuilder;
 import net.dv8tion.jda.api.sharding.ShardManager;
@@ -71,7 +73,8 @@ public class AYLUSBot {
                                         new OptionData(OptionType.NUMBER, "hours", "Hours volunteered", true)
                                                 .setMinValue(0.1)
                                                 .setMaxValue(24.0),
-                                        new OptionData(OptionType.STRING, "date", "Date (DD-MM-YYYY)", true)
+                                        new OptionData(OptionType.STRING, "date", "Date (DD-MM-YYYY)", true),
+                                        new OptionData(OptionType.INTEGER, "money-owed", "Money volunteer OWES US (format: xx.xx  ex: 10.99). LEAVE BLANK IF NO MONEY OWED!!!", false)
                                 ),
                         Commands.slash("volunteer-profile", "View volunteer profile")
                                 .addOptions(
@@ -105,6 +108,14 @@ public class AYLUSBot {
     public Dotenv getConfig() {
         return config;
     }
+
+    //tiny button stuff lol
+//    @Override
+//    public void onButtonInteraction(ButtonInteractionEvent event) {
+//        if (event.getComponentId().startsWith("profile:")) {
+//            ProfilePagination.handleButtonInteraction(event);
+//        }
+//    }
 
     public static void main(String[] args) {
         try {
