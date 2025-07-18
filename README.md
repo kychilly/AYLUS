@@ -1,1 +1,1 @@
-Kyche's wonderful discord bot
+Custom Discord Bot Capable of Storing Volunteer Data & more
