@@ -2,30 +2,9 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 8.0,
-    "entries": [
-      {
-        "eventName": "Tiramisu",
-        "hours": 2.0,
-        "date": "01-01-2001"
-      },
-      {
-        "eventName": "fat",
-        "hours": 2.0,
-        "date": "01-01-2001"
-      },
-      {
-        "eventName": "fat",
-        "hours": 2.0,
-        "date": "01-01-2001"
-      },
-      {
-        "eventName": "test2",
-        "hours": 2.0,
-        "date": "01-02-2001"
-      }
-    ],
-    "totalMoneyOwed": 10.0
+    "totalHours": 0.0,
+    "entries": [],
+    "totalMoneyOwed": 0.0
   },
   "680189020076376080": {
     "userId": "680189020076376080",
@@ -35,7 +14,8 @@
       {
         "eventName": "a",
         "hours": 1.0,
-        "date": "1"
+        "date": "1",
+        "money": 0.0
       }
     ],
     "totalMoneyOwed": 0.0
@@ -71,14 +51,8 @@
   "1321967650557005888": {
     "userId": "1321967650557005888",
     "username": "kychillyBot",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "test",
-        "hours": 1.0,
-        "date": "1"
-      }
-    ],
+    "totalHours": 0.0,
+    "entries": [],
     "totalMoneyOwed": 0.0
   },
   "1373463589083680768": {
@@ -89,7 +63,8 @@
       {
         "eventName": "test",
         "hours": 1.0,
-        "date": "1"
+        "date": "1",
+        "money": 0.0
       }
     ],
     "totalMoneyOwed": 0.0
@@ -97,14 +72,8 @@
   "1378013788065759242": {
     "userId": "1378013788065759242",
     "username": "AYLUS bot",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "test",
-        "hours": 1.0,
-        "date": "1"
-      }
-    ],
+    "totalHours": 0.0,
+    "entries": [],
     "totalMoneyOwed": 0.0
   },
   "916504570857922560": {
@@ -115,7 +84,8 @@
       {
         "eventName": "test",
         "hours": 1.0,
-        "date": "1"
+        "date": "1",
+        "money": 0.0
       }
     ],
     "totalMoneyOwed": 0.0
@@ -128,7 +98,8 @@
       {
         "eventName": "test",
         "hours": 1.0,
-        "date": "1"
+        "date": "1",
+        "money": 0.0
       }
     ],
     "totalMoneyOwed": 0.0

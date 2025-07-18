@@ -8,6 +8,7 @@ import java.lang.reflect.Type;
 
 
 import java.io.*;
+import java.time.LocalDate;
 import java.util.*;
 import java.util.stream.Collectors;
 import com.AYLUS.DiscordBot.Classes.UserVolunteerProfile;
@@ -33,11 +34,28 @@ public class VolunteerManager {
         }
     }
 
-    private void saveData() {
+    public void saveData() {
         try (Writer writer = new FileWriter(DATA_FILE)) {
             gson.toJson(profiles, writer);
         } catch (IOException e) {
             e.printStackTrace();
+        }
+    }
+
+    // Optional payment tracking thing that I don't wanna implement
+    public void logPayment(String userId, String username, double amount) {
+        logHours(userId, username, "Payment", 0,
+                LocalDate.now().toString(), -amount);
+    }
+
+    //dangerous dangerous
+    public void clearProfile(String userId) {
+        UserVolunteerProfile profile = profiles.get(userId);
+        if (profile != null) {
+            profile.getEntries().clear();
+            profile.setTotalHours(0);
+            profile.setTotalMoneyOwed(0);
+            saveData();
         }
     }
 
@@ -61,22 +79,22 @@ public class VolunteerManager {
         UserVolunteerProfile profile = profiles.get(userId);
         if (profile == null) return false;
 
-        // Case-insensitive comparison and exact date match
-        boolean removed = profile.getEntries().removeIf(entry ->
-                entry.getEventName().equalsIgnoreCase(eventName) &&
-                        entry.getDate().equals(date)
-        );
+        // Find and remove the matching entry
+        for (Iterator<VolunteerEntry> it = profile.getEntries().iterator(); it.hasNext();) {
+            VolunteerEntry entry = it.next();
+            if (entry.getEventName().equalsIgnoreCase(eventName) &&
+                    entry.getDate().equals(date)) {
 
-        if (removed) {
-            // Recalculate total hours
-            profile.setTotalHours(
-                    profile.getEntries().stream()
-                            .mapToDouble(VolunteerEntry::getHours)
-                            .sum()
-            );
-            saveData();
+                // Subtract the entry's hours and money from totals
+                profile.setTotalHours(profile.getTotalHours() - entry.getHours());
+                profile.totalMoneyOwed -= entry.getMoney();  // Add this line
+
+                it.remove();
+                saveData();
+                return true;
+            }
         }
-        return removed;
+        return false;
     }
 
 }

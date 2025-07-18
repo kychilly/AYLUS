@@ -1,11 +1,13 @@
 package com;
 
 import com.AYLUS.DiscordBot.Classes.ProfilePagination;
+import com.AYLUS.DiscordBot.commands.ButtonInteractionListener;
 import com.AYLUS.DiscordBot.listeners.shutdownListener;
 import io.github.cdimascio.dotenv.Dotenv;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.events.interaction.component.ButtonInteractionEvent;
+import net.dv8tion.jda.api.interactions.commands.DefaultMemberPermissions;
 import net.dv8tion.jda.api.requests.GatewayIntent;
 import net.dv8tion.jda.api.sharding.DefaultShardManagerBuilder;
 import net.dv8tion.jda.api.sharding.ShardManager;
@@ -57,6 +59,7 @@ public class AYLUSBot {
                 }
             }
         });
+        shardManager.addEventListener(new ButtonInteractionListener());
     }
 
     private void registerCommands(JDA jda) {
@@ -86,7 +89,15 @@ public class AYLUSBot {
                                         new OptionData(OptionType.USER, "user", "User whose event to remove", true),
                                         new OptionData(OptionType.STRING, "event", "Name of the event to remove", true),
                                         new OptionData(OptionType.STRING, "date", "Date of the event (DD-MM-YYYY)", true)
-                                )
+                                ),
+                        Commands.slash("pay", "Record a payment from a volunteer")
+                                .addOption(OptionType.USER, "user", "The volunteer who paid", true)
+                                .addOption(OptionType.NUMBER, "amount", "Payment amount", true)
+                                .setDefaultPermissions(DefaultMemberPermissions.DISABLED),
+                        Commands.slash("volunteer-clear", "Only kyche(jeffrey) is allowed to use this command(deletes a person's volunteer data)")
+                                .addOption(OptionType.USER, "user", "User to clear", true)
+                                .addOption(OptionType.BOOLEAN, "positive", "Be extra careful! Did you select the right person?", true)
+                                .setDefaultPermissions(DefaultMemberPermissions.DISABLED)
                 )
                 .queue(
                         success -> {
@@ -108,14 +119,6 @@ public class AYLUSBot {
     public Dotenv getConfig() {
         return config;
     }
-
-    //tiny button stuff lol
-//    @Override
-//    public void onButtonInteraction(ButtonInteractionEvent event) {
-//        if (event.getComponentId().startsWith("profile:")) {
-//            ProfilePagination.handleButtonInteraction(event);
-//        }
-//    }
 
     public static void main(String[] args) {
         try {

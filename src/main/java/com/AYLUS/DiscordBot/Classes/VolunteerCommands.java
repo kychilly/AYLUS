@@ -18,6 +18,8 @@ import net.dv8tion.jda.api.interactions.components.ActionRow;
 import java.awt.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Objects;
 
@@ -42,6 +44,12 @@ public class VolunteerCommands extends ListenerAdapter {
                 break;
             case "volunteer-remove":
                 handleRemoveCommand(event);
+                break;
+            case "pay":
+                handlePayCommand(event);
+                break;
+            case "volunteer-clear":
+                handleClearCommand(event);
                 break;
         }
     }
@@ -113,40 +121,71 @@ public class VolunteerCommands extends ListenerAdapter {
         ).queue();
     }
 
-    private void handleProfileCommand(SlashCommandInteractionEvent event) {
+    public void handleProfileCommand(SlashCommandInteractionEvent event) {
         User target = event.getOption("user") != null
                 ? event.getOption("user").getAsUser()
                 : event.getUser();
-
-        Member mention = event.getOption("user") != null
+        Member member = event.getOption("user") != null
                 ? event.getOption("user").getAsMember()
                 : event.getMember();
 
         UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
-        String displayName;
-        displayName = mention.getNickname() == null ? target.getName() : mention.getNickname();
+        String displayName = member.getNickname() != null ? member.getNickname() : target.getName();
 
+        // Sort entries newest-first
+        List<VolunteerEntry> sortedEntries = new ArrayList<>(profile.getEntries());
+        sortedEntries.sort(Comparator.comparing(VolunteerEntry::getDate).reversed());
+
+        // Build base embed
         EmbedBuilder embed = new EmbedBuilder()
                 .setTitle(displayName + "'s Volunteer Profile")
                 .setColor(Color.BLUE)
                 .setThumbnail(target.getEffectiveAvatarUrl())
-                .addField("Total Hours", String.format("%.1f hours", profile.getTotalHours()), false)
-                .addField("Total Money Owed(To AYLUS)", String.format("$%.2f owed", profile.getTotalMoneyOwed()), false);
+                .addField("Total Hours", String.format("⏱️ **%.1f hours**", profile.getTotalHours()), true)
+                //check to see if we owe the guy money
+                .addField(profile.getTotalMoneyOwed() > 0 ?
+                        "Total Owed(w reimburse)" : "Total AYLUS Owes(w reimburse)", String.format("💰 **$%.2f**",
+                        Math.abs(profile.getTotalMoneyOwed())), true);
 
-        if (!profile.getEntries().isEmpty()) {
-            StringBuilder breakdown = new StringBuilder();
-            for (VolunteerEntry entry : profile.getEntries()) {
-                breakdown.append(String.format(
-                        "• **%s**: %.1f hours (%s)\n",
-                        entry.getEventName(), entry.getHours(), entry.getDate()
-                ));
-            }
-            embed.addField("Breakdown", breakdown.toString(), false);
+
+        if (sortedEntries.isEmpty()) {
+            embed.addField("Events", "No events recorded yet!", false);
+            event.replyEmbeds(embed.build()).queue();
+        } else if (sortedEntries.size() <= 10) {
+            // Single page
+            embed.addField("Event Breakdown", formatEventBreakdown(sortedEntries), false);
+            event.replyEmbeds(embed.build()).queue();
         } else {
-            embed.addField("Breakdown", "This user has no events!", false);
+            // Pagination needed
+            List<List<VolunteerEntry>> chunks = partitionEntries(sortedEntries, 10);
+            ProfilePagination.sendPaginatedProfile(event, embed, chunks, displayName, 0);
         }
-        embed.setFooter("Format: **event**, hours, date");
-        event.replyEmbeds(embed.build()).queue();
+    }
+
+    private String formatEventBreakdown(List<VolunteerEntry> entries) {
+        StringBuilder sb = new StringBuilder("```\n");
+        // Header with proper spacing
+        sb.append("EVENT               HOURS   DATE       OWED\n");
+        sb.append("---------------------------------------------\n");
+
+        for (VolunteerEntry entry : entries) {
+            // Format money with $ included in the padding
+            sb.append(String.format("%-18s %5.1f   %-10s $%6.2f\n",
+                    entry.getEventName(),
+                    entry.getHours(),
+                    entry.getDate(),
+                    entry.getMoney()));
+        }
+        sb.append("```");
+        return sb.toString();
+    }
+
+    private List<List<VolunteerEntry>> partitionEntries(List<VolunteerEntry> entries, int chunkSize) {
+        List<List<VolunteerEntry>> chunks = new ArrayList<>();
+        for (int i = 0; i < entries.size(); i += chunkSize) {
+            chunks.add(entries.subList(i, Math.min(i + chunkSize, entries.size())));
+        }
+        return chunks;
     }
 
     private void handleLeaderboardCommand(SlashCommandInteractionEvent event) {
@@ -227,6 +266,102 @@ public class VolunteerCommands extends ListenerAdapter {
                 hook.sendMessage("⚠️ Error: " + e.getMessage()).queue();
             }
         });
+    }
+
+    private void handlePayCommand(SlashCommandInteractionEvent event) {
+        if (!AYLUSAdmin(event)) {
+            event.reply("❌ You do not have permission to use this command.")
+                    .setEphemeral(true)
+                    .queue();
+            return;
+        }
+
+        Member targetMember = Objects.requireNonNull(event.getOption("user")).getAsMember();
+        double paymentAmount = Objects.requireNonNull(event.getOption("amount")).getAsDouble();
+
+        if (paymentAmount <= 0) {
+            event.reply("❌ Payment amount must be positive.")
+                    .setEphemeral(true)
+                    .queue();
+            return;
+        }
+
+        UserVolunteerProfile profile = volunteerManager.getProfile(
+                targetMember.getId(),
+                targetMember.getEffectiveName()
+        );
+
+        // Get current balance before deduction
+        double currentBalance = profile.getTotalMoneyOwed();
+
+        // NO MORE DOUBLE SUBTRACTING PLEASE
+        profile.setTotalMoneyOwed(currentBalance - paymentAmount);
+        double newBalance = currentBalance - paymentAmount;
+        volunteerManager.saveData(); // Explicit save
+
+        // Build the response
+        String paymentMessage;
+        if (newBalance < 0) {
+            paymentMessage = String.format(
+                    "✅ Deducted $%.2f from %s\n" +
+                            "Previous Amount Owed: $%.2f\n" +
+                            "**We have to pay this guy $%.2f now lol**",
+                    paymentAmount,
+                    targetMember.getAsMention(),
+                    currentBalance,
+                    -newBalance
+            );
+        } else {
+            paymentMessage = String.format(
+                    "✅ Deducted $%.2f from %s\n" +
+                            "Previous Amount Owed: $%.2f\n" +
+                            "New Amount Owed: $%.2f",
+                    paymentAmount,
+                    targetMember.getAsMention(),
+                    currentBalance,
+                    newBalance
+            );
+        }
+
+        event.replyEmbeds(
+                new EmbedBuilder()
+                        .setTitle("Payment Processed")
+                        .setColor(newBalance < 0 ? Color.ORANGE : Color.GREEN)
+                        .setDescription(paymentMessage)
+                        .build()
+        ).queue();
+    }
+
+    private void handleClearCommand(SlashCommandInteractionEvent event) {
+
+        // Hardcoded sure check
+        if (!event.getOption("positive").getAsBoolean()) {
+            event.reply("\uD83E\uDEE2 Whew! Crisis averted!")
+                    .setEphemeral(true)
+                    .queue();
+            return;
+        }
+        // Hardcoded admin check
+        if (!event.getUser().getId().equals("840216337119969301")) {
+            event.reply("❌ Only Kyche can use this command! Please contact if you want to use this because it is very dangerous :gasp:")
+                    .setEphemeral(true)
+                    .queue();
+            return;
+        }
+
+        User target = event.getOption("user").getAsUser();
+        UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
+
+        // Clear all data
+        volunteerManager.clearProfile(target.getId());
+
+        event.replyEmbeds(
+                new EmbedBuilder()
+                        .setTitle("Profile Cleared")
+                        .setColor(Color.RED)
+                        .setDescription("♻️ Cleared all volunteer data for " + target.getAsMention())
+                        .build()
+        ).queue();
     }
 
     // Helper method to build the embed
