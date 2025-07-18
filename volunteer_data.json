@@ -9,15 +9,8 @@
   "680189020076376080": {
     "userId": "680189020076376080",
     "username": "yashidow",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "a",
-        "hours": 1.0,
-        "date": "1",
-        "money": 0.0
-      }
-    ],
+    "totalHours": 0.0,
+    "entries": [],
     "totalMoneyOwed": 0.0
   },
   "253988281086246912": {
@@ -58,15 +51,8 @@
   "1373463589083680768": {
     "userId": "1373463589083680768",
     "username": "Woodland Mansion",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "test",
-        "hours": 1.0,
-        "date": "1",
-        "money": 0.0
-      }
-    ],
+    "totalHours": 0.0,
+    "entries": [],
     "totalMoneyOwed": 0.0
   },
   "1378013788065759242": {
@@ -79,29 +65,15 @@
   "916504570857922560": {
     "userId": "916504570857922560",
     "username": "xlmz",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "test",
-        "hours": 1.0,
-        "date": "1",
-        "money": 0.0
-      }
-    ],
+    "totalHours": 0.0,
+    "entries": [],
     "totalMoneyOwed": 0.0
   },
   "683127229583982634": {
     "userId": "683127229583982634",
     "username": "owiess",
-    "totalHours": 1.0,
-    "entries": [
-      {
-        "eventName": "test",
-        "hours": 1.0,
-        "date": "1",
-        "money": 0.0
-      }
-    ],
+    "totalHours": 0.0,
+    "entries": [],
     "totalMoneyOwed": 0.0
   }
 }
