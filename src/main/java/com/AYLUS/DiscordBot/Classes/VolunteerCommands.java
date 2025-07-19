@@ -51,6 +51,9 @@ public class VolunteerCommands extends ListenerAdapter {
             case "volunteer-clear":
                 handleClearCommand(event);
                 break;
+            case "payment-history":
+                handlePaymentHistoryCommand(event);
+                break;
         }
     }
 
@@ -278,6 +281,9 @@ public class VolunteerCommands extends ListenerAdapter {
 
         Member targetMember = Objects.requireNonNull(event.getOption("user")).getAsMember();
         double paymentAmount = Objects.requireNonNull(event.getOption("amount")).getAsDouble();
+        String note = event.getOption("note") != null
+                ? event.getOption("note").getAsString()
+                : "Payment recorded"; // Default description
 
         if (paymentAmount <= 0) {
             event.reply("❌ Payment amount must be positive.")
@@ -297,6 +303,7 @@ public class VolunteerCommands extends ListenerAdapter {
         // NO MORE DOUBLE SUBTRACTING PLEASE
         profile.setTotalMoneyOwed(currentBalance - paymentAmount);
         double newBalance = currentBalance - paymentAmount;
+        profile.recordPayment(paymentAmount, note);
         volunteerManager.saveData(); // Explicit save
 
         // Build the response
@@ -330,6 +337,54 @@ public class VolunteerCommands extends ListenerAdapter {
                         .setDescription(paymentMessage)
                         .build()
         ).queue();
+    }
+
+
+    //payment leaderboard
+    private void handlePaymentHistoryCommand(SlashCommandInteractionEvent event) {
+        User target = event.getOption("user") != null
+                ? event.getOption("user").getAsUser()
+                : event.getUser();
+        Member member = event.getOption("user") != null
+                ? event.getOption("user").getAsMember()
+                : event.getMember();
+
+        UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
+        String displayName = member.getNickname() != null ? member.getNickname() : target.getName();
+
+        // Build base embed (title, color, thumbnail, totals)
+        EmbedBuilder embed = new EmbedBuilder()
+                .setTitle(displayName + "'s Payment History")
+                .setColor(Color.GREEN)
+                .setThumbnail(target.getEffectiveAvatarUrl())
+                .addField("Total Paid", String.format("💰 **$%.2f**", profile.getTotalPaid()), true)
+                .addField("Current Balance", String.format("💳 **$%.2f**", profile.getTotalMoneyOwed()), true);
+
+        List<PaymentEntry> payments = profile.getPaymentHistory();
+
+        if (payments.isEmpty()) {
+            embed.addField("Payments", "No payments recorded yet!", false);
+            event.replyEmbeds(embed.build()).queue();
+        } else if (payments.size() <= 10) {
+            // Single page
+            StringBuilder paymentList = new StringBuilder("```\n");
+            paymentList.append("DATE       AMOUNT    DESCRIPTION\n");
+            paymentList.append("------------------------------\n");
+
+            payments.stream()
+                    .sorted(Comparator.comparing(PaymentEntry::getDate).reversed())
+                    .forEach(p -> paymentList.append(String.format("%-10s $%-7.2f %s\n",
+                            p.getDate(),
+                            p.getAmount(),
+                            p.getDescription())));
+
+            paymentList.append("```");
+            embed.addField("Payment History", paymentList.toString(), false);
+            event.replyEmbeds(embed.build()).queue();
+        } else {
+            // Paginated version
+            PaymentPagination.sendPaginatedPayments(event, embed, payments, displayName);
+        }
     }
 
     private void handleClearCommand(SlashCommandInteractionEvent event) {
