@@ -36,7 +36,7 @@ public class AYLUSBot {
 
         DefaultShardManagerBuilder builder = DefaultShardManagerBuilder.createDefault(token);
         builder.setStatus(OnlineStatus.ONLINE);
-        builder.setActivity(Activity.watching("the sunflowers"));
+        builder.setActivity(Activity.customStatus("Online and running \uD83D\uDFE2"));
         builder.enableIntents(GatewayIntent.MESSAGE_CONTENT);
         builder.enableIntents(GatewayIntent.GUILD_MEMBERS);
         builder.setMemberCachePolicy(MemberCachePolicy.ALL);
@@ -101,7 +101,6 @@ public class AYLUSBot {
                                 .setDefaultPermissions(DefaultMemberPermissions.DISABLED),
                         Commands.slash("payment-history", "View payment history")
                                 .addOption(OptionType.USER, "user", "The user to check", false)
-
                 )
                 .queue(
                         success -> {

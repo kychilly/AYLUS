@@ -9,6 +9,7 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import net.dv8tion.jda.api.interactions.Interaction;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Member;
+import net.dv8tion.jda.api.interactions.commands.OptionMapping;
 import net.dv8tion.jda.api.interactions.components.buttons.Button;
 
 
@@ -281,9 +282,16 @@ public class VolunteerCommands extends ListenerAdapter {
 
         Member targetMember = Objects.requireNonNull(event.getOption("user")).getAsMember();
         double paymentAmount = Objects.requireNonNull(event.getOption("amount")).getAsDouble();
-        String note = event.getOption("note") != null
-                ? event.getOption("note").getAsString()
-                : "Payment recorded"; // Default description
+
+        // I straight up pulled this from chatgpt cause it wasnt working lol
+        String note = "No Notes"; // Default value
+        OptionMapping noteOption = event.getOption("notes"); // Match the option name exactly
+        if (noteOption != null) {
+            String providedNote = noteOption.getAsString();
+            if (!providedNote.trim().isEmpty()) {
+                note = providedNote;
+            }
+        }
 
         if (paymentAmount <= 0) {
             event.reply("❌ Payment amount must be positive.")
@@ -358,7 +366,7 @@ public class VolunteerCommands extends ListenerAdapter {
                 .setColor(Color.GREEN)
                 .setThumbnail(target.getEffectiveAvatarUrl())
                 .addField("Total Paid", String.format("💰 **$%.2f**", profile.getTotalPaid()), true)
-                .addField("Current Balance", String.format("💳 **$%.2f**", profile.getTotalMoneyOwed()), true);
+                .addField("Amount Owed", String.format("💳 **$%.2f**", profile.getTotalMoneyOwed()), true);
 
         List<PaymentEntry> payments = profile.getPaymentHistory();
 
@@ -368,8 +376,8 @@ public class VolunteerCommands extends ListenerAdapter {
         } else if (payments.size() <= 10) {
             // Single page
             StringBuilder paymentList = new StringBuilder("```\n");
-            paymentList.append("DATE       AMOUNT    DESCRIPTION\n");
-            paymentList.append("------------------------------\n");
+            paymentList.append("DATE       AMOUNT    Notes\n");
+            paymentList.append("----------------------------------\n");
 
             payments.stream()
                     .sorted(Comparator.comparing(PaymentEntry::getDate).reversed())

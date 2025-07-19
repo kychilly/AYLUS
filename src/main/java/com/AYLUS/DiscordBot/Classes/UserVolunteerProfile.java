@@ -59,7 +59,7 @@ public class UserVolunteerProfile {
         totalMoneyOwed += moneyOwed;
     }
 
-    public void clearEntries() {
+    public void clearAllEntries() {
         this.entries.clear();
         this.totalHours = 0;
         this.paymentHistory.clear(); // Clears payment history(obviously)

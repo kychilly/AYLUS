@@ -2,33 +2,10 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 2.0,
-    "entries": [
-      {
-        "eventName": "test",
-        "hours": 2.0,
-        "date": "01-01-2025",
-        "money": 100.0
-      }
-    ],
-    "paymentHistory": [
-      {
-        "amount": 1.0,
-        "description": "Payment via /pay command",
-        "date": "2025-07-18"
-      },
-      {
-        "amount": 1.0,
-        "description": "Payment via /pay command",
-        "date": "2025-07-18"
-      },
-      {
-        "amount": 1.0,
-        "description": "Payment via /pay command",
-        "date": "2025-07-18"
-      }
-    ],
-    "totalMoneyOwed": 100.0
+    "totalHours": 0.0,
+    "entries": [],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
   },
   "680189020076376080": {
     "userId": "680189020076376080",

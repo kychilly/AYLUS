@@ -55,6 +55,7 @@ public class VolunteerManager {
             profile.getEntries().clear();
             profile.setTotalHours(0);
             profile.setTotalMoneyOwed(0);
+            profile.clearAllEntries();
             saveData();
         }
     }
