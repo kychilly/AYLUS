@@ -2,9 +2,22 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 0.0,
-    "entries": [],
-    "paymentHistory": [],
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "test",
+        "hours": 1.0,
+        "date": "01-01-2025",
+        "money": 50.0
+      }
+    ],
+    "paymentHistory": [
+      {
+        "amount": 50.0,
+        "description": "he pay",
+        "date": "2025-07-20"
+      }
+    ],
     "totalMoneyOwed": 0.0
   },
   "680189020076376080": {
