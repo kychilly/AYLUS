@@ -77,7 +77,7 @@ public class AYLUSBot {
                                                 .setMinValue(0.1)
                                                 .setMaxValue(24.0),
                                         new OptionData(OptionType.STRING, "date", "Date (DD-MM-YYYY)", true),
-                                        new OptionData(OptionType.INTEGER, "money-owed", "Money volunteer OWES US (format: xx.xx  ex: 10.99). LEAVE BLANK IF NO MONEY OWED!!!", false)
+                                        new OptionData(OptionType.INTEGER, "money-owed", "Money owed to AYLUS (xx.xx). Ex: $10.99 → \"10.99\". Ex2: $10 → \"10\" or \"10.00\". Blank if none.", false)
                                 ),
                         Commands.slash("volunteer-profile", "View volunteer profile")
                                 .addOptions(

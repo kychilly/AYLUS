@@ -11,9 +11,21 @@ import java.time.format.DateTimeFormatter;
 
 import static com.AYLUS.DiscordBot.Classes.VolunteerCommands.getVolunteerManager;
 
-public class VolunteerLogCommand {
+public class VolunteeringLogCommand {
 
-    static void handleLogCommand(SlashCommandInteractionEvent event) {
+    // REMOVE THIS LATER
+    public static boolean AYLUSAdmin(SlashCommandInteractionEvent event) {
+        final String kycheID = "840216337119969301";
+        final String ALLOWED_SERVER_ID = "1119034327515287645"; // A server ID(for aylus)
+
+
+        return event.getUser().getId().equals(kycheID) ||
+                (event.getGuild().getId().equals(ALLOWED_SERVER_ID) &&
+                        event.getMember().hasPermission(Permission.ADMINISTRATOR));
+
+    }
+
+    public static void handleLogCommand(SlashCommandInteractionEvent event) {
         if (!AYLUSAdmin(event)) {
             event.reply("❌ You do not have permission to use this command.")
                     .setEphemeral(true)
@@ -81,16 +93,6 @@ public class VolunteerLogCommand {
     }
 
 
-    // admin
-    public static boolean AYLUSAdmin(SlashCommandInteractionEvent event) {
-        final String kycheID = "840216337119969301";
-        final String ALLOWED_SERVER_ID = "1119034327515287645"; // A server ID(for aylus)
 
-
-        return event.getUser().getId().equals(kycheID) ||
-                (event.getGuild().getId().equals(ALLOWED_SERVER_ID) &&
-                        event.getMember().hasPermission(Permission.ADMINISTRATOR));
-
-    }
 
 }
