@@ -2,10 +2,34 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 0.0,
-    "entries": [],
-    "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Foodshare",
+        "hours": 6.0,
+        "date": "07-21-2025",
+        "money": 20.0
+      },
+      {
+        "eventName": "field trip to mars",
+        "hours": 1.0,
+        "date": "07-20-2025",
+        "money": 2897.0
+      }
+    ],
+    "paymentHistory": [
+      {
+        "amount": 30.0,
+        "description": "pay back",
+        "date": "2025-07-20"
+      },
+      {
+        "amount": 2898.0,
+        "description": "hi",
+        "date": "2025-07-20"
+      }
+    ],
+    "totalMoneyOwed": -11.0
   },
   "680189020076376080": {
     "userId": "680189020076376080",
@@ -80,9 +104,28 @@
   "739978476651544607": {
     "userId": "739978476651544607",
     "username": "ramble21",
-    "totalHours": 0.0,
-    "entries": [],
-    "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Foodshare",
+        "hours": 5.0,
+        "date": "07-21-2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "yellowhouse",
+        "hours": 2.0,
+        "date": "07-20-2025",
+        "money": 5.0
+      }
+    ],
+    "paymentHistory": [
+      {
+        "amount": 4.0,
+        "description": "No Notes",
+        "date": "2025-07-20"
+      }
+    ],
+    "totalMoneyOwed": 1.0
   }
 }

@@ -1,12 +1,9 @@
 package com;
 
-import com.AYLUS.DiscordBot.Classes.ProfilePagination;
 import com.AYLUS.DiscordBot.commands.ButtonInteractionListener;
-import com.AYLUS.DiscordBot.listeners.shutdownListener;
 import io.github.cdimascio.dotenv.Dotenv;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
-import net.dv8tion.jda.api.events.interaction.component.ButtonInteractionEvent;
 import net.dv8tion.jda.api.interactions.commands.DefaultMemberPermissions;
 import net.dv8tion.jda.api.requests.GatewayIntent;
 import net.dv8tion.jda.api.sharding.DefaultShardManagerBuilder;
@@ -18,7 +15,6 @@ import com.AYLUS.DiscordBot.Classes.VolunteerCommands;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import net.dv8tion.jda.api.events.session.ReadyEvent;
 import net.dv8tion.jda.api.JDA;
-import net.dv8tion.jda.api.entities.Guild;
 import net.dv8tion.jda.api.interactions.commands.build.Commands;
 import net.dv8tion.jda.api.interactions.commands.build.OptionData;
 import net.dv8tion.jda.api.interactions.commands.OptionType;
@@ -48,7 +44,6 @@ public class AYLUSBot {
         shardManager.addEventListener(new CommandManager());
         shardManager.addEventListener(new VolunteerCommands());
         shardManager.addEventListener(new EventListener());
-        shardManager.addEventListener(new shutdownListener());
 
         // Add listener for command registration
         shardManager.addEventListener(new ListenerAdapter() {
@@ -90,7 +85,7 @@ public class AYLUSBot {
                                         new OptionData(OptionType.STRING, "event", "Name of the event to remove", true),
                                         new OptionData(OptionType.STRING, "date", "Date of the event (DD-MM-YYYY)", true)
                                 ),
-                        Commands.slash("pay", "Record a payment from a volunteer")
+                        Commands.slash("process-payment", "Record a payment from a volunteer")
                                 .addOption(OptionType.USER, "user", "The volunteer who paid", true)
                                 .addOption(OptionType.NUMBER, "amount", "Payment amount", true)
                                 .addOption(OptionType.STRING, "notes", "Any additional notes? Leave blank if none.", false)
