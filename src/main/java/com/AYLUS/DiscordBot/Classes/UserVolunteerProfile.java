@@ -42,6 +42,10 @@ public class UserVolunteerProfile {
     }
 
     public double getTotalPaid() {
+        if (paymentHistory == null) {
+            paymentHistory = new ArrayList<>();
+            System.out.println("Created a new payment history object for a guy");
+        }
         return paymentHistory.stream()
                 .mapToDouble(PaymentEntry::getAmount)
                 .sum();
