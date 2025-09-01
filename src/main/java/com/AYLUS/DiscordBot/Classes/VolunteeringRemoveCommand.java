@@ -1,5 +1,6 @@
 package com.AYLUS.DiscordBot.Classes;
 
+import com.AYLUS.DiscordBot.HelpfulMethods.HourAndMoneyTracker;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
@@ -34,6 +35,10 @@ public class VolunteeringRemoveCommand {
                 String eventName = event.getOption("event").getAsString();
                 String date = event.getOption("date").getAsString();
 
+                VolunteerEntry entry = volunteerManager.getEvent(user.getId(), eventName, date);
+                HourAndMoneyTracker.updateHoursAndMoney(-entry.getHours(), -entry.getMoney(), 0); // Subtracts the hours, and any potential money paid for event
+
+
                 new Thread(() -> { // Process in background
                     boolean success = volunteerManager.removeEvent(user.getId(), eventName, date);
                     String response = success
@@ -41,6 +46,9 @@ public class VolunteeringRemoveCommand {
                             : "❌ Event not found";
                     hook.sendMessage(response).queue();
                 }).start();
+
+
+
 
             } catch (Exception e) {
                 hook.sendMessage("⚠️ Error: " + e.getMessage()).queue();

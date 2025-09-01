@@ -13,50 +13,54 @@ public class HourAndMoneyTracker {
     private static final String DATA_FILE = "volunteer_info.json";
     private static final Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
+    // Static fields to track totals
     private static double totalHours;
-    private static double totalMoneySpent; // The total money the person owes aylus(probably for food stuff lol)
+    private static double totalMoneySpent;
     private static double totalMoneyPaidBack;
 
-    public HourAndMoneyTracker(double totalHours, double totalMoneySpent, double totalMoneyPaidBack) {
+    // Static block to load existing data on class load
+    static {
         File file = new File(DATA_FILE);
         if (file.exists()) {
-            // Load existing data
-            HourAndMoneyTracker loaded = loadFromJson();
-            HourAndMoneyTracker.totalHours = loaded.totalHours;
-            HourAndMoneyTracker.totalMoneySpent = loaded.totalMoneySpent;
-            HourAndMoneyTracker.totalMoneyPaidBack = loaded.totalMoneyPaidBack;
+            loadFromJson();
         } else {
-            // File does not exist, start at 0 and create JSON
-            HourAndMoneyTracker.totalHours = 0.0;
-            HourAndMoneyTracker.totalMoneySpent = 0.0;
-            HourAndMoneyTracker.totalMoneyPaidBack = 0.0;
+            totalHours = 0.0;
+            totalMoneySpent = 0.0;
+            totalMoneyPaidBack = 0.0;
             saveToJson();
         }
-        saveToJson();
     }
 
-
-    public void updateHoursAndMoney(double hours, double moneyNeeded, double moneyPaidBack) {
+    // Instantly update to json
+    public static void updateHoursAndMoney(double hours, double moneyNeeded, double moneyPaidBack) {
         totalHours += hours;
         totalMoneySpent += moneyNeeded;
         totalMoneyPaidBack += moneyPaidBack;
         saveToJson();
     }
 
-    private void saveToJson() {
+    private static void saveToJson() {
         try (FileWriter writer = new FileWriter(DATA_FILE)) {
-            gson.toJson(this, writer);
+            // Only serialize the 3 totals
+            Data data = new Data(totalHours, totalMoneySpent, totalMoneyPaidBack);
+            gson.toJson(data, writer);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    public static HourAndMoneyTracker loadFromJson() {
+    // Loading json static variables
+    private static void loadFromJson() {
         try (FileReader reader = new FileReader(DATA_FILE)) {
-            return gson.fromJson(reader, HourAndMoneyTracker.class);
+            Data data = gson.fromJson(reader, Data.class);
+            totalHours = data.totalHours;
+            totalMoneySpent = data.totalMoneyNeeded;
+            totalMoneyPaidBack = data.totalMoneyPaidBack;
         } catch (IOException e) {
             e.printStackTrace();
-            return new HourAndMoneyTracker(0,0,0); // fallback
+            totalHours = 0.0;
+            totalMoneySpent = 0.0;
+            totalMoneyPaidBack = 0.0;
         }
     }
 
@@ -64,4 +68,16 @@ public class HourAndMoneyTracker {
     public static double getTotalMoneyNeeded() { return totalMoneySpent; }
     public static double getTotalMoneyPaidBack() { return totalMoneyPaidBack; }
 
+    // Json serialization
+    private static class Data {
+        double totalHours;
+        double totalMoneyNeeded;
+        double totalMoneyPaidBack;
+
+        Data(double hours, double moneyNeeded, double moneyPaidBack) {
+            this.totalHours = hours;
+            this.totalMoneyNeeded = moneyNeeded;
+            this.totalMoneyPaidBack = moneyPaidBack;
+        }
+    }
 }

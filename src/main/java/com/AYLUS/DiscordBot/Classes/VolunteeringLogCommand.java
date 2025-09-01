@@ -1,5 +1,6 @@
 package com.AYLUS.DiscordBot.Classes;
 
+import com.AYLUS.DiscordBot.HelpfulMethods.HourAndMoneyTracker;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.User;
@@ -82,6 +83,8 @@ public class VolunteeringLogCommand {
                 eventName,
                 dateStr
         );
+
+        HourAndMoneyTracker.updateHoursAndMoney(hours, moneyOwed, 0); // hours volunteered, if spent any money, 0 money paid back from an event
 
         event.replyEmbeds(
                 new EmbedBuilder()

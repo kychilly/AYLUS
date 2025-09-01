@@ -25,11 +25,18 @@ public class EventListener extends ListenerAdapter {
             event.getChannel().sendMessage(m).queue();
         }
 
-        if (message.equalsIgnoreCase("!totalhours")) {
-            event.getChannel().sendMessage(String.format("I have logged a total of %s hours", HourAndMoneyTracker.getTotalHours())).queue();
-        } else if (message.equalsIgnoreCase("!totalmoney")) {
-            event.getChannel().sendMessage(String.format("I have logged $%s needed payments back to AYLUS and $%s payments to/from AYLUS", HourAndMoneyTracker.getTotalMoneyNeeded(), HourAndMoneyTracker.getTotalMoneyPaidBack())).queue();
+        if (message.equalsIgnoreCase("!totals")) {
+            event.getChannel().sendMessage(String.format(
+                    "📊 Totals so far:\n" +
+                            "• Hours logged: %.1f\n" +
+                            "• Money owed to AYLUS: $%.2f\n" +
+                            "• Money paid back: $%.2f",
+                    HourAndMoneyTracker.getTotalHours(),
+                    HourAndMoneyTracker.getTotalMoneyNeeded(),
+                    HourAndMoneyTracker.getTotalMoneyPaidBack()
+            )).queue();
         }
+
 
     }
 }

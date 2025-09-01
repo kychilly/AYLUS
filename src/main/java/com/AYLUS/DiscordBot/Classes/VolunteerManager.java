@@ -98,4 +98,21 @@ public class VolunteerManager {
         return false;
     }
 
+    // Get the event
+    public VolunteerEntry getEvent(String userId, String eventName, String date) {
+        UserVolunteerProfile profile = profiles.get(userId);
+        if (profile == null) return null;
+
+        // Find and remove the matching entry
+        for (Iterator<VolunteerEntry> it = profile.getEntries().iterator(); it.hasNext();) {
+            VolunteerEntry entry = it.next();
+            if (entry.getEventName().equalsIgnoreCase(eventName) &&
+                    entry.getDate().equals(date)) {
+
+                return entry;
+            }
+        }
+        return null;
+    }
+
 }

@@ -1,5 +1,6 @@
 package com.AYLUS.DiscordBot.Classes;
 
+import com.AYLUS.DiscordBot.HelpfulMethods.HourAndMoneyTracker;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.User;
@@ -43,8 +44,14 @@ public class VolunteeringClearCommand {
         User target = event.getOption("user").getAsUser();
         UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
 
+        double hours = volunteerManager.getProfile(target.getId(), target.getEffectiveName()).getTotalHours(); // Second parameter could potentially be wrong
+        double moneySpent = volunteerManager.getProfile(target.getId(), target.getEffectiveName()).getTotalMoneyOwed();
+        double moneyGaveBack = volunteerManager.getProfile(target.getId(), target.getEffectiveName()).getTotalPaid();
+
         // Clear all data
         volunteerManager.clearProfile(target.getId());
+
+        HourAndMoneyTracker.updateHoursAndMoney(-hours, -moneySpent, -moneyGaveBack); // Taking the volunteer away, so these hours/funds didnt exist
 
         event.replyEmbeds(
                 new EmbedBuilder()

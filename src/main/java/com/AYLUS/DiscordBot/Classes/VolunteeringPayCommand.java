@@ -1,5 +1,6 @@
 package com.AYLUS.DiscordBot.Classes;
 
+import com.AYLUS.DiscordBot.HelpfulMethods.HourAndMoneyTracker;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Member;
@@ -90,6 +91,8 @@ public class VolunteeringPayCommand {
                     newBalance
             );
         }
+
+        HourAndMoneyTracker.updateHoursAndMoney(0,0,paymentAmount); // Third parameter is how much they paid back(or how much AYLUS paid back)
 
         event.replyEmbeds(
                 new EmbedBuilder()
