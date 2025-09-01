@@ -91,7 +91,6 @@ public class VolunteeringPayCommand {
                     newBalance
             );
         }
-
         HourAndMoneyTracker.updateHoursAndMoney(0,0,paymentAmount); // Third parameter is how much they paid back(or how much AYLUS paid back)
 
         event.replyEmbeds(

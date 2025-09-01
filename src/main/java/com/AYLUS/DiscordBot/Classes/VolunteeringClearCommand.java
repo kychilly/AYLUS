@@ -51,7 +51,7 @@ public class VolunteeringClearCommand {
         // Clear all data
         volunteerManager.clearProfile(target.getId());
 
-        HourAndMoneyTracker.updateHoursAndMoney(-hours, -moneySpent, -moneyGaveBack); // Taking the volunteer away, so these hours/funds didnt exist
+        HourAndMoneyTracker.updateHoursAndMoney(-hours, (-moneySpent - moneyGaveBack), -moneyGaveBack); // Taking the volunteer away, so these hours/funds didnt exist
 
         event.replyEmbeds(
                 new EmbedBuilder()

@@ -29,7 +29,7 @@ public class VolunteerCommands extends ListenerAdapter {
             case "volunteer-remove":
                 VolunteeringRemoveCommand.handleRemoveCommand(event);
                 break;
-            case "pay":
+            case "process-payment":
                 VolunteeringPayCommand.handlePayCommand(event);
                 break;
             case "volunteer-clear":

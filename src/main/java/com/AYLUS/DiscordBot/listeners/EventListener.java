@@ -29,8 +29,8 @@ public class EventListener extends ListenerAdapter {
             event.getChannel().sendMessage(String.format(
                     "📊 Totals so far:\n" +
                             "• Hours logged: %.1f\n" +
-                            "• Money owed to AYLUS: $%.2f\n" +
-                            "• Money paid back: $%.2f",
+                            "• Money volunteers spent on AYLUS events: $%.2f\n" +
+                            "• Money volunteers paid back from AYLUS events: $%.2f",
                     HourAndMoneyTracker.getTotalHours(),
                     HourAndMoneyTracker.getTotalMoneyNeeded(),
                     HourAndMoneyTracker.getTotalMoneyPaidBack()
