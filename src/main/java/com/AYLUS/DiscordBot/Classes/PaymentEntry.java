@@ -1,8 +1,5 @@
 package com.AYLUS.DiscordBot.Classes;
 
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-
 public class PaymentEntry {
     private final double amount;
     private final String description;
