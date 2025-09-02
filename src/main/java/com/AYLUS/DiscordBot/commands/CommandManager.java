@@ -1,5 +1,6 @@
 package com.AYLUS.DiscordBot.commands;
 
+import com.AYLUS.DiscordBot.Classes.VolunteeringRemovePaymentCommand;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.entities.Role;
 import net.dv8tion.jda.api.entities.User;
@@ -32,6 +33,8 @@ public class CommandManager extends ListenerAdapter {
             ShutdownCommand.execute(event);
         } else if (command.equals("help")) {
             HelpCommand.execute(event);
+        } else if (command.equals("volunteering-remove-payment")) {
+            VolunteeringRemovePaymentCommand.execute(event);
         }
     }
 
@@ -41,6 +44,7 @@ public class CommandManager extends ListenerAdapter {
         commandData.add(MainPageCommand.getCommandData());
         commandData.add(ShutdownCommand.getCommandData());
         commandData.add(HelpCommand.getCommandData());
+        commandData.add(VolunteeringRemovePaymentCommand.getCommandData());
 
 
         event.getGuild().updateCommands().addCommands(commandData).queue();
