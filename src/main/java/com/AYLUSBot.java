@@ -88,7 +88,7 @@ public class AYLUSBot {
                         Commands.slash("process-payment", "Record a payment from a volunteer")
                                 .addOption(OptionType.USER, "user", "The volunteer who paid", true)
                                 .addOption(OptionType.NUMBER, "amount", "Payment amount", true)
-                                .addOption(OptionType.STRING, "notes", "Any additional notes? Leave blank if none.", false)
+                                .addOption(OptionType.STRING, "notes", "Any additional notes? Max 22 characters, will get cut off if more. Leave blank if none.", false)
                                 .setDefaultPermissions(DefaultMemberPermissions.DISABLED),
                         Commands.slash("volunteer-clear", "Only kyche(jeffrey) is allowed to use this command(deletes a person's volunteer data)")
                                 .addOption(OptionType.USER, "user", "User to clear", true)

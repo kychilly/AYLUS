@@ -46,6 +46,10 @@ public class VolunteeringPayCommand {
                 note = providedNote;
             }
         }
+        // Just to make sure this doesn't go over the limit(limit of aaaaaa... is 25)
+        if (note.length() > 22) {
+            note = note.substring(0,20) + "...";
+        }
 
         if (paymentAmount <= 0) {
             event.reply("❌ Payment amount must be positive.")

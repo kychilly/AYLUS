@@ -2,47 +2,10 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 12.0,
-    "entries": [
-      {
-        "eventName": "Super sigma cool event numero one",
-        "hours": 2.0,
-        "date": "01-01-2025",
-        "money": 5.0
-      },
-      {
-        "eventName": "Super sigma cool event numero dos",
-        "hours": 2.0,
-        "date": "01-01-2025",
-        "money": 5.0
-      },
-      {
-        "eventName": "Super sigma cool event numero tres",
-        "hours": 2.0,
-        "date": "01-01-2025",
-        "money": 5.0
-      },
-      {
-        "eventName": "Super sigma cool event numero cuatro",
-        "hours": 2.0,
-        "date": "01-01-2025",
-        "money": 5.0
-      },
-      {
-        "eventName": "Super sigma cool event numero cinco",
-        "hours": 2.0,
-        "date": "01-01-2025",
-        "money": 5.0
-      },
-      {
-        "eventName": "Super sigma col event number like 6",
-        "hours": 2.0,
-        "date": "01-01-2025",
-        "money": 0.0
-      }
-    ],
+    "totalHours": 0.0,
+    "entries": [],
     "paymentHistory": [],
-    "totalMoneyOwed": 25.0
+    "totalMoneyOwed": 0.0
   },
   "680189020076376080": {
     "userId": "680189020076376080",
