@@ -5,7 +5,6 @@ import net.dv8tion.jda.api.entities.Member;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 
-import java.awt.*;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -29,50 +28,29 @@ public class VolunteeringProfileCommand {
         List<VolunteerEntry> sortedEntries = new ArrayList<>(profile.getEntries());
         sortedEntries.sort(Comparator.comparing(VolunteerEntry::getDate).reversed());
 
-        // Build base embed
-        EmbedBuilder embed = new EmbedBuilder()
-                .setTitle(displayName + "'s Volunteer Profile")
-                .setColor(Color.BLUE)
-                .setThumbnail(target.getEffectiveAvatarUrl())
-                .addField("Total Hours", String.format("⏱️ **%.1f hours**", profile.getTotalHours()), true)
-                //check to see if we owe the guy money
-                .addField(profile.getTotalMoneyOwed() > 0 ?
-                        "Total Owed(w reimburse)" : "Total AYLUS Owes(w reimburse)", String.format("💰 **$%.2f**",
-                        Math.abs(profile.getTotalMoneyOwed())), true);
-
+        // Create base embed from ProfilePagination
+        EmbedBuilder baseEmbed = ProfilePagination.createBaseEmbed(
+                displayName,
+                target.getEffectiveAvatarUrl(),
+                profile.getTotalHours(),
+                profile.getTotalMoneyOwed()
+        );
 
         if (sortedEntries.isEmpty()) {
-            embed.addField("Events", "No events recorded yet!", false);
-            event.replyEmbeds(embed.build()).queue();
-        } else if (sortedEntries.size() <= 10) {
+            baseEmbed.addField("Events", "No events recorded yet!", false);
+            event.replyEmbeds(baseEmbed.build()).queue();
+        } else if (sortedEntries.size() <= 5) {
             // Single page
-            embed.addField("Event Breakdown", formatEventBreakdown(sortedEntries), false);
-            event.replyEmbeds(embed.build()).queue();
+            baseEmbed.addField("Event Breakdown",
+                    ProfilePagination.formatEventBreakdown(sortedEntries, 0, 5, sortedEntries.size()), false);
+            event.replyEmbeds(baseEmbed.build()).queue();
         } else {
-            // Pagination needed
-            List<List<VolunteerEntry>> chunks = partitionEntries(sortedEntries, 10);
-            ProfilePagination.sendPaginatedProfile(event, embed, chunks, displayName, 0);
+            // Pagination
+            List<List<VolunteerEntry>> chunks = partitionEntries(sortedEntries, 5);
+            ProfilePagination.sendPaginatedProfile(event, displayName, target.getEffectiveAvatarUrl(),
+                    profile.getTotalHours(), profile.getTotalMoneyOwed(), chunks, 0);
         }
     }
-
-    private static String formatEventBreakdown(List<VolunteerEntry> entries) {
-        StringBuilder sb = new StringBuilder("```\n");
-        // Header with proper spacing
-        sb.append("EVENT               HOURS   DATE       OWED\n");
-        sb.append("---------------------------------------------\n");
-
-        for (VolunteerEntry entry : entries) {
-            // Format money with $ included in the padding
-            sb.append(String.format("%-18s %5.1f   %-10s $%6.2f\n",
-                    entry.getEventName(),
-                    entry.getHours(),
-                    entry.getDate(),
-                    entry.getMoney()));
-        }
-        sb.append("```");
-        return sb.toString();
-    }
-
 
     private static List<List<VolunteerEntry>> partitionEntries(List<VolunteerEntry> entries, int chunkSize) {
         List<List<VolunteerEntry>> chunks = new ArrayList<>();
@@ -81,6 +59,4 @@ public class VolunteeringProfileCommand {
         }
         return chunks;
     }
-
-
 }
