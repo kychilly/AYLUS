@@ -1,1 +1,4 @@
-Custom Discord Bot Capable of Storing Volunteer Data & more
+Custom Discord Bot for AYLUS Cheshire CT Branch
+Stores Various Types of Volunteering Data
+
+AYLUS: https://aylus.org/cheshire-ct/
