@@ -89,16 +89,359 @@
   "758388388687642635": {
     "userId": "758388388687642635",
     "username": ".knaii",
-    "totalHours": 3.0,
+    "totalHours": 104.25,
     "entries": [
       {
         "eventName": "Connecticut Foodshare",
         "hours": 3.0,
         "date": "07/22/2022",
         "money": 0.0
+      },
+      {
+        "eventName": "Performance at 1st Church Preschool",
+        "hours": 3.0,
+        "date": "07/28/2022",
+        "money": 11.75
+      },
+      {
+        "eventName": "Master\u0027s Manna (Clothes)",
+        "hours": 4.0,
+        "date": "08/03/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Library Reading Review",
+        "hours": 2.0,
+        "date": "08/11/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire library Reading Review 2",
+        "hours": 2.0,
+        "date": "08/19/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Library Reading Review 3",
+        "hours": 2.0,
+        "date": "08/25/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Master\u0027s Manna (Clothes Distribution)",
+        "hours": 2.0,
+        "date": "08/25/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Mixville Park Cleaning",
+        "hours": 1.5,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clothes Collection and Donation",
+        "hours": 1.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fundraising",
+        "hours": 2.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 1.5,
+        "date": "08/28/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "08/29/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clothes Donation at Cheshire Goodwill",
+        "hours": 1.0,
+        "date": "08/29/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Hubbard Park Cleaning",
+        "hours": 4.0,
+        "date": "09/03/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Festival Volunteering",
+        "hours": 3.0,
+        "date": "09/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring 3-7 year olds",
+        "hours": 1.0,
+        "date": "08/29/2022",
+        "money": 5.22
+      },
+      {
+        "eventName": "Create Poster for Cheshire Cultural Drive",
+        "hours": 1.0,
+        "date": "09/09/2022",
+        "money": 5.88
+      },
+      {
+        "eventName": "Performance Practice",
+        "hours": 2.5,
+        "date": "09/11/2022",
+        "money": 24.19
+      },
+      {
+        "eventName": "Toys sell at Bartlem",
+        "hours": 2.5,
+        "date": "09/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clean up Bartlem Park",
+        "hours": 1.0,
+        "date": "09/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Walk to End Alzeimer",
+        "hours": 2.0,
+        "date": "09/25/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "One Clean Day of Fun",
+        "hours": 4.0,
+        "date": "10/01/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Apple Harvest Festival",
+        "hours": 2.5,
+        "date": "10/02/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Library Book Review",
+        "hours": 2.0,
+        "date": "10/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Setup for New Member Welcome",
+        "hours": 1.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Park Cleanup - Mixville",
+        "hours": 2.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Band Practice for Preschool Performance",
+        "hours": 1.75,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday New Member Orientation",
+        "hours": 1.0,
+        "date": "10/16/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Friday Donate to bus driver",
+        "hours": 2.0,
+        "date": "11/04/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Library Book Review",
+        "hours": 2.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Food Drive",
+        "hours": 3.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Band Practice",
+        "hours": 2.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Performance at 1st Church Preschool",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Bottle Recycle",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "11/26/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Clothes Donation at CVS",
+        "hours": 1.0,
+        "date": "11/26/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS National Essay Concert",
+        "hours": 3.0,
+        "date": "11/30/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Bottle Recycle",
+        "hours": 1.0,
+        "date": "12/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Christmas Box",
+        "hours": 1.0,
+        "date": "12/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "12/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Monday Make Tiramisu Cake",
+        "hours": 2.0,
+        "date": "12/26/2022",
+        "money": 5.78
+      },
+      {
+        "eventName": "Tuesday Earthquake Donations",
+        "hours": 1.0,
+        "date": "02/12/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Foodshare",
+        "hours": 2.0,
+        "date": "03/01/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Foodshare",
+        "hours": 2.0,
+        "date": "03/17/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Hubbard Park Trail Cleaning",
+        "hours": 3.0,
+        "date": "04/10/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Costco Bottle Recycling",
+        "hours": 2.0,
+        "date": "04/12/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Spring Fling",
+        "hours": 0.5,
+        "date": "04/12/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clothes Doantion",
+        "hours": 1.0,
+        "date": "04/12/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Mixville Park Cleaning",
+        "hours": 2.0,
+        "date": "04/16/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Preparation for fundraisinig of Lamb",
+        "hours": 2.0,
+        "date": "04/16/2023",
+        "money": 9.09
+      },
+      {
+        "eventName": "YMCA Sloper Cleaup",
+        "hours": 2.0,
+        "date": "04/22/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycling Stop\u0026Shop",
+        "hours": 1.5,
+        "date": "04/30/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clothes Donation",
+        "hours": 1.0,
+        "date": "04/30/2023",
+        "money": 0.0
       }
     ],
-    "paymentHistory": [],
+    "paymentHistory": [
+      {
+        "amount": 11.75,
+        "description": "David Pay",
+        "date": "2025-09-03"
+      },
+      {
+        "amount": 5.22,
+        "description": "David pay",
+        "date": "2025-09-03"
+      },
+      {
+        "amount": 5.88,
+        "description": "Jeffrey Pay",
+        "date": "2025-09-03"
+      },
+      {
+        "amount": 24.19,
+        "description": "David pay",
+        "date": "2025-09-03"
+      },
+      {
+        "amount": 5.78,
+        "description": "Connor Pay",
+        "date": "2025-09-03"
+      },
+      {
+        "amount": 9.09,
+        "description": "Justin Pay",
+        "date": "2025-09-03"
+      }
+    ],
     "totalMoneyOwed": 0.0
   }
 }

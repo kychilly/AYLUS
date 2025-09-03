@@ -22,7 +22,7 @@ public class VolunteeringPaymentHistoryCommand {
                 : event.getMember();
 
         UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
-        String displayName = member.getNickname() != null ? member.getNickname() : target.getName();
+        String displayName = target.getEffectiveName(); // Should never return null display name
 
         // Build base embed (title, color, thumbnail, totals)
         EmbedBuilder embed = new EmbedBuilder()

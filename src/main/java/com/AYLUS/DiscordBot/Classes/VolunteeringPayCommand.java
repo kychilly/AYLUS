@@ -4,6 +4,7 @@ import com.AYLUS.DiscordBot.HelpfulMethods.HourAndMoneyTracker;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.Permission;
 import net.dv8tion.jda.api.entities.Member;
+import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.interactions.commands.OptionMapping;
 
@@ -34,7 +35,7 @@ public class VolunteeringPayCommand {
             return;
         }
 
-        Member targetMember = Objects.requireNonNull(event.getOption("user")).getAsMember();
+        User targetUser = Objects.requireNonNull(event.getOption("user")).getAsUser();
         double paymentAmount = Objects.requireNonNull(event.getOption("amount")).getAsDouble();
 
         // I straight up pulled this from chatgpt cause it wasnt working lol
@@ -59,8 +60,8 @@ public class VolunteeringPayCommand {
         }
 
         UserVolunteerProfile profile = volunteerManager.getProfile(
-                targetMember.getId(),
-                targetMember.getEffectiveName()
+                targetUser.getId(),
+                targetUser.getEffectiveName()
         );
 
         // Get current balance before deduction
@@ -80,7 +81,7 @@ public class VolunteeringPayCommand {
                             "Previous Amount Owed: $%.2f\n" +
                             "**We have to pay this guy $%.2f now lol**",
                     paymentAmount,
-                    targetMember.getAsMention(),
+                    targetUser.getAsMention(),
                     currentBalance,
                     -newBalance
             );
@@ -90,7 +91,7 @@ public class VolunteeringPayCommand {
                             "Previous Amount Owed: $%.2f\n" +
                             "New Amount Owed: $%.2f",
                     paymentAmount,
-                    targetMember.getAsMention(),
+                    targetUser.getAsMention(),
                     currentBalance,
                     newBalance
             );
