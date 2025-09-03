@@ -24,6 +24,8 @@ import net.dv8tion.jda.api.interactions.commands.OptionType;
 
 public class CommandManager extends ListenerAdapter {
 
+    public static List<CommandData> commandData = new ArrayList<>();
+
     @Override
     public void onSlashCommandInteraction(@NotNull SlashCommandInteractionEvent event) {
         String command = event.getName();
@@ -35,17 +37,21 @@ public class CommandManager extends ListenerAdapter {
             HelpCommand.execute(event);
         } else if (command.equals("volunteering-remove-payment")) {
             VolunteeringRemovePaymentCommand.execute(event);
+        } else if (command.equals("ask")) {
+            Z_GPTCommand.execute(event);
         }
     }
 
-    @Override
-    public void onGuildReady(@NotNull GuildReadyEvent event) {
-        List<CommandData> commandData = new ArrayList<>();
+    public static void initializeCommands() {
         commandData.add(MainPageCommand.getCommandData());
         commandData.add(ShutdownCommand.getCommandData());
         commandData.add(HelpCommand.getCommandData());
         commandData.add(VolunteeringRemovePaymentCommand.getCommandData());
+        commandData.add(Z_GPTCommand.getCommandData());
+    }
 
+    @Override
+    public void onGuildReady(@NotNull GuildReadyEvent event) {
 
         event.getGuild().updateCommands().addCommands(commandData).queue();
     }

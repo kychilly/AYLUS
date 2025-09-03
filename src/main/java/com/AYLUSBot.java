@@ -55,6 +55,8 @@ public class AYLUSBot {
             }
         });
         shardManager.addEventListener(new ButtonInteractionListener());
+
+        CommandManager.initializeCommands();
     }
 
     private void registerCommands(JDA jda) {
