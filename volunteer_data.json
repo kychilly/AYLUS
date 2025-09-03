@@ -85,5 +85,20 @@
     "entries": [],
     "paymentHistory": [],
     "totalMoneyOwed": 0.0
+  },
+  "758388388687642635": {
+    "userId": "758388388687642635",
+    "username": ".knaii",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "07/22/2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
   }
 }

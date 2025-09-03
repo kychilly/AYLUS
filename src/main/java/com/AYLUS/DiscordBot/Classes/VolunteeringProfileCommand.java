@@ -22,7 +22,7 @@ public class VolunteeringProfileCommand {
                 : event.getMember();
 
         UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
-        String displayName = member.getNickname() != null ? member.getNickname() : target.getName();
+        String displayName = member != null ? member.getEffectiveName() : target.getName();
 
         // Sort entries newest-first
         List<VolunteerEntry> sortedEntries = new ArrayList<>(profile.getEntries());

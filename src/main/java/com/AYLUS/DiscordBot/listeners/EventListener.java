@@ -7,6 +7,7 @@ import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import org.jetbrains.annotations.NotNull;
 
 import java.awt.*;
+import java.util.Objects;
 
 
 public class EventListener extends ListenerAdapter {
@@ -19,8 +20,9 @@ public class EventListener extends ListenerAdapter {
 
         String message = event.getMessage().getContentRaw();
 
-        if (message.equalsIgnoreCase("!testServer")) {
-            event.getChannel().sendMessage("https://discord.gg/jmGjCgGmJG").queue();
+        if (message.equalsIgnoreCase(event.getJDA().getSelfUser().getAsMention())) {
+            event.getChannel().sendMessage(String.format("Hello, %s, Please use **/volunteer-profile** or **/volunteer-leaderboard**" +
+                    " to check your hours!", Objects.requireNonNull(event.getMember()).getAsMention())).queue();
         } else if (message.equalsIgnoreCase("!status")) {
             event.getChannel().sendMessage(event.getJDA().getPresence().getStatus().toString()).queue();
         } else if (message.equalsIgnoreCase("!activity")) {
@@ -40,7 +42,6 @@ public class EventListener extends ListenerAdapter {
                             .build()
             ).queue();
         }
-
 
     }
 }

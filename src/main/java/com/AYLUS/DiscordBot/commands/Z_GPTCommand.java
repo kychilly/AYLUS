@@ -141,7 +141,6 @@ public class Z_GPTCommand {
                 .replace('с', 'c')  // Cyrillic c
                 .replace('κ', 'k')  // Greek kappa
                 .replace('е', 'e')  // Cyrillic e
-                .replace('v', 'v')  // just to be explicit
                 ;
     }
 
