@@ -21,6 +21,7 @@ public class VolunteeringLeaderboardCommand {
         if (leaderboard.isEmpty()) {
             EmbedBuilder embed = new EmbedBuilder()
                     .setTitle("Volunteering Leaderboard")
+                    .setThumbnail(event.getJDA().getSelfUser().getAvatarUrl())
                     .setColor(Color.ORANGE)
                     .setDescription("No volunteer hours logged yet!");
             event.replyEmbeds(embed.build()).queue();
@@ -71,6 +72,7 @@ public class VolunteeringLeaderboardCommand {
     private static EmbedBuilder buildLeaderboardEmbed(Interaction event, LeaderboardPagination pagination, int pageIndex, List<UserVolunteerProfile> page) {
         EmbedBuilder embed = new EmbedBuilder()
                 .setTitle("Volunteering Leaderboard")
+                .setThumbnail(event.getJDA().getSelfUser().getAvatarUrl())
                 .setColor(Color.ORANGE);
 
         StringBuilder sb = new StringBuilder();

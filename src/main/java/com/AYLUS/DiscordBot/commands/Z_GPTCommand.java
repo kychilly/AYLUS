@@ -34,7 +34,7 @@ public class Z_GPTCommand {
     }
 
     public static void execute(SlashCommandInteractionEvent event) {
-        String message = event.getOption(getDescription() + "prompt").getAsString(); // Change this here
+        String message = event.getOption("prompt").getAsString(); // Change this here
         String userId = event.getMember().getId();
         long now = Instant.now().toEpochMilli();
 
@@ -70,11 +70,11 @@ public class Z_GPTCommand {
 
         JsonObject userMessage = new JsonObject();
         userMessage.addProperty("role", "user");
-        userMessage.addProperty("content", prompt);
+        userMessage.addProperty("content", getDescription()+prompt);
         messages.add(userMessage);
 
         JsonObject requestBody = new JsonObject();
-        requestBody.addProperty("model", "llama3-70b-8192");
+        requestBody.addProperty("model", "llama-3.3-70b-versatile");
         requestBody.add("messages", messages);
 
         RequestBody body = RequestBody.create(requestBody.toString(), JSON);

@@ -17,9 +17,6 @@ public class VolunteeringPaymentHistoryCommand {
         User target = event.getOption("user") != null
                 ? event.getOption("user").getAsUser()
                 : event.getUser();
-        Member member = event.getOption("user") != null
-                ? event.getOption("user").getAsMember()
-                : event.getMember();
 
         UserVolunteerProfile profile = volunteerManager.getProfile(target.getId(), target.getName());
         String displayName = target.getEffectiveName(); // Should never return null display name
