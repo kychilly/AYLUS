@@ -71,7 +71,7 @@ public class AYLUSBot {
                                         new OptionData(OptionType.USER, "user", "User to log hours for", true),
                                         new OptionData(OptionType.STRING, "event", "Name of the event", true),
                                         new OptionData(OptionType.NUMBER, "hours", "Hours volunteered", true)
-                                                .setMinValue(0.1)
+                                                .setMinValue(0.0)
                                                 .setMaxValue(24.0),
                                         new OptionData(OptionType.STRING, "date", "Date (DD-MM-YYYY)", true),
                                         new OptionData(OptionType.NUMBER, "money-owed", "Money owed to AYLUS (xx.xx). Ex: $10.99 → \"10.99\". Ex2: $10 → \"10\" or \"10.00\". Blank if none.", false)

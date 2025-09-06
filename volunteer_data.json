@@ -2,15 +2,8 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 6.0,
-    "entries": [
-      {
-        "eventName": "Lamb Skewer BBQ Fundraising",
-        "hours": 6.0,
-        "date": "05/07/2023",
-        "money": 0.0
-      }
-    ],
+    "totalHours": 0.0,
+    "entries": [],
     "paymentHistory": [],
     "totalMoneyOwed": 0.0
   },
@@ -485,9 +478,40 @@
   "683127229583982634": {
     "userId": "683127229583982634",
     "username": "owiess",
-    "totalHours": 0.0,
-    "entries": [],
-    "totalMoneyOwed": 0.0
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Saturday Christmas Box",
+        "hours": 1.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Donate Clothes",
+        "hours": 1.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Monday Make Tiramisu Cakes",
+        "hours": 4.0,
+        "date": "12/26/2022",
+        "money": 23.88
+      },
+      {
+        "eventName": "Lamb Skewer BBQ Fundraising",
+        "hours": 6.0,
+        "date": "05/07/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sleeping Giant Park Cleaning",
+        "hours": 2.0,
+        "date": "05/29/2023",
+        "money": 0.0
+      }
+    ],
+    "totalMoneyOwed": 23.88
   },
   "739978476651544607": {
     "userId": "739978476651544607",
@@ -3654,5 +3678,617 @@
     ],
     "paymentHistory": [],
     "totalMoneyOwed": 29.28
+  },
+  "704843825444814878": {
+    "userId": "704843825444814878",
+    "username": "fnnuy",
+    "totalHours": 40.0,
+    "entries": [
+      {
+        "eventName": "Cheshire Library Reading Review",
+        "hours": 2.0,
+        "date": "08/11/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Library Reading Review 2",
+        "hours": 2.0,
+        "date": "08/19/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Library Reading Review 3",
+        "hours": 2.0,
+        "date": "08/25/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Master\u0027s Manna (Clothes Distriubution)",
+        "hours": 2.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Mixville Park Cleaning",
+        "hours": 1.5,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clothes Collection and Donation",
+        "hours": 1.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fundraising",
+        "hours": 2.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Hubbard Park Cleaning",
+        "hours": 4.0,
+        "date": "09/03/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Chrismtas Box",
+        "hours": 1.0,
+        "date": "12/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "12/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Origami Flower Connor\u0027s House",
+        "hours": 2.0,
+        "date": "01/16/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sleeping Giant Park Cleaning",
+        "hours": 2.0,
+        "date": "05/29/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Strawberry Festival",
+        "hours": 5.0,
+        "date": "06/10/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 1.0,
+        "date": "04/01/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Car Wash",
+        "hours": 5.5,
+        "date": "07/13/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday Lamb Skewer BBQ",
+        "hours": 5.0,
+        "date": "07/14/2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "447207338751819787": {
+    "userId": "447207338751819787",
+    "username": "chinaguy9",
+    "totalHours": 12.5,
+    "entries": [
+      {
+        "eventName": "Mixville Park Cleaning",
+        "hours": 1.5,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clothes Collection and Donation",
+        "hours": 1.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fundraising",
+        "hours": 1.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Master\u0027s Manna (Box Distribution)",
+        "hours": 1.5,
+        "date": "09/01/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Apple Harvest Festival - 2 Mile Walk",
+        "hours": 2.0,
+        "date": "10/02/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Library Book Review",
+        "hours": 2.0,
+        "date": "10/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Apple Harvest Road Races",
+        "hours": 2.0,
+        "date": "10/01/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Firefighter Appreciation \u0026 Join Open House",
+        "hours": 1.5,
+        "date": "10/08/2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "1033116484903387136": {
+    "userId": "1033116484903387136",
+    "username": "techkineticsincorporated",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Clothes Collection and Donation",
+        "hours": 1.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fundraising",
+        "hours": 2.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Toys Sell at Bartlem",
+        "hours": 3.5,
+        "date": "09/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Apple Harvest Festival - 2 Mile Walk",
+        "hours": 2.5,
+        "date": "10/02/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Origami Flower Connor\u0027s House",
+        "hours": 2.0,
+        "date": "01/16/2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "760164043586797628": {
+    "userId": "760164043586797628",
+    "username": "axexecuted",
+    "totalHours": 21.5,
+    "entries": [
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "08/29/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Master\u0027s Manna (Box Distribution)",
+        "hours": 1.5,
+        "date": "09/01/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Hubbard Park Cleaning",
+        "hours": 2.5,
+        "date": "09/03/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Walk to End Alzeimer",
+        "hours": 2.0,
+        "date": "09/25/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "09/26/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Apple Harvest Festival - Refreshment Table",
+        "hours": 2.5,
+        "date": "10/02/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lamb Skewer BBQ Fundraising",
+        "hours": 4.0,
+        "date": "05/07/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "CT Foodshare",
+        "hours": 3.0,
+        "date": "10/09/2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "1119660765348122665": {
+    "userId": "1119660765348122665",
+    "username": "alvan_8",
+    "totalHours": 48.0,
+    "entries": [
+      {
+        "eventName": "Cheshire Food Drive",
+        "hours": 3.5,
+        "date": "11/04/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Food Drive",
+        "hours": 2.0,
+        "date": "11/05/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "YMCA Sloper",
+        "hours": 3.5,
+        "date": "04/13/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 3.0,
+        "date": "06/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycle",
+        "hours": 2.0,
+        "date": "06/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Car Wash",
+        "hours": 4.5,
+        "date": "07/13/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday Lamb Skewer BBQ",
+        "hours": 5.0,
+        "date": "07/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Krispy Kreme Fundraiser",
+        "hours": 6.0,
+        "date": "07/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 2.0,
+        "date": "07/28/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycle",
+        "hours": 2.0,
+        "date": "07/28/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Book Review",
+        "hours": 2.0,
+        "date": "08/01/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Deliver Donuts",
+        "hours": 4.0,
+        "date": "08/02/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wolcott Lion Fair",
+        "hours": 3.0,
+        "date": "08/11/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fall Festival Car Show",
+        "hours": 3.5,
+        "date": "09/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "YMCA Apple Harvest Road Race",
+        "hours": 2.0,
+        "date": "10/06/2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "924836583268560957": {
+    "userId": "924836583268560957",
+    "username": "czzzzzzzzzzzz",
+    "totalHours": 35.0,
+    "entries": [
+      {
+        "eventName": "AYLUS National Essay Contest",
+        "hours": 3.0,
+        "date": "11/30/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Christmas Box",
+        "hours": 1.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Donate Clothes",
+        "hours": 1.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Monday Make Tiramisu Cakes",
+        "hours": 4.0,
+        "date": "12/26/2022",
+        "money": 23.88
+      },
+      {
+        "eventName": "YMCA Sloper",
+        "hours": 3.5,
+        "date": "04/13/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "YMCA Sloper",
+        "hours": 3.5,
+        "date": "04/27/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "YMCA Sloper",
+        "hours": 3.0,
+        "date": "05/18/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Car Wash",
+        "hours": 5.5,
+        "date": "07/13/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wolcott Lian Fair",
+        "hours": 5.0,
+        "date": "08/11/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Food Drie",
+        "hours": 3.5,
+        "date": "11/02/2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 23.88
+  },
+  "435039225318998027": {
+    "userId": "435039225318998027",
+    "username": "miyakia",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Saturday Christmas Box",
+        "hours": 1.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Donate Clothes",
+        "hours": 1.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "1022660803154948106": {
+    "userId": "1022660803154948106",
+    "username": "ishav6324",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Friday Donate to Bus Driver",
+        "hours": 2.0,
+        "date": "11/04/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Bottle Recycle",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Lights of Hope",
+        "hours": 2.0,
+        "date": "11/12/2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "624395391655346190": {
+    "userId": "624395391655346190",
+    "username": ".ludichris.",
+    "totalHours": 10.5,
+    "entries": [
+      {
+        "eventName": "Performance Practice",
+        "hours": 2.5,
+        "date": "09/11/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Band Practiec for Preschool Performance",
+        "hours": 2.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Band Practice",
+        "hours": 2.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Performance at 1st Church Preschool",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Lights of Hope",
+        "hours": 2.0,
+        "date": "11/12/2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "757944388729962577": {
+    "userId": "757944388729962577",
+    "username": "sarahh07839",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Saturday Setup for New Member Welcome",
+        "hours": 1.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Park Cleanup - Mixville",
+        "hours": 2.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday New Member Orientation",
+        "hours": 1.0,
+        "date": "10/16/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Food Drive",
+        "hours": 2.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Lights of Hope",
+        "hours": 2.0,
+        "date": "11/12/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS National Essay Contest",
+        "hours": 3.0,
+        "date": "11/30/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Foodshare",
+        "hours": 2.0,
+        "date": "03/17/2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "857997564619128853": {
+    "userId": "857997564619128853",
+    "username": "emilie258",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "10/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Friday Donate to Bus Driver",
+        "hours": 2.0,
+        "date": "11/04/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Bottle Recycle",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "1380618788835299348": {
+    "userId": "1380618788835299348",
+    "username": "cutekawaiikittenuwu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Foodshare",
+        "hours": 2.0,
+        "date": "03/17/2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
   }
 }
