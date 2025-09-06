@@ -11,6 +11,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 import static com.AYLUS.DiscordBot.Classes.VolunteerCommands.getVolunteerManager;
+import static com.AYLUS.DiscordBot.Classes.VolunteerCommands.volunteerManager;
 
 public class VolunteeringLogCommand {
 
@@ -69,10 +70,12 @@ public class VolunteeringLogCommand {
                 moneyOwed
         );
 
-        //money check before response
-        String temp = "";
+        // Money check before response
+        String temp;
         if (moneyOwed != 0) {
             temp = String.format("\nMoney Owed: $%.2f", moneyOwed);
+        } else {
+            temp = "\nMoney Owed: $0.00";
         }
 
         // Build response
@@ -84,7 +87,11 @@ public class VolunteeringLogCommand {
                 dateStr
         );
 
+
         HourAndMoneyTracker.updateHoursAndMoney(hours, moneyOwed, 0); // hours volunteered, if spent any money, 0 money paid back from an event
+
+        // Tiny spagetthi code for now
+        response +=  "\n\n" + targetUser.getAsMention() + " now has " + volunteerManager.getProfile(targetUser.getId(), targetUser.getName()).getTotalHours() + " hours logged!";
 
         event.replyEmbeds(
                 new EmbedBuilder()
