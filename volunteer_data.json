@@ -225,6 +225,12 @@
         "hours": 2.0,
         "date": "08/07/2024",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [
@@ -234,7 +240,7 @@
         "date": "2025-09-06"
       }
     ],
-    "totalMoneyOwed": -23.12
+    "totalMoneyOwed": 6.879999999999999
   },
   "680189020076376080": {
     "userId": "680189020076376080",
@@ -688,6 +694,12 @@
         "hours": 3.0,
         "date": "04/27/2024",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [
@@ -702,7 +714,7 @@
         "date": "2025-09-04"
       }
     ],
-    "totalMoneyOwed": -16.509999999999998
+    "totalMoneyOwed": 13.490000000000002
   },
   "683127229583982634": {
     "userId": "683127229583982634",
@@ -1468,6 +1480,12 @@
         "hours": 2.0,
         "date": "04/28/2024",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [
@@ -1500,9 +1518,14 @@
         "amount": 9.09,
         "description": "Justin Pay",
         "date": "2025-09-03"
+      },
+      {
+        "amount": 720.0,
+        "description": "Paid for hoodies",
+        "date": "2025-09-07"
       }
     ],
-    "totalMoneyOwed": 0.0
+    "totalMoneyOwed": -690.0
   },
   "1165809244994547774": {
     "userId": "1165809244994547774",
@@ -1988,6 +2011,12 @@
         "hours": 1.0,
         "date": "04/01/2024",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [
@@ -2007,7 +2036,7 @@
         "date": "2025-09-04"
       }
     ],
-    "totalMoneyOwed": -78.47
+    "totalMoneyOwed": -48.47
   },
   "762384078095384596": {
     "userId": "762384078095384596",
@@ -2259,6 +2288,12 @@
         "hours": 3.0,
         "date": "09/09/2023",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [
@@ -2268,7 +2303,7 @@
         "date": "2025-09-06"
       }
     ],
-    "totalMoneyOwed": -47.62
+    "totalMoneyOwed": -17.619999999999997
   },
   "831132850199724032": {
     "userId": "831132850199724032",
@@ -2352,10 +2387,16 @@
         "hours": 2.0,
         "date": "11/07//2023",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalMoneyOwed": 30.0
   },
   "692478242954805268": {
     "userId": "692478242954805268",
@@ -2463,10 +2504,16 @@
         "hours": 2.0,
         "date": "11/07/2023",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalMoneyOwed": 30.0
   },
   "736044102780715020": {
     "userId": "736044102780715020",
@@ -2985,10 +3032,16 @@
         "hours": 4.0,
         "date": "12/26/2022",
         "money": 23.88
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 29.759999999999998
+    "totalMoneyOwed": 59.76
   },
   "854773464703434805": {
     "userId": "854773464703434805",
@@ -3270,10 +3323,16 @@
         "hours": 2.0,
         "date": "10/06/2024",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 29.759999999999998
+    "totalMoneyOwed": 59.76
   },
   "757358337007288420": {
     "userId": "757358337007288420",
@@ -3903,10 +3962,16 @@
         "hours": 4.0,
         "date": "04/26/2025",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 29.28
+    "totalMoneyOwed": 59.28
   },
   "704843825444814878": {
     "userId": "704843825444814878",
@@ -4065,10 +4130,16 @@
         "hours": 1.5,
         "date": "10/08/2023",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalMoneyOwed": 30.0
   },
   "1033116484903387136": {
     "userId": "1033116484903387136",
@@ -4104,10 +4175,16 @@
         "hours": 2.0,
         "date": "01/16/2023",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalMoneyOwed": 30.0
   },
   "760164043586797628": {
     "userId": "760164043586797628",
@@ -4473,10 +4550,16 @@
         "hours": 2.0,
         "date": "03/17/2023",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalMoneyOwed": 30.0
   },
   "857997564619128853": {
     "userId": "857997564619128853",
@@ -4599,10 +4682,16 @@
         "hours": 3.0,
         "date": "08/12/2023",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalMoneyOwed": 30.0
   },
   "717453663186190446": {
     "userId": "717453663186190446",
@@ -5052,6 +5141,12 @@
         "hours": 2.0,
         "date": "04/26/2025",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [
@@ -5061,7 +5156,7 @@
         "date": "2025-09-06"
       }
     ],
-    "totalMoneyOwed": -50.0
+    "totalMoneyOwed": -20.0
   },
   "1214555543016837142": {
     "userId": "1214555543016837142",
@@ -5883,9 +5978,30 @@
         "hours": 4.0,
         "date": "04/26/2025",
         "money": 0.0
+      },
+      {
+        "eventName": "Purchase Hoodie",
+        "hours": 0.0,
+        "date": "10/15/2022",
+        "money": 30.0
       }
     ],
     "paymentHistory": [],
-    "totalMoneyOwed": 25.41
+    "totalMoneyOwed": 55.41
+  },
+  "1311526629729632316": {
+    "userId": "1311526629729632316",
+    "username": "skibidium",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Car Wash",
+        "hours": 4.0,
+        "date": "07/13/2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
   }
 }
