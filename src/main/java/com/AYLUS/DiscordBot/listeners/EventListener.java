@@ -37,7 +37,7 @@ public class EventListener extends ListenerAdapter {
                             .setColor(Color.BLUE)
                             .addField("Hours Logged", String.format("⏱️ %.1f", HourAndMoneyTracker.getTotalHours()), false)
                             .addField("Money Spent on AYLUS Events", String.format("💸 $%.2f", HourAndMoneyTracker.getTotalMoneyNeeded()), false)
-                            .addField("Money Paid Back", String.format("💰 $%.2f", HourAndMoneyTracker.getTotalMoneyPaidBack()), false)
+                            .addField("Money Paid Back (dont use this)", String.format("💰 $%.2f", HourAndMoneyTracker.getTotalMoneyPaidBack()), false)
                             .setThumbnail(event.getJDA().getSelfUser().getAvatarUrl())
                             .build()
             ).queue();

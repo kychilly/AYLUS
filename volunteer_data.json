@@ -2,10 +2,239 @@
   "840216337119969301": {
     "userId": "840216337119969301",
     "username": "62_620",
-    "totalHours": 0.0,
-    "entries": [],
-    "paymentHistory": [],
-    "totalMoneyOwed": 0.0
+    "totalHours": 88.0,
+    "entries": [
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "07/22/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Performance at 1st Church Preschool",
+        "hours": 3.0,
+        "date": "07/28/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Library Reading Review",
+        "hours": 2.0,
+        "date": "08/11/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Library Reading Review 2",
+        "hours": 2.0,
+        "date": "08/19/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Master\u0027s Manna (Clothes Distribution)",
+        "hours": 2.0,
+        "date": "08/22/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Library Reading Review 3",
+        "hours": 2.0,
+        "date": "08/25/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Master\u0027s Manna (Clothes Distribution)",
+        "hours": 2.0,
+        "date": "08/27/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "08/29/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clothes Donation at Cheshire Goodwill",
+        "hours": 1.0,
+        "date": "08/29/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Hubbard Park Cleaning",
+        "hours": 4.0,
+        "date": "09/03/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Create Poster for Cheshire Cultural Diversity Association",
+        "hours": 1.0,
+        "date": "09/09/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Toys Sell at Bartlem",
+        "hours": 3.0,
+        "date": "09/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "09/26/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Setup for New Member Welcome",
+        "hours": 1.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "10/29/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Library Book Review",
+        "hours": 2.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Food Drive",
+        "hours": 3.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Band Practice",
+        "hours": 2.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Performance at 1st Church Preschool",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Lights of Hope",
+        "hours": 2.0,
+        "date": "11/12/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Monday Make Tiramisu Cakes",
+        "hours": 4.0,
+        "date": "12/26/2022",
+        "money": 23.88
+      },
+      {
+        "eventName": "Foodshare",
+        "hours": 2.0,
+        "date": "03/17/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lamb Skewer BBQ Fundraising",
+        "hours": 6.0,
+        "date": "05/07/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Firefighter Appreciation Cards",
+        "hours": 1.5,
+        "date": "06/23/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Library Book Review",
+        "hours": 2.0,
+        "date": "06/23/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Reading Program",
+        "hours": 3.5,
+        "date": "07/10/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Reading Program",
+        "hours": 3.5,
+        "date": "07/12/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Reading Program",
+        "hours": 3.5,
+        "date": "07/14/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lego Drive",
+        "hours": 0.5,
+        "date": "07/22/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clean Trails at Hammonasset State Park",
+        "hours": 1.0,
+        "date": "08/03/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Krispy Kreme Fundraiser",
+        "hours": 2.0,
+        "date": "06/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 2.0,
+        "date": "07/28/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycle",
+        "hours": 2.0,
+        "date": "07/28/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Book Review",
+        "hours": 2.0,
+        "date": "08/01/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Deliver Donuts",
+        "hours": 4.0,
+        "date": "08/02/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Door to Door Sale",
+        "hours": 1.5,
+        "date": "08/02/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Book Review",
+        "hours": 2.0,
+        "date": "08/07/2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [
+      {
+        "amount": 47.0,
+        "description": "Paid for Pizza",
+        "date": "2025-09-06"
+      }
+    ],
+    "totalMoneyOwed": -23.12
   },
   "680189020076376080": {
     "userId": "680189020076376080",
@@ -4290,5 +4519,1373 @@
     ],
     "paymentHistory": [],
     "totalMoneyOwed": 0.0
+  },
+  "857334696383348756": {
+    "userId": "857334696383348756",
+    "username": "tvirty_",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "\u003c@857334696383348756\u003e",
+        "hours": 2.0,
+        "date": "10/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday New Member Orientation",
+        "hours": 1.0,
+        "date": "10/16/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "10/22/2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "967150397984768051": {
+    "userId": "967150397984768051",
+    "username": "florkivs",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "One Clean Day of Fun",
+        "hours": 4.0,
+        "date": "10/01/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Park Cleanup - Mixville",
+        "hours": 2.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday New Member Orientation",
+        "hours": 1.0,
+        "date": "10/16/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Bottle Recycle",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Lights of Hope",
+        "hours": 2.0,
+        "date": "11/12/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Bottle Recycle",
+        "hours": 1.0,
+        "date": "12/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Library Origami Flower Making",
+        "hours": 2.0,
+        "date": "01/14/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse",
+        "hours": 3.0,
+        "date": "08/12/2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "717453663186190446": {
+    "userId": "717453663186190446",
+    "username": "dingus28",
+    "totalHours": 175.0,
+    "entries": [
+      {
+        "eventName": "Hubbard Park Cleaning",
+        "hours": 3.5,
+        "date": "09/03/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Toys Sell at Bartlem",
+        "hours": 3.0,
+        "date": "09/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Walk to End Alzeimer",
+        "hours": 2.0,
+        "date": "09/25/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Apple Harvest Festival - 2 Mile Walk",
+        "hours": 2.5,
+        "date": "10/02/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Setup for New Member Welcome",
+        "hours": 1.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday park Cleanin - Mixville",
+        "hours": 2.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Food Drive",
+        "hours": 2.0,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Bottle Recycle",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Mixville Park Cleaning",
+        "hours": 1.5,
+        "date": "04/16/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Preparation for the Fundraising of Lamb Skewer",
+        "hours": 1.0,
+        "date": "04/16/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lamb Skewer BBQ Fundraising",
+        "hours": 5.0,
+        "date": "05/07/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sleeping Giant Cleanup",
+        "hours": 2.0,
+        "date": "09/03/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Fall Festival - Car Show",
+        "hours": 4.0,
+        "date": "09/09/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "WhartonBrook - Clean Park",
+        "hours": 1.0,
+        "date": "09/17/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 3.0,
+        "date": "09/30/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycle",
+        "hours": 2.0,
+        "date": "09/30/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "CT Foodshare",
+        "hours": 3.0,
+        "date": "10/09/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Food Drive",
+        "hours": 3.0,
+        "date": "11/05/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Donates Gifts to Appreciate Doners During Holiday Season",
+        "hours": 2.0,
+        "date": "12/23/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 1.0,
+        "date": "04/01/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 1.0,
+        "date": "04/02/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "YMCA Sloper",
+        "hours": 6.0,
+        "date": "04/13/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 2.0,
+        "date": "04/16/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 2.0,
+        "date": "04/20/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 2.5,
+        "date": "04/23/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse",
+        "hours": 2.0,
+        "date": "04/27/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 3.0,
+        "date": "04/28/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycle",
+        "hours": 2.0,
+        "date": "04/28/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 2.0,
+        "date": "04/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "05/07/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "05/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "05/21/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "06/04/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "06/11/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 3.0,
+        "date": "06/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycle",
+        "hours": 2.0,
+        "date": "06/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/09/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/10/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Car Wash",
+        "hours": 5.5,
+        "date": "07/13/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday Lamb Skewer BBQ",
+        "hours": 5.5,
+        "date": "07/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 1.0,
+        "date": "07/16/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/17/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/24/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 1.0,
+        "date": "07/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/31/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Door to Door Sale",
+        "hours": 1.5,
+        "date": "08/04/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summer Themed Mini Camp(Yellowhouse)",
+        "hours": 4.0,
+        "date": "08/05/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summer Themed Mini Camp(Yellowhouse)",
+        "hours": 4.0,
+        "date": "08/06/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 1.5,
+        "date": "08/06/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summer Themed Mini Camp(Yellowhouse)",
+        "hours": 4.0,
+        "date": "08/07/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summer Themed Mini Camp(Yellowhouse)",
+        "hours": 4.0,
+        "date": "08/08/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wolcott Lion Fair",
+        "hours": 4.0,
+        "date": "08/10/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wolcott Lion Fair",
+        "hours": 3.0,
+        "date": "08/11/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "12/07/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "12/10/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "12/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/07/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/11/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/14/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/18/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/21/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/25/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/28/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "02/01/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "02/22/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "02/25/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/01/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/08/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/11/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/15/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/22/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/29/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "04/05/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "04/26/2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [
+      {
+        "amount": 50.0,
+        "description": "Paid for Lamb Skewer",
+        "date": "2025-09-06"
+      }
+    ],
+    "totalMoneyOwed": -50.0
+  },
+  "1214555543016837142": {
+    "userId": "1214555543016837142",
+    "username": "aply.k",
+    "totalHours": 326.75,
+    "entries": [
+      {
+        "eventName": "Tutoring 3-7 Year Olds",
+        "hours": 1.0,
+        "date": "1",
+        "money": 10.44
+      },
+      {
+        "eventName": "Master\u0027s Manna (Box Distribution)",
+        "hours": 1.5,
+        "date": "09/01/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Hubbard Park Cleaning",
+        "hours": 3.5,
+        "date": "09/03/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Create Poster for Cheshire Cultural Diversity Association",
+        "hours": 1.0,
+        "date": "09/09/2022",
+        "money": 5.88
+      },
+      {
+        "eventName": "Cheshire Festival Volunteering - Car Show",
+        "hours": 2.5,
+        "date": "09/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Toys Sell at Bartlem",
+        "hours": 3.0,
+        "date": "09/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Walk to End Alzeimer",
+        "hours": 2.0,
+        "date": "09/25/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "09/26/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "One Clean Day of Fun",
+        "hours": 2.5,
+        "date": "10/01/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Apple Harvest Festival - 5k",
+        "hours": 2.5,
+        "date": "10/02/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Library Book Review",
+        "hours": 2.0,
+        "date": "10/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "10/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Park Cleanup - Mixville",
+        "hours": 2.0,
+        "date": "10/15/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday New Member Orientation",
+        "hours": 1.0,
+        "date": "10/16/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "10/29/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Food Drive",
+        "hours": 2.5,
+        "date": "11/05/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday Food Drive",
+        "hours": 4.25,
+        "date": "11/06/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tuesday Bottle Recycle",
+        "hours": 2.0,
+        "date": "11/08/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Cheshire Lights of Hope",
+        "hours": 2.0,
+        "date": "11/12/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "11/26/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Clothes Donation at CVS",
+        "hours": 1.0,
+        "date": "11/26/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS National Essay Contest",
+        "hours": 3.0,
+        "date": "11/30/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Bottle Recycle",
+        "hours": 1.0,
+        "date": "12/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Christmas Box",
+        "hours": 1.0,
+        "date": "12/10/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Book Review",
+        "hours": 2.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Christmas Box",
+        "hours": 1.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saturday Donate Clothes",
+        "hours": 1.0,
+        "date": "12/17/2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Library Origami Flower Making",
+        "hours": 2.0,
+        "date": "01/14/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Origami Flower Connor\u0027s House",
+        "hours": 2.0,
+        "date": "01/16/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Foodshare",
+        "hours": 2.0,
+        "date": "03/17/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Mixville Park Cleaning",
+        "hours": 2.0,
+        "date": "04/16/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Preparation for the Fundraising of Lamb Skewer",
+        "hours": 2.0,
+        "date": "04/16/2023",
+        "money": 9.09
+      },
+      {
+        "eventName": "YMCA Sloper Cleanup",
+        "hours": 6.0,
+        "date": "04/22/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycling Stop\u0026Shop",
+        "hours": 2.0,
+        "date": "04/30/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Clothes Donation",
+        "hours": 1.0,
+        "date": "04/30/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lamb Skewer BBQ Fundraising",
+        "hours": 6.0,
+        "date": "05/07/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sleeping Giant Park Cleaning",
+        "hours": 2.0,
+        "date": "05/29/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Strawberry Festival",
+        "hours": 8.0,
+        "date": "06/10/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycle Stop\u0026shop",
+        "hours": 2.0,
+        "date": "06/21/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Donate Clothes Donation Box",
+        "hours": 1.0,
+        "date": "06/21/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Connecticut Foodshare",
+        "hours": 3.0,
+        "date": "06/21/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Firefighter Appreciation Cards",
+        "hours": 1.5,
+        "date": "06/23/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Farmington Trail Cleanup",
+        "hours": 2.0,
+        "date": "06/23/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Library Book Review",
+        "hours": 2.0,
+        "date": "06/23/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Book Review",
+        "hours": 2.0,
+        "date": "07/22/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lego Drive",
+        "hours": 1.0,
+        "date": "07/22/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Back to School Drive",
+        "hours": 1.0,
+        "date": "08/14/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Foodshare",
+        "hours": 3.0,
+        "date": "08/14/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Youth Service",
+        "hours": 3.5,
+        "date": "08/15/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Foodshare",
+        "hours": 3.0,
+        "date": "08/21/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Youth Service",
+        "hours": 3.5,
+        "date": "08/22/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Foodshare",
+        "hours": 3.0,
+        "date": "08/23/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Book Review",
+        "hours": 2.0,
+        "date": "08/26/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sleeping Giant Cleanup",
+        "hours": 2.0,
+        "date": "09/03/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Fall Festival - Car Show",
+        "hours": 4.0,
+        "date": "09/09/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "One Clean Day of Fun",
+        "hours": 5.5,
+        "date": "09/16/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Community Pumpkin Patch of Cheshire - Unload Pumpkins",
+        "hours": 2.0,
+        "date": "09/23/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse",
+        "hours": 3.0,
+        "date": "09/30/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 1.5,
+        "date": "09/30/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Recycle",
+        "hours": 2.0,
+        "date": "09/30/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Apple Harvest Road Races",
+        "hours": 2.0,
+        "date": "10/01/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Youth Literacy Program",
+        "hours": 2.5,
+        "date": "10/07/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Firefighter Appreciation \u0026 Join Open House",
+        "hours": 1.5,
+        "date": "10/08/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "CT Foodshare",
+        "hours": 3.0,
+        "date": "10/09/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Youth Literacy Program",
+        "hours": 2.5,
+        "date": "10/14/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Youth Literacy Program",
+        "hours": 2.5,
+        "date": "10/21/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Youth Literacy Program",
+        "hours": 2.5,
+        "date": "10/28/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse Youth Literacy Program",
+        "hours": 2.5,
+        "date": "11/04/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Food Drive",
+        "hours": 1.5,
+        "date": "11/4/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Food Drive",
+        "hours": 3.0,
+        "date": "11/05/2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 1.0,
+        "date": "04/01/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 1.0,
+        "date": "04/02/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "YMCA Sloper",
+        "hours": 6.0,
+        "date": "04/13/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 1.5,
+        "date": "04/16/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 2.0,
+        "date": "04/20/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 2.0,
+        "date": "04/23/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Yellowhouse",
+        "hours": 2.0,
+        "date": "04/27/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive",
+        "hours": 2.0,
+        "date": "04/28/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Tutoring",
+        "hours": 2.0,
+        "date": "04/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "05/07/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "05/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 3.0,
+        "date": "05/21/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Mixville Park Cleaning",
+        "hours": 1.5,
+        "date": "06/01/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "06/04/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "06/11/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/09/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/10/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Sunday Lamb Skewer BBQ",
+        "hours": 5.5,
+        "date": "07/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Krispy Kreme Fundraiser",
+        "hours": 1.0,
+        "date": "07/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 1.0,
+        "date": "07/16/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/17/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/23/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/24/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 1.0,
+        "date": "07/30/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "07/31/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Deliver Donuts",
+        "hours": 2.5,
+        "date": "08/02/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Door to Door Sale",
+        "hours": 1.5,
+        "date": "08/04/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summer Themed Mini Camp(Yellowhouse)",
+        "hours": 4.0,
+        "date": "08/05/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summer Themed Mini Camp(Yellowhouse)",
+        "hours": 4.0,
+        "date": "08/06/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "08/06/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summer Themed Mini Camp(Yellowhouse)",
+        "hours": 4.0,
+        "date": "08/07/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "08/07/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summer Themed Mini Camp(Yellowhouse)",
+        "hours": 4.0,
+        "date": "08/08/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wolcott Lion Fair",
+        "hours": 4.0,
+        "date": "08/10/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wolcott Lion Fair",
+        "hours": 3.0,
+        "date": "08/11/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "08/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Afternoon Adventures Summer Program",
+        "hours": 4.0,
+        "date": "08/19/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 1.5,
+        "date": "08/20/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Afternoon Adventures Summer Program",
+        "hours": 4.0,
+        "date": "08/20/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Afternoon Adventures Summer Program",
+        "hours": 4.0,
+        "date": "08/21/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Afternoon Adventures Summer Program",
+        "hours": 4.0,
+        "date": "08/23/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "08/27/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fall Festival Car Show",
+        "hours": 3.5,
+        "date": "09/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "YMCA Apple Harvest Road Race",
+        "hours": 2.0,
+        "date": "10/06/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cheshire Food Drive",
+        "hours": 6.0,
+        "date": "11/02/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "12/07/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "12/10/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "12/14/2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/11/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/14/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/18/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/21/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/25/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "01/28/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "02/01/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "02/22/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "02/22/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "02/25/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/01/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/08/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 1.0,
+        "date": "03/11/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/15/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/22/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Kumon",
+        "hours": 2.0,
+        "date": "03/29/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "James",
+        "hours": 2.0,
+        "date": "04/05/2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bottle Drive/recycling",
+        "hours": 4.0,
+        "date": "04/26/2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 25.41
   }
 }

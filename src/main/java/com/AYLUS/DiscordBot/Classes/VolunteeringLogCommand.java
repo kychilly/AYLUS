@@ -80,7 +80,7 @@ public class VolunteeringLogCommand {
 
         // Build response
         String response = String.format(
-                "✅ Logged **%.1f hours** for %s for **%s** on %s" + temp,
+                "✅ Logged **%.1f hours** for %s for **%s** on **%s**" + temp,
                 hours,
                 targetUser.getAsMention(),
                 eventName,
