@@ -1,19 +1,14 @@
 package com.AYLUS.DiscordBot.Classes;
 
-// VolunteerManager.java
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
-import java.lang.reflect.Type;
-
 
 import java.io.*;
+import java.lang.reflect.Type;
 import java.time.LocalDate;
 import java.util.*;
 import java.util.stream.Collectors;
-import com.AYLUS.DiscordBot.Classes.UserVolunteerProfile;
-import com.AYLUS.DiscordBot.Classes.VolunteerManager;
-
 
 public class VolunteerManager {
     private static final String DATA_FILE = "volunteer_data.json";
@@ -42,13 +37,28 @@ public class VolunteerManager {
         }
     }
 
-    // Optional payment tracking thing that I don't wanna implement
+    // Returns set of all tracked user IDs / formatted names
+    public Set<String> getAllVolunteers() {
+        return profiles.keySet();
+    }
+
+    // Sums up all individual volunteer entries recorded across every profile
+    public int getTotalEventsCount() {
+        int total = 0;
+        for (UserVolunteerProfile profile : profiles.values()) {
+            if (profile.getEntries() != null) {
+                total += profile.getEntries().size();
+            }
+        }
+        return total;
+    }
+
+    // Optional payment tracking
     public void logPayment(String userId, String username, double amount) {
         logHours(userId, username, "Payment", 0,
                 LocalDate.now().toString(), -amount);
     }
 
-    //dangerous dangerous
     public void clearProfile(String userId) {
         UserVolunteerProfile profile = profiles.get(userId);
         if (profile != null) {
@@ -88,7 +98,7 @@ public class VolunteerManager {
 
                 // Subtract the entry's hours and money from totals
                 profile.setTotalHours(profile.getTotalHours() - entry.getHours());
-                profile.totalMoneyOwed -= entry.getMoney();  // Add this line
+                profile.setTotalMoneyOwed(profile.getTotalMoneyOwed() - entry.getMoney());
 
                 it.remove();
                 saveData();
@@ -98,21 +108,65 @@ public class VolunteerManager {
         return false;
     }
 
+    public static void repairCorruptJsonFile() {
+        File file = new File("volunteer_data.json");
+        if (!file.exists()) return;
+
+        try {
+            String content = new String(java.nio.file.Files.readAllBytes(file.toPath()));
+
+            // 1. If it was cut off mid-string or mid-object, close the open braces
+            content = content.trim();
+            if (!content.endsWith("}")) {
+                // Trim any hanging unterminated string or key/value pair at the end
+                int lastValidBrace = content.lastIndexOf("}");
+                if (lastValidBrace != -1) {
+                    content = content.substring(0, lastValidBrace + 1) + "\n}";
+                }
+            }
+
+            // 2. Parse into JsonObject to ensure valid structure
+            com.google.gson.JsonObject root = com.google.gson.JsonParser.parseString(content).getAsJsonObject();
+
+            // 3. Clean all massive eventName strings across all 16,000 lines
+            root.entrySet().forEach(entry -> {
+                com.google.gson.JsonObject profile = entry.getValue().getAsJsonObject();
+                if (profile.has("entries")) {
+                    com.google.gson.JsonArray entries = profile.getAsJsonArray("entries");
+                    entries.forEach(e -> {
+                        com.google.gson.JsonObject event = e.getAsJsonObject();
+                        if (event.has("eventName")) {
+                            String name = event.get("eventName").getAsString();
+                            if (name.length() > 120) {
+                                event.addProperty("eventName", name.substring(0, 117) + "...");
+                            }
+                        }
+                    });
+                }
+            });
+
+            // 4. Overwrite file with fully valid, clean JSON
+            try (java.io.FileWriter writer = new java.io.FileWriter("volunteer_data.json")) {
+                new com.google.gson.GsonBuilder().setPrettyPrinting().create().toJson(root, writer);
+            }
+            System.out.println("✅ Successfully repaired volunteer_data.json!");
+
+        } catch (Exception e) {
+            System.err.println("Repair failed: " + e.getMessage());
+        }
+    }
+
     // Get the event
     public VolunteerEntry getEvent(String userId, String eventName, String date) {
         UserVolunteerProfile profile = profiles.get(userId);
         if (profile == null) return null;
 
-        // Find and remove the matching entry
-        for (Iterator<VolunteerEntry> it = profile.getEntries().iterator(); it.hasNext();) {
-            VolunteerEntry entry = it.next();
+        for (VolunteerEntry entry : profile.getEntries()) {
             if (entry.getEventName().equalsIgnoreCase(eventName) &&
                     entry.getDate().equals(date)) {
-
                 return entry;
             }
         }
         return null;
     }
-
 }

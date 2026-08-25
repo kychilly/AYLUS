@@ -1,4 +1,11 @@
-Custom Discord Bot for AYLUS Cheshire CT Branch,
-Stores Various Types of Volunteering Data
+Unofficial AYLUS discord tracker
+https://aylus.org/
+Created by: Jeffrey Yam - Cheshire Branch
+All data pulled from official AYLUS website, total parameters may be undercounting, as some event data is not published
 
-AYLUS: https://aylus.org/cheshire-ct/
+| Metric | Value |
+| :--- | :--- |
+| **Total Hours Tracked** | $20,813.8\text{ hrs}$ |
+| **Total Volunteers** | $619$ |
+| **Total Events (minimum)** | $3,026$ |
+| **Total Funds Raised** | $\$40,673.90$ |

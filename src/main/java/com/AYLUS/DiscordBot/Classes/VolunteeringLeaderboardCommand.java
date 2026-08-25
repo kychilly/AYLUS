@@ -78,11 +78,17 @@ public class VolunteeringLeaderboardCommand {
         StringBuilder sb = new StringBuilder();
         int startRank = pageIndex * pagination.getItemsPerPage() + 1;
 
+        // Inside buildLeaderboardEmbed method:
         for (int i = 0; i < page.size(); i++) {
             UserVolunteerProfile profile = page.get(i);
+            String userId = profile.getUserId();
+
+            // Check if the ID is a numeric Discord Snowflake or a scraped formatted name
+            String displayName = userId.matches("\\d+") ? "<@" + userId + ">" : profile.getUserId();
+
             sb.append(String.format(
-                    "%d. <@%s> - %.1f hours\n",
-                    startRank + i, profile.getUserId(), profile.getTotalHours()
+                    "%d. %s - %.1f hours\n",
+                    startRank + i, displayName, profile.getTotalHours()
             ));
         }
         embed.setDescription(sb.toString());

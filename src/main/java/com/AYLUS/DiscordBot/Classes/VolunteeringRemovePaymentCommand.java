@@ -55,7 +55,6 @@ public class VolunteeringRemovePaymentCommand {
             if (entry.getAmount() == amount && entry.getDate().equals(date)) {
                 iterator.remove(); // remove from history
                 profile.setTotalMoneyOwed(profile.getTotalMoneyOwed() + amount); // undo deduction
-                HourAndMoneyTracker.updateHoursAndMoney(0, 0, -amount); // reverse global stats
                 removed = true;
                 break;
             }

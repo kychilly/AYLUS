@@ -88,7 +88,7 @@ public class VolunteeringLogCommand {
         );
 
 
-        HourAndMoneyTracker.updateHoursAndMoney(hours, moneyOwed, 0); // hours volunteered, if spent any money, 0 money paid back from an event
+ // hours volunteered, if spent any money, 0 money paid back from an event
 
         // Tiny spagetthi code for now
         response +=  "\n\n" + targetUser.getAsMention() + " now has " + volunteerManager.getProfile(targetUser.getId(), targetUser.getName()).getTotalHours() + " hours logged!";

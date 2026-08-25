@@ -1,5 +1,7 @@
 package com;
 
+import com.AYLUS.DiscordBot.Classes.AylusScraper;
+import com.AYLUS.DiscordBot.Classes.VolunteerManager;
 import com.AYLUS.DiscordBot.commands.ButtonInteractionListener;
 import io.github.cdimascio.dotenv.Dotenv;
 import net.dv8tion.jda.api.OnlineStatus;
@@ -21,6 +23,7 @@ import net.dv8tion.jda.api.interactions.commands.OptionType;
 import com.AYLUS.DiscordBot.listeners.EventListener;
 
 import javax.security.auth.login.LoginException;
+import java.util.concurrent.CompletableFuture;
 
 public class AYLUSBot {
     private final ShardManager shardManager;
@@ -45,12 +48,23 @@ public class AYLUSBot {
         shardManager.addEventListener(new VolunteerCommands());
         shardManager.addEventListener(new EventListener());
 
-        // Add listener for command registration
+        // Add listener for command registration and async scraping trigger
         shardManager.addEventListener(new ListenerAdapter() {
             @Override
             public void onReady(ReadyEvent event) {
                 if (event.getJDA().getShardInfo().getShardId() == 0) {
                     registerCommands(event.getJDA());
+
+                    // Start background scraping after bot is connected
+//                    CompletableFuture.runAsync(() -> {
+//                        System.out.println("🚀 Starting full AYLUS branch scrape in background...");
+//                        AylusScraper.runFullScrape();
+//                        System.out.println("✅ Scrape finished! Data saved to volunteer_data.json.");
+//                    }).exceptionally(ex -> {
+//                        System.err.println("❌ Scrape error encountered: " + ex.getMessage());
+//                        ex.printStackTrace();
+//                        return null;
+//                    });
                 }
             }
         });
@@ -97,7 +111,8 @@ public class AYLUSBot {
                                 .addOption(OptionType.BOOLEAN, "positive", "Be extra careful! Did you select the right person?", true)
                                 .setDefaultPermissions(DefaultMemberPermissions.DISABLED),
                         Commands.slash("payment-history", "View payment history")
-                                .addOption(OptionType.USER, "user", "The user to check", false)
+                                .addOption(OptionType.USER, "user", "The user to check", false),
+                        Commands.slash("totalhours", "stats")
                 )
                 .queue(
                         success -> {
@@ -122,6 +137,7 @@ public class AYLUSBot {
 
     public static void main(String[] args) {
         try {
+            VolunteerManager.repairCorruptJsonFile();
             new AYLUSBot();
         } catch (LoginException e) {
             System.out.println("Error: Invalid bot token - check your .env file");

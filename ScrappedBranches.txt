@@ -1,0 +1,171 @@
+[1/172] Scraping Branch: Auburn (AL)
+[2/172] Scraping Branch: Birmingham (AL)
+[3/172] Scraping Branch: Phoenix (AZ)
+[4/172] Scraping Branch: Scottsdale (AZ)
+[5/172] Scraping Branch: Arcadia, CA Branch
+[6/172] Scraping Branch: Carpinteria (CA)
+[7/172] Scraping Branch: Conejo Valley, CA Branch
+[8/172] Scraping Branch: Cupertino (CA)
+[9/172] Scraping Branch: Fremont (CA)
+[10/172] Scraping Branch: Fullerton (CA)
+[11/172] Scraping Branch: Greater Temecula Valley, CA Branch
+[12/172] Scraping Branch: Irvine, CA Branch
+[13/172] Scraping Branch: Murrieta (CA)
+[14/172] Scraping Branch: North-Hollywood (CA)
+[15/172] Scraping Branch: Palos Verdes Peninsula (CA)
+[16/172] Scraping Branch: Rancho Cucamonga (CA)
+[17/172] Scraping Branch: Rancho Santa Margarita (CA)
+[18/172] Scraping Branch: Riverside County (CA)
+[19/172] Scraping Branch: Sacramento, CA Branch
+[20/172] Scraping Branch: San Clemente (CA)
+[21/172] Scraping Branch: San Diego (CA)
+[22/172] Scraping Branch: San Fernando Valley (CA)
+[23/172] Scraping Branch: San Francisco South Bay (CA)
+[24/172] Scraping Branch: San Jose, CA Branch
+[25/172] Scraping Branch: San Marcos, CA Branch
+[26/172] Scraping Branch: Santa Clara County, CA Branch
+[27/172] Scraping Branch: Santa Clarita Valley (CA)
+[28/172] Scraping Branch: Saratoga (CA)
+[29/172] Scraping Branch: Silicon Valley, CA Branch
+[30/172] Scraping Branch: South Bay Area, CA Branch
+[31/172] Scraping Branch: Sunnyvale, CA Branch
+[32/172] Scraping Branch: Tri-Valley (CA).
+[33/172] Scraping Branch: Cheshire (CT)
+[34/172] Scraping Branch: Farmington (CT)
+[35/172] Scraping Branch: Greenwich, CT Branch
+[36/172] Scraping Branch: Greater New Haven (CT)
+[37/172] Scraping Branch: Orange (CT)
+[38/172] Scraping Branch: Wallingford (CT)
+[39/172] Scraping Branch: Westport, CT Branch
+[40/172] Scraping Branch: Woodbridge (CT)
+[41/172] Scraping Branch: Delaware Branch
+[42/172] Scraping Branch: Miami (FL)
+[43/172] Scraping Branch: Orlando (FL)
+[44/172] Scraping Branch: Palm Beach, FL Branch
+[45/172] Scraping Branch: Plantation (FL)
+[46/172] Scraping Branch: Space Coast (FL)
+[47/172] Scraping Branch: East Cobb (GA)
+[48/172] Scraping Branch: Forsyth (GA)
+[49/172] Scraping Branch: North Fulton (GA)
+[50/172] Scraping Branch: Idaho Falls (ID)
+[51/172] Scraping Branch: Chicago, IL Branch
+[52/172] Scraping Branch: Lincolnshire, IL Branch
+[53/172] Scraping Branch: Carmel, IN Branch
+[54/172] Scraping Branch: Baltimore, MD Branch
+[55/172] Scraping Branch: Clarksville, MD Branch
+[56/172] Scraping Branch: Howard County (MD)
+[57/172] Scraping Branch: Towson, MD Branch
+[58/172] Scraping Branch: Brookline, MA Branch
+[59/172] Scraping Branch: Lexington (MA)
+[60/172] Scraping Branch: Malden (MA)
+[61/172] Scraping Branch: Metro West (MA)
+[62/172] Scraping Branch: Middlesex (MA)
+[63/172] Scraping Branch: South Boston, MA Branch
+[64/172] Scraping Branch: Greater Lansing (MI)
+[65/172] Scraping Branch: Metro Detroit (MI)
+[66/172] Scraping Branch: Michigan University Youth Community Service, MI Branch
+[67/172] Scraping Branch: North Oakland, MI Branch
+[68/172] Scraping Branch: Duluth (MN)
+[69/172] Scraping Branch: Twin Cities (MN)
+[70/172] Scraping Branch: Chesterfield (MO)
+[71/172] Scraping Branch: St. Louis, MO Branch
+[72/172] Scraping Branch: Basking Ridge (NJ)
+[73/172] Scraping Branch: Bergen (NJ)
+[74/172] Scraping Branch: Bridgewater (NJ)
+[75/172] Scraping Branch: Chatham (NJ)
+[76/172] Scraping Branch: Edison (NJ)
+[77/172] Scraping Branch: Gladstone (NJ)
+[78/172] Scraping Branch: Greater Princeton (NJ)
+[79/172] Scraping Branch: Holmdel and Hazlet (NJ)
+[80/172] Scraping Branch: Jersey Coast, NJ Branch
+[81/172] Scraping Branch: Marlboro Branch (NJ)
+[82/172] Scraping Branch: Mendham (NJ).
+[83/172] Scraping Branch: Millburn (NJ)
+[84/172] Scraping Branch: Morris (NJ)
+[85/172] Scraping Branch: North Jersey (NJ)
+[86/172] Scraping Branch: Raritan Valley (NJ)
+[87/172] Scraping Branch: Ridgewood (NJ)
+[88/172] Scraping Branch: Summit (NJ)
+[89/172] Scraping Branch: Warren (NJ)
+[90/172] Scraping Branch: West Essex (NJ)
+[91/172] Scraping Branch: Albany, NY Branch
+[92/172] Scraping Branch: Bayside (NY)
+[93/172] Scraping Branch: Dix Hills (NY)
+[94/172] Scraping Branch: East Nassau, NY Branch
+[95/172] Scraping Branch: Enlearning, NY Branch
+[96/172] Scraping Branch: Great Neck (NY)
+[97/172] Scraping Branch: Greater Buffalo (NY)
+[98/172] Scraping Branch: Half Hallow Hills, NY Branch
+[99/172] Scraping Branch: Jericho (NY)
+[100/172] Scraping Branch: Locust Valley, NY Branch
+[101/172] Scraping Branch: Manhasset (NY)
+[102/172] Scraping Branch: New Hartford (NY)
+[103/172] Scraping Branch: New York, NY Branch
+[104/172] Scraping Branch: North Shore, NY Branch
+[105/172] Scraping Branch: Oakland Gardens (NY)
+[106/172] Scraping Branch: Oyster Bay (NY)
+[107/172] Scraping Branch: Queens (NY)
+[108/172] Scraping Branch: Roslyn (NY)
+[109/172] Scraping Branch: Stony Brook (NY).
+[110/172] Scraping Branch: Syosset (NY)
+[111/172] Scraping Branch: Three Village, NY Branch
+[112/172] Scraping Branch: Upper Manhattan (NY)
+[113/172] Scraping Branch: Upper West Side, NY Branch
+[114/172] Scraping Branch: Western Long Island, NY Branch
+[115/172] Scraping Branch: Cary, NC Branch
+[116/172] Scraping Branch: Chapel Hill (NC)
+[117/172] Scraping Branch: Greater Triangle (NC)
+[118/172] Scraping Branch: Greenville (NC)
+[119/172] Scraping Branch: Morrisville (NC)
+[120/172] Scraping Branch: Piedmont Triad (NC)
+[121/172] Scraping Branch: Raleigh (NC)
+[122/172] Scraping Branch: Columbus (OH)
+[123/172] Scraping Branch: Greater Cleveland (OH)
+[124/172] Scraping Branch: Edmond (OK)
+[125/172] Scraping Branch: Greater Tulsa (OK)
+[126/172] Scraping Branch: Erie (PA)
+[127/172] Scraping Branch: East Pittsburgh (PA)
+[128/172] Scraping Branch: Main Line (PA)
+[129/172] Scraping Branch: Montgomery (PA)
+[130/172] Scraping Branch: Newtown (PA)
+[131/172] Scraping Branch: Philadelphia, PA Branch
+[132/172] Scraping Branch: South Pittsburgh (PA)
+[133/172] Scraping Branch: Unionville High School (PA)
+[134/172] Scraping Branch: Wallingford, PA Branch
+[135/172] Scraping Branch: Warrington (PA)
+[136/172] Scraping Branch: Greater Memphis (TN)
+[137/172] Scraping Branch: Greater Nashville, TN Branch
+[138/172] Scraping Branch: Arlington (TX)
+[139/172] Scraping Branch: Austin (TX)
+[140/172] Scraping Branch: Bellaire (TX)
+[141/172] Scraping Branch: Cedar Park (TX)
+[142/172] Scraping Branch: Cinco Ranch, TX Branch
+[143/172] Scraping Branch: College Station (TX)
+[144/172] Scraping Branch: Cypress, TX Branch
+[145/172] Scraping Branch: Dallas (TX)
+[146/172] Scraping Branch: Fort Bend (TX)
+[147/172] Scraping Branch: Frisco & Plano (TX)
+[148/172] Scraping Branch: Fulshear, TX Branch
+[149/172] Scraping Branch: Houston (TX)
+[150/172] Scraping Branch: Laredo, TX Branch
+[151/172] Scraping Branch: Memorial (TX).
+[152/172] Scraping Branch: Missouri City (TX)
+[153/172] Scraping Branch: Pearland (TX)
+[154/172] Scraping Branch: Spring, TX Branch
+[155/172] Scraping Branch: Sugar Land (TX)
+[156/172] Scraping Branch: Trophy Club (TX)
+[157/172] Scraping Branch: Woodlands, TX Branch
+[158/172] Scraping Branch: Fairfax (VA)
+[159/172] Scraping Branch: Hampton Roads, VA Branch
+[160/172] Scraping Branch: McLean, VA Branch
+[161/172] Scraping Branch: McLean-Tysons, VA Branch
+[162/172] Scraping Branch: Bellevue (WA)
+[163/172] Scraping Branch: Cascade Region, WA Branch
+[164/172] Scraping Branch: Eastside Seattle (WA)
+[165/172] Scraping Branch: Lake Washington (WA)
+[166/172] Scraping Branch: Olympia, WA Branch
+[167/172] Scraping Branch: Puget Sound (WA)
+[168/172] Scraping Branch: Redmond (WA).
+[169/172] Scraping Branch: Sammamish (WA)
+[170/172] Scraping Branch: Snoqualmie, WA Branch
+[171/172] Scraping Branch: McLean (VA)

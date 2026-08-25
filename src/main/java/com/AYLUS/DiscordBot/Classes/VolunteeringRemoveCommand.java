@@ -36,7 +36,7 @@ public class VolunteeringRemoveCommand {
                 String date = event.getOption("date").getAsString();
 
                 VolunteerEntry entry = volunteerManager.getEvent(user.getId(), eventName, date);
-                HourAndMoneyTracker.updateHoursAndMoney(-entry.getHours(), -entry.getMoney(), 0); // Subtracts the hours, and any potential money paid for event
+ // Subtracts the hours, and any potential money paid for event
 
 
                 new Thread(() -> { // Process in background
