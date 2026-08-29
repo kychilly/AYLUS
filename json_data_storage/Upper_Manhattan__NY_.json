@@ -1,0 +1,809 @@
+{
+  "Enxu Jiang": {
+    "userId": "Enxu Jiang",
+    "username": "Enxu Jiang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "6/9/2024 Upper Manhattan Branch hosts Plastic Recycling Event at Jubilee Supermarket",
+        "hours": 1.0,
+        "date": "June 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/1/2024 AYLUS Upper Manhattan Volunteers for Passaic County Habitat",
+        "hours": 4.0,
+        "date": "June 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Chen": {
+    "userId": "Kevin Chen",
+    "username": "Kevin Chen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "7/3/2024 Upper Manhattan Branch volunteered at St. Peter’s Haven",
+        "hours": 4.0,
+        "date": "July 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mark Li": {
+    "userId": "Mark Li",
+    "username": "Mark Li",
+    "totalHours": 53.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Cunningham Park on April 28",
+        "hours": 2.5,
+        "date": "April 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch hosts a cleanup event at Alley Pond Environmental Center on April 22",
+        "hours": 2.0,
+        "date": "April 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Cleanup Activity At Virginia Point On April 20",
+        "hours": 2.0,
+        "date": "April 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Conducts a Litter Removal Event at Whitney Pond Park on April 22",
+        "hours": 3.0,
+        "date": "April 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts A Cleanup at Whitney Pond Park on April 13",
+        "hours": 2.5,
+        "date": "April 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Plastic and Glass Bottle Recycling at Local Grocery Store on March 30th",
+        "hours": 1.0,
+        "date": "April 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Leads Trail Cleanup at Udall’s Cove Park Reserve on March 31st",
+        "hours": 3.0,
+        "date": "April 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Clean-Up at Pond Park on March 29",
+        "hours": 3.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Leads Environmental Stewardship at Whitney Pond Park on March 24",
+        "hours": 3.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Alley Pond Park Cleanup on March 10, 2024",
+        "hours": 2.5,
+        "date": "March 16, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Organizes Clean-Up Event at Memorial Field on February 17, 2024",
+        "hours": 2.0,
+        "date": "February 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Cleanup Event at Douglaston Manor Point on February 10, 2024",
+        "hours": 2.5,
+        "date": "February 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Park Cleanup at Catharine Turner Richardson Park on January 27, 2024",
+        "hours": 2.5,
+        "date": "January 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Snow and Ice Cleanup at Little Neck Train Station on 1/20/2024",
+        "hours": 2.5,
+        "date": "January 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Cutter Mill Park – September 17, 2023",
+        "hours": 1.5,
+        "date": "September 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Washington Square Park – July 8, 2023",
+        "hours": 3.0,
+        "date": "July 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Cutter Mill Park – September 17, 2023",
+        "hours": 1.5,
+        "date": "September 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Washington Square Park – July 8, 2023",
+        "hours": 3.0,
+        "date": "July 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Hosts a Park Cleanup at Central Park on 4/2/2023",
+        "hours": 3.0,
+        "date": "April 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Richard Xu": {
+    "userId": "Richard Xu",
+    "username": "Richard Xu",
+    "totalHours": 68.5,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Cunningham Park on April 28",
+        "hours": 2.5,
+        "date": "April 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch hosts a cleanup event at Alley Pond Environmental Center on April 22",
+        "hours": 2.0,
+        "date": "April 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Cleanup Activity At Virginia Point On April 20",
+        "hours": 2.0,
+        "date": "April 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Conducts a Litter Removal Event at Whitney Pond Park on April 22",
+        "hours": 3.0,
+        "date": "April 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts A Cleanup at Whitney Pond Park on April 13",
+        "hours": 2.5,
+        "date": "April 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Plastic and Glass Bottle Recycling at Local Grocery Store on March 30th",
+        "hours": 1.0,
+        "date": "April 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Clean-Up at Pond Park on March 29",
+        "hours": 3.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Environmental Stewardship at Oakland Lake on March 16, 2024",
+        "hours": 3.0,
+        "date": "March 16, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Leads Environmental Stewardship at Whitney Pond Park on March 24",
+        "hours": 3.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Alley Pond Park Cleanup on March 10, 2024",
+        "hours": 2.5,
+        "date": "March 16, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Park Clean-Up at Crocheron Park on March 3, 2024",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Park Clean-Up Activity at Morningside Park on February 24, 2024",
+        "hours": 3.0,
+        "date": "February 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Organizes Clean-Up Event at Memorial Field on February 17, 2024",
+        "hours": 2.0,
+        "date": "February 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Cleanup Event at Douglaston Manor Point on February 10, 2024",
+        "hours": 2.5,
+        "date": "February 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Park Cleanup at Catharine Turner Richardson Park on January 27, 2024",
+        "hours": 2.5,
+        "date": "January 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Snow and Ice Cleanup at Little Neck Train Station on 1/20/2024",
+        "hours": 2.5,
+        "date": "January 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch volunteers at Bryant Park on 12/10/2023",
+        "hours": 2.5,
+        "date": "December 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Cutter Mill Park – September 17, 2023",
+        "hours": 1.5,
+        "date": "September 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Washington Square Park – July 8, 2023",
+        "hours": 3.0,
+        "date": "July 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Joins “Its My Park” Initiative at Stuyvesant Square Park on 6/26/2023",
+        "hours": 3.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Cutter Mill Park – September 17, 2023",
+        "hours": 1.5,
+        "date": "September 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Washington Square Park – July 8, 2023",
+        "hours": 3.0,
+        "date": "July 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Joins “Its My Park” Initiative at Stuyvesant Square Park on 6/26/2023",
+        "hours": 3.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Hosts a Park Cleanup at Central Park on 4/2/2023",
+        "hours": 3.0,
+        "date": "April 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Volunteers at Cutter Mill Park on 3/5/2023",
+        "hours": 1.5,
+        "date": "March 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mark Li Richard Xu": {
+    "userId": "Mark Li Richard Xu",
+    "username": "Mark Li Richard Xu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts Environmental Stewardship at Oakland Lake on March 16, 2024",
+        "hours": 3.0,
+        "date": "March 16, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Park Clean-Up at Crocheron Park on March 3, 2024",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts Recycling Drive at Local Grocery Stores on February 17, 2024",
+        "hours": 1.5,
+        "date": "February 22, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Whitney Pond Park": {
+    "userId": "Whitney Pond Park",
+    "username": "Whitney Pond Park",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Leads Environmental Stewardship at Whitney Pond Park on March 24",
+        "hours": 24.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alley Pond Park": {
+    "userId": "Alley Pond Park",
+    "username": "Alley Pond Park",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts Alley Pond Park Cleanup on March 10, 2024",
+        "hours": 10.0,
+        "date": "March 16, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiffany Liu Richard": {
+    "userId": "Tiffany Liu Richard",
+    "username": "Tiffany Liu Richard",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts Park Clean-Up Activity at Morningside Park on February 24, 2024",
+        "hours": 3.0,
+        "date": "February 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Memorial Field": {
+    "userId": "Memorial Field",
+    "username": "Memorial Field",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Organizes Clean-Up Event at Memorial Field on February 17, 2024",
+        "hours": 17.0,
+        "date": "February 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Douglaston Manor Point": {
+    "userId": "Douglaston Manor Point",
+    "username": "Douglaston Manor Point",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts Cleanup Event at Douglaston Manor Point on February 10, 2024",
+        "hours": 10.0,
+        "date": "February 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Little Neck Train Station": {
+    "userId": "Little Neck Train Station",
+    "username": "Little Neck Train Station",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts Snow and Ice Cleanup at Little Neck Train Station on 1/20/2024",
+        "hours": 20.0,
+        "date": "January 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiffany Liu": {
+    "userId": "Tiffany Liu",
+    "username": "Tiffany Liu",
+    "totalHours": 29.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Upper Manhattan Branch volunteers at Bryant Park on 12/10/2023",
+        "hours": 2.5,
+        "date": "December 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Cutter Mill Park – September 17, 2023",
+        "hours": 1.5,
+        "date": "September 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Washington Square Park – July 8, 2023",
+        "hours": 3.0,
+        "date": "July 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Joins “Its My Park” Initiative at Stuyvesant Square Park on 6/26/2023",
+        "hours": 3.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Cutter Mill Park – September 17, 2023",
+        "hours": 1.5,
+        "date": "September 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Upper Manhattan Branch Community Clean Up Day in Washington Square Park – July 8, 2023",
+        "hours": 3.0,
+        "date": "July 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Joins “Its My Park” Initiative at Stuyvesant Square Park on 6/26/2023",
+        "hours": 3.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Hosts a Park Cleanup at Central Park on 4/2/2023",
+        "hours": 3.0,
+        "date": "April 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Volunteers at Cutter Mill Park on 3/5/2023",
+        "hours": 1.5,
+        "date": "March 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Qian Wei": {
+    "userId": "Qian Wei",
+    "username": "Qian Wei",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Hosts a Park and Beach Cleanup at Cold Spring Harbor State Park on 4/14/2023",
+        "hours": 3.0,
+        "date": "April 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Hosts a Park Cleanup at Central Park on 4/2/2023",
+        "hours": 3.0,
+        "date": "April 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evan Zuo": {
+    "userId": "Evan Zuo",
+    "username": "Evan Zuo",
+    "totalHours": 11.5,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 3.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Hosts a Park and Beach Cleanup at Cold Spring Harbor State Park on 4/14/2023",
+        "hours": 3.0,
+        "date": "April 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Norwood Branch Volunteers at Cutter Mill Park on 3/5/2023",
+        "hours": 1.5,
+        "date": "March 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andi Zhu": {
+    "userId": "Andi Zhu",
+    "username": "Andi Zhu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 1.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 1.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rain Gan": {
+    "userId": "Rain Gan",
+    "username": "Rain Gan",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 1.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Upper Manhattan Branch Hosts a Park Cleanup at Crocheron Park on 6/11/2023",
+        "hours": 1.5,
+        "date": "June 11, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Upper East Side": {
+    "userId": "Upper East Side",
+    "username": "Upper East Side",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Queens Branch Holds Winter Clothing Drive – 11/30/2023 to 12/10/2023",
+        "hours": 10.0,
+        "date": "December 11, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonathan Kwok": {
+    "userId": "Jonathan Kwok",
+    "username": "Jonathan Kwok",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Queens Branch Holds Winter Clothing Drive – 11/30/2023 to 12/10/2023",
+        "hours": 2.0,
+        "date": "December 11, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiffany Lu": {
+    "userId": "Tiffany Lu",
+    "username": "Tiffany Lu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Queens Branch Holds Winter Clothing Drive – 11/30/2023 to 12/10/2023",
+        "hours": 2.0,
+        "date": "December 11, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Hunt": {
+    "userId": "Ethan Hunt",
+    "username": "Ethan Hunt",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Queens Branch Holds Winter Clothing Drive – 11/30/2023 to 12/10/2023",
+        "hours": 2.0,
+        "date": "December 11, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annika Richard": {
+    "userId": "Annika Richard",
+    "username": "Annika Richard",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Queens Branch Holds Winter Clothing Drive – 11/30/2023 to 12/10/2023",
+        "hours": 2.0,
+        "date": "December 11, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yuna Ahn": {
+    "userId": "Yuna Ahn",
+    "username": "Yuna Ahn",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Queens Branch Holds Winter Clothing Drive – 11/30/2023 to 12/10/2023",
+        "hours": 2.0,
+        "date": "December 11, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Wang": {
+    "userId": "Jason Wang",
+    "username": "Jason Wang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Norwood Branch Hosts a Park and Beach Cleanup at Cold Spring Harbor State Park on 4/14/2023",
+        "hours": 3.0,
+        "date": "April 15, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yihan Du": {
+    "userId": "Yihan Du",
+    "username": "Yihan Du",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Norwood Branch Hosts a Park and Beach Cleanup at Cold Spring Harbor State Park on 4/14/2023",
+        "hours": 3.0,
+        "date": "April 15, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yitong Wu": {
+    "userId": "Yitong Wu",
+    "username": "Yitong Wu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Norwood Branch Hosts a Park and Beach Cleanup at Cold Spring Harbor State Park on 4/14/2023",
+        "hours": 3.0,
+        "date": "April 15, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yifu Zuo": {
+    "userId": "Yifu Zuo",
+    "username": "Yifu Zuo",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Norwood Branch Hosts a Park Cleanup at Central Park on 4/2/2023",
+        "hours": 3.0,
+        "date": "April 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gavin Ye": {
+    "userId": "Gavin Ye",
+    "username": "Gavin Ye",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Norwood Branch Hosts a Park Cleanup at Central Park on 4/2/2023",
+        "hours": 3.0,
+        "date": "April 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

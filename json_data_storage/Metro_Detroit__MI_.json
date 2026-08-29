@@ -1,0 +1,44 @@
+{
+  "Jason Nie": {
+    "userId": "Jason Nie",
+    "username": "Jason Nie",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Metro Detroit Branch Completes Water Crisis Event",
+        "hours": 5.0,
+        "date": "June 23, 2016",
+        "money": 0.0
+      },
+      {
+        "eventName": "Metro Detroit Branch Completes Water Crisis Event",
+        "hours": 5.0,
+        "date": "June 23, 2016",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Freddie Zhao": {
+    "userId": "Freddie Zhao",
+    "username": "Freddie Zhao",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Metro Detroit Branch Completes Water Crisis Event",
+        "hours": 5.0,
+        "date": "June 23, 2016",
+        "money": 0.0
+      },
+      {
+        "eventName": "Metro Detroit Branch Completes Water Crisis Event",
+        "hours": 5.0,
+        "date": "June 23, 2016",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

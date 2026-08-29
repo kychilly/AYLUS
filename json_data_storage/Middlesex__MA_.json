@@ -1,0 +1,62 @@
+{
+  "Alice Shu": {
+    "userId": "Alice Shu",
+    "username": "Alice Shu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Middlesex Branch help with yard sign stickers during Oct-Nov 2022",
+        "hours": 3.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kyle Xu": {
+    "userId": "Kyle Xu",
+    "username": "Kyle Xu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Hosted a Reusable Bag Drive from November 15th to November 25th, in East Brunswick, NJ",
+        "hours": 2.0,
+        "date": "November 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wesley Liu": {
+    "userId": "Wesley Liu",
+    "username": "Wesley Liu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Warren Branch Joins Greater Princeton AYLUS to Walk Against Breast Cancer on October 24th, 2021",
+        "hours": 3.0,
+        "date": "October 25, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kanav Desai": {
+    "userId": "Kanav Desai",
+    "username": "Kanav Desai",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Warren Branch Joins Greater Princeton AYLUS to Walk Against Breast Cancer on October 24th, 2021",
+        "hours": 3.0,
+        "date": "October 25, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

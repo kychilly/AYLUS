@@ -1,0 +1,116 @@
+{
+  "Ethan Li": {
+    "userId": "Ethan Li",
+    "username": "Ethan Li",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Fort Bend Branch – FBCC Food Fair (12/16/2023)",
+        "hours": 3.0,
+        "date": "December 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch – “Plant a Tree and Spread the Green” Initiative #5 – June 24, 2023",
+        "hours": 3.0,
+        "date": "June 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch – ‘Plant a Tree, and Spread the Green’ Initiative #3 – June 10, 2023",
+        "hours": 2.0,
+        "date": "June 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch – “Plant a Tree and Spread the Green” Initiative #4 – June 17, 2023",
+        "hours": 2.0,
+        "date": "June 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch Volunteers at Memorial Park Milkweed Planting event on May 19, 2023",
+        "hours": 1.0,
+        "date": "May 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "David Chen": {
+    "userId": "David Chen",
+    "username": "David Chen",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Fort Bend Branch – FBCC Food Fair (12/16/2023)",
+        "hours": 3.0,
+        "date": "December 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch – “Plant a Tree and Spread the Green” Initiative #5 – June 24, 2023",
+        "hours": 3.0,
+        "date": "June 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch – ‘Plant a Tree, and Spread the Green’ Initiative #3 – June 10, 2023",
+        "hours": 2.0,
+        "date": "June 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch – “Plant a Tree and Spread the Green” Initiative #4 – June 17, 2023",
+        "hours": 2.0,
+        "date": "June 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch Volunteers at Memorial Park Milkweed Planting event on May 19, 2023",
+        "hours": 1.0,
+        "date": "May 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bryan Wang": {
+    "userId": "Bryan Wang",
+    "username": "Bryan Wang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fort Bend Branch – FBCC Food Fair (12/16/2023)",
+        "hours": 3.0,
+        "date": "December 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fort Bend Branch – “Plant a Tree and Spread the Green” Initiative #4 – June 17, 2023",
+        "hours": 2.0,
+        "date": "June 18, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Guo": {
+    "userId": "Eric Guo",
+    "username": "Eric Guo",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Fort Bend Branch – ‘Plant a Tree, and Spread the Green’ Initiative #3 – June 10, 2023",
+        "hours": 2.0,
+        "date": "June 13, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

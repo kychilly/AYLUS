@@ -1,0 +1,38 @@
+{
+  "Angie Zhu": {
+    "userId": "Angie Zhu",
+    "username": "Angie Zhu",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Snoqualmie Sends Mail to Love For Our Elders on December 14th, 2020",
+        "hours": 5.0,
+        "date": "December 14, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Snoqualmie Donates Food to Tent City 4 on December 4th, 2020",
+        "hours": 8.0,
+        "date": "December 5, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chloe Frink": {
+    "userId": "Chloe Frink",
+    "username": "Chloe Frink",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Snoqualmie Sends Mail to Love For Our Elders on December 14th, 2020",
+        "hours": 5.0,
+        "date": "December 14, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

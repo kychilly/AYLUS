@@ -1,0 +1,479 @@
+{
+  "Angel Shen": {
+    "userId": "Angel Shen",
+    "username": "Angel Shen",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 7th Event: Making Christmas Cards for the Children’s Hospital of LA on December 10th,...",
+        "hours": 3.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Palos Verdes Peninsula Branch’s 8th Event: Beach Clean Up on May 21th, 2023",
+        "hours": 3.0,
+        "date": "May 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fifth Beach Cleaning Event on May 30th, 2022",
+        "hours": 3.0,
+        "date": "June 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Third Beach Cleaning Event on March 12th, 2022",
+        "hours": 3.0,
+        "date": "March 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sean Sun": {
+    "userId": "Sean Sun",
+    "username": "Sean Sun",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 7th Event: Making Christmas Cards for the Children’s Hospital of LA on December 10th,...",
+        "hours": 3.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Palos Verdes Peninsula Branch’s 8th Event: Beach Clean Up on May 21th, 2023",
+        "hours": 3.0,
+        "date": "May 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fifth Beach Cleaning Event on May 30th, 2022",
+        "hours": 3.0,
+        "date": "June 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Third Beach Cleaning Event on March 12th, 2022",
+        "hours": 3.0,
+        "date": "March 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fourth Beach Clean Up Event on April 21, 2022",
+        "hours": 3.0,
+        "date": "May 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jaxon Chang": {
+    "userId": "Jaxon Chang",
+    "username": "Jaxon Chang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 7th Event: Making Christmas Cards for the Children’s Hospital of LA on December 10th,...",
+        "hours": 3.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Wu": {
+    "userId": "William Wu",
+    "username": "William Wu",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 7th Event: Making Christmas Cards for the Children’s Hospital of LA on December 10th,...",
+        "hours": 3.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Palos Verdes Peninsula Branch’s 8th Event: Beach Clean Up on May 21th, 2023",
+        "hours": 3.0,
+        "date": "May 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fifth Beach Cleaning Event on May 30th, 2022",
+        "hours": 3.0,
+        "date": "June 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Third Beach Cleaning Event on March 12th, 2022",
+        "hours": 3.0,
+        "date": "March 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fourth Beach Clean Up Event on April 21, 2022",
+        "hours": 3.0,
+        "date": "May 26, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ransom Liu": {
+    "userId": "Ransom Liu",
+    "username": "Ransom Liu",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 7th Event: Making Christmas Cards for the Children’s Hospital of LA on December 10th,...",
+        "hours": 3.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Palos Verdes Peninsula Branch’s 8th Event: Beach Clean Up on May 21th, 2023",
+        "hours": 3.0,
+        "date": "May 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Third Beach Cleaning Event on March 12th, 2022",
+        "hours": 3.0,
+        "date": "March 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s First Volunteering Event on December 2nd, 3rd, 4th and 11th, 2021",
+        "hours": 5.0,
+        "date": "December 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Henry Shen": {
+    "userId": "Henry Shen",
+    "username": "Henry Shen",
+    "totalHours": 34.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 7th Event: Making Christmas Cards for the Children’s Hospital of LA on December 10th,...",
+        "hours": 3.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Palos Verdes Peninsula Branch’s 8th Event: Beach Clean Up on May 21th, 2023",
+        "hours": 3.0,
+        "date": "May 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fifth Beach Cleaning Event on May 30th, 2022",
+        "hours": 3.0,
+        "date": "June 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Third Beach Cleaning Event on March 12th, 2022",
+        "hours": 3.0,
+        "date": "March 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s First Volunteering Event on December 2nd, 3rd, 4th and 11th, 2021",
+        "hours": 16.0,
+        "date": "December 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sunny Jiang": {
+    "userId": "Sunny Jiang",
+    "username": "Sunny Jiang",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 7th Event: Making Christmas Cards for the Children’s Hospital of LA on December 10th,...",
+        "hours": 3.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula AYLUS Trash Pick Up on July 2nd, 2022",
+        "hours": 5.0,
+        "date": "July 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Third Beach Cleaning Event on March 12th, 2022",
+        "hours": 3.0,
+        "date": "March 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fourth Beach Clean Up Event on April 21, 2022",
+        "hours": 3.0,
+        "date": "May 26, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Timothy Lee": {
+    "userId": "Timothy Lee",
+    "username": "Timothy Lee",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Palos Palos Verdes Peninsula Branch’s 8th Event: Beach Clean Up on May 21th, 2023",
+        "hours": 3.0,
+        "date": "May 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fourth Beach Clean Up Event on April 21, 2022",
+        "hours": 3.0,
+        "date": "May 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s First Volunteering Event on December 2nd, 3rd, 4th and 11th, 2021",
+        "hours": 8.0,
+        "date": "December 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Naehu": {
+    "userId": "Alex Naehu",
+    "username": "Alex Naehu",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fourth Beach Clean Up Event on April 21, 2022",
+        "hours": 3.0,
+        "date": "May 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s First Volunteering Event on December 2nd, 3rd, 4th and 11th, 2021",
+        "hours": 8.0,
+        "date": "December 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Timmy Lee": {
+    "userId": "Timmy Lee",
+    "username": "Timmy Lee",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alvin Zhang": {
+    "userId": "Alvin Zhang",
+    "username": "Alvin Zhang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Allen Zhang": {
+    "userId": "Allen Zhang",
+    "username": "Allen Zhang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s 6th Event: Making “Get Well Soon” Cards for the Children’s Hospital of LA on Septembe...",
+        "hours": 3.0,
+        "date": "September 6, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mark Lin": {
+    "userId": "Mark Lin",
+    "username": "Mark Lin",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fifth Beach Cleaning Event on May 30th, 2022",
+        "hours": 3.0,
+        "date": "June 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Third Beach Cleaning Event on March 12th, 2022",
+        "hours": 3.0,
+        "date": "March 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s First Volunteering Event on December 2nd, 3rd, 4th and 11th, 2021",
+        "hours": 5.0,
+        "date": "December 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Clarence Lin": {
+    "userId": "Clarence Lin",
+    "username": "Clarence Lin",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Fifth Beach Cleaning Event on May 30th, 2022",
+        "hours": 3.0,
+        "date": "June 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Third Beach Cleaning Event on March 12th, 2022",
+        "hours": 3.0,
+        "date": "March 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Sun": {
+    "userId": "William Sun",
+    "username": "William Sun",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Palos Verdes Peninsula Branch’s Second Shoreline Cleaning Event on February 5th, 2022",
+        "hours": 3.0,
+        "date": "February 6, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

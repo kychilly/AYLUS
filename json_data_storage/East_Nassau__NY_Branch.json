@@ -1,0 +1,902 @@
+{
+  "Jason Wei": {
+    "userId": "Jason Wei",
+    "username": "Jason Wei",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (67th) on 3/7/26",
+        "hours": 3.0,
+        "date": "March 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Connie Lin": {
+    "userId": "Connie Lin",
+    "username": "Connie Lin",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (67th) on 3/7/26",
+        "hours": 3.0,
+        "date": "March 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (69th) on 4/4/26",
+        "hours": 3.0,
+        "date": "April 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (68th) on 3/21/26",
+        "hours": 2.0,
+        "date": "March 25, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tess Cheng": {
+    "userId": "Tess Cheng",
+    "username": "Tess Cheng",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (67th) on 3/7/26",
+        "hours": 3.0,
+        "date": "March 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maxim Li": {
+    "userId": "Maxim Li",
+    "username": "Maxim Li",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (69th) on 4/4/26",
+        "hours": 3.0,
+        "date": "April 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (68th) on 3/21/26",
+        "hours": 2.0,
+        "date": "March 25, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (39th) on February 15th, 2025",
+        "hours": 3.0,
+        "date": "February 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at Cerebal Palsy Association of Nassau County’s Group Home (9th) on 3/30/24",
+        "hours": 3.0,
+        "date": "March 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (5th) 6/29/24",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leo Zheng": {
+    "userId": "Leo Zheng",
+    "username": "Leo Zheng",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (69th) on 4/4/26",
+        "hours": 2.0,
+        "date": "April 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (46th) on June 21nd, 2025",
+        "hours": 2.0,
+        "date": "June 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (47th) on June 28th, 2025",
+        "hours": 3.0,
+        "date": "June 29, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Zhang": {
+    "userId": "Michael Zhang",
+    "username": "Michael Zhang",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (69th) on 4/4/26",
+        "hours": 3.0,
+        "date": "April 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (46th) on June 21nd, 2025",
+        "hours": 2.0,
+        "date": "June 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps the Cerebral Palsy Association of Nassau County at the Bayville Care Center (18th) on April 20th, ...",
+        "hours": 3.0,
+        "date": "April 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (39th) on February 15th, 2025",
+        "hours": 3.0,
+        "date": "February 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (38th) on February 1st, 2025",
+        "hours": 3.0,
+        "date": "February 6, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps The Cerebral Palsy Association of Nassau County at the Bayville Care Center (12th) on January 5th,...",
+        "hours": 3.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (8th) 7/20/24",
+        "hours": 3.0,
+        "date": "July 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (21th) on July 20th, 2024",
+        "hours": 3.0,
+        "date": "July 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ayden Zheng": {
+    "userId": "Ayden Zheng",
+    "username": "Ayden Zheng",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (69th) on 4/4/26",
+        "hours": 3.0,
+        "date": "April 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (68th) on 3/21/26",
+        "hours": 2.0,
+        "date": "March 25, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lily Zhang": {
+    "userId": "Lily Zhang",
+    "username": "Lily Zhang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (69th) on 4/4/26",
+        "hours": 3.0,
+        "date": "April 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ashley Zheng": {
+    "userId": "Ashley Zheng",
+    "username": "Ashley Zheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (68th) on 3/21/26",
+        "hours": 2.0,
+        "date": "March 25, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cheung Chan": {
+    "userId": "Cheung Chan",
+    "username": "Cheung Chan",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Syosset AYLUS volunteers at CP Nassau Group Home in Bayville on 1/4/2026",
+        "hours": 3.0,
+        "date": "January 5, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Austin Guo": {
+    "userId": "Austin Guo",
+    "username": "Austin Guo",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (46th) on June 21nd, 2025",
+        "hours": 2.0,
+        "date": "June 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps the Cerebral Palsy Association of Nassau County at the Bayville Care Center (18th) on April 20th, ...",
+        "hours": 4.0,
+        "date": "April 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps the Cerebral Palsy Association of Nassau County at the Bayville Care Center (16th) on March 2nd, 2025",
+        "hours": 3.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps The Cerebral Palsy Association of Nassau County at the Bayville Care Center (12th) on January 5th,...",
+        "hours": 3.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angelika Jiang": {
+    "userId": "Angelika Jiang",
+    "username": "Angelika Jiang",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (47th) on June 28th, 2025",
+        "hours": 3.0,
+        "date": "June 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (39th) on February 15th, 2025",
+        "hours": 3.0,
+        "date": "February 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps The Cerebral Palsy Association of Nassau County at the Bayville Care Center (12th) on January 5th,...",
+        "hours": 3.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (32nd) on November 23rd, 2024.",
+        "hours": 3.0,
+        "date": "November 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (5th) 6/29/24",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Haoyang Sun": {
+    "userId": "Haoyang Sun",
+    "username": "Haoyang Sun",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (47th) on June 28th, 2025",
+        "hours": 3.0,
+        "date": "June 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps the Cerebral Palsy Association of Nassau County at the Bayville Care Center (18th) on April 20th, ...",
+        "hours": 4.0,
+        "date": "April 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Syosset AYLUS Volunteers at CP Nassau Home in Bayville 04/06/25",
+        "hours": 3.0,
+        "date": "April 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (8th) 7/20/24",
+        "hours": 3.0,
+        "date": "July 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (21th) on July 20th, 2024",
+        "hours": 3.0,
+        "date": "July 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kacie Li": {
+    "userId": "Kacie Li",
+    "username": "Kacie Li",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (47th) on June 28th, 2025",
+        "hours": 3.0,
+        "date": "June 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps the Cerebral Palsy Association of Nassau County at the Bayville Care Center (18th) on April 20th, ...",
+        "hours": 3.0,
+        "date": "April 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps the Cerebral Palsy Association of Nassau County at the Bayville Care Center (16th) on March 2nd, 2025",
+        "hours": 3.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Darren Gao": {
+    "userId": "Darren Gao",
+    "username": "Darren Gao",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Syosset AYLUS Volunteers at CP Nassau Home in Bayville 04/06/25",
+        "hours": 3.0,
+        "date": "April 7, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Elva Chen": {
+    "userId": "Elva Chen",
+    "username": "Elva Chen",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Syosset AYLUS Volunteers at CP Nassau Home in Bayville 04/06/25",
+        "hours": 3.0,
+        "date": "April 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Syosset AYLUS volunteers at the Cerebral Palsy Association of Nassau County in Bayville on 03/02/25",
+        "hours": 3.0,
+        "date": "March 12, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bryan Wan": {
+    "userId": "Bryan Wan",
+    "username": "Bryan Wan",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Syosset AYLUS Volunteers at CP Nassau Home in Bayville 04/06/25",
+        "hours": 3.0,
+        "date": "April 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Syosset AYLUS volunteers at the Cerebral Palsy Association of Nassau County in Bayville on 03/02/25",
+        "hours": 3.0,
+        "date": "March 12, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Suri Liu": {
+    "userId": "Suri Liu",
+    "username": "Suri Liu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Syosset AYLUS volunteers at the Cerebral Palsy Association of Nassau County in Bayville on 03/02/25",
+        "hours": 3.0,
+        "date": "March 12, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kingston Lu": {
+    "userId": "Kingston Lu",
+    "username": "Kingston Lu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Syosset AYLUS volunteers at the Cerebral Palsy Association of Nassau County in Bayville on 03/02/25",
+        "hours": 3.0,
+        "date": "March 12, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brooke Zheng": {
+    "userId": "Brooke Zheng",
+    "username": "Brooke Zheng",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (39th) on February 15th, 2025",
+        "hours": 3.0,
+        "date": "February 16, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Letao Tao": {
+    "userId": "Letao Tao",
+    "username": "Letao Tao",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (39th) on February 15th, 2025",
+        "hours": 3.0,
+        "date": "February 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps the Cerebral Palsy Association of Nassau County at the Bayville Care Center (16th) on March 2nd, 2025",
+        "hours": 3.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (33rd) on December 7th, 2024.",
+        "hours": 3.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (8th) 7/20/24",
+        "hours": 3.0,
+        "date": "July 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (21th) on July 20th, 2024",
+        "hours": 3.0,
+        "date": "July 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at Cerebal Palsy Association of Nassau County’s Group Home (9th) on 3/30/24",
+        "hours": 3.0,
+        "date": "March 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at Cerebral Palsy Association of Nassau County’s Group Home (4th) on 3/02/2024",
+        "hours": 3.0,
+        "date": "March 4, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maggie Xiao": {
+    "userId": "Maggie Xiao",
+    "username": "Maggie Xiao",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (39th) on February 15th, 2025",
+        "hours": 3.0,
+        "date": "February 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (21th) on July 20th, 2024",
+        "hours": 3.0,
+        "date": "July 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (5th) 6/29/24",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zihan Wang": {
+    "userId": "Zihan Wang",
+    "username": "Zihan Wang",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Helps the Cerebral Palsy Association of Nassau County at the Bayville Care Center (16th) on March 2nd, 2025",
+        "hours": 3.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Helps The Cerebral Palsy Association of Nassau County at the Bayville Care Center (12th) on January 5th,...",
+        "hours": 3.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at Cerebal Palsy Association of Nassau County’s Group Home (9th) on 3/30/24",
+        "hours": 3.0,
+        "date": "March 31, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Max Li": {
+    "userId": "Max Li",
+    "username": "Max Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (38th) on February 1st, 2025",
+        "hours": 3.0,
+        "date": "February 6, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaci Li": {
+    "userId": "Kaci Li",
+    "username": "Kaci Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Helps The Cerebral Palsy Association of Nassau County at the Bayville Care Center (12th) on January 5th,...",
+        "hours": 3.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leo Zheng Leo Zheng": {
+    "userId": "Leo Zheng Leo Zheng",
+    "username": "Leo Zheng Leo Zheng",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (32nd) on November 23rd, 2024.",
+        "hours": 3.0,
+        "date": "November 26, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Great Neck": {
+    "userId": "Great Neck",
+    "username": "Great Neck",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (8th) 7/20/24",
+        "hours": 1.0,
+        "date": "July 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xingzhi Li": {
+    "userId": "Xingzhi Li",
+    "username": "Xingzhi Li",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (8th) 7/20/24",
+        "hours": 3.0,
+        "date": "July 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (21th) on July 20th, 2024",
+        "hours": 3.0,
+        "date": "July 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Roslyn Volunteers at Cerebal Palsy Association of Nassau County’s Group Home (9th) on 3/30/24",
+        "hours": 3.0,
+        "date": "March 31, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Serena Chen": {
+    "userId": "Serena Chen",
+    "username": "Serena Chen",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at the Cerebral Palsy Association of Nassau County’s Group Home (21th) on July 20th, 2024",
+        "hours": 3.0,
+        "date": "July 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (5th) 6/29/24",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leah Chan": {
+    "userId": "Leah Chan",
+    "username": "Leah Chan",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Volunteers at Cerebal Palsy Association of Nassau County’s Group Home (9th) on 3/30/24",
+        "hours": 3.0,
+        "date": "March 31, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "HaoYang Sun": {
+    "userId": "HaoYang Sun",
+    "username": "HaoYang Sun",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Great Neck Branch volunteers at CP Nassau (5th) 6/29/24",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Spring Break": {
+    "userId": "Spring Break",
+    "username": "Spring Break",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Aylus West Essex Volunteers helps Local Business Zen Wushu – 4/12/2025~4/17/2025",
+        "hours": 2.0,
+        "date": "April 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rachel Zhang": {
+    "userId": "Rachel Zhang",
+    "username": "Rachel Zhang",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Volunteers at Friendship Garden Restoration Workshop on November 12th, 2022",
+        "hours": 2.5,
+        "date": "November 12, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alyssa Huang": {
+    "userId": "Alyssa Huang",
+    "username": "Alyssa Huang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Volunteers at Friendship Garden Restoration Workshop on November 12th, 2022",
+        "hours": 3.0,
+        "date": "November 12, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS-Bayside Environmental team held a beach clean-up project (7/30/2022, #1 )",
+        "hours": 1.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hills High School East": {
+    "userId": "Hills High School East",
+    "username": "Hills High School East",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Volunteers at Friendship Garden Restoration Workshop on November 12th, 2022",
+        "hours": 2.5,
+        "date": "November 12, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "I Han Liao": {
+    "userId": "I Han Liao",
+    "username": "I Han Liao",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Great Neck made donations to Kings Wheelchair Basketball on Women’s Sports Day (2/2/2023)",
+        "hours": 2.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fanxi Xia": {
+    "userId": "Fanxi Xia",
+    "username": "Fanxi Xia",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Great Neck made donations to Kings Wheelchair Basketball on Women’s Sports Day (2/2/2023)",
+        "hours": 2.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yunhe Luo": {
+    "userId": "Yunhe Luo",
+    "username": "Yunhe Luo",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Great Neck made donations to Kings Wheelchair Basketball on Women’s Sports Day (2/2/2023)",
+        "hours": 2.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angela Wang": {
+    "userId": "Angela Wang",
+    "username": "Angela Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS-Bayside Environmental team held a beach clean-up project (7/30/2022, #1 )",
+        "hours": 1.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Wang": {
+    "userId": "Michael Wang",
+    "username": "Michael Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS-Bayside Environmental team held a beach clean-up project (7/30/2022, #1 )",
+        "hours": 1.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nian Li": {
+    "userId": "Nian Li",
+    "username": "Nian Li",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS-Bayside Environmental team held a beach clean-up project (7/30/2022, #1 )",
+        "hours": 1.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Margaret Zhang": {
+    "userId": "Margaret Zhang",
+    "username": "Margaret Zhang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS-Bayside Environmental team held a beach clean-up project (7/30/2022, #1 )",
+        "hours": 1.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

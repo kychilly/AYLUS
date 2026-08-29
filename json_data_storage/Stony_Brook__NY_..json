@@ -1,0 +1,446 @@
+{
+  "Ziya Yin": {
+    "userId": "Ziya Yin",
+    "username": "Ziya Yin",
+    "totalHours": 60.0,
+    "entries": [
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 2/9/26",
+        "hours": 2.0,
+        "date": "February 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 7/20/26",
+        "hours": 2.0,
+        "date": "July 20, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 8/24/26",
+        "hours": 2.0,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 1/19/26",
+        "hours": 2.0,
+        "date": "January 20, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Sayville 10/20/25",
+        "hours": 2.0,
+        "date": "October 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Sayville 1/12/26",
+        "hours": 2.0,
+        "date": "January 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Sayville 9/15/25",
+        "hours": 3.0,
+        "date": "September 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 10/6/25",
+        "hours": 3.0,
+        "date": "October 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Members Volunteer at 11th Annual Port Jefferson Dragon Boat Race Festival",
+        "hours": 6.0,
+        "date": "September 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at WoodCrest 9/29/25",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Members Visit Senior Communities. 8/14/25",
+        "hours": 3.0,
+        "date": "August 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Port Jefferson 4/25/25",
+        "hours": 2.0,
+        "date": "May 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Port Jefferson 2/21/25",
+        "hours": 2.0,
+        "date": "March 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Stony Brook Teaches Tech Help At Brightview Port Jefferson 10/24/24",
+        "hours": 2.5,
+        "date": "November 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class At Brightview 9/24/24",
+        "hours": 3.0,
+        "date": "September 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 10/17/24",
+        "hours": 2.5,
+        "date": "November 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Members Visit Senior Communities. 8/13/24",
+        "hours": 2.5,
+        "date": "August 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Demo Class At Setauket Meadows 9/19/24",
+        "hours": 2.5,
+        "date": "September 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Members Volunteer at 10th Annual Port Jefferson Dragon Boat Race Festival 9/14/24",
+        "hours": 8.0,
+        "date": "September 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 9/17/24",
+        "hours": 4.0,
+        "date": "September 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Sayville 10/20/25",
+        "hours": 2.0,
+        "date": "October 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Xu": {
+    "userId": "Sarah Xu",
+    "username": "Sarah Xu",
+    "totalHours": 38.5,
+    "entries": [
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 1/19/26",
+        "hours": 2.0,
+        "date": "January 20, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Sayville 10/20/25",
+        "hours": 2.0,
+        "date": "October 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 11/17/25",
+        "hours": 2.0,
+        "date": "November 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Sayville 9/15/25",
+        "hours": 2.0,
+        "date": "September 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 10/6/25",
+        "hours": 2.0,
+        "date": "October 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Members Volunteer at 11th Annual Port Jefferson Dragon Boat Race Festival",
+        "hours": 8.0,
+        "date": "September 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 8/28/25",
+        "hours": 2.0,
+        "date": "September 13, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Port Jefferson 7/25/25",
+        "hours": 2.0,
+        "date": "August 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Port Jefferson 6/27/25",
+        "hours": 2.0,
+        "date": "July 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Port Jefferson 5/30/25",
+        "hours": 2.0,
+        "date": "June 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Stony Brook Teaches Tech Help At Brightview Port Jefferson 10/24/24",
+        "hours": 2.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 10/17/24",
+        "hours": 2.0,
+        "date": "November 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Members Volunteer at 10th Annual Port Jefferson Dragon Boat Race Festival 9/14/24",
+        "hours": 5.0,
+        "date": "September 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 9/17/24",
+        "hours": 1.5,
+        "date": "September 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Sayville 10/20/25",
+        "hours": 2.0,
+        "date": "October 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bharath Kanagal Raj": {
+    "userId": "Bharath Kanagal Raj",
+    "username": "Bharath Kanagal Raj",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Sayville 9/15/25",
+        "hours": 2.0,
+        "date": "September 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Bristal Mount Sinai 10/6/25",
+        "hours": 2.0,
+        "date": "October 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 5/23/25",
+        "hours": 2.0,
+        "date": "May 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 3/3/25",
+        "hours": 2.0,
+        "date": "March 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 12/19/24",
+        "hours": 2.0,
+        "date": "December 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brandon Xu": {
+    "userId": "Brandon Xu",
+    "username": "Brandon Xu",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 3/3/25",
+        "hours": 2.0,
+        "date": "March 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Port Jefferson 11/29/24",
+        "hours": 2.0,
+        "date": "December 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Stony Brook Helps Members Of Setauket Meadows Senior Living On Zoom 9/22/24",
+        "hours": 0.5,
+        "date": "September 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class At Brightview 9/24/24",
+        "hours": 2.0,
+        "date": "September 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pranav Mukhi": {
+    "userId": "Pranav Mukhi",
+    "username": "Pranav Mukhi",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at Brightview Port Jefferson 1/17/25",
+        "hours": 2.0,
+        "date": "February 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bobby Zhang": {
+    "userId": "Bobby Zhang",
+    "username": "Bobby Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Stony Brook Teaches Tech Help At Brightview Port Jefferson 10/24/24",
+        "hours": 2.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Stony Brook AYLUS Teaches Tech Help Class at The Villas 10/17/24",
+        "hours": 2.0,
+        "date": "November 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maggie Zhang": {
+    "userId": "Maggie Zhang",
+    "username": "Maggie Zhang",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T-shirts for 6 branches in 7 boxes on September 27th, 2024",
+        "hours": 7.5,
+        "date": "September 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T shirts to 5 branches in 7 boxes on July 27th, 2024",
+        "hours": 7.5,
+        "date": "July 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brenna Li": {
+    "userId": "Brenna Li",
+    "username": "Brenna Li",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T-shirts for 6 branches in 7 boxes on September 27th, 2024",
+        "hours": 1.0,
+        "date": "September 26, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dan Yi": {
+    "userId": "Dan Yi",
+    "username": "Dan Yi",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T-shirts for 6 branches in 7 boxes on September 27th, 2024",
+        "hours": 1.0,
+        "date": "September 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T shirts to 5 branches in 7 boxes on July 27th, 2024",
+        "hours": 1.0,
+        "date": "July 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maxim Li": {
+    "userId": "Maxim Li",
+    "username": "Maxim Li",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Helps Spread Awareness About Birds with the Audubon Center (4th) on June 25, 2023",
+        "hours": 5.5,
+        "date": "June 26, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brooke Zheng": {
+    "userId": "Brooke Zheng",
+    "username": "Brooke Zheng",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Helps Spread Awareness About Birds with the Audubon Center (4th) on June 25, 2023",
+        "hours": 5.5,
+        "date": "June 26, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leo Zheng": {
+    "userId": "Leo Zheng",
+    "username": "Leo Zheng",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Helps Spread Awareness About Birds with the Audubon Center (4th) on June 25, 2023",
+        "hours": 5.5,
+        "date": "June 26, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

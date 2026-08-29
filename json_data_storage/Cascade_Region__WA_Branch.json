@@ -1,0 +1,32 @@
+{
+  "Sophie Zhang": {
+    "userId": "Sophie Zhang",
+    "username": "Sophie Zhang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Cascade Region Finishes First Online Sports Medicine Camp 8/17/20 – 8/21/20",
+        "hours": 2.0,
+        "date": "August 22, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nuoyan Zhang": {
+    "userId": "Nuoyan Zhang",
+    "username": "Nuoyan Zhang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Cascade Region Finishes First Online Chemistry Camp 8/17/20 – 8/21/20",
+        "hours": 2.0,
+        "date": "August 22, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "On Nov": {
+    "userId": "On Nov",
+    "username": "On Nov",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Cleveland volunteered at Cleveland Kosher Food Pantry (11/15/2023)",
+        "hours": 11.0,
+        "date": "December 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Wei": {
+    "userId": "Jason Wei",
+    "username": "Jason Wei",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Greater Cleveland participated in Walk to End Alzheimer’s Disease at Cleveland (10/2/2022)",
+        "hours": 3.0,
+        "date": "October 2, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lyndia Zheng": {
+    "userId": "Lyndia Zheng",
+    "username": "Lyndia Zheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Cleveland helps the Local Food Bank (7/25/2022)",
+        "hours": 2.0,
+        "date": "July 26, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lucas Zhang": {
+    "userId": "Lucas Zhang",
+    "username": "Lucas Zhang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Memphis Branch Helps Transcribe Documents for the National Archives in June",
+        "hours": 2.0,
+        "date": "June 30, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

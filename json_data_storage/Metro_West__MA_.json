@@ -1,0 +1,419 @@
+{
+  "Rachael Yuan": {
+    "userId": "Rachael Yuan",
+    "username": "Rachael Yuan",
+    "totalHours": 41.7,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Launches Summer Tutoring Sessions (07/13/20-08/28/20)",
+        "hours": 23.0,
+        "date": "July 20, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MetroWest AYLUS High School Advice Webinar (08/26/20)",
+        "hours": 1.0,
+        "date": "August 25, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MetroWest AYLUS Hosts “Evolution: A Flawed Theory” (08/03/20)",
+        "hours": 1.0,
+        "date": "August 5, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MAYLUS Volunteers Help Small Businesses (09/2020 – 12/2020)",
+        "hours": 16.7,
+        "date": "September 25, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charlene Peng": {
+    "userId": "Charlene Peng",
+    "username": "Charlene Peng",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Launches Summer Tutoring Sessions (07/13/20-08/28/20)",
+        "hours": 23.0,
+        "date": "July 20, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MetroWest AYLUS High School Advice Webinar (08/26/20)",
+        "hours": 1.0,
+        "date": "August 25, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MetroWest AYLUS Hosts “Evolution: A Flawed Theory” (08/03/20)",
+        "hours": 1.0,
+        "date": "August 5, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Viola Li": {
+    "userId": "Viola Li",
+    "username": "Viola Li",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Launches Summer Tutoring Sessions (07/13/20-08/28/20)",
+        "hours": 23.0,
+        "date": "July 20, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MetroWest AYLUS High School Advice Webinar (08/26/20)",
+        "hours": 1.0,
+        "date": "August 25, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sonia Kang": {
+    "userId": "Sonia Kang",
+    "username": "Sonia Kang",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Launches Summer Tutoring Sessions (07/13/20-08/28/20)",
+        "hours": 23.0,
+        "date": "July 20, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MetroWest AYLUS High School Advice Webinar (08/26/20)",
+        "hours": 1.0,
+        "date": "August 25, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Goldberg": {
+    "userId": "Alex Goldberg",
+    "username": "Alex Goldberg",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Launches Summer Tutoring Sessions (07/13/20-08/28/20)",
+        "hours": 11.0,
+        "date": "July 20, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MetroWest AYLUS High School Advice Webinar (08/26/20)",
+        "hours": 1.0,
+        "date": "August 25, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Priyanka Deka": {
+    "userId": "Priyanka Deka",
+    "username": "Priyanka Deka",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Launches Summer Tutoring Sessions (07/13/20-08/28/20)",
+        "hours": 10.0,
+        "date": "July 20, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lizzie Cheng": {
+    "userId": "Lizzie Cheng",
+    "username": "Lizzie Cheng",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Launches Summer Tutoring Sessions (07/13/20-08/28/20)",
+        "hours": 9.0,
+        "date": "July 20, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Celina Xiong": {
+    "userId": "Celina Xiong",
+    "username": "Celina Xiong",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Launches Summer Tutoring Sessions (07/13/20-08/28/20)",
+        "hours": 12.0,
+        "date": "July 20, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "MetroWest AYLUS Hosts “Evolution: A Flawed Theory” (08/03/20)",
+        "hours": 1.0,
+        "date": "August 5, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "PM EST": {
+    "userId": "PM EST",
+    "username": "PM EST",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS High School Advice Webinar (08/26/20)",
+        "hours": 6.0,
+        "date": "August 25, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Westborough Connects": {
+    "userId": "Westborough Connects",
+    "username": "Westborough Connects",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "MetroWest AYLUS Volunteers at Westborough’s MLK Jr. Community Celebration",
+        "hours": 20.0,
+        "date": "January 24, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Sun": {
+    "userId": "William Sun",
+    "username": "William Sun",
+    "totalHours": 10.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 02/28/2026",
+        "hours": 1.5,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 5/30/2026",
+        "hours": 3.0,
+        "date": "May 31, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 03/14//2026",
+        "hours": 1.5,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 03/07/2026",
+        "hours": 1.5,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 01/31/2026",
+        "hours": 1.5,
+        "date": "February 1, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 01/17/2026",
+        "hours": 1.5,
+        "date": "January 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffrey Yang": {
+    "userId": "Jeffrey Yang",
+    "username": "Jeffrey Yang",
+    "totalHours": 10.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 02/28/2026",
+        "hours": 1.5,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 5/30/2026",
+        "hours": 3.0,
+        "date": "May 31, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 04/11/2026",
+        "hours": 1.5,
+        "date": "April 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 02/14/2026",
+        "hours": 1.5,
+        "date": "February 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 01/31/2026",
+        "hours": 1.5,
+        "date": "February 1, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 01/17/2026",
+        "hours": 1.5,
+        "date": "January 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zachary Yang": {
+    "userId": "Zachary Yang",
+    "username": "Zachary Yang",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 5/30/2026",
+        "hours": 3.0,
+        "date": "May 31, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 04/11/2026",
+        "hours": 3.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 03/14//2026",
+        "hours": 1.5,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 01/17/2026",
+        "hours": 1.5,
+        "date": "January 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Wu": {
+    "userId": "Ethan Wu",
+    "username": "Ethan Wu",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 03/07/2026",
+        "hours": 1.5,
+        "date": "March 29, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Baute": {
+    "userId": "Alex Baute",
+    "username": "Alex Baute",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 03/07/2026",
+        "hours": 1.5,
+        "date": "March 29, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Yang": {
+    "userId": "Ethan Yang",
+    "username": "Ethan Yang",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS – Special Olympics swimming team training – 02/14/2026",
+        "hours": 1.5,
+        "date": "February 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lily Antonellis": {
+    "userId": "Lily Antonellis",
+    "username": "Lily Antonellis",
+    "totalHours": 7.5,
+    "entries": [
+      {
+        "eventName": "MAYLUS Volunteers Help Small Businesses (09/2020 – 12/2020)",
+        "hours": 7.5,
+        "date": "September 25, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aliyah Quijada": {
+    "userId": "Aliyah Quijada",
+    "username": "Aliyah Quijada",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "MAYLUS Volunteers Help Small Businesses (09/2020 – 12/2020)",
+        "hours": 6.5,
+        "date": "September 25, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Missy Canning": {
+    "userId": "Missy Canning",
+    "username": "Missy Canning",
+    "totalHours": 3.2,
+    "entries": [
+      {
+        "eventName": "MAYLUS Volunteers Help Small Businesses (09/2020 – 12/2020)",
+        "hours": 3.2,
+        "date": "September 25, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

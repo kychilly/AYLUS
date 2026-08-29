@@ -1,0 +1,293 @@
+{
+  "Dylan Wang": {
+    "userId": "Dylan Wang",
+    "username": "Dylan Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Orlando Branch, Boombah Soldiers Park Little Library Installation (Jan 20th \u0026 Feb 2nd, 2025)",
+        "hours": 1.0,
+        "date": "February 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Library Construction": {
+    "userId": "Library Construction",
+    "username": "Library Construction",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Orlando Branch, Boombah Soldiers Park Little Library Installation (Jan 20th \u0026 Feb 2nd, 2025)",
+        "hours": 1.0,
+        "date": "February 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Wang": {
+    "userId": "Jason Wang",
+    "username": "Jason Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Orlando Branch, Boombah Soldiers Park Little Library Installation (Jan 20th \u0026 Feb 2nd, 2025)",
+        "hours": 1.0,
+        "date": "February 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "HOPE Helps": {
+    "userId": "HOPE Helps",
+    "username": "HOPE Helps",
+    "totalHours": 19.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Orlando Branch Assists HOPE Helps to Sort Donations and Close Local Store (July 6th, 2024)",
+        "hours": 2.0,
+        "date": "July 7, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando combines with HOPE Helps’ Back to School Bash on 08/25/2023",
+        "hours": 15.0,
+        "date": "June 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch Assists HOPE Helps to Sort Donations and Close Local Store (May 31st, 2024)",
+        "hours": 2.5,
+        "date": "May 31, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Cross Seminole Trail": {
+    "userId": "The Cross Seminole Trail",
+    "username": "The Cross Seminole Trail",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Renovation #6 (June 15th, 2024)",
+        "hours": 1.0,
+        "date": "June 16, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Little Library Installation (June 23rd, 2024)",
+        "hours": 1.0,
+        "date": "June 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Renovation #5 (January 29th, 2023)",
+        "hours": 1.0,
+        "date": "May 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Renovation #4 (November 4th, 2022)",
+        "hours": 1.0,
+        "date": "December 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Renovation #2 (July 16th, 2022)",
+        "hours": 1.0,
+        "date": "July 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Renovation (Post-Hurricane) #3 (September 30st, 2022)",
+        "hours": 1.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch Adopted Jamestown park and renovated it on June 25th, 2022!",
+        "hours": 1.0,
+        "date": "June 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Bash": {
+    "userId": "School Bash",
+    "username": "School Bash",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Orlando combines with HOPE Helps’ Back to School Bash on 08/25/2023",
+        "hours": 3.0,
+        "date": "June 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "First Church": {
+    "userId": "First Church",
+    "username": "First Church",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Orlando combines with HOPE Helps’ Back to School Bash on 08/25/2023",
+        "hours": 3.0,
+        "date": "June 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jamestown Park": {
+    "userId": "Jamestown Park",
+    "username": "Jamestown Park",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Renovation #4 (November 4th, 2022)",
+        "hours": 2.0,
+        "date": "December 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Renovation #2 (July 16th, 2022)",
+        "hours": 2.0,
+        "date": "July 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch, Jamestown Park Renovation (Post-Hurricane) #3 (September 30st, 2022)",
+        "hours": 2.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Orlando Branch Adopted Jamestown park and renovated it on June 25th, 2022!",
+        "hours": 2.0,
+        "date": "June 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bryant Li": {
+    "userId": "Bryant Li",
+    "username": "Bryant Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Asian Food \u0026 Cultural Festival- (8/10/2025)",
+        "hours": 2.0,
+        "date": "August 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Orlando Xia": {
+    "userId": "Orlando Xia",
+    "username": "Orlando Xia",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Asian Food \u0026 Cultural Festival- (8/10/2025)",
+        "hours": 3.0,
+        "date": "August 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isaac Wei": {
+    "userId": "Isaac Wei",
+    "username": "Isaac Wei",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Asian Food \u0026 Cultural Festival- (8/10/2025)",
+        "hours": 3.5,
+        "date": "August 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grace Wang": {
+    "userId": "Grace Wang",
+    "username": "Grace Wang",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Asian Food \u0026 Cultural Festival- (8/10/2025)",
+        "hours": 5.5,
+        "date": "August 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Owen Zhu": {
+    "userId": "Owen Zhu",
+    "username": "Owen Zhu",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Asian Food \u0026 Cultural Festival- (8/10/2025)",
+        "hours": 6.0,
+        "date": "August 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Austin Xu": {
+    "userId": "Austin Xu",
+    "username": "Austin Xu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Asian Food \u0026 Cultural Festival- (8/10/2025)",
+        "hours": 7.0,
+        "date": "August 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Paisley Chi": {
+    "userId": "Paisley Chi",
+    "username": "Paisley Chi",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Asian Food \u0026 Cultural Festival- (8/10/2025)",
+        "hours": 8.0,
+        "date": "August 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

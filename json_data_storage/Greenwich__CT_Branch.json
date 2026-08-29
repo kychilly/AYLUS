@@ -1,0 +1,38 @@
+{
+  "Annabel Zhou": {
+    "userId": "Annabel Zhou",
+    "username": "Annabel Zhou",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Greenwich branch hosted book club and WordMasters Study Group for elementary kids in October 2021",
+        "hours": 0.5,
+        "date": "October 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenwich branch hosted book club and writing club meetings in August",
+        "hours": 0.5,
+        "date": "August 31, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Mao": {
+    "userId": "Emma Mao",
+    "username": "Emma Mao",
+    "totalHours": 0.5,
+    "entries": [
+      {
+        "eventName": "Greenwich branch hosted book club and writing club meetings in August",
+        "hours": 0.5,
+        "date": "August 31, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

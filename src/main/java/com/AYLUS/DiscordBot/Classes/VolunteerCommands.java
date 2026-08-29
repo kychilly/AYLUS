@@ -52,24 +52,23 @@ public class VolunteerCommands extends ListenerAdapter {
 
 
     private void handleTotalHoursCommand(SlashCommandInteractionEvent event) {
-        // 1. Instantly acknowledge the interaction to prevent the 3-second timeout
+        // 1. Instantly acknowledge interaction to prevent Discord 3-second timeout
         event.deferReply().queue(hook -> {
-            // 2. Execute scraping / JSON calculation asynchronously off the main thread
+            // 2. Aggregate statistics from json_data_storage asynchronously
             CompletableFuture.runAsync(() -> {
-                double totalHours = HourAndMoneyTracker.getTotalHours();
-                int totalVolunteers = HourAndMoneyTracker.getTotalVolunteersCount();
-                long totalEvents = HourAndMoneyTracker.getTotalEventsCount();
-                double totalFunds = HourAndMoneyTracker.fetchTotalNationwideFunds(); // Slow web scraper call
+                DirectoryStatsCalculator.BranchStats stats =
+                        DirectoryStatsCalculator.calculateDirectoryStats("json_data_storage");
 
                 EmbedBuilder embed = new EmbedBuilder()
                         .setTitle("AYLUS National Statistics")
                         .setColor(Color.BLUE)
-                        .addField("Total Hours Tracked", String.format("%.1f hrs", totalHours), true)
-                        .addField("Total Volunteers", String.valueOf(totalVolunteers), true)
-                        .addField("Total Events(minimum)", String.valueOf(totalEvents), true)
-                        .addField("Total Funds Raised", String.format("$%.2f", totalFunds), false);
+                        .addField("Total Hours Tracked", String.format("%,.1f hrs", Math.ceil(stats.totalHours)), true)
+                        .addField("Total Volunteers", String.format("%,d", stats.totalVolunteers), true)
+                        .addField("Total Events (minimum)", String.format("%,d", stats.totalEvents), true)
+                        .addField("Branches Tracked", String.format("%,d", stats.totalBranches), true)
+                        .setFooter("Calculated from saved branch JSON records", null);
 
-                // 3. Edit the original deferred response via InteractionHook
+                // 3. Edit deferred response with final results
                 hook.sendMessageEmbeds(embed.build()).queue();
             });
         });

@@ -1,0 +1,4727 @@
+{
+  "Annie Wu": {
+    "userId": "Annie Wu",
+    "username": "Annie Wu",
+    "totalHours": 184.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (4/12/2026)",
+        "hours": 3.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/22/2026)",
+        "hours": 3.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/15/2026)",
+        "hours": 3.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At FMSC MobilePack San Jose (5/1/2026)",
+        "hours": 2.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/1/2026)",
+        "hours": 3.0,
+        "date": "March 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/8/2026)",
+        "hours": 3.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/8/2026)",
+        "hours": 3.0,
+        "date": "March 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers at CityTeam San Jose (1/11/2026)",
+        "hours": 3.0,
+        "date": "March 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers at CityTeam San Jose (1/18/2026)",
+        "hours": 3.0,
+        "date": "March 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers at CityTeam San Jose (12/14/2025)",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers at CityTeam San Jose (12/21/25)",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at CityTeam San Jose (11/16/2025)",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at CityTeam San Jose (11/9/2025))",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at CityTeam San Jose (10/26/2025)",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/28/2025)",
+        "hours": 2.5,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/7/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/17/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/24/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (7/27/2025)",
+        "hours": 2.5,
+        "date": "August 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/03/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/30/2025)",
+        "hours": 2.5,
+        "date": "May 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/9/2025)",
+        "hours": 2.5,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/16/2025)",
+        "hours": 2.5,
+        "date": "March 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/2/2025)",
+        "hours": 2.5,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/2/2025)",
+        "hours": 2.5,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/23/2025)",
+        "hours": 2.5,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/16/2025)",
+        "hours": 2.5,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (1/26/2025)",
+        "hours": 2.5,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (12/15/2024)",
+        "hours": 2.5,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/3/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/17/2024)",
+        "hours": 2.5,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/10/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/6/2024)",
+        "hours": 2.5,
+        "date": "October 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/22/2024)",
+        "hours": 2.5,
+        "date": "September 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/29/2024)",
+        "hours": 2.5,
+        "date": "October 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/8/2024)",
+        "hours": 2.5,
+        "date": "September 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/15/2024)",
+        "hours": 2.5,
+        "date": "September 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (8/25/2024)",
+        "hours": 2.5,
+        "date": "August 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/18/2024)",
+        "hours": 2.5,
+        "date": "August 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/4/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/28/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/21/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/14/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/23/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/21/2024)",
+        "hours": 2.5,
+        "date": "April 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/23/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/21/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/29/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Poplar Beach (11/10/23)",
+        "hours": 3.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (11/12/2023)",
+        "hours": 2.5,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park and Murdock Park (10/15/2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching ( 8/13/2023)",
+        "hours": 3.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas + Rainbow Park (6/26/2023)",
+        "hours": 2.0,
+        "date": "June 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Pillar Point Beach (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/23/2022)",
+        "hours": 3.0,
+        "date": "October 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Creekside Park (10/2/2022)",
+        "hours": 2.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/9/2022)",
+        "hours": 2.0,
+        "date": "October 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up San Tomas Park (9/25/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angel Shi": {
+    "userId": "Angel Shi",
+    "username": "Angel Shi",
+    "totalHours": 281.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (4/12/2026)",
+        "hours": 3.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/22/2026)",
+        "hours": 3.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/15/2026)",
+        "hours": 3.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At FMSC MobilePack San Jose (5/1/2026)",
+        "hours": 2.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/1/2026)",
+        "hours": 3.0,
+        "date": "March 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/8/2026)",
+        "hours": 3.0,
+        "date": "May 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers At CityTeam San Jose (3/8/2026)",
+        "hours": 3.0,
+        "date": "March 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers at CityTeam San Jose (1/11/2026)",
+        "hours": 3.0,
+        "date": "March 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers at CityTeam San Jose (1/18/2026)",
+        "hours": 3.0,
+        "date": "March 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers at CityTeam San Jose (12/14/2025)",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Volunteers at CityTeam San Jose (12/21/25)",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at CityTeam San Jose (11/16/2025)",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/14/2025)",
+        "hours": 2.5,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at CityTeam San Jose (11/9/2025))",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at CityTeam San Jose (10/26/2025)",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/28/2025)",
+        "hours": 2.5,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/7/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/17/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/24/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (7/27/2025)",
+        "hours": 2.5,
+        "date": "August 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Feed My Starving Children (5/2/2025)",
+        "hours": 2.0,
+        "date": "May 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/03/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/30/2025)",
+        "hours": 2.5,
+        "date": "May 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/9/2025)",
+        "hours": 2.5,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/16/2025)",
+        "hours": 2.5,
+        "date": "March 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/2/2025)",
+        "hours": 2.5,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/2/2025)",
+        "hours": 2.5,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/23/2025)",
+        "hours": 2.5,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/16/2025)",
+        "hours": 2.5,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (1/26/2025)",
+        "hours": 2.5,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (12/15/2024)",
+        "hours": 2.5,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/3/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/17/2024)",
+        "hours": 2.5,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/27/2024)",
+        "hours": 2.5,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/10/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/20/2024)",
+        "hours": 2.5,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/6/2024)",
+        "hours": 2.5,
+        "date": "October 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/22/2024)",
+        "hours": 2.5,
+        "date": "September 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/29/2024)",
+        "hours": 2.5,
+        "date": "October 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/8/2024)",
+        "hours": 2.5,
+        "date": "September 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/15/2024)",
+        "hours": 2.5,
+        "date": "September 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (8/25/2024)",
+        "hours": 2.5,
+        "date": "August 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/24/2024)",
+        "hours": 2.5,
+        "date": "August 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/18/2024)",
+        "hours": 2.5,
+        "date": "August 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/4/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/3/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/28/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/29/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/21/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/14/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/13/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/23/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/15/2024)",
+        "hours": 2.5,
+        "date": "June 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (6/8/2024)",
+        "hours": 2.5,
+        "date": "June 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/21/2024)",
+        "hours": 2.5,
+        "date": "April 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/28/2024)",
+        "hours": 2.5,
+        "date": "April 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teachers (3/17/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With resource Area For Teaching (3/10/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (3/24/2024)",
+        "hours": 2.5,
+        "date": "March 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/23/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/21/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/20/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Starbird Park (12/3/2023)",
+        "hours": 1.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/29/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Poplar Beach (11/10/23)",
+        "hours": 3.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (11/12/2023)",
+        "hours": 2.5,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park and Murdock Park (10/15/2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching ( 8/13/2023)",
+        "hours": 3.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (7/23/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas + Rainbow Park (6/26/2023)",
+        "hours": 2.0,
+        "date": "June 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Pillar Point Beach (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Volunteered with Resource Area For Teaching (2/5/2023)",
+        "hours": 3.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/15/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/8/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (12/4/2022)",
+        "hours": 2.0,
+        "date": "December 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/23/2022)",
+        "hours": 3.0,
+        "date": "October 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Creekside Park (10/2/2022)",
+        "hours": 2.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/9/2022)",
+        "hours": 2.0,
+        "date": "October 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up San Tomas Park (9/25/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Earl R. Carmichael Park (9/11/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (8/21/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (8/28/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/14/2022)",
+        "hours": 2.0,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (7/31/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up El Quito Park (7/24/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (6/19/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (7/17/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Montara State Beach (6/12/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (4/28/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (4/27/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/26/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/25/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Starbird Park (4/24/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Tested Local Water Sources’ Water Quality (7/11/2021)",
+        "hours": 2.0,
+        "date": "July 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hualiang Shi": {
+    "userId": "Hualiang Shi",
+    "username": "Hualiang Shi",
+    "totalHours": 191.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/14/2025)",
+        "hours": 2.5,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (7/27/2025)",
+        "hours": 2.5,
+        "date": "August 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Feed My Starving Children (5/2/2025)",
+        "hours": 2.0,
+        "date": "May 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/03/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/30/2025)",
+        "hours": 2.5,
+        "date": "May 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/9/2025)",
+        "hours": 2.5,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/2/2025)",
+        "hours": 2.5,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/2/2025)",
+        "hours": 2.5,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/23/2025)",
+        "hours": 2.5,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (12/15/2024)",
+        "hours": 2.5,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/3/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/17/2024)",
+        "hours": 2.5,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/10/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/20/2024)",
+        "hours": 2.5,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/6/2024)",
+        "hours": 2.5,
+        "date": "October 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/22/2024)",
+        "hours": 2.5,
+        "date": "September 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/29/2024)",
+        "hours": 2.5,
+        "date": "October 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/8/2024)",
+        "hours": 2.5,
+        "date": "September 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/15/2024)",
+        "hours": 2.5,
+        "date": "September 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (8/25/2024)",
+        "hours": 2.5,
+        "date": "August 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/24/2024)",
+        "hours": 2.5,
+        "date": "August 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/18/2024)",
+        "hours": 2.5,
+        "date": "August 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/4/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/3/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/28/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/29/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/21/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/14/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/13/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (6/8/2024)",
+        "hours": 2.5,
+        "date": "June 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/21/2024)",
+        "hours": 2.5,
+        "date": "April 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/28/2024)",
+        "hours": 2.5,
+        "date": "April 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teachers (3/17/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With resource Area For Teaching (3/10/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (3/24/2024)",
+        "hours": 2.5,
+        "date": "March 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/23/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/24/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/22/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/21/2024)",
+        "hours": 1.0,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/20/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Starbird Park (12/3/2023)",
+        "hours": 1.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/29/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Poplar Beach (11/10/23)",
+        "hours": 3.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (11/12/2023)",
+        "hours": 2.5,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park and Murdock Park (10/15/2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas + Rainbow Park (6/26/2023)",
+        "hours": 2.0,
+        "date": "June 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Pillar Point Beach (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Creekside Park (10/2/2022)",
+        "hours": 2.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/9/2022)",
+        "hours": 2.0,
+        "date": "October 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up San Tomas Park (9/25/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Earl R. Carmichael Park (9/11/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (8/21/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (8/28/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/14/2022)",
+        "hours": 2.0,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (7/31/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up El Quito Park (7/24/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (6/19/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (7/17/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Montara State Beach (6/12/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (4/28/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (4/27/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/26/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/25/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Starbird Park (4/24/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Tested Local Water Sources’ Water Quality (7/11/2021)",
+        "hours": 2.0,
+        "date": "July 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Duan": {
+    "userId": "Michael Duan",
+    "username": "Michael Duan",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/14/2025)",
+        "hours": 2.5,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at CityTeam San Jose (11/9/2025))",
+        "hours": 3.0,
+        "date": "March 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (7/27/2025)",
+        "hours": 2.5,
+        "date": "August 4, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gang Duan": {
+    "userId": "Gang Duan",
+    "username": "Gang Duan",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/14/2025)",
+        "hours": 2.5,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (7/27/2025)",
+        "hours": 2.5,
+        "date": "August 4, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xuefeng Wang": {
+    "userId": "Xuefeng Wang",
+    "username": "Xuefeng Wang",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/14/2025)",
+        "hours": 2.5,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (7/27/2025)",
+        "hours": 2.5,
+        "date": "August 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/03/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/29/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/23/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/15/2024)",
+        "hours": 2.5,
+        "date": "June 24, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiantian Hu": {
+    "userId": "Tiantian Hu",
+    "username": "Tiantian Hu",
+    "totalHours": 117.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/28/2025)",
+        "hours": 2.5,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/24/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Feed My Starving Children (5/2/2025)",
+        "hours": 2.0,
+        "date": "May 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/16/2025)",
+        "hours": 2.5,
+        "date": "March 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/16/2025)",
+        "hours": 2.5,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (1/26/2025)",
+        "hours": 2.5,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/27/2024)",
+        "hours": 2.5,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/23/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/15/2024)",
+        "hours": 2.5,
+        "date": "June 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Starbird Park (12/3/2023)",
+        "hours": 1.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park and Murdock Park (10/15/2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching ( 8/13/2023)",
+        "hours": 3.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (7/23/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas + Rainbow Park (6/26/2023)",
+        "hours": 2.0,
+        "date": "June 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Pillar Point Beach (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer With Resource Area For Teaching (4/30/2023)",
+        "hours": 2.0,
+        "date": "May 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer With Resource Area For Teachers (4/23/2023)",
+        "hours": 2.0,
+        "date": "April 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Volunteered with Resource Area For Teaching (2/5/2023)",
+        "hours": 3.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/15/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/8/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (12/4/2022)",
+        "hours": 2.0,
+        "date": "December 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/23/2022)",
+        "hours": 3.0,
+        "date": "October 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Creekside Park (10/2/2022)",
+        "hours": 2.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/9/2022)",
+        "hours": 2.0,
+        "date": "October 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up San Tomas Park (9/25/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Earl R. Carmichael Park (9/11/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (8/21/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (8/28/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/14/2022)",
+        "hours": 2.0,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (7/31/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up El Quito Park (7/24/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (6/19/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (7/17/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Montara State Beach (6/12/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (4/27/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/26/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/25/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Starbird Park (4/24/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Tested Local Water Sources’ Water Quality (7/11/2021)",
+        "hours": 2.0,
+        "date": "July 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yajuan Cao": {
+    "userId": "Yajuan Cao",
+    "username": "Yajuan Cao",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (9/7/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/24/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2025)",
+        "hours": 2.5,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (7/27/2025)",
+        "hours": 2.5,
+        "date": "August 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/6/2024)",
+        "hours": 2.5,
+        "date": "October 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/22/2024)",
+        "hours": 2.5,
+        "date": "September 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/28/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/14/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Colin Wang": {
+    "userId": "Colin Wang",
+    "username": "Colin Wang",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (7/27/2025)",
+        "hours": 2.5,
+        "date": "August 4, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charlotte Shi": {
+    "userId": "Charlotte Shi",
+    "username": "Charlotte Shi",
+    "totalHours": 156.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Feed My Starving Children (5/2/2025)",
+        "hours": 2.0,
+        "date": "May 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/3/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/14/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/21/2024)",
+        "hours": 2.5,
+        "date": "April 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teachers (3/17/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With resource Area For Teaching (3/10/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (3/24/2024)",
+        "hours": 2.5,
+        "date": "March 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/23/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/24/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/22/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/21/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/20/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Starbird Park (12/3/2023)",
+        "hours": 1.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/29/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Poplar Beach (11/10/23)",
+        "hours": 3.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (11/12/2023)",
+        "hours": 2.5,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park and Murdock Park (10/15/2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching ( 8/13/2023)",
+        "hours": 3.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (7/23/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas + Rainbow Park (6/26/2023)",
+        "hours": 2.0,
+        "date": "June 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Pillar Point Beach (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer With Resource Area For Teaching (4/16/2023)",
+        "hours": 2.0,
+        "date": "April 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Volunteered with Resource Area For Teaching (4/12/2023)",
+        "hours": 2.0,
+        "date": "April 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Volunteered with Resource Area For Teaching (4/14/2023)",
+        "hours": 2.0,
+        "date": "April 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Volunteered with Resource Area For Teaching (2/5/2023)",
+        "hours": 3.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/15/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/8/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (12/4/2022)",
+        "hours": 2.0,
+        "date": "December 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/23/2022)",
+        "hours": 3.0,
+        "date": "October 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Creekside Park (10/2/2022)",
+        "hours": 2.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/9/2022)",
+        "hours": 2.0,
+        "date": "October 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up San Tomas Park (9/25/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Earl R. Carmichael Park (9/11/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (8/21/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (8/28/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/14/2022)",
+        "hours": 2.0,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (7/31/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up El Quito Park (7/24/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (6/19/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (7/17/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Montara State Beach (6/12/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Assembled a RAFT Kit (5/30/2022)",
+        "hours": 1.0,
+        "date": "June 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Assembled a RAFT Kit (5/21/2022)",
+        "hours": 1.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Assembled a RAFT Kit (5/7/2022)",
+        "hours": 1.0,
+        "date": "May 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (4/28/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (4/27/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/26/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/25/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Starbird Park (4/24/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Tested Local Water Sources’ Water Quality (7/11/2021)",
+        "hours": 2.0,
+        "date": "July 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Justin Shen": {
+    "userId": "Justin Shen",
+    "username": "Justin Shen",
+    "totalHours": 166.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/2/2025)",
+        "hours": 2.5,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (1/26/2025)",
+        "hours": 2.5,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/3/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/10/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/6/2024)",
+        "hours": 2.5,
+        "date": "October 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/15/2024)",
+        "hours": 2.5,
+        "date": "September 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 1.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/4/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/28/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/29/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/21/2024)",
+        "hours": 2.0,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/14/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/15/2024)",
+        "hours": 2.5,
+        "date": "June 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/21/2024)",
+        "hours": 2.5,
+        "date": "April 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/28/2024)",
+        "hours": 2.5,
+        "date": "April 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/7/2024)",
+        "hours": 2.5,
+        "date": "April 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teachers (3/17/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With resource Area For Teaching (3/10/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (3/24/2024)",
+        "hours": 2.5,
+        "date": "March 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/23/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/24/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/22/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/21/2024)",
+        "hours": 1.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/20/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Starbird Park (12/3/2023)",
+        "hours": 1.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (11/12/2023)",
+        "hours": 2.5,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park and Murdock Park (10/15/2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching ( 8/13/2023)",
+        "hours": 3.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (7/23/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas + Rainbow Park (6/26/2023)",
+        "hours": 2.0,
+        "date": "June 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Pillar Point Beach (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Volunteered with Resource Area For Teaching (2/5/2023)",
+        "hours": 3.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/15/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/8/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (12/4/2022)",
+        "hours": 2.0,
+        "date": "December 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/23/2022)",
+        "hours": 2.0,
+        "date": "October 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Creekside Park (10/2/2022)",
+        "hours": 2.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/9/2022)",
+        "hours": 2.0,
+        "date": "October 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up San Tomas Park (9/25/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Earl R. Carmichael Park (9/11/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (8/21/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (8/28/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/14/2022)",
+        "hours": 2.0,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (7/31/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up El Quito Park (7/24/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (6/19/2022)",
+        "hours": 1.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (7/17/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Jollyman Park (4/29/2022)",
+        "hours": 2.0,
+        "date": "May 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (4/27/2022)",
+        "hours": 3.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/26/2022)",
+        "hours": 3.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Rainbow Park (4/25/2022)",
+        "hours": 3.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Starbird Park (4/24/2022)",
+        "hours": 3.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Tested Local Water Sources’ Water Quality (7/11/2021)",
+        "hours": 2.0,
+        "date": "July 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jian Shen": {
+    "userId": "Jian Shen",
+    "username": "Jian Shen",
+    "totalHours": 110.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (3/2/2025)",
+        "hours": 2.5,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/23/2025)",
+        "hours": 2.5,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (1/26/2025)",
+        "hours": 2.5,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/3/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/10/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/6/2024)",
+        "hours": 2.5,
+        "date": "October 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/15/2024)",
+        "hours": 2.5,
+        "date": "September 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (8/25/2024)",
+        "hours": 2.5,
+        "date": "August 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/18/2024)",
+        "hours": 2.5,
+        "date": "August 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 1.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/4/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/28/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/29/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/21/2024)",
+        "hours": 2.0,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/15/2024)",
+        "hours": 2.5,
+        "date": "June 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/21/2024)",
+        "hours": 2.5,
+        "date": "April 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/28/2024)",
+        "hours": 2.5,
+        "date": "April 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/7/2024)",
+        "hours": 2.5,
+        "date": "April 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teachers (3/17/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With resource Area For Teaching (3/10/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (3/24/2024)",
+        "hours": 2.5,
+        "date": "March 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/20/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Starbird Park (12/3/2023)",
+        "hours": 1.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/29/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Poplar Beach (11/10/23)",
+        "hours": 3.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park and Murdock Park (10/15/2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching ( 8/13/2023)",
+        "hours": 3.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (7/23/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Volunteered with Resource Area For Teaching (2/5/2023)",
+        "hours": 3.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/15/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/8/2023)",
+        "hours": 3.0,
+        "date": "February 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (12/4/2022)",
+        "hours": 2.0,
+        "date": "December 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Tested Local Water Sources’ Water Quality (7/11/2021)",
+        "hours": 2.0,
+        "date": "July 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chloe Shen": {
+    "userId": "Chloe Shen",
+    "username": "Chloe Shen",
+    "totalHours": 72.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (2/23/2025)",
+        "hours": 2.5,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/3/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/27/2024)",
+        "hours": 2.5,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (11/10/2024)",
+        "hours": 2.5,
+        "date": "November 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/20/2024)",
+        "hours": 2.5,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/6/2024)",
+        "hours": 2.5,
+        "date": "October 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (9/15/2024)",
+        "hours": 2.5,
+        "date": "September 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (8/25/2024)",
+        "hours": 2.5,
+        "date": "August 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/18/2024)",
+        "hours": 2.5,
+        "date": "August 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/4/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/28/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/29/2024)",
+        "hours": 2.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/21/2024)",
+        "hours": 2.0,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (7/14/2024)",
+        "hours": 2.0,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/15/2024)",
+        "hours": 2.5,
+        "date": "June 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/28/2024)",
+        "hours": 2.5,
+        "date": "April 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/7/2024)",
+        "hours": 2.5,
+        "date": "April 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teachers (3/17/2024)",
+        "hours": 1.75,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (3/24/2024)",
+        "hours": 1.75,
+        "date": "March 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/24/2024)",
+        "hours": 1.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Starbird Park (12/3/2023)",
+        "hours": 1.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/29/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Poplar Beach (11/10/23)",
+        "hours": 3.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas + Rainbow Park (6/26/2023)",
+        "hours": 2.0,
+        "date": "June 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Tested Local Water Sources’ Water Quality (7/11/2021)",
+        "hours": 2.0,
+        "date": "July 12, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shu Zhang": {
+    "userId": "Shu Zhang",
+    "username": "Shu Zhang",
+    "totalHours": 25.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/27/2024)",
+        "hours": 2.5,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teaching (10/20/2024)",
+        "hours": 2.5,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/15/2024)",
+        "hours": 2.5,
+        "date": "June 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/25/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/24/2024)",
+        "hours": 2.5,
+        "date": "February 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/21/2024)",
+        "hours": 1.0,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Starbird Park (12/3/2023)",
+        "hours": 1.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas + Rainbow Park (6/26/2023)",
+        "hours": 2.0,
+        "date": "June 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joycelyn Zhou": {
+    "userId": "Joycelyn Zhou",
+    "username": "Joycelyn Zhou",
+    "totalHours": 44.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 2.0,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/3/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/23/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/21/2024)",
+        "hours": 2.5,
+        "date": "April 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (4/28/2024)",
+        "hours": 2.5,
+        "date": "April 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/7/2024)",
+        "hours": 2.5,
+        "date": "April 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With Resource Area For Teachers (3/17/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With resource Area For Teaching (3/10/2024)",
+        "hours": 2.5,
+        "date": "April 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (3/24/2024)",
+        "hours": 2.5,
+        "date": "March 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (3/2/2024)",
+        "hours": 2.5,
+        "date": "March 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (2/4/2024)",
+        "hours": 2.0,
+        "date": "February 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/28/2024)",
+        "hours": 2.0,
+        "date": "February 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (11/12/2023)",
+        "hours": 2.5,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jianying Lang": {
+    "userId": "Jianying Lang",
+    "username": "Jianying Lang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/10/2024)",
+        "hours": 2.0,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/3/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Doudou Wang": {
+    "userId": "Doudou Wang",
+    "username": "Doudou Wang",
+    "totalHours": 17.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/4/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Pillar Point Beach (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/9/2022)",
+        "hours": 2.0,
+        "date": "October 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up El Quito Park (7/24/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xuelian Zhu": {
+    "userId": "Xuelian Zhu",
+    "username": "Xuelian Zhu",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (8/4/2024)",
+        "hours": 2.5,
+        "date": "August 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grace Wang": {
+    "userId": "Grace Wang",
+    "username": "Grace Wang",
+    "totalHours": 59.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteer at Resource Area For Teaching (6/23/2024)",
+        "hours": 2.5,
+        "date": "July 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/21/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching ( 8/13/2023)",
+        "hours": 3.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (7/23/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (12/4/2022)",
+        "hours": 2.0,
+        "date": "December 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/23/2022)",
+        "hours": 3.0,
+        "date": "October 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Earl R. Carmichael Park (9/11/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (8/21/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (6/19/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Montara State Beach (6/12/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Starbird Park (4/24/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xufeng Wang": {
+    "userId": "Xufeng Wang",
+    "username": "Xufeng Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (6/8/2024)",
+        "hours": 1.0,
+        "date": "June 10, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Qing Lu": {
+    "userId": "Qing Lu",
+    "username": "Qing Lu",
+    "totalHours": 57.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered With RAFT San Jose (4/14/2024)",
+        "hours": 2.5,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/21/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered at Resource Area for Teachers (2/18/2024)",
+        "hours": 2.5,
+        "date": "February 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Hyde Middle School and Neighborhood (12/10/2023)",
+        "hours": 2.0,
+        "date": "January 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Creekside Park (11/19/2023)",
+        "hours": 2.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/22/2023)",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching ( 8/13/2023)",
+        "hours": 3.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (7/23/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (12/4/2022)",
+        "hours": 2.0,
+        "date": "December 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/23/2022)",
+        "hours": 3.0,
+        "date": "October 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Earl R. Carmichael Park (9/11/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (8/21/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (6/19/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Montara State Beach (6/12/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Starbird Park (4/24/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jacklyn Zhou": {
+    "userId": "Jacklyn Zhou",
+    "username": "Jacklyn Zhou",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (11/12/2023)",
+        "hours": 2.5,
+        "date": "November 13, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yan Liang": {
+    "userId": "Yan Liang",
+    "username": "Yan Liang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (1/21/2024)",
+        "hours": 2.0,
+        "date": "January 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yunxiang Wu": {
+    "userId": "Yunxiang Wu",
+    "username": "Yunxiang Wu",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (10/29/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Poplar Beach (11/10/23)",
+        "hours": 3.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xinhua Wang": {
+    "userId": "Xinhua Wang",
+    "username": "Xinhua Wang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park and Murdock Park (10/15/2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jenny Tian": {
+    "userId": "Jenny Tian",
+    "username": "Jenny Tian",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (9/10/2023)",
+        "hours": 2.0,
+        "date": "September 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (9/17/2023)",
+        "hours": 2.0,
+        "date": "October 3, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Richard Song": {
+    "userId": "Richard Song",
+    "username": "Richard Song",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (8/28/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/14/2022)",
+        "hours": 2.0,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jacquelyn Zhou": {
+    "userId": "Jacquelyn Zhou",
+    "username": "Jacquelyn Zhou",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/20/2023)",
+        "hours": 2.0,
+        "date": "August 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Truman You": {
+    "userId": "Truman You",
+    "username": "Truman You",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (6/11/2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (11/6/2022)",
+        "hours": 2.0,
+        "date": "November 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up San Tomas Park (9/25/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (8/28/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up San Tomas Park (7/31/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Santa Clara Central Park (6/19/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (7/17/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Calabazas Park (6/5/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Meadowfair Park and William St. Park (5/22/2022)",
+        "hours": 3.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophie Pin": {
+    "userId": "Sophie Pin",
+    "username": "Sophie Pin",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Saratoga Members Cleaned up El Quito Park (2/12/2023)",
+        "hours": 2.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Saratoga Members Volunteered with Resource Area For Teaching (2/5/2023)",
+        "hours": 3.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (10/16/2022)",
+        "hours": 2.0,
+        "date": "October 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Volunteered with Resource Area For Teaching (10/23/2022)",
+        "hours": 2.0,
+        "date": "October 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Creekside Park (10/2/2022)",
+        "hours": 2.0,
+        "date": "October 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned Up Earl R. Carmichael Park (9/11/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yian Song": {
+    "userId": "Yian Song",
+    "username": "Yian Song",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John D. Morgan Park (8/28/2022)",
+        "hours": 2.0,
+        "date": "September 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Creek Park (8/14/2022)",
+        "hours": 2.0,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Matt Gao": {
+    "userId": "Matt Gao",
+    "username": "Matt Gao",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mason Gao": {
+    "userId": "Mason Gao",
+    "username": "Mason Gao",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gao Mao": {
+    "userId": "Gao Mao",
+    "username": "Gao Mao",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Easterbrook Discovery School (5/29/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up Saratoga Avenue (5/8/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiantian Hu Justin Shen": {
+    "userId": "Tiantian Hu Justin Shen",
+    "username": "Tiantian Hu Justin Shen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Saratoga Members Cleaned up John Mise Park (4/28/2022)",
+        "hours": 2.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Cruz": {
+    "userId": "Ethan Cruz",
+    "username": "Ethan Cruz",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Albany Branch Volunteers with the Saratoga County Animal Shelter (07/07/21)",
+        "hours": 2.0,
+        "date": "July 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Albany Branch Bonds With Cats #3 (06/28/21)",
+        "hours": 4.0,
+        "date": "June 28, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rosie Cui": {
+    "userId": "Rosie Cui",
+    "username": "Rosie Cui",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Albany Branch Volunteers with the Saratoga County Animal Shelter (07/07/21)",
+        "hours": 2.0,
+        "date": "July 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Albany Branch Bonds With Cats #3 (06/28/21)",
+        "hours": 4.0,
+        "date": "June 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Albany Branch Bonds With Cats #1 (06/19/21)",
+        "hours": 2.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mona Zeghal": {
+    "userId": "Mona Zeghal",
+    "username": "Mona Zeghal",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Albany Branch Volunteers with the Saratoga County Animal Shelter (07/07/21)",
+        "hours": 2.0,
+        "date": "July 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Albany Branch Bonds With Cats #2 (06/22/21)",
+        "hours": 2.0,
+        "date": "June 22, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Catherine Wang": {
+    "userId": "Catherine Wang",
+    "username": "Catherine Wang",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "Albany Branch Bonds With Cats #1 (06/19/21)",
+        "hours": 2.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Albany Branch Participated the Town Face Mask Distribution Event (06/12/20 – 06/13/20)",
+        "hours": 3.5,
+        "date": "May 6, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Johanna Zawada": {
+    "userId": "Johanna Zawada",
+    "username": "Johanna Zawada",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Albany Branch Bonds With Cats #2 (06/22/21)",
+        "hours": 2.0,
+        "date": "June 22, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Erica Wang": {
+    "userId": "Erica Wang",
+    "username": "Erica Wang",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Albany Branch Participated the Town Face Mask Distribution Event (06/12/20 – 06/13/20)",
+        "hours": 3.5,
+        "date": "May 6, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

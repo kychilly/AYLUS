@@ -1,0 +1,164 @@
+{
+  "National Anthem": {
+    "userId": "National Anthem",
+    "username": "National Anthem",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Veteran Colonel Schott": {
+    "userId": "Veteran Colonel Schott",
+    "username": "Veteran Colonel Schott",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Naomi Ling": {
+    "userId": "Naomi Ling",
+    "username": "Naomi Ling",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Howard County": {
+    "userId": "Howard County",
+    "username": "Howard County",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Students Partner": {
+    "userId": "Students Partner",
+    "username": "Students Partner",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Veterans Club": {
+    "userId": "Veterans Club",
+    "username": "Veterans Club",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "New Jersey": {
+    "userId": "New Jersey",
+    "username": "New Jersey",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Clarksville Branch Attends 100th Birthday of Veteran Event",
+        "hours": 2.0,
+        "date": "August 27, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xin Chen": {
+    "userId": "Xin Chen",
+    "username": "Xin Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Clarksville Branch Interviews Veteran Mr. Berlett",
+        "hours": 2.0,
+        "date": "January 27, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

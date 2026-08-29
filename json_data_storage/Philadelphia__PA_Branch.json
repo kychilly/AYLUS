@@ -1,0 +1,128 @@
+{
+  "ALYUS Newtown": {
+    "userId": "ALYUS Newtown",
+    "username": "ALYUS Newtown",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Newtown AYLUS Hosts Card Making Event",
+        "hours": 24.0,
+        "date": "November 29, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Independence Hall": {
+    "userId": "Independence Hall",
+    "username": "Independence Hall",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Distributes Meals for the Homeless of Philadelphia 11-18-2023",
+        "hours": 7.0,
+        "date": "November 21, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer He": {
+    "userId": "Summer He",
+    "username": "Summer He",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 22, 2022",
+        "hours": 2.0,
+        "date": "September 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 8, 2022",
+        "hours": 2.0,
+        "date": "September 10, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Amy Luo": {
+    "userId": "Amy Luo",
+    "username": "Amy Luo",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 22, 2022",
+        "hours": 2.0,
+        "date": "September 26, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Seven Summits Therapy": {
+    "userId": "Annual Seven Summits Therapy",
+    "username": "Annual Seven Summits Therapy",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Helps Thanksgiving 5K Turkey Trot Fundraising 11-23-2023",
+        "hours": 23.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wilson Farm Park": {
+    "userId": "Wilson Farm Park",
+    "username": "Wilson Farm Park",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Helps Thanksgiving 5K Turkey Trot Fundraising 11-23-2023",
+        "hours": 4.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hoey Initiative": {
+    "userId": "Hoey Initiative",
+    "username": "Hoey Initiative",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Helps Thanksgiving 5K Turkey Trot Fundraising 11-23-2023",
+        "hours": 4.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Penn State Junior": {
+    "userId": "Penn State Junior",
+    "username": "Penn State Junior",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Helps Thanksgiving 5K Turkey Trot Fundraising 11-23-2023",
+        "hours": 1.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

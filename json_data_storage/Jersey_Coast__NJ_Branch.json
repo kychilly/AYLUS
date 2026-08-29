@@ -1,0 +1,32 @@
+{
+  "Xiaowen Kang": {
+    "userId": "Xiaowen Kang",
+    "username": "Xiaowen Kang",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Raritan Valley Branch Conducts Fish Survey in Keyport, New Jersey on July 27th, 2024",
+        "hours": 1.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Austin Ing Activity Leads": {
+    "userId": "Austin Ing Activity Leads",
+    "username": "Austin Ing Activity Leads",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Participated in a Fish Surveying Event with Save Coastal Wildlife in Keyport, NJ on August 20, ...",
+        "hours": 2.5,
+        "date": "August 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

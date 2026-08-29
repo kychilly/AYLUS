@@ -1,0 +1,341 @@
+{
+  "Sunny Lin Danny Lin": {
+    "userId": "Sunny Lin Danny Lin",
+    "username": "Sunny Lin Danny Lin",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Arlington AYLUS hosts another Card Making Event for Hospitalized Kids on September 28th, 2025",
+        "hours": 2.0,
+        "date": "December 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Arlington AYLUS hosts a donation drive for Donate to Impact on July 2nd, 2025",
+        "hours": 2.0,
+        "date": "August 15, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sunny Lin Julianna Abbas": {
+    "userId": "Sunny Lin Julianna Abbas",
+    "username": "Sunny Lin Julianna Abbas",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Arlington AYLUS hosts another Card Making Event for Hospitalized Kids on March 17th, 2026",
+        "hours": 2.0,
+        "date": "July 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Arlington AYLUS cleans up F.J. “Red” Kane Park on August 23rd, 2025",
+        "hours": 1.0,
+        "date": "December 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kyra Taylor Aracely Ramirez": {
+    "userId": "Kyra Taylor Aracely Ramirez",
+    "username": "Kyra Taylor Aracely Ramirez",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Arlington AYLUS hosts another Card Making Event for Hospitalized Kids on May 31st, 2025",
+        "hours": 2.0,
+        "date": "August 15, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alicia Yee": {
+    "userId": "Alicia Yee",
+    "username": "Alicia Yee",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packaging Tomatoes 6/20/2026",
+        "hours": 1.5,
+        "date": "July 3, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aliana Yee": {
+    "userId": "Aliana Yee",
+    "username": "Aliana Yee",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packaging Tomatoes 6/20/2026",
+        "hours": 1.5,
+        "date": "July 3, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Tian": {
+    "userId": "William Tian",
+    "username": "William Tian",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packaging Tomatoes 6/20/2026",
+        "hours": 1.5,
+        "date": "July 3, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packing Broccoli 11/4/24",
+        "hours": 1.5,
+        "date": "November 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Volunteer at the Clock Tower Thrift Shop 8/11/2024",
+        "hours": 3.0,
+        "date": "August 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hanna Xue": {
+    "userId": "Hanna Xue",
+    "username": "Hanna Xue",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packing Broccoli 11/4/24",
+        "hours": 1.5,
+        "date": "November 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Volunteer at the Clock Tower Thrift Shop 8/11/2024",
+        "hours": 3.0,
+        "date": "August 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Ma": {
+    "userId": "Michael Ma",
+    "username": "Michael Ma",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packing Broccoli 11/4/24",
+        "hours": 1.5,
+        "date": "November 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Judy Zhang": {
+    "userId": "Judy Zhang",
+    "username": "Judy Zhang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "North Jersey AYLUS volunteers for Achilles New Jersey Hope and Possibility Run at 9/25/2022",
+        "hours": 6.0,
+        "date": "September 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Cui": {
+    "userId": "William Cui",
+    "username": "William Cui",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "North Jersey AYLUS volunteers for Achilles New Jersey Hope and Possibility Run at 9/25/2022",
+        "hours": 4.0,
+        "date": "September 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Stephanie Xie": {
+    "userId": "Stephanie Xie",
+    "username": "Stephanie Xie",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "North Jersey AYLUS volunteers for Achilles New Jersey Hope and Possibility Run at 9/25/2022",
+        "hours": 4.0,
+        "date": "September 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Enxu Jiang": {
+    "userId": "Enxu Jiang",
+    "username": "Enxu Jiang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "North Jersey AYLUS volunteers for Achilles New Jersey Hope and Possibility Run at 9/25/2022",
+        "hours": 4.0,
+        "date": "September 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Simon Koide": {
+    "userId": "Simon Koide",
+    "username": "Simon Koide",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates Lunar New Year with a Bake Sale (2/1/2022)",
+        "hours": 1.5,
+        "date": "February 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Syosset Sets Up Composting Station 5 to Help The Environment (4/24/21, #5)",
+        "hours": 3.0,
+        "date": "April 27, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "John Thach": {
+    "userId": "John Thach",
+    "username": "John Thach",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates Lunar New Year with a Bake Sale (2/1/2022)",
+        "hours": 1.5,
+        "date": "February 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Syosset Sets Up Composting Station 5 to Help The Environment (4/24/21, #5)",
+        "hours": 3.0,
+        "date": "April 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Syosset Empowers Asian Voices Through Second Vietnamese Cultural Appreciation Event (4/27/21, #2)",
+        "hours": 1.0,
+        "date": "April 29, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS-Syosset empowers Asian Voice through First Vietnamese Cultural Appreciation Event (4/13/21, #1)",
+        "hours": 1.5,
+        "date": "April 17, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sebastian Olmsted": {
+    "userId": "Sebastian Olmsted",
+    "username": "Sebastian Olmsted",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Empowers Asian Voices Through Second Vietnamese Cultural Appreciation Event (4/27/21, #2)",
+        "hours": 1.0,
+        "date": "April 29, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leo Cheng": {
+    "userId": "Leo Cheng",
+    "username": "Leo Cheng",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Set Up Composting Station 6 to Help the Environment(5/1/21, #6)",
+        "hours": 3.0,
+        "date": "May 2, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Huang": {
+    "userId": "Alan Huang",
+    "username": "Alan Huang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Set Up Composting Station 6 to Help the Environment(5/1/21, #6)",
+        "hours": 3.0,
+        "date": "May 2, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Leung": {
+    "userId": "Ryan Leung",
+    "username": "Ryan Leung",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Set Up Composting Station 6 to Help the Environment(5/1/21, #6)",
+        "hours": 3.0,
+        "date": "May 2, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jasmine Chen": {
+    "userId": "Jasmine Chen",
+    "username": "Jasmine Chen",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Set Up Composting Station 6 to Help the Environment(5/1/21, #6)",
+        "hours": 3.0,
+        "date": "May 2, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

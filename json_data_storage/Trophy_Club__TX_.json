@@ -1,0 +1,269 @@
+{
+  "Zoe Cheng": {
+    "userId": "Zoe Cheng",
+    "username": "Zoe Cheng",
+    "totalHours": 92.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Trophy Club Branch Volunteers at the NISD Mobile Food Bank (5/16/2026)",
+        "hours": 4.0,
+        "date": "May 31, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the Tarrant Area Food Bank (3/16/2026)",
+        "hours": 3.0,
+        "date": "March 20, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the Tarrant Area Food Bank (11/1/2025)",
+        "hours": 3.0,
+        "date": "November 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the DFWweCARE Back To School Drive Event (8/9/2025)",
+        "hours": 8.0,
+        "date": "August 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers At the Tarrant Area Food Bank (6/10/2025)",
+        "hours": 3.0,
+        "date": "June 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the NISD Mobile Food Bank (9/20/2025)",
+        "hours": 4.0,
+        "date": "September 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at the Tarrant Area Food Bank (3/25/2025)",
+        "hours": 3.0,
+        "date": "March 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the NISD Mobile Food Bank (2/15/2025)",
+        "hours": 4.0,
+        "date": "February 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the NISD Mobile Food Bank (5/17/2025)",
+        "hours": 4.0,
+        "date": "May 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at Tarrant Area Food Bank Quality Control (1/20/2025)",
+        "hours": 3.0,
+        "date": "January 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the ACAST Pickleball Tournament (12/14/2024)",
+        "hours": 5.0,
+        "date": "December 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at the Grapevine Daddy Daughter Dance (1/18/2025)",
+        "hours": 18.0,
+        "date": "January 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the NISD Mobile Food Bank (11/16/2024)",
+        "hours": 4.0,
+        "date": "November 17, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at Tarrant Area Food Bank Quality Control (11/02/2024)",
+        "hours": 3.0,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at the NISD Mobile Food Bank (10/19/2024)",
+        "hours": 4.0,
+        "date": "October 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at Sunset LIVE! in Grapevine (10/4/2024)",
+        "hours": 3.0,
+        "date": "October 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at the NISD Mobile Food Bank (9/21/2024)",
+        "hours": 4.0,
+        "date": "September 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club AYLUS volunteers at the Tarrant Area Food Bank (9/14/2024)",
+        "hours": 3.0,
+        "date": "September 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at Tarrant Area Food Bank (8/24/2024)",
+        "hours": 3.0,
+        "date": "August 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at the DFWweCARE Back To School Drive (8/10/2024)",
+        "hours": 6.0,
+        "date": "August 10, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kexin Lu": {
+    "userId": "Kexin Lu",
+    "username": "Kexin Lu",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Trophy Club Branch Volunteers at the Southlake Spring Festival (2/7/2026)",
+        "hours": 8.0,
+        "date": "February 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the Southlake Spring Festival (2/1/2025)",
+        "hours": 7.0,
+        "date": "February 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch volunteers at the DFWweCARE Back To School Drive (8/10/2024)",
+        "hours": 2.0,
+        "date": "August 10, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Spring Creek Elementary School": {
+    "userId": "Spring Creek Elementary School",
+    "username": "Spring Creek Elementary School",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Trophy Club Branch Volunteers at the DFWweCARE Back To School Drive Event (8/9/2025)",
+        "hours": 6.0,
+        "date": "August 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Giana Sun": {
+    "userId": "Giana Sun",
+    "username": "Giana Sun",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Trophy Club Branch Volunteers at the DFWweCARE Back To School Drive Event (8/9/2025)",
+        "hours": 3.0,
+        "date": "August 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Trophy Club Branch Volunteers at the Southlake Spring Festival (2/1/2025)",
+        "hours": 4.0,
+        "date": "February 3, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Trophy Club": {
+    "userId": "Trophy Club",
+    "username": "Trophy Club",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Trophy Club Branch volunteers at Tarrant Area Food Bank Quality Control (1/20/2025)",
+        "hours": 3.0,
+        "date": "January 20, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brian Li": {
+    "userId": "Brian Li",
+    "username": "Brian Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Trophy Club Branch volunteers at the DFWweCARE Back To School Drive (8/10/2024)",
+        "hours": 3.0,
+        "date": "August 10, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maggie Zhang": {
+    "userId": "Maggie Zhang",
+    "username": "Maggie Zhang",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Columbus Branch organized, packed, and mailed AYLUS T-Shirts for 4 AYLUS branches across the nation on August 3rd, 2024",
+        "hours": 3.5,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dan Yi": {
+    "userId": "Dan Yi",
+    "username": "Dan Yi",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Columbus Branch organized, packed, and mailed AYLUS T-Shirts for 4 AYLUS branches across the nation on August 3rd, 2024",
+        "hours": 1.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brenna Li": {
+    "userId": "Brenna Li",
+    "username": "Brenna Li",
+    "totalHours": 0.5,
+    "entries": [
+      {
+        "eventName": "Columbus Branch organized, packed, and mailed AYLUS T-Shirts for 4 AYLUS branches across the nation on August 3rd, 2024",
+        "hours": 0.5,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

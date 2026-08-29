@@ -1,0 +1,602 @@
+{
+  "Hao Chen": {
+    "userId": "Hao Chen",
+    "username": "Hao Chen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Cupertino branch park-cleaning event at Homeridge Park (November 28, 2024)",
+        "hours": 2.0,
+        "date": "November 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Machato Park (July 13, 2024)",
+        "hours": 2.0,
+        "date": "July 13, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Feinan Xu": {
+    "userId": "Feinan Xu",
+    "username": "Feinan Xu",
+    "totalHours": 71.0,
+    "entries": [
+      {
+        "eventName": "Cupertino branch hosted tutoring event at ENGin (October 26, 2024)",
+        "hours": 1.0,
+        "date": "November 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch hosted tutoring event at ENGin (December 21, 2024)",
+        "hours": 1.0,
+        "date": "January 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch hosted tutoring event at ENGin (November 2, 2024)",
+        "hours": 1.0,
+        "date": "November 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch hosted tutoring event at ENGin (October 12, 2024)",
+        "hours": 1.0,
+        "date": "October 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch hosted tutoring event at ENGin (September 21, 2024)",
+        "hours": 1.0,
+        "date": "September 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch hosted tutoring event at ENGin (July 2, 2024)",
+        "hours": 1.0,
+        "date": "July 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch hosted tutoring event at ENGin (July 27, 2024)",
+        "hours": 1.0,
+        "date": "July 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Jollyman Park (April 6, 2024)",
+        "hours": 2.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Mary Gomez Park (December 21, 2023)",
+        "hours": 2.0,
+        "date": "December 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Braly Park (October 21, 2023)",
+        "hours": 2.0,
+        "date": "October 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch hosted tutoring event at ENGin (September 30, 2023)",
+        "hours": 1.0,
+        "date": "October 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Jenny Strand Park (July 31, 2023)",
+        "hours": 2.0,
+        "date": "July 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at John Mise Park (July 26, 2023)",
+        "hours": 2.0,
+        "date": "July 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Jollyman Park (July 29, 2023)",
+        "hours": 2.0,
+        "date": "July 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Westwood Oaks Park (July 24, 2023)",
+        "hours": 2.0,
+        "date": "July 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Parkway Park (July 22, 2023)",
+        "hours": 2.0,
+        "date": "July 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Central Park (July 17, 2023)",
+        "hours": 2.0,
+        "date": "July 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Portal Park (July 12, 2023)",
+        "hours": 2.0,
+        "date": "July 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Ortega Park (July 15, 2023)",
+        "hours": 2.0,
+        "date": "July 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at John Mise Park (July 8, 2023)",
+        "hours": 2.0,
+        "date": "July 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Maywood Park (July 10, 2023)",
+        "hours": 2.0,
+        "date": "July 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Campbell Park (July 4, 2023)",
+        "hours": 2.0,
+        "date": "July 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Earl R. Carmichael Park (July 6, 2023)",
+        "hours": 2.0,
+        "date": "July 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Mary Gomez Park (June 27, 2023)",
+        "hours": 2.0,
+        "date": "June 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Westwood Oaks Park (July 2, 2023)",
+        "hours": 2.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Creekside Park (June 29, 2023)",
+        "hours": 2.0,
+        "date": "June 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Central Park (June 25, 2023)",
+        "hours": 2.0,
+        "date": "June 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Jollyman Park (June 22, 2023)",
+        "hours": 2.0,
+        "date": "June 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Maywood Park (June 18, 2023)",
+        "hours": 2.0,
+        "date": "June 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Mary Gomez Park (June 15, 2023)",
+        "hours": 2.0,
+        "date": "June 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Jenny Strand Park (June 9, 2023)",
+        "hours": 2.0,
+        "date": "June 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Home Ridge Park (June 3, 2023)",
+        "hours": 2.0,
+        "date": "June 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Jollyman Park (April 1, 2023)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Machado Park (March 25, 2023)",
+        "hours": 2.0,
+        "date": "March 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Cupertino branch park-cleaning event at Central Park (January 1st, 2023)",
+        "hours": 2.0,
+        "date": "January 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Maywood Park (February 18, 2023)",
+        "hours": 2.0,
+        "date": "February 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Cupertino branch park-cleaning event at Maywood Park (December 18, 2022)",
+        "hours": 2.0,
+        "date": "December 19, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (11/12/2022)",
+        "hours": 1.5,
+        "date": "November 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (10/8/2022)",
+        "hours": 1.5,
+        "date": "October 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Cupertino branch volunteered at Second Harvest of Silicon Valley on 7/19/22",
+        "hours": 2.0,
+        "date": "July 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Guizhen Zhang": {
+    "userId": "Guizhen Zhang",
+    "username": "Guizhen Zhang",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Cupertino branch park-cleaning event at Homeridge Park (August 11 2024)",
+        "hours": 2.0,
+        "date": "August 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Machato Park (January 28, 2024)",
+        "hours": 2.0,
+        "date": "January 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Wilson Park (January 6, 2024)",
+        "hours": 2.0,
+        "date": "January 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Baylands Park (January 14, 2024)",
+        "hours": 2.0,
+        "date": "January 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Earl R. Camichael Park (December 16, 2023)",
+        "hours": 2.0,
+        "date": "December 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Braly Park (November 22, 2023)",
+        "hours": 2.0,
+        "date": "November 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Mary Gomez Park (October 08, 2023)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Raynor Park (June 6, 2023)",
+        "hours": 2.0,
+        "date": "June 7, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hengrui Chen": {
+    "userId": "Hengrui Chen",
+    "username": "Hengrui Chen",
+    "totalHours": 43.0,
+    "entries": [
+      {
+        "eventName": "Cupertino branch park-cleaning event at Ortega Park (April 20, 2024)",
+        "hours": 2.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Westwood Park (March 30 , 2024)",
+        "hours": 2.0,
+        "date": "April 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Mary Gomez Park (April 13 , 2024)",
+        "hours": 2.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Ortega Park (February 10, 2024)",
+        "hours": 2.0,
+        "date": "February 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Central Park (March 20 , 2024)",
+        "hours": 2.0,
+        "date": "April 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Central Park (January 21, 2024)",
+        "hours": 2.0,
+        "date": "January 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Wilson Park (January 6, 2024)",
+        "hours": 2.0,
+        "date": "January 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Baylands Park (January 14, 2024)",
+        "hours": 2.0,
+        "date": "January 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Westwood Park (December 29, 2023)",
+        "hours": 2.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at John Mise Park (December 2, 2023)",
+        "hours": 2.0,
+        "date": "December 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Ortega Park (November 12, 2023)",
+        "hours": 2.0,
+        "date": "November 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Portal Park (November 5, 2023)",
+        "hours": 2.0,
+        "date": "November 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Homeridge Park (September 24, 2023)",
+        "hours": 2.0,
+        "date": "September 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Central Park (September 17, 2023)",
+        "hours": 2.0,
+        "date": "September 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Jollyman Park (August 27, 2023)",
+        "hours": 2.0,
+        "date": "August 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Westwood Park (August 20, 2023)",
+        "hours": 2.0,
+        "date": "August 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Jenny Strand Park (September 10, 2023)",
+        "hours": 2.0,
+        "date": "September 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Wilson Park (August 06, 2023)",
+        "hours": 2.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Mary Gomez Park (August 16, 2023)",
+        "hours": 2.0,
+        "date": "August 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino branch park-cleaning event at Earl R. Camichael Park (August 12, 2023)",
+        "hours": 2.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino Branch Helped with Santa Clara Library Book Sale on 3/4/2023",
+        "hours": 3.0,
+        "date": "March 4, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wilson Park": {
+    "userId": "Wilson Park",
+    "username": "Wilson Park",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Wilson Park (January 6, 2024)",
+        "hours": 3.0,
+        "date": "January 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Baylands Park": {
+    "userId": "Baylands Park",
+    "username": "Baylands Park",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Cupertino hosts park-cleaning event at Baylands Park (January 14, 2024)",
+        "hours": 3.0,
+        "date": "January 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sabrina Ji": {
+    "userId": "Sabrina Ji",
+    "username": "Sabrina Ji",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cupertino branch park-cleaning event at Braly Park (July 19, 2023)",
+        "hours": 2.0,
+        "date": "July 21, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Truman You": {
+    "userId": "Truman You",
+    "username": "Truman You",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (4/16/2023)",
+        "hours": 1.5,
+        "date": "April 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (4/9/2023)",
+        "hours": 1.5,
+        "date": "April 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (4/2/2023)",
+        "hours": 1.5,
+        "date": "April 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (3/18/2023)",
+        "hours": 1.5,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (10/29/2022)",
+        "hours": 1.5,
+        "date": "October 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (9/10/2022)",
+        "hours": 1.5,
+        "date": "September 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (9/24/2022)",
+        "hours": 1.5,
+        "date": "September 24, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cupertino AYLUS volunteers at Little Grass Foundation (8/3/2022)",
+        "hours": 1.5,
+        "date": "August 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Cupertino branch volunteered at Second Harvest of Silicon Valley on 7/19/22",
+        "hours": 2.0,
+        "date": "July 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maywood Park": {
+    "userId": "Maywood Park",
+    "username": "Maywood Park",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Cupertino branch park-cleaning event at Maywood Park (July 9, 2022)",
+        "hours": 4.0,
+        "date": "July 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Second Harvest Food Bank": {
+    "userId": "Second Harvest Food Bank",
+    "username": "Second Harvest Food Bank",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Silicon Valley Branch Hosts Food Drive",
+        "hours": 22.0,
+        "date": "December 1, 2015",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

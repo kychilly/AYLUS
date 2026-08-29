@@ -1,0 +1,6662 @@
+{
+  "New Jersey Institute": {
+    "userId": "New Jersey Institute",
+    "username": "New Jersey Institute",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Event 72: AYLUS Morris Branch Volunteers at NJIT’s Highlander Summit 2025 in September",
+        "hours": 14.0,
+        "date": "September 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Han Li": {
+    "userId": "Han Li",
+    "username": "Han Li",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Event 72: AYLUS Morris Branch Volunteers at NJIT’s Highlander Summit 2025 in September",
+        "hours": 3.5,
+        "date": "September 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "On Oct": {
+    "userId": "On Oct",
+    "username": "On Oct",
+    "totalHours": 31.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Setup Spooky Trail Decorations at Summit Reeves-Reed Arboretum on 10/15/2025",
+        "hours": 15.0,
+        "date": "October 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Setup Spooky Trail Decorations at Summit Reeves-Reed Arboretum on 10/16/2024",
+        "hours": 16.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "West Essex": {
+    "userId": "West Essex",
+    "username": "West Essex",
+    "totalHours": 39.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Setup Spooky Trail Decorations at Summit Reeves-Reed Arboretum on 10/15/2025",
+        "hours": 15.0,
+        "date": "October 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Setup Spooky Trail Decorations at Summit Reeves-Reed Arboretum on 10/16/2024",
+        "hours": 16.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Cleanup Spooky Trail Decorations at Summit Reeves-Reed Arboretum on 11/6/2024",
+        "hours": 6.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ivy Bai": {
+    "userId": "Ivy Bai",
+    "username": "Ivy Bai",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Event 50: AYLUS Morris Branch Teams Up with Summit Community Center to Wrap Easter Joy for April 2025",
+        "hours": 1.0,
+        "date": "April 16, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Danica Vugdragovic": {
+    "userId": "Danica Vugdragovic",
+    "username": "Danica Vugdragovic",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at The Summit Center 2025 Autism Walk – (5/10/2025)",
+        "hours": 3.0,
+        "date": "May 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Averyl Xu": {
+    "userId": "Averyl Xu",
+    "username": "Averyl Xu",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "Event 20: Volunteer in Highlander Summit VEX Robotics Competition in September 2024",
+        "hours": 6.5,
+        "date": "September 22, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "On Nov": {
+    "userId": "On Nov",
+    "username": "On Nov",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Cleanup Spooky Trail Decorations at Summit Reeves-Reed Arboretum on 11/6/2024",
+        "hours": 6.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Chen": {
+    "userId": "Alan Chen",
+    "username": "Alan Chen",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Summit NJ AYLUS volunteers with VSA Future Learning Center relocation (Jul. 20 2024)",
+        "hours": 8.0,
+        "date": "July 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Summit NJ AYLUS provides free instrumental classes for Chatham School District (Jun.17 to Jul.3rd 2024)",
+        "hours": 16.0,
+        "date": "July 14, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Audrey Lee": {
+    "userId": "Audrey Lee",
+    "username": "Audrey Lee",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Summit NJ AYLUS provides free instrumental classes for Chatham School District (Jun.17 to Jul.3rd 2024)",
+        "hours": 16.0,
+        "date": "July 14, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zhiyi Cheng": {
+    "userId": "Zhiyi Cheng",
+    "username": "Zhiyi Cheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at The Summit Center 2024 Autism Walk – (5/11/2024)",
+        "hours": 2.0,
+        "date": "May 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angel Zheng": {
+    "userId": "Angel Zheng",
+    "username": "Angel Zheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at The Summit Center 2024 Autism Walk – (5/11/2024)",
+        "hours": 2.0,
+        "date": "May 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andy Zheng": {
+    "userId": "Andy Zheng",
+    "username": "Andy Zheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at The Summit Center 2024 Autism Walk – (5/11/2024)",
+        "hours": 2.0,
+        "date": "May 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xiang Li": {
+    "userId": "Xiang Li",
+    "username": "Xiang Li",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Chatham Aylus branch volunteer at Summit Library for Chinese New Year (2/10/2024)",
+        "hours": 6.0,
+        "date": "February 17, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 113: Aylus Morris Branch Partners with GRACE to Support Local Families in Need in Feburary 2026",
+        "hours": 2.0,
+        "date": "February 26, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Serena Ni": {
+    "userId": "Serena Ni",
+    "username": "Serena Ni",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Performs Holiday Songs at Summit Senior center on 12/27/23",
+        "hours": 3.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabelle Ni": {
+    "userId": "Isabelle Ni",
+    "username": "Isabelle Ni",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Performs Holiday Songs at Summit Senior center on 12/27/23",
+        "hours": 3.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alice Ma": {
+    "userId": "Alice Ma",
+    "username": "Alice Ma",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Basking Ridge Members volunteered and performed in Summit Chinese New Year Celebration on 2/4/24",
+        "hours": 3.0,
+        "date": "February 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michelle Wang": {
+    "userId": "Michelle Wang",
+    "username": "Michelle Wang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Basking Ridge Members volunteered and performed in Summit Chinese New Year Celebration on 2/4/24",
+        "hours": 3.0,
+        "date": "February 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ben Zhang": {
+    "userId": "Ben Zhang",
+    "username": "Ben Zhang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Basking Ridge Members volunteered and performed in Summit Chinese New Year Celebration on 2/4/24",
+        "hours": 1.0,
+        "date": "February 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Claire Zhang": {
+    "userId": "Claire Zhang",
+    "username": "Claire Zhang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Basking Ridge Members volunteered and performed in Summit Chinese New Year Celebration on 2/4/24",
+        "hours": 5.0,
+        "date": "February 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Muling Lu": {
+    "userId": "Muling Lu",
+    "username": "Muling Lu",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Summit Center’s Ice Cream Social",
+        "hours": 1.5,
+        "date": "August 7, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jasmine Chen": {
+    "userId": "Jasmine Chen",
+    "username": "Jasmine Chen",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Takes off Spooky Trail Decorations at Summit Reeves-Reed Arboretum in November 2023",
+        "hours": 2.0,
+        "date": "November 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Serves at Summit Reeves-Reed Arboretum on October 9th, 2022",
+        "hours": 3.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joshua Chen": {
+    "userId": "Joshua Chen",
+    "username": "Joshua Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Takes off Spooky Trail Decorations at Summit Reeves-Reed Arboretum in November 2023",
+        "hours": 2.0,
+        "date": "November 23, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Victoria Chen": {
+    "userId": "Victoria Chen",
+    "username": "Victoria Chen",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Takes off Spooky Trail Decorations at Summit Reeves-Reed Arboretum in November 2023",
+        "hours": 2.0,
+        "date": "November 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Serves at Summit Reeves-Reed Arboretum on October 9th, 2022",
+        "hours": 3.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Qing Liu": {
+    "userId": "Qing Liu",
+    "username": "Qing Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Takes off Spooky Trail Decorations at Summit Reeves-Reed Arboretum in November 2023",
+        "hours": 2.0,
+        "date": "November 23, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joselyn Kwan": {
+    "userId": "Joselyn Kwan",
+    "username": "Joselyn Kwan",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Takes off Spooky Trail Decorations at Summit Reeves-Reed Arboretum in November 2023",
+        "hours": 2.0,
+        "date": "November 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Serves at Summit Reeves-Reed Arboretum on October 9th, 2022",
+        "hours": 3.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Sun": {
+    "userId": "William Sun",
+    "username": "William Sun",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Takes off Spooky Trail Decorations at Summit Reeves-Reed Arboretum in November 2023",
+        "hours": 2.0,
+        "date": "November 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Gardening at Reeves-Reed 8/3/2024",
+        "hours": 2.0,
+        "date": "August 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 3.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 5.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Stella Zeng": {
+    "userId": "Stella Zeng",
+    "username": "Stella Zeng",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers for the Summit Center’s Autism Walk (5/13/23)",
+        "hours": 3.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Buffalo Volunteers with the Summit Autism Walk (5/12/23)",
+        "hours": 2.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ashley Chi": {
+    "userId": "Ashley Chi",
+    "username": "Ashley Chi",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers for the Summit Center’s Autism Walk (5/13/23)",
+        "hours": 2.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Buffalo Volunteers with the Summit Autism Walk (5/12/23)",
+        "hours": 2.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Qiu": {
+    "userId": "Sarah Qiu",
+    "username": "Sarah Qiu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers for the Summit Center’s Autism Walk (5/13/23)",
+        "hours": 4.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ruiqi Qiu": {
+    "userId": "Ruiqi Qiu",
+    "username": "Ruiqi Qiu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers for the Summit Center’s Autism Walk (5/13/23)",
+        "hours": 3.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Baixuan Tong": {
+    "userId": "Baixuan Tong",
+    "username": "Baixuan Tong",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers for the Summit Center’s Autism Walk (5/13/23)",
+        "hours": 2.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Zou": {
+    "userId": "Kevin Zou",
+    "username": "Kevin Zou",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Volunteers with the Summit Autism Walk (5/12/23)",
+        "hours": 2.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jerry Jiao": {
+    "userId": "Jerry Jiao",
+    "username": "Jerry Jiao",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Volunteers with the Summit Autism Walk (5/12/23)",
+        "hours": 2.0,
+        "date": "May 14, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ava Huynh": {
+    "userId": "Ava Huynh",
+    "username": "Ava Huynh",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Serves at Summit Reeves-Reed Arboretum on October 9th, 2022",
+        "hours": 3.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Jiang": {
+    "userId": "Alex Jiang",
+    "username": "Alex Jiang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Serves at Summit Reeves-Reed Arboretum on October 9th, 2022",
+        "hours": 3.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaylen Lee": {
+    "userId": "Kaylen Lee",
+    "username": "Kaylen Lee",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Serves at Summit Reeves-Reed Arboretum on October 9th, 2022",
+        "hours": 3.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ava Lee": {
+    "userId": "Ava Lee",
+    "username": "Ava Lee",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteer at Summit Public Library 4/30/23",
+        "hours": 2.0,
+        "date": "May 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 3.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 5.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Megan Tu": {
+    "userId": "Megan Tu",
+    "username": "Megan Tu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Williamsville Volunteers at Summit Autism Walk Ice Cream Social on July 20th 2022",
+        "hours": 2.0,
+        "date": "July 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Wang": {
+    "userId": "Andrew Wang",
+    "username": "Andrew Wang",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Williamsville Volunteers at Summit Autism Walk on May 14th 2022",
+        "hours": 2.5,
+        "date": "May 16, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andy Gu": {
+    "userId": "Andy Gu",
+    "username": "Andy Gu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fundraising Committee": {
+    "userId": "Fundraising Committee",
+    "username": "Fundraising Committee",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland TX": {
+    "userId": "Pearland TX",
+    "username": "Pearland TX",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Development Minister Andrew Yao": {
+    "userId": "Development Minister Andrew Yao",
+    "username": "Development Minister Andrew Yao",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fundraising Specialist Kevin Chen": {
+    "userId": "Fundraising Specialist Kevin Chen",
+    "username": "Fundraising Specialist Kevin Chen",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Yan": {
+    "userId": "Sarah Yan",
+    "username": "Sarah Yan",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Regional Development Minister Judy": {
+    "userId": "Regional Development Minister Judy",
+    "username": "Regional Development Minister Judy",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Olivia Ruofei Mao": {
+    "userId": "Olivia Ruofei Mao",
+    "username": "Olivia Ruofei Mao",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sky Tianyi Han": {
+    "userId": "Sky Tianyi Han",
+    "username": "Sky Tianyi Han",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fengshuo Guo": {
+    "userId": "Fengshuo Guo",
+    "username": "Fengshuo Guo",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Yang": {
+    "userId": "Michael Yang",
+    "username": "Michael Yang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aiden Guo": {
+    "userId": "Aiden Guo",
+    "username": "Aiden Guo",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chenkai Gu": {
+    "userId": "Chenkai Gu",
+    "username": "Chenkai Gu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ria Wu": {
+    "userId": "Ria Wu",
+    "username": "Ria Wu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Zhang": {
+    "userId": "Andrew Zhang",
+    "username": "Andrew Zhang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Jiang": {
+    "userId": "Jason Jiang",
+    "username": "Jason Jiang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Triangle participated in the first “Development Summit” of AYLUS. The meeting was chaired by Cassie.On ...",
+        "hours": 7.0,
+        "date": "March 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ruiqiu Hei": {
+    "userId": "Ruiqiu Hei",
+    "username": "Ruiqiu Hei",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/16/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/2/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jessica Yu": {
+    "userId": "Jessica Yu",
+    "username": "Jessica Yu",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/16/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/2/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Liu": {
+    "userId": "Ethan Liu",
+    "username": "Ethan Liu",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/16/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ray Liu": {
+    "userId": "Ray Liu",
+    "username": "Ray Liu",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/16/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Li": {
+    "userId": "Sarah Li",
+    "username": "Sarah Li",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/2/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Valerie Wang": {
+    "userId": "Valerie Wang",
+    "username": "Valerie Wang",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/16/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cason Yu": {
+    "userId": "Cason Yu",
+    "username": "Cason Yu",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/2/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anqi Du": {
+    "userId": "Anqi Du",
+    "username": "Anqi Du",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Grace Food Distribution – 7/2/26",
+        "hours": 2.5,
+        "date": "July 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kelly Nie": {
+    "userId": "Kelly Nie",
+    "username": "Kelly Nie",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Event 145: AYLUS Morris Branch Partners with GRACE to Support Women and Families in Need in July 2026",
+        "hours": 2.0,
+        "date": "July 23, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 139: AYLUS Morris Branch Partners with GRACE to Support Families with Essential Baby Supplies in June 2026",
+        "hours": 2.0,
+        "date": "June 25, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 123: Supporting Families in Need: Aylus Morris Branch Diaper Drive with Moms Helping Moms in April 2026",
+        "hours": 2.0,
+        "date": "April 12, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 31: Spreading Holiday Cheers for December 2024",
+        "hours": 2.0,
+        "date": "December 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Iris Wang": {
+    "userId": "Iris Wang",
+    "username": "Iris Wang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Aylus West Essex members attended Good Grief Concert – 5/24/2025",
+        "hours": 5.0,
+        "date": "May 27, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Chen": {
+    "userId": "Ryan Chen",
+    "username": "Ryan Chen",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Event 103: Aylus Morris Branch Partners with GRACE for Baby Diaper and Food Donation Drive in January 2026",
+        "hours": 1.0,
+        "date": "January 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cecilia Zhang": {
+    "userId": "Cecilia Zhang",
+    "username": "Cecilia Zhang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped GRACE for food distribution – 11/07/2024",
+        "hours": 3.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aily Wei": {
+    "userId": "Aily Wei",
+    "username": "Aily Wei",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped GRACE for food distribution – 11/07/2024",
+        "hours": 3.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Gardening at Reeves-Reed 8/3/2024",
+        "hours": 2.0,
+        "date": "August 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 6.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer Li": {
+    "userId": "Summer Li",
+    "username": "Summer Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zoe Leung": {
+    "userId": "Zoe Leung",
+    "username": "Zoe Leung",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves-Reed Holiday Session on 11/25/2023",
+        "hours": 2.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ella Chai": {
+    "userId": "Ella Chai",
+    "username": "Ella Chai",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped GRACE for food distribution – 11/07/2024",
+        "hours": 3.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Francis Carr": {
+    "userId": "Francis Carr",
+    "username": "Francis Carr",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Samantha Yin": {
+    "userId": "Samantha Yin",
+    "username": "Samantha Yin",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped GRACE for food distribution – 11/07/2024",
+        "hours": 3.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yolanda Cheung": {
+    "userId": "Yolanda Cheung",
+    "username": "Yolanda Cheung",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Richard Xie": {
+    "userId": "Richard Xie",
+    "username": "Richard Xie",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Connor Li": {
+    "userId": "Connor Li",
+    "username": "Connor Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Li": {
+    "userId": "Alan Li",
+    "username": "Alan Li",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 3.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "David Yu": {
+    "userId": "David Yu",
+    "username": "David Yu",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS helped Food Distribution – GRACE – 04/17/25 (3PM – 5PM)",
+        "hours": 2.0,
+        "date": "April 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 3.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 3.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maple Sugaring Festival": {
+    "userId": "Maple Sugaring Festival",
+    "username": "Maple Sugaring Festival",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Sugar Festival – 03/02/2025",
+        "hours": 2.0,
+        "date": "March 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 3.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nathan Zhang": {
+    "userId": "Nathan Zhang",
+    "username": "Nathan Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Sugar Festival – 03/02/2025",
+        "hours": 4.0,
+        "date": "March 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Justin Wang": {
+    "userId": "Justin Wang",
+    "username": "Justin Wang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Sugar Festival – 03/02/2025",
+        "hours": 4.0,
+        "date": "March 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alyssa Zhang": {
+    "userId": "Alyssa Zhang",
+    "username": "Alyssa Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Sugar Festival – 03/02/2025",
+        "hours": 4.0,
+        "date": "March 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Samuel Xue": {
+    "userId": "Samuel Xue",
+    "username": "Samuel Xue",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Sugar Festival – 03/02/2025",
+        "hours": 4.0,
+        "date": "March 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Vivian Zheng": {
+    "userId": "Vivian Zheng",
+    "username": "Vivian Zheng",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Sugar Festival – 03/02/2025",
+        "hours": 4.0,
+        "date": "March 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Yao": {
+    "userId": "Ethan Yao",
+    "username": "Ethan Yao",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Sugar Festival – 03/02/2025",
+        "hours": 4.0,
+        "date": "March 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeremiah Au": {
+    "userId": "Jeremiah Au",
+    "username": "Jeremiah Au",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Sugar Festival – 03/02/2025",
+        "hours": 4.0,
+        "date": "March 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 3.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sports Room": {
+    "userId": "Sports Room",
+    "username": "Sports Room",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs": {
+    "userId": "Special Needs",
+    "username": "Special Needs",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer Camp": {
+    "userId": "Summer Camp",
+    "username": "Summer Camp",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Community Art Class": {
+    "userId": "Pearland Community Art Class",
+    "username": "Pearland Community Art Class",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Bash": {
+    "userId": "School Bash",
+    "username": "School Bash",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "SMILE Pearland": {
+    "userId": "SMILE Pearland",
+    "username": "SMILE Pearland",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland My PlayClub": {
+    "userId": "Pearland My PlayClub",
+    "username": "Pearland My PlayClub",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "LSA SMILE Summer Camp": {
+    "userId": "LSA SMILE Summer Camp",
+    "username": "LSA SMILE Summer Camp",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "GT Academy": {
+    "userId": "GT Academy",
+    "username": "GT Academy",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Organizing Storage": {
+    "userId": "Organizing Storage",
+    "username": "Organizing Storage",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Soccer Classes": {
+    "userId": "Community Soccer Classes",
+    "username": "Community Soccer Classes",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hua Xia": {
+    "userId": "Hua Xia",
+    "username": "Hua Xia",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Online English Tutorial": {
+    "userId": "Online English Tutorial",
+    "username": "Online English Tutorial",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Independence Day Celebration": {
+    "userId": "Independence Day Celebration",
+    "username": "Independence Day Celebration",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Soccer Class": {
+    "userId": "Community Soccer Class",
+    "username": "Community Soccer Class",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Robotics Class": {
+    "userId": "Community Robotics Class",
+    "username": "Community Robotics Class",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Soccer Class Open": {
+    "userId": "Community Soccer Class Open",
+    "username": "Community Soccer Class Open",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Library Book Sale": {
+    "userId": "Library Book Sale",
+    "username": "Library Book Sale",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Concerts": {
+    "userId": "Pearland Concerts",
+    "username": "Pearland Concerts",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Neighborhood Support": {
+    "userId": "Neighborhood Support",
+    "username": "Neighborhood Support",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Mother": {
+    "userId": "Annual Mother",
+    "username": "Annual Mother",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Day Walk": {
+    "userId": "Day Walk",
+    "username": "Day Walk",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Promotional Booth": {
+    "userId": "Promotional Booth",
+    "username": "Promotional Booth",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Neighbor Support": {
+    "userId": "Neighbor Support",
+    "username": "Neighbor Support",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Earth Day Arts": {
+    "userId": "Earth Day Arts",
+    "username": "Earth Day Arts",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Taiwan Yes Festival": {
+    "userId": "Taiwan Yes Festival",
+    "username": "Taiwan Yes Festival",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Organized Storage Room": {
+    "userId": "Organized Storage Room",
+    "username": "Organized Storage Room",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Easter Egg Packing": {
+    "userId": "Easter Egg Packing",
+    "username": "Easter Egg Packing",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Balloon Art Event": {
+    "userId": "Balloon Art Event",
+    "username": "Balloon Art Event",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Lunar New Year": {
+    "userId": "Pearland Lunar New Year",
+    "username": "Pearland Lunar New Year",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lunar New Year Festival": {
+    "userId": "Lunar New Year Festival",
+    "username": "Lunar New Year Festival",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Meal Preparation": {
+    "userId": "Meal Preparation",
+    "username": "Meal Preparation",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lunar New Year Events": {
+    "userId": "Lunar New Year Events",
+    "username": "Lunar New Year Events",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "West Pearland Library": {
+    "userId": "West Pearland Library",
+    "username": "West Pearland Library",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "New Year Festival": {
+    "userId": "New Year Festival",
+    "username": "New Year Festival",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Playhouse Sugarland": {
+    "userId": "Playhouse Sugarland",
+    "username": "Playhouse Sugarland",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "SMILE Holiday Celebration": {
+    "userId": "SMILE Holiday Celebration",
+    "username": "SMILE Holiday Celebration",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Holiday Celebration": {
+    "userId": "Community Holiday Celebration",
+    "username": "Community Holiday Celebration",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Holiday Tour": {
+    "userId": "Holiday Tour",
+    "username": "Holiday Tour",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "West Pearland Library Holiday": {
+    "userId": "West Pearland Library Holiday",
+    "username": "West Pearland Library Holiday",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Open House": {
+    "userId": "Open House",
+    "username": "Open House",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Holiday Season": {
+    "userId": "Holiday Season",
+    "username": "Holiday Season",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rice University Stadium": {
+    "userId": "Rice University Stadium",
+    "username": "Rice University Stadium",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland My Play Club": {
+    "userId": "Pearland My Play Club",
+    "username": "Pearland My Play Club",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Old Pearland Farmers Market": {
+    "userId": "Old Pearland Farmers Market",
+    "username": "Old Pearland Farmers Market",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Garden Project": {
+    "userId": "Garden Project",
+    "username": "Garden Project",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Candy Drive": {
+    "userId": "Candy Drive",
+    "username": "Candy Drive",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "PCA Annual Conference": {
+    "userId": "PCA Annual Conference",
+    "username": "PCA Annual Conference",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helen Catholic Church Trunk": {
+    "userId": "Helen Catholic Church Trunk",
+    "username": "Helen Catholic Church Trunk",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Adoption Center": {
+    "userId": "Adoption Center",
+    "username": "Adoption Center",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rose Tea House": {
+    "userId": "Rose Tea House",
+    "username": "Rose Tea House",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dragon Assembly": {
+    "userId": "Dragon Assembly",
+    "username": "Dragon Assembly",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Promote Youth Leadership Network": {
+    "userId": "Promote Youth Leadership Network",
+    "username": "Promote Youth Leadership Network",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Latin Festival": {
+    "userId": "Latin Festival",
+    "username": "Latin Festival",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Library Book Sale Preparation": {
+    "userId": "Library Book Sale Preparation",
+    "username": "Library Book Sale Preparation",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Informational Chess Webinar": {
+    "userId": "Informational Chess Webinar",
+    "username": "Informational Chess Webinar",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Congressional Award Medalists Host": {
+    "userId": "Congressional Award Medalists Host",
+    "username": "Congressional Award Medalists Host",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Playhouse Sugar Land": {
+    "userId": "Playhouse Sugar Land",
+    "username": "Playhouse Sugar Land",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Back to School Bash": {
+    "userId": "Back to School Bash",
+    "username": "Back to School Bash",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grade Parents": {
+    "userId": "Grade Parents",
+    "username": "Grade Parents",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Robotic Class": {
+    "userId": "Pearland Robotic Class",
+    "username": "Pearland Robotic Class",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Robotics Class": {
+    "userId": "Robotics Class",
+    "username": "Robotics Class",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Inclusive Activities": {
+    "userId": "Inclusive Activities",
+    "username": "Inclusive Activities",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Robotics Class": {
+    "userId": "Pearland Robotics Class",
+    "username": "Pearland Robotics Class",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alvin ISD": {
+    "userId": "Alvin ISD",
+    "username": "Alvin ISD",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Support Kerr County Flood": {
+    "userId": "Support Kerr County Flood",
+    "username": "Support Kerr County Flood",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs Education": {
+    "userId": "Special Needs Education",
+    "username": "Special Needs Education",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Farmers Market": {
+    "userId": "Farmers Market",
+    "username": "Farmers Market",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland West Library": {
+    "userId": "Pearland West Library",
+    "username": "Pearland West Library",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dance Class": {
+    "userId": "Dance Class",
+    "username": "Dance Class",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hua Xia Chinese School": {
+    "userId": "Hua Xia Chinese School",
+    "username": "Hua Xia Chinese School",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Youth Mental Health": {
+    "userId": "Youth Mental Health",
+    "username": "Youth Mental Health",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Independence Park": {
+    "userId": "Independence Park",
+    "username": "Independence Park",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "SMILE Summer Camp": {
+    "userId": "SMILE Summer Camp",
+    "username": "SMILE Summer Camp",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Animal Shelter": {
+    "userId": "Animal Shelter",
+    "username": "Animal Shelter",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer Book Sale": {
+    "userId": "Summer Book Sale",
+    "username": "Summer Book Sale",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Playhouse Houston": {
+    "userId": "Playhouse Houston",
+    "username": "Playhouse Houston",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Book Sale Preparation": {
+    "userId": "Book Sale Preparation",
+    "username": "Book Sale Preparation",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charity Concert": {
+    "userId": "Charity Concert",
+    "username": "Charity Concert",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Park Series": {
+    "userId": "Park Series",
+    "username": "Park Series",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Year Party": {
+    "userId": "School Year Party",
+    "username": "School Year Party",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Health Program": {
+    "userId": "Health Program",
+    "username": "Health Program",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Taiwan Yes Market": {
+    "userId": "Taiwan Yes Market",
+    "username": "Taiwan Yes Market",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "PCA Easter Egg Hunt": {
+    "userId": "PCA Easter Egg Hunt",
+    "username": "PCA Easter Egg Hunt",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Egg Hunt": {
+    "userId": "Community Egg Hunt",
+    "username": "Community Egg Hunt",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Spring Fling": {
+    "userId": "Annual Spring Fling",
+    "username": "Annual Spring Fling",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Easter Eggs": {
+    "userId": "Easter Eggs",
+    "username": "Easter Eggs",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Community Egg Hunt": {
+    "userId": "Annual Community Egg Hunt",
+    "username": "Annual Community Egg Hunt",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wonder Kids Inclusive Play": {
+    "userId": "Wonder Kids Inclusive Play",
+    "username": "Wonder Kids Inclusive Play",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Recycled Fashion Show": {
+    "userId": "Recycled Fashion Show",
+    "username": "Recycled Fashion Show",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Spring Fest": {
+    "userId": "Spring Fest",
+    "username": "Spring Fest",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wonder Kids": {
+    "userId": "Wonder Kids",
+    "username": "Wonder Kids",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Town Center": {
+    "userId": "Pearland Town Center",
+    "username": "Pearland Town Center",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Holi Extravaganza": {
+    "userId": "Pearland Holi Extravaganza",
+    "username": "Pearland Holi Extravaganza",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Celebrate Lunar New Year": {
+    "userId": "Celebrate Lunar New Year",
+    "username": "Celebrate Lunar New Year",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Silverlake Elementary": {
+    "userId": "Silverlake Elementary",
+    "username": "Silverlake Elementary",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "New Fundraising Project": {
+    "userId": "New Fundraising Project",
+    "username": "New Fundraising Project",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "New Year Celebration": {
+    "userId": "New Year Celebration",
+    "username": "New Year Celebration",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Library": {
+    "userId": "Pearland Library",
+    "username": "Pearland Library",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Lunar New Year": {
+    "userId": "Community Lunar New Year",
+    "username": "Community Lunar New Year",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maintenance Services": {
+    "userId": "Maintenance Services",
+    "username": "Maintenance Services",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Digital Literacy Event": {
+    "userId": "School Digital Literacy Event",
+    "username": "School Digital Literacy Event",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Elementary School": {
+    "userId": "Local Elementary School",
+    "username": "Local Elementary School",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Katy Wonder Kids Inclusive": {
+    "userId": "Katy Wonder Kids Inclusive",
+    "username": "Katy Wonder Kids Inclusive",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Service Fundraiser": {
+    "userId": "Service Fundraiser",
+    "username": "Service Fundraiser",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Town Center Vendor Fair": {
+    "userId": "Town Center Vendor Fair",
+    "username": "Town Center Vendor Fair",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Neighborhood Center": {
+    "userId": "Local Neighborhood Center",
+    "username": "Local Neighborhood Center",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tour De Lite Event": {
+    "userId": "Tour De Lite Event",
+    "username": "Tour De Lite Event",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Special Needs Portraiture": {
+    "userId": "Annual Special Needs Portraiture",
+    "username": "Annual Special Needs Portraiture",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed White Elementary School": {
+    "userId": "Ed White Elementary School",
+    "username": "Ed White Elementary School",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Library Holiday Open House": {
+    "userId": "Library Holiday Open House",
+    "username": "Library Holiday Open House",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ball Drive": {
+    "userId": "Ball Drive",
+    "username": "Ball Drive",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Booth Community Old Pearland": {
+    "userId": "Booth Community Old Pearland",
+    "username": "Booth Community Old Pearland",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Senior Center": {
+    "userId": "Senior Center",
+    "username": "Senior Center",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wonder Kids Katy Program": {
+    "userId": "Wonder Kids Katy Program",
+    "username": "Wonder Kids Katy Program",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Monthly Wonder Kids Event": {
+    "userId": "Monthly Wonder Kids Event",
+    "username": "Monthly Wonder Kids Event",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Old Pearland Farmers": {
+    "userId": "Old Pearland Farmers",
+    "username": "Old Pearland Farmers",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dash Charity Run": {
+    "userId": "Dash Charity Run",
+    "username": "Dash Charity Run",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Promote Birthday Service Fundraiser": {
+    "userId": "Promote Birthday Service Fundraiser",
+    "username": "Promote Birthday Service Fundraiser",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Market": {
+    "userId": "Local Market",
+    "username": "Local Market",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "PCA Event Contact Info": {
+    "userId": "PCA Event Contact Info",
+    "username": "PCA Event Contact Info",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Winter Program Planning": {
+    "userId": "Winter Program Planning",
+    "username": "Winter Program Planning",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Service Fundraiser Face Painting": {
+    "userId": "Service Fundraiser Face Painting",
+    "username": "Service Fundraiser Face Painting",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Halloween Candy Drive": {
+    "userId": "Halloween Candy Drive",
+    "username": "Halloween Candy Drive",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Challenger ES Trunk": {
+    "userId": "Challenger ES Trunk",
+    "username": "Challenger ES Trunk",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Treat Event": {
+    "userId": "Treat Event",
+    "username": "Treat Event",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Movie Night": {
+    "userId": "Movie Night",
+    "username": "Movie Night",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Database Development Projects": {
+    "userId": "Database Development Projects",
+    "username": "Database Development Projects",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "National Night Out Community": {
+    "userId": "National Night Out Community",
+    "username": "National Night Out Community",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Health Fair": {
+    "userId": "Health Fair",
+    "username": "Health Fair",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Goodwill Houston Donation": {
+    "userId": "Local Goodwill Houston Donation",
+    "username": "Local Goodwill Houston Donation",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Inclusive Park": {
+    "userId": "Inclusive Park",
+    "username": "Inclusive Park",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Birthday Party": {
+    "userId": "Birthday Party",
+    "username": "Birthday Party",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grant Application": {
+    "userId": "Grant Application",
+    "username": "Grant Application",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Party": {
+    "userId": "School Party",
+    "username": "School Party",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Essay Project Aug": {
+    "userId": "Essay Project Aug",
+    "username": "Essay Project Aug",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Book Drive": {
+    "userId": "Book Drive",
+    "username": "Book Drive",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lecture Hosted": {
+    "userId": "Lecture Hosted",
+    "username": "Lecture Hosted",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Back to School Party": {
+    "userId": "Back to School Party",
+    "username": "Back to School Party",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Inclusive Play": {
+    "userId": "Inclusive Play",
+    "username": "Inclusive Play",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "LSA SNCC SMILE Camp": {
+    "userId": "LSA SNCC SMILE Camp",
+    "username": "LSA SNCC SMILE Camp",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Easter Seals Adult Day": {
+    "userId": "Easter Seals Adult Day",
+    "username": "Easter Seals Adult Day",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Adult Day Hab": {
+    "userId": "Adult Day Hab",
+    "username": "Adult Day Hab",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Store Fundraising Event": {
+    "userId": "Local Store Fundraising Event",
+    "username": "Local Store Fundraising Event",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Katy Inclusive Play": {
+    "userId": "Katy Inclusive Play",
+    "username": "Katy Inclusive Play",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chinese Culture Event": {
+    "userId": "Chinese Culture Event",
+    "username": "Chinese Culture Event",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Independent Day Fundraising Event": {
+    "userId": "Independent Day Fundraising Event",
+    "username": "Independent Day Fundraising Event",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Game Set": {
+    "userId": "Game Set",
+    "username": "Game Set",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "SNCC Adult Day Hab": {
+    "userId": "SNCC Adult Day Hab",
+    "username": "SNCC Adult Day Hab",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Swimming Class": {
+    "userId": "Swimming Class",
+    "username": "Swimming Class",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "SNCC Day Hab": {
+    "userId": "SNCC Day Hab",
+    "username": "SNCC Day Hab",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Juneteenth Celebration": {
+    "userId": "Juneteenth Celebration",
+    "username": "Juneteenth Celebration",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Make Rice Balls": {
+    "userId": "Make Rice Balls",
+    "username": "Make Rice Balls",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "My PlayClub": {
+    "userId": "My PlayClub",
+    "username": "My PlayClub",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "White Elementary School": {
+    "userId": "White Elementary School",
+    "username": "White Elementary School",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Field Day": {
+    "userId": "Field Day",
+    "username": "Field Day",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Old Pearland": {
+    "userId": "Old Pearland",
+    "username": "Old Pearland",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Event": {
+    "userId": "Annual Event",
+    "username": "Annual Event",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lemonade Day Prep Event": {
+    "userId": "Lemonade Day Prep Event",
+    "username": "Lemonade Day Prep Event",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Market Days": {
+    "userId": "Market Days",
+    "username": "Market Days",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fishing Future Event": {
+    "userId": "Fishing Future Event",
+    "username": "Fishing Future Event",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Inaugural Trash": {
+    "userId": "Inaugural Trash",
+    "username": "Inaugural Trash",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Treasure Contest": {
+    "userId": "Treasure Contest",
+    "username": "Treasure Contest",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Latin America Children": {
+    "userId": "Latin America Children",
+    "username": "Latin America Children",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Face Painting Fundraiser": {
+    "userId": "Face Painting Fundraiser",
+    "username": "Face Painting Fundraiser",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Me Houston": {
+    "userId": "Me Houston",
+    "username": "Me Houston",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fundraising Tournament": {
+    "userId": "Fundraising Tournament",
+    "username": "Fundraising Tournament",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Spring Picnic": {
+    "userId": "Spring Picnic",
+    "username": "Spring Picnic",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dawson High School Ted": {
+    "userId": "Dawson High School Ted",
+    "username": "Dawson High School Ted",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Lunar New Year": {
+    "userId": "Annual Lunar New Year",
+    "username": "Annual Lunar New Year",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Glenda Dawson High School": {
+    "userId": "Glenda Dawson High School",
+    "username": "Glenda Dawson High School",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lunar Fest": {
+    "userId": "Lunar Fest",
+    "username": "Lunar Fest",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Farmers Market": {
+    "userId": "Local Farmers Market",
+    "username": "Local Farmers Market",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lunar New Year Gala": {
+    "userId": "Lunar New Year Gala",
+    "username": "Lunar New Year Gala",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Park": {
+    "userId": "Pearland Park",
+    "username": "Pearland Park",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Speical Needs": {
+    "userId": "Speical Needs",
+    "username": "Speical Needs",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Holiday Celebration": {
+    "userId": "Holiday Celebration",
+    "username": "Holiday Celebration",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Neighborhood Center Dec": {
+    "userId": "Local Neighborhood Center Dec",
+    "username": "Local Neighborhood Center Dec",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Assisted Living Center": {
+    "userId": "Assisted Living Center",
+    "username": "Assisted Living Center",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "My Play Club Holiday": {
+    "userId": "My Play Club Holiday",
+    "username": "My Play Club Holiday",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Event": {
+    "userId": "Special Event",
+    "username": "Special Event",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "De Lite Dec": {
+    "userId": "De Lite Dec",
+    "username": "De Lite Dec",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Homeless Care Kit Dec": {
+    "userId": "Homeless Care Kit Dec",
+    "username": "Homeless Care Kit Dec",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Home Care Center": {
+    "userId": "Home Care Center",
+    "username": "Home Care Center",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Packed Holiday Donation": {
+    "userId": "Packed Holiday Donation",
+    "username": "Packed Holiday Donation",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Share Face Painting": {
+    "userId": "Share Face Painting",
+    "username": "Share Face Painting",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rien Cup Karate International": {
+    "userId": "Rien Cup Karate International",
+    "username": "Rien Cup Karate International",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Market Days Crafts": {
+    "userId": "Market Days Crafts",
+    "username": "Market Days Crafts",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed White Elementary": {
+    "userId": "Ed White Elementary",
+    "username": "Ed White Elementary",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Challenger Elementary School": {
+    "userId": "Challenger Elementary School",
+    "username": "Challenger Elementary School",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tracking Project": {
+    "userId": "Tracking Project",
+    "username": "Tracking Project",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "LSA Phase": {
+    "userId": "LSA Phase",
+    "username": "LSA Phase",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pearland Canine Resource Center": {
+    "userId": "Pearland Canine Resource Center",
+    "username": "Pearland Canine Resource Center",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Old Farmers Market": {
+    "userId": "Old Farmers Market",
+    "username": "Old Farmers Market",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Health Survey": {
+    "userId": "Health Survey",
+    "username": "Health Survey",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Oct": {
+    "userId": "Community Oct",
+    "username": "Community Oct",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "LSA Health Fair": {
+    "userId": "LSA Health Fair",
+    "username": "LSA Health Fair",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Syndrome Awareness Fall Festival": {
+    "userId": "Syndrome Awareness Fall Festival",
+    "username": "Syndrome Awareness Fall Festival",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Youth Self Defense Training": {
+    "userId": "Youth Self Defense Training",
+    "username": "Youth Self Defense Training",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fundraising Stand Oct": {
+    "userId": "Fundraising Stand Oct",
+    "username": "Fundraising Stand Oct",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Taiwan Yes Night Market": {
+    "userId": "Taiwan Yes Night Market",
+    "username": "Taiwan Yes Night Market",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Art Class": {
+    "userId": "Community Art Class",
+    "username": "Community Art Class",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Flock Party": {
+    "userId": "Annual Flock Party",
+    "username": "Annual Flock Party",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cotton Candy Making": {
+    "userId": "Cotton Candy Making",
+    "username": "Cotton Candy Making",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Drum Play": {
+    "userId": "Drum Play",
+    "username": "Drum Play",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "My Play Club": {
+    "userId": "My Play Club",
+    "username": "My Play Club",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Us Project": {
+    "userId": "Us Project",
+    "username": "Us Project",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Community": {
+    "userId": "Local Community",
+    "username": "Local Community",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Art Classes": {
+    "userId": "Community Art Classes",
+    "username": "Community Art Classes",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Healthy Living Youth Advocacy": {
+    "userId": "Healthy Living Youth Advocacy",
+    "username": "Healthy Living Youth Advocacy",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mural Painting": {
+    "userId": "Mural Painting",
+    "username": "Mural Painting",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tasting Event": {
+    "userId": "Tasting Event",
+    "username": "Tasting Event",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dance Lesson": {
+    "userId": "Dance Lesson",
+    "username": "Dance Lesson",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tennis Lessons": {
+    "userId": "Tennis Lessons",
+    "username": "Tennis Lessons",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Inaugural MyPlayClub": {
+    "userId": "Inaugural MyPlayClub",
+    "username": "Inaugural MyPlayClub",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Swimming Lessons": {
+    "userId": "Swimming Lessons",
+    "username": "Swimming Lessons",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Style Youth Advocacy Program": {
+    "userId": "Style Youth Advocacy Program",
+    "username": "Style Youth Advocacy Program",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Old Pearland Farmer": {
+    "userId": "Old Pearland Farmer",
+    "username": "Old Pearland Farmer",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed Thompson All Inclusive": {
+    "userId": "Ed Thompson All Inclusive",
+    "username": "Ed Thompson All Inclusive",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Face Painting Training": {
+    "userId": "Face Painting Training",
+    "username": "Face Painting Training",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fundraising Stand": {
+    "userId": "Fundraising Stand",
+    "username": "Fundraising Stand",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Performed Drum Play": {
+    "userId": "Performed Drum Play",
+    "username": "Performed Drum Play",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "First Pearland Lunar New": {
+    "userId": "First Pearland Lunar New",
+    "username": "First Pearland Lunar New",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Year Celebration": {
+    "userId": "Year Celebration",
+    "username": "Year Celebration",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Youth Advocacy Program Jan": {
+    "userId": "Youth Advocacy Program Jan",
+    "username": "Youth Advocacy Program Jan",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Senior Care Center Dec": {
+    "userId": "Senior Care Center Dec",
+    "username": "Senior Care Center Dec",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Support Families": {
+    "userId": "Support Families",
+    "username": "Support Families",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Physical Examinations": {
+    "userId": "Physical Examinations",
+    "username": "Physical Examinations",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Salt Association": {
+    "userId": "Salt Association",
+    "username": "Salt Association",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "SMILE Classes": {
+    "userId": "SMILE Classes",
+    "username": "SMILE Classes",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Awarded Fund": {
+    "userId": "Awarded Fund",
+    "username": "Awarded Fund",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Consecutive Year": {
+    "userId": "Consecutive Year",
+    "username": "Consecutive Year",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "LSA Healthy Living Program": {
+    "userId": "LSA Healthy Living Program",
+    "username": "LSA Healthy Living Program",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Salt Association SMILE Classes": {
+    "userId": "Salt Association SMILE Classes",
+    "username": "Salt Association SMILE Classes",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Last Concert": {
+    "userId": "Last Concert",
+    "username": "Last Concert",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Park Event": {
+    "userId": "Park Event",
+    "username": "Park Event",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer Program": {
+    "userId": "Summer Program",
+    "username": "Summer Program",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kids With Autism": {
+    "userId": "Kids With Autism",
+    "username": "Kids With Autism",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual College Forum": {
+    "userId": "Annual College Forum",
+    "username": "Annual College Forum",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Greater Houston Area Organizations": {
+    "userId": "Greater Houston Area Organizations",
+    "username": "Greater Houston Area Organizations",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs Program": {
+    "userId": "Special Needs Program",
+    "username": "Special Needs Program",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Event With Keep Pearland": {
+    "userId": "Event With Keep Pearland",
+    "username": "Event With Keep Pearland",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Easter Egg Hunt": {
+    "userId": "Annual Easter Egg Hunt",
+    "username": "Annual Easter Egg Hunt",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Discuss New Strategies": {
+    "userId": "Discuss New Strategies",
+    "username": "Discuss New Strategies",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Future Events": {
+    "userId": "Future Events",
+    "username": "Future Events",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Keep Pearland Beautiful": {
+    "userId": "Keep Pearland Beautiful",
+    "username": "Keep Pearland Beautiful",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Forever Parks": {
+    "userId": "Forever Parks",
+    "username": "Forever Parks",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dawson High School Asian": {
+    "userId": "Dawson High School Asian",
+    "username": "Dawson High School Asian",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Club LunarFest": {
+    "userId": "Club LunarFest",
+    "username": "Club LunarFest",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "First Development Summit": {
+    "userId": "First Development Summit",
+    "username": "First Development Summit",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "First Springfest": {
+    "userId": "First Springfest",
+    "username": "First Springfest",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Arbor Day Tree Giveaway": {
+    "userId": "Arbor Day Tree Giveaway",
+    "username": "Arbor Day Tree Giveaway",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Course Selection Seminar": {
+    "userId": "School Course Selection Seminar",
+    "username": "School Course Selection Seminar",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed White Elementary Day": {
+    "userId": "Ed White Elementary Day",
+    "username": "Ed White Elementary Day",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Market Sales Day": {
+    "userId": "Market Sales Day",
+    "username": "Market Sales Day",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Support Churches": {
+    "userId": "Support Churches",
+    "username": "Support Churches",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tour De Lites Bike": {
+    "userId": "Tour De Lites Bike",
+    "username": "Tour De Lites Bike",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "City Ruff Runner": {
+    "userId": "City Ruff Runner",
+    "username": "City Ruff Runner",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "With Keep Pearland Beautiful": {
+    "userId": "With Keep Pearland Beautiful",
+    "username": "With Keep Pearland Beautiful",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "From City": {
+    "userId": "From City",
+    "username": "From City",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Allende Coahuila": {
+    "userId": "Allende Coahuila",
+    "username": "Allende Coahuila",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer Driveway Wash Fundraising": {
+    "userId": "Summer Driveway Wash Fundraising",
+    "username": "Summer Driveway Wash Fundraising",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Healthy Future": {
+    "userId": "Healthy Future",
+    "username": "Healthy Future",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Chen": {
+    "userId": "Ethan Chen",
+    "username": "Ethan Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andy Fu": {
+    "userId": "Andy Fu",
+    "username": "Andy Fu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Li": {
+    "userId": "William Li",
+    "username": "William Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Pearland, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helped Local YMCA Healthy": {
+    "userId": "Helped Local YMCA Healthy",
+    "username": "Helped Local YMCA Healthy",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kids Day Event": {
+    "userId": "Kids Day Event",
+    "username": "Kids Day Event",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "WALK END ALZHEIMER": {
+    "userId": "WALK END ALZHEIMER",
+    "username": "WALK END ALZHEIMER",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Chinese Cultural Day": {
+    "userId": "Livingston Chinese Cultural Day",
+    "username": "Livingston Chinese Cultural Day",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helps Livingston Public Library": {
+    "userId": "Helps Livingston Public Library",
+    "username": "Helps Livingston Public Library",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "AAPI New Jersey": {
+    "userId": "AAPI New Jersey",
+    "username": "AAPI New Jersey",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Huaxia Chinese School": {
+    "userId": "Livingston Huaxia Chinese School",
+    "username": "Livingston Huaxia Chinese School",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Day Celebration": {
+    "userId": "Day Celebration",
+    "username": "Day Celebration",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Supply Donations": {
+    "userId": "Supply Donations",
+    "username": "Supply Donations",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Holiday Songs": {
+    "userId": "Holiday Songs",
+    "username": "Holiday Songs",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Provide Music Class": {
+    "userId": "Provide Music Class",
+    "username": "Provide Music Class",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Burnet Hill Elementary School": {
+    "userId": "Burnet Hill Elementary School",
+    "username": "Burnet Hill Elementary School",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Multicultural Night": {
+    "userId": "Multicultural Night",
+    "username": "Multicultural Night",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs Children": {
+    "userId": "Special Needs Children",
+    "username": "Special Needs Children",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hospitalized Children": {
+    "userId": "Hospitalized Children",
+    "username": "Hospitalized Children",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Essex County Earth Day": {
+    "userId": "Essex County Earth Day",
+    "username": "Essex County Earth Day",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Daffodil Day Festival": {
+    "userId": "Annual Daffodil Day Festival",
+    "username": "Annual Daffodil Day Festival",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Public Library": {
+    "userId": "Livingston Public Library",
+    "username": "Livingston Public Library",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bike Livingston": {
+    "userId": "Bike Livingston",
+    "username": "Bike Livingston",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ACEing Autism": {
+    "userId": "ACEing Autism",
+    "username": "ACEing Autism",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Needs Children Event Life": {
+    "userId": "Needs Children Event Life",
+    "username": "Needs Children Event Life",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Town Training": {
+    "userId": "Town Training",
+    "username": "Town Training",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Open Play": {
+    "userId": "Open Play",
+    "username": "Open Play",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs Children Rock": {
+    "userId": "Special Needs Children Rock",
+    "username": "Special Needs Children Rock",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Book Review": {
+    "userId": "Book Review",
+    "username": "Book Review",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Library": {
+    "userId": "Livingston Library",
+    "username": "Livingston Library",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Recreation Shadow Program Aug": {
+    "userId": "Recreation Shadow Program Aug",
+    "username": "Recreation Shadow Program Aug",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smile Project": {
+    "userId": "Smile Project",
+    "username": "Smile Project",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Needs Children Events Summer": {
+    "userId": "Needs Children Events Summer",
+    "username": "Needs Children Events Summer",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Making Cards For Childers": {
+    "userId": "Making Cards For Childers",
+    "username": "Making Cards For Childers",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Collect Female Hygiene Products": {
+    "userId": "Collect Female Hygiene Products",
+    "username": "Collect Female Hygiene Products",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Diaper": {
+    "userId": "Community Diaper",
+    "username": "Community Diaper",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Food Drive": {
+    "userId": "Food Drive",
+    "username": "Food Drive",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local United Methodist Church": {
+    "userId": "Local United Methodist Church",
+    "username": "Local United Methodist Church",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Provide Suitcases": {
+    "userId": "Provide Suitcases",
+    "username": "Provide Suitcases",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Day Joy": {
+    "userId": "Day Joy",
+    "username": "Day Joy",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Dong": {
+    "userId": "Jason Dong",
+    "username": "Jason Dong",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves-Reed Arboretum for Planting Flowers 5/21/2024",
+        "hours": 2.0,
+        "date": "May 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Build Square Foot Gardens at Reeves-Reed 5/28/2024",
+        "hours": 3.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Planting at Reeves-Reed 5/21/2024",
+        "hours": 2.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 5.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zhicheng Zheng": {
+    "userId": "Zhicheng Zheng",
+    "username": "Zhicheng Zheng",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves-Reed Arboretum for Planting Flowers 5/21/2024",
+        "hours": 2.0,
+        "date": "May 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Build Square Foot Gardens at Reeves-Reed 5/28/2024",
+        "hours": 3.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Planting at Reeves-Reed 5/21/2024",
+        "hours": 2.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 5.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evan Yang": {
+    "userId": "Evan Yang",
+    "username": "Evan Yang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves-Reed Arboretum for Planting Flowers 5/21/2024",
+        "hours": 2.0,
+        "date": "May 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Gardening at Reeves-Reed 8/3/2024",
+        "hours": 2.0,
+        "date": "August 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Planting at Reeves-Reed 5/21/2024",
+        "hours": 2.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Min Zhang": {
+    "userId": "Min Zhang",
+    "username": "Min Zhang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves-Reed Arboretum for Planting Flowers 5/21/2024",
+        "hours": 2.0,
+        "date": "May 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Gardening at Reeves-Reed 8/3/2024",
+        "hours": 2.0,
+        "date": "August 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Planting at Reeves-Reed 5/21/2024",
+        "hours": 2.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Scott Yao": {
+    "userId": "Scott Yao",
+    "username": "Scott Yao",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Gardening at Reeves-Reed 8/3/2024",
+        "hours": 2.0,
+        "date": "August 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 6.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniel Zheng": {
+    "userId": "Daniel Zheng",
+    "username": "Daniel Zheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Gardening at Reeves-Reed 8/3/2024",
+        "hours": 2.0,
+        "date": "August 4, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Yang": {
+    "userId": "Ethan Yang",
+    "username": "Ethan Yang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Gardening at Reeves-Reed 8/3/2024",
+        "hours": 1.0,
+        "date": "August 4, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Calvin Cheng": {
+    "userId": "Calvin Cheng",
+    "username": "Calvin Cheng",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Build Square Foot Gardens at Reeves-Reed 5/28/2024",
+        "hours": 3.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nicole Chen": {
+    "userId": "Nicole Chen",
+    "username": "Nicole Chen",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Build Square Foot Gardens at Reeves-Reed 5/28/2024",
+        "hours": 3.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zihua Jennie Zhang": {
+    "userId": "Zihua Jennie Zhang",
+    "username": "Zihua Jennie Zhang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Build Square Foot Gardens at Reeves-Reed 5/28/2024",
+        "hours": 3.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jenny Zheng": {
+    "userId": "Jenny Zheng",
+    "username": "Jenny Zheng",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Build Square Foot Gardens at Reeves-Reed 5/28/2024",
+        "hours": 3.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Planting at Reeves-Reed 5/21/2024",
+        "hours": 2.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hobart Avenue": {
+    "userId": "Hobart Avenue",
+    "username": "Hobart Avenue",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 1.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jennie zihua Zhang": {
+    "userId": "Jennie zihua Zhang",
+    "username": "Jennie zihua Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jarret Lee": {
+    "userId": "Jarret Lee",
+    "username": "Jarret Lee",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Richard Dong": {
+    "userId": "Richard Dong",
+    "username": "Richard Dong",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at Reeves Maple Surge Festival on 3/3",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 6.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zihua Zhang": {
+    "userId": "Zihua Zhang",
+    "username": "Zihua Zhang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 6.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Orion Lee": {
+    "userId": "Orion Lee",
+    "username": "Orion Lee",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS supports Reeves Daffodil Day event on 4/14/24",
+        "hours": 3.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 5.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jennie Zhang": {
+    "userId": "Jennie Zhang",
+    "username": "Jennie Zhang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 5.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Liu": {
+    "userId": "William Liu",
+    "username": "William Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS volunteers at Festival of Trees event on 12/10/2023",
+        "hours": 2.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leonardo Yuan": {
+    "userId": "Leonardo Yuan",
+    "username": "Leonardo Yuan",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS volunteers at Reeves-Reed Arboretum on 11/28/2023",
+        "hours": 2.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Seven Summits Therapy": {
+    "userId": "Annual Seven Summits Therapy",
+    "username": "Annual Seven Summits Therapy",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Helps Thanksgiving 5K Turkey Trot Fundraising 11-23-2023",
+        "hours": 23.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wilson Farm Park": {
+    "userId": "Wilson Farm Park",
+    "username": "Wilson Farm Park",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Helps Thanksgiving 5K Turkey Trot Fundraising 11-23-2023",
+        "hours": 4.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hoey Initiative": {
+    "userId": "Hoey Initiative",
+    "username": "Hoey Initiative",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Helps Thanksgiving 5K Turkey Trot Fundraising 11-23-2023",
+        "hours": 4.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Penn State Junior": {
+    "userId": "Penn State Junior",
+    "username": "Penn State Junior",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Main Line Helps Thanksgiving 5K Turkey Trot Fundraising 11-23-2023",
+        "hours": 1.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jianbin Zhang": {
+    "userId": "Jianbin Zhang",
+    "username": "Jianbin Zhang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Decorates Spooky Trail and Volunteers at Reeves-Reed Arboretum’s Annual Celebrate Fall in Oct.2023",
+        "hours": 5.0,
+        "date": "October 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ru Xue Jiang": {
+    "userId": "Ru Xue Jiang",
+    "username": "Ru Xue Jiang",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hills convened with nonprofit organizations including Saturday Stewardship for a significant meeting focuse...",
+        "hours": 4.5,
+        "date": "October 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ming Chen": {
+    "userId": "Ming Chen",
+    "username": "Ming Chen",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hills convened with nonprofit organizations including Saturday Stewardship for a significant meeting focuse...",
+        "hours": 4.5,
+        "date": "October 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Zhang": {
+    "userId": "Emma Zhang",
+    "username": "Emma Zhang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteer for Reeves Reed Arboretum’s Annual Daffodil Day Festival on April 16, 2023",
+        "hours": 5.0,
+        "date": "April 21, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "East Cobb Design": {
+    "userId": "East Cobb Design",
+    "username": "East Cobb Design",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Archive Posts 2020-2021",
+        "hours": 1.0,
+        "date": "May 1, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "EAST COBB Cleans Face": {
+    "userId": "EAST COBB Cleans Face",
+    "username": "EAST COBB Cleans Face",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Archive Posts 2020-2021",
+        "hours": 22.0,
+        "date": "May 1, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "EAST COBB WON": {
+    "userId": "EAST COBB WON",
+    "username": "EAST COBB WON",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Archive Posts 2020-2021",
+        "hours": 8.0,
+        "date": "May 1, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Virtual Video Performance": {
+    "userId": "Virtual Video Performance",
+    "username": "Virtual Video Performance",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Archive Posts 2020-2021",
+        "hours": 3.0,
+        "date": "May 1, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fight COVID": {
+    "userId": "Fight COVID",
+    "username": "Fight COVID",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Archive Posts 2020-2021",
+        "hours": 19.0,
+        "date": "May 1, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Media III": {
+    "userId": "Media III",
+    "username": "Media III",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Archive Posts 2020-2021",
+        "hours": 19.0,
+        "date": "May 1, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Media II": {
+    "userId": "Media II",
+    "username": "Media II",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Archive Posts 2020-2021",
+        "hours": 19.0,
+        "date": "May 1, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

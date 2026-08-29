@@ -1,0 +1,17 @@
+{
+  "Useful Microsoft": {
+    "userId": "Useful Microsoft",
+    "username": "Useful Microsoft",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Most Popular Microsoft 98-367 Dump Test",
+        "hours": 7.0,
+        "date": "January 24, 2007",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "Matthew Chen": {
+    "userId": "Matthew Chen",
+    "username": "Matthew Chen",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Laredo Helps Church Process Winter Donations For The Homeless in September 2021",
+        "hours": 1.0,
+        "date": "November 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Laredo Donates Water to The Homeless",
+        "hours": 2.5,
+        "date": "July 8, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cayden Henke": {
+    "userId": "Cayden Henke",
+    "username": "Cayden Henke",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Laredo Helps Church Process Winter Donations For The Homeless in September 2021",
+        "hours": 4.0,
+        "date": "November 7, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Salvador Munoz": {
+    "userId": "Salvador Munoz",
+    "username": "Salvador Munoz",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Laredo Donates Water to The Homeless",
+        "hours": 2.5,
+        "date": "July 8, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

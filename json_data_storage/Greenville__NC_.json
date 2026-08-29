@@ -1,0 +1,509 @@
+{
+  "Ethan Tang": {
+    "userId": "Ethan Tang",
+    "username": "Ethan Tang",
+    "totalHours": 50.0,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (08-21-2026)",
+        "hours": 2.5,
+        "date": "August 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (07-22-2026)",
+        "hours": 3.0,
+        "date": "July 23, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (05-30-2026)",
+        "hours": 2.0,
+        "date": "May 30, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (06-05-2026)",
+        "hours": 3.0,
+        "date": "June 6, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (03-17-2026)",
+        "hours": 3.0,
+        "date": "March 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (04-03-2026)",
+        "hours": 2.0,
+        "date": "April 3, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (01-05-2026)",
+        "hours": 2.0,
+        "date": "January 5, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (02-26-2026)",
+        "hours": 2.0,
+        "date": "February 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (12-22-2025)",
+        "hours": 2.0,
+        "date": "December 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (11-26-2025)",
+        "hours": 2.0,
+        "date": "November 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (10-17-2025)",
+        "hours": 3.0,
+        "date": "October 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food bank of Central \u0026 Eastern North Carolina (9-29-2025)",
+        "hours": 2.0,
+        "date": "September 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville, NC Branch Volunteered at the Pitt 6IX Alumni Event (6-21-2025)",
+        "hours": 2.5,
+        "date": "June 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (8-7-2025)",
+        "hours": 2.0,
+        "date": "August 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (7-3-2025)",
+        "hours": 2.0,
+        "date": "July 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville, NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (5-24-2025)",
+        "hours": 2.0,
+        "date": "May 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS_Greenville Branch volunteered at the MacGregor Downs Health and Rehabilitation Center (4-27-2025)",
+        "hours": 2.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch helped with set up for Pitt County Elementary Science Olympiad (3/7/2025)",
+        "hours": 1.5,
+        "date": "March 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at local Food Bank (2-13-2025)",
+        "hours": 2.0,
+        "date": "February 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the “Find the Food Sculpture Event” (9-20-2024)",
+        "hours": 1.5,
+        "date": "September 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local rehabilitation center (7-26-2024)",
+        "hours": 2.0,
+        "date": "July 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joseph Sirohi": {
+    "userId": "Joseph Sirohi",
+    "username": "Joseph Sirohi",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (08-21-2026)",
+        "hours": 2.5,
+        "date": "August 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (07-22-2026)",
+        "hours": 3.0,
+        "date": "July 23, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Siddharth Mundphane": {
+    "userId": "Siddharth Mundphane",
+    "username": "Siddharth Mundphane",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (07-22-2026)",
+        "hours": 3.0,
+        "date": "July 23, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (12-22-2025)",
+        "hours": 2.0,
+        "date": "December 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (11-26-2025)",
+        "hours": 2.0,
+        "date": "November 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Tang": {
+    "userId": "Emily Tang",
+    "username": "Emily Tang",
+    "totalHours": 36.5,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (05-30-2026)",
+        "hours": 2.0,
+        "date": "May 30, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (06-05-2026)",
+        "hours": 3.0,
+        "date": "June 6, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (04-03-2026)",
+        "hours": 2.0,
+        "date": "April 3, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (01-05-2026)",
+        "hours": 2.0,
+        "date": "January 5, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (12-22-2025)",
+        "hours": 2.0,
+        "date": "December 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food bank of Central \u0026 Eastern North Carolina (9-29-2025)",
+        "hours": 2.0,
+        "date": "September 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville, NC Branch Volunteered at the Pitt 6IX Alumni Event (6-21-2025)",
+        "hours": 2.5,
+        "date": "June 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (8-7-2025)",
+        "hours": 2.0,
+        "date": "August 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (7-3-2025)",
+        "hours": 2.0,
+        "date": "July 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville, NC Branch Volunteered at the MacGregor Downs Health and Rehabilitation Center (5-24-2025)",
+        "hours": 2.0,
+        "date": "May 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS_Greenville Branch volunteered at the MacGregor Downs Health and Rehabilitation Center (4-27-2025)",
+        "hours": 2.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch helped with set up for Pitt County Elementary Science Olympiad (3/7/2025)",
+        "hours": 1.5,
+        "date": "March 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at local Food Bank (2-13-2025)",
+        "hours": 2.0,
+        "date": "February 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the “Find the Food Sculpture Event” (9-20-2024)",
+        "hours": 3.5,
+        "date": "September 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local rehabilitation center (7-26-2024)",
+        "hours": 2.0,
+        "date": "July 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jude Woodmansee": {
+    "userId": "Jude Woodmansee",
+    "username": "Jude Woodmansee",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (06-05-2026)",
+        "hours": 3.0,
+        "date": "June 6, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (02-26-2026)",
+        "hours": 2.0,
+        "date": "February 26, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zenon Moysey": {
+    "userId": "Zenon Moysey",
+    "username": "Zenon Moysey",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (03-17-2026)",
+        "hours": 3.0,
+        "date": "March 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (02-26-2026)",
+        "hours": 2.0,
+        "date": "February 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (11-26-2025)",
+        "hours": 2.0,
+        "date": "November 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (10-17-2025)",
+        "hours": 3.0,
+        "date": "October 18, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Elias Horsman": {
+    "userId": "Elias Horsman",
+    "username": "Elias Horsman",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (03-17-2026)",
+        "hours": 3.0,
+        "date": "March 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (02-26-2026)",
+        "hours": 2.0,
+        "date": "February 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (12-22-2025)",
+        "hours": 2.0,
+        "date": "December 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (11-26-2025)",
+        "hours": 2.0,
+        "date": "November 26, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ewan Kim": {
+    "userId": "Ewan Kim",
+    "username": "Ewan Kim",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (02-26-2026)",
+        "hours": 2.0,
+        "date": "February 26, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jackson Leissner": {
+    "userId": "Jackson Leissner",
+    "username": "Jackson Leissner",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch Volunteered at the Food Bank of Central \u0026 Eastern North Carolina (12-22-2025)",
+        "hours": 2.0,
+        "date": "December 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Erika Wu": {
+    "userId": "Erika Wu",
+    "username": "Erika Wu",
+    "totalHours": 9.5,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch helped with set up for Pitt County Elementary Science Olympiad (3/7/2025)",
+        "hours": 1.5,
+        "date": "March 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at local Food Bank (2-13-2025)",
+        "hours": 2.0,
+        "date": "February 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the “Find the Food Sculpture Event” (9-20-2024)",
+        "hours": 2.0,
+        "date": "September 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alaina Furner": {
+    "userId": "Alaina Furner",
+    "username": "Alaina Furner",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Greenville NC Branch helped with set up for Pitt County Elementary Science Olympiad (3/7/2025)",
+        "hours": 1.5,
+        "date": "March 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the “Find the Food Sculpture Event” (9-20-2024)",
+        "hours": 3.5,
+        "date": "September 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "GreenvilleNC branch volunteered at the local Food Bank on 8-5-2024",
+        "hours": 2.0,
+        "date": "August 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "Brian Xiong": {
+    "userId": "Brian Xiong",
+    "username": "Brian Xiong",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Branch Celebrates the Legacy of Art at Long Island Music Conservatory’s 5th Anniversary Festival (1st) i...",
+        "hours": 6.0,
+        "date": "May 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Xiong": {
+    "userId": "Eric Xiong",
+    "username": "Eric Xiong",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Branch Celebrates the Legacy of Art at Long Island Music Conservatory’s 5th Anniversary Festival (1st) i...",
+        "hours": 4.5,
+        "date": "May 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rachel Zhang": {
+    "userId": "Rachel Zhang",
+    "username": "Rachel Zhang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Branch Celebrates the Legacy of Art at Long Island Music Conservatory’s 5th Anniversary Festival (1st) i...",
+        "hours": 6.0,
+        "date": "May 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Calvin Chen": {
+    "userId": "Calvin Chen",
+    "username": "Calvin Chen",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Branch Celebrates the Legacy of Art at Long Island Music Conservatory’s 5th Anniversary Festival (1st) i...",
+        "hours": 6.0,
+        "date": "May 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kacie Li": {
+    "userId": "Kacie Li",
+    "username": "Kacie Li",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Branch Celebrates the Legacy of Art at Long Island Music Conservatory’s 5th Anniversary Festival (1st) i...",
+        "hours": 6.0,
+        "date": "May 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nicole Zhang": {
+    "userId": "Nicole Zhang",
+    "username": "Nicole Zhang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Branch Celebrates the Legacy of Art at Long Island Music Conservatory’s 5th Anniversary Festival (1st) i...",
+        "hours": 6.0,
+        "date": "May 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiffany Lin": {
+    "userId": "Tiffany Lin",
+    "username": "Tiffany Lin",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Branch Celebrates the Legacy of Art at Long Island Music Conservatory’s 5th Anniversary Festival (1st) i...",
+        "hours": 6.0,
+        "date": "May 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

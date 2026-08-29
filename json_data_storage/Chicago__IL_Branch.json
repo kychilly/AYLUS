@@ -1,0 +1,542 @@
+{
+  "Grace Zhou": {
+    "userId": "Grace Zhou",
+    "username": "Grace Zhou",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (6th) on November 15th, 2025",
+        "hours": 3.0,
+        "date": "February 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (5th) on June 30th, 2025",
+        "hours": 3.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (4th) on April 12th, 2025",
+        "hours": 3.0,
+        "date": "April 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (3rd) on November 3rd, 2024",
+        "hours": 3.0,
+        "date": "January 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (2nd) on October 6th, 2024",
+        "hours": 3.0,
+        "date": "October 7, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (1st) on May 27th, 2024",
+        "hours": 4.0,
+        "date": "May 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniel Wang": {
+    "userId": "Daniel Wang",
+    "username": "Daniel Wang",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (6th) on November 15th, 2025",
+        "hours": 2.0,
+        "date": "February 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (4th) on April 12th, 2025",
+        "hours": 2.0,
+        "date": "April 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (3rd) on November 3rd, 2024",
+        "hours": 2.0,
+        "date": "January 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (2nd) on October 6th, 2024",
+        "hours": 2.0,
+        "date": "October 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Lu": {
+    "userId": "Kevin Lu",
+    "username": "Kevin Lu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (6th) on November 15th, 2025",
+        "hours": 2.0,
+        "date": "February 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (4th) on April 12th, 2025",
+        "hours": 2.0,
+        "date": "April 16, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mia Lu": {
+    "userId": "Mia Lu",
+    "username": "Mia Lu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (6th) on November 15th, 2025",
+        "hours": 2.0,
+        "date": "February 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (4th) on April 12th, 2025",
+        "hours": 2.0,
+        "date": "April 16, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Liz Zhang": {
+    "userId": "Liz Zhang",
+    "username": "Liz Zhang",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (5th) on June 30th, 2025",
+        "hours": 2.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (4th) on April 12th, 2025",
+        "hours": 2.0,
+        "date": "April 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (3rd) on November 3rd, 2024",
+        "hours": 2.0,
+        "date": "January 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (2nd) on October 6th, 2024",
+        "hours": 2.0,
+        "date": "October 7, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (1st) on May 27th, 2024",
+        "hours": 3.0,
+        "date": "May 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Olivia Magnoli": {
+    "userId": "Olivia Magnoli",
+    "username": "Olivia Magnoli",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (4th) on April 12th, 2025",
+        "hours": 2.0,
+        "date": "April 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (1st) on May 27th, 2024",
+        "hours": 3.0,
+        "date": "May 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aila Jiang": {
+    "userId": "Aila Jiang",
+    "username": "Aila Jiang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "City and Neighbor Support: Pearland Volunteers Holds Tennis Ball Drive for Fundraising through Dec 1, 2024",
+        "hours": 4.0,
+        "date": "December 5, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Iris Ma": {
+    "userId": "Iris Ma",
+    "username": "Iris Ma",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (1st) on May 27th, 2024",
+        "hours": 3.0,
+        "date": "May 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tim Mahler": {
+    "userId": "Tim Mahler",
+    "username": "Tim Mahler",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bergen Branch Hosts Cards for Hospitalized Kids (CFHK) Card Making Event (1st) on May 27th, 2024",
+        "hours": 1.0,
+        "date": "May 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anna Zou": {
+    "userId": "Anna Zou",
+    "username": "Anna Zou",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Memphis Branch Participated Several Activities in March",
+        "hours": 4.0,
+        "date": "March 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annie Li": {
+    "userId": "Annie Li",
+    "username": "Annie Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Memphis Branch Participated Several Activities in March",
+        "hours": 3.0,
+        "date": "March 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Audry Jin": {
+    "userId": "Audry Jin",
+    "username": "Audry Jin",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Greater Memphis Branch Participated Several Activities in March",
+        "hours": 5.0,
+        "date": "March 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grace Ding": {
+    "userId": "Grace Ding",
+    "username": "Grace Ding",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Memphis Branch Participated Several Activities in March",
+        "hours": 3.5,
+        "date": "March 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anthony Yang": {
+    "userId": "Anthony Yang",
+    "username": "Anthony Yang",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 15.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Medicine Career Panel": {
+    "userId": "Medicine Career Panel",
+    "username": "Medicine Career Panel",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 5.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Engineer Manager": {
+    "userId": "Engineer Manager",
+    "username": "Engineer Manager",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 5.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Self Driving Division": {
+    "userId": "Self Driving Division",
+    "username": "Self Driving Division",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 5.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "UC Berkeley": {
+    "userId": "UC Berkeley",
+    "username": "UC Berkeley",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 9.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Scientific Research": {
+    "userId": "Scientific Research",
+    "username": "Scientific Research",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 6.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jordan Zheng": {
+    "userId": "Jordan Zheng",
+    "username": "Jordan Zheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 2.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Qi": {
+    "userId": "Eric Qi",
+    "username": "Eric Qi",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 3.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alvin Zheng": {
+    "userId": "Alvin Zheng",
+    "username": "Alvin Zheng",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 4.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Karen Xu": {
+    "userId": "Karen Xu",
+    "username": "Karen Xu",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 6.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chenyu Jin": {
+    "userId": "Chenyu Jin",
+    "username": "Chenyu Jin",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 7.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zixuan Liu": {
+    "userId": "Zixuan Liu",
+    "username": "Zixuan Liu",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland in first National Conference, July 25",
+        "hours": 8.0,
+        "date": "August 5, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Amy Xie": {
+    "userId": "Amy Xie",
+    "username": "Amy Xie",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Phoenix Branch Archives Historical Documents August 8th- 14th, 2020",
+        "hours": 7.0,
+        "date": "August 15, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yongfeng Chen": {
+    "userId": "Yongfeng Chen",
+    "username": "Yongfeng Chen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Phoenix Branch Archives Historical Documents August 8th- 14th, 2020",
+        "hours": 4.0,
+        "date": "August 15, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Agriculture Land": {
+    "userId": "Agriculture Land",
+    "username": "Agriculture Land",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Phoenix Branch Archives Historical Documents August 8th- 14th, 2020",
+        "hours": 4.0,
+        "date": "August 15, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wenting Chen": {
+    "userId": "Wenting Chen",
+    "username": "Wenting Chen",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Phoenix Branch Archives Historical Documents August 8th- 14th, 2020",
+        "hours": 3.0,
+        "date": "August 15, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Agricultural Land": {
+    "userId": "Agricultural Land",
+    "username": "Agricultural Land",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Phoenix Branch Archives Historical Documents August 1st-7th 2020",
+        "hours": 22.0,
+        "date": "August 8, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

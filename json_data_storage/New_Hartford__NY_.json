@@ -1,0 +1,17 @@
+{
+  "Bryan Wang": {
+    "userId": "Bryan Wang",
+    "username": "Bryan Wang",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Farmington Branch Volunteers at the New Britain Medical Mission for Hartford Healthcare (11/8/2025)",
+        "hours": 5.5,
+        "date": "November 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

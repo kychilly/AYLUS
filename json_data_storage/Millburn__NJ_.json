@@ -1,0 +1,1340 @@
+{
+  "Andrew Zhou": {
+    "userId": "Andrew Zhou",
+    "username": "Andrew Zhou",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex Aylus Volunteers for the Millburn Free Public Library Book Drive on 4/25/2026",
+        "hours": 1.0,
+        "date": "May 3, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jasmine Guo": {
+    "userId": "Jasmine Guo",
+    "username": "Jasmine Guo",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex Aylus Volunteers for the Millburn Free Public Library Book Drive on 4/25/2026",
+        "hours": 2.0,
+        "date": "May 3, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "West Essex": {
+    "userId": "West Essex",
+    "username": "West Essex",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "West Essex Aylus Volunteers for Millburn Neighbors Help Neighbors on 3/15/2026",
+        "hours": 1.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex Aylus Volunteers at Millburn Rocktoberfest on 9/13/2025",
+        "hours": 1.0,
+        "date": "October 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex Aylus Volunteers at Millburn Neighbors helping neighbors on 9/07/2025",
+        "hours": 1.0,
+        "date": "September 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers for Millburn Public Library Annual Book Sale 4/29/23",
+        "hours": 4.0,
+        "date": "May 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers for Millburn Public Library Annual Book Sale 4/25-4/27",
+        "hours": 2.0,
+        "date": "May 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Helps Prepare Rummage Sale to Benefit The Warehouse NJ and the Oasis Distribution Center 4/29/23",
+        "hours": 3.0,
+        "date": "May 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jaden Leung": {
+    "userId": "Jaden Leung",
+    "username": "Jaden Leung",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex Aylus Volunteers for Millburn Neighbors Help Neighbors on 3/15/2026",
+        "hours": 1.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Millburn High School’s Red Cross Drive 5/24/25",
+        "hours": 1.0,
+        "date": "June 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Volunteers help “a Walk for a lifetime” by Spectrum 360 – 05/20/2025",
+        "hours": 1.0,
+        "date": "May 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS conducts book drive for annual library book sale in April",
+        "hours": 1.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Dong": {
+    "userId": "Jason Dong",
+    "username": "Jason Dong",
+    "totalHours": 8.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteered Millburn Chinese New Year Miaohui 02/08/2025",
+        "hours": 2.5,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteered Millburn Chinese New Year Street Fair 03/02/2025",
+        "hours": 6.0,
+        "date": "March 11, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zhicheng Zheng": {
+    "userId": "Zhicheng Zheng",
+    "username": "Zhicheng Zheng",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteered Millburn Chinese New Year Miaohui 02/08/2025",
+        "hours": 4.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteered Millburn Chinese New Year Street Fair 03/02/2025",
+        "hours": 6.0,
+        "date": "March 11, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Derrick Xie": {
+    "userId": "Derrick Xie",
+    "username": "Derrick Xie",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteered Millburn Chinese New Year Miaohui 02/08/2025",
+        "hours": 3.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zoe Leung": {
+    "userId": "Zoe Leung",
+    "username": "Zoe Leung",
+    "totalHours": 14.5,
+    "entries": [
+      {
+        "eventName": "West Essex Aylus Volunteers at Millburn Rocktoberfest on 9/13/2025",
+        "hours": 1.0,
+        "date": "October 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Millburn High School’s Red Cross Drive 5/24/25",
+        "hours": 3.0,
+        "date": "June 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteered Millburn Chinese New Year Street Fair 03/02/2025",
+        "hours": 2.5,
+        "date": "March 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS – Volunteers help “a Walk for a lifetime” by Spectrum 360 – 05/20/2025",
+        "hours": 2.0,
+        "date": "May 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Helps Sort Books for Annual Library Book Sale in April",
+        "hours": 2.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS conducts book drive for annual library book sale in April",
+        "hours": 1.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Collects Extra Halloween Candy for Veterans in Nov. 2023",
+        "hours": 2.0,
+        "date": "November 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Madeline Pan": {
+    "userId": "Madeline Pan",
+    "username": "Madeline Pan",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex Aylus Volunteers at Millburn Rocktoberfest on 9/13/2025",
+        "hours": 2.0,
+        "date": "October 26, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yolanda Cheung": {
+    "userId": "Yolanda Cheung",
+    "username": "Yolanda Cheung",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn High School’s Red Cross Drive 5/24/25",
+        "hours": 2.0,
+        "date": "June 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS March Millburn Neighbors Helping Neighbors Drive 3/26/25",
+        "hours": 1.0,
+        "date": "April 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hebe Leung": {
+    "userId": "Hebe Leung",
+    "username": "Hebe Leung",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn High School’s Red Cross Drive 5/24/25",
+        "hours": 3.0,
+        "date": "June 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Helps Sort Books for Annual Library Book Sale in April",
+        "hours": 2.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS conducts book drive for annual library book sale in April",
+        "hours": 1.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Li": {
+    "userId": "Alan Li",
+    "username": "Alan Li",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn High School’s Red Cross Drive 5/24/25",
+        "hours": 3.0,
+        "date": "June 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Arushi Asrani": {
+    "userId": "Arushi Asrani",
+    "username": "Arushi Asrani",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn High School’s Red Cross Drive 5/24/25",
+        "hours": 3.0,
+        "date": "June 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Samuel Xue": {
+    "userId": "Samuel Xue",
+    "username": "Samuel Xue",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex Aylus Volunteers at Millburn Neighbors helping neighbors on 9/07/2025",
+        "hours": 1.0,
+        "date": "September 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Jiang": {
+    "userId": "Michael Jiang",
+    "username": "Michael Jiang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteered Millburn Chinese New Year Street Fair 03/02/2025",
+        "hours": 3.0,
+        "date": "March 11, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Orion Lee": {
+    "userId": "Orion Lee",
+    "username": "Orion Lee",
+    "totalHours": 8.5,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteered Millburn Chinese New Year Street Fair 03/02/2025",
+        "hours": 0.5,
+        "date": "March 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS West Essex volunteers at Millburn Lunar New Year Celebration on 2/11/24",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Helps Sort Books for Annual Library Book Sale in April",
+        "hours": 2.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS conducts book drive for annual library book sale in April",
+        "hours": 1.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kailey Kwan": {
+    "userId": "Kailey Kwan",
+    "username": "Kailey Kwan",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS January Millburn Neighbors Helping Neighbors Food Pantry Drive 1/31/25",
+        "hours": 1.0,
+        "date": "February 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gabriel Au": {
+    "userId": "Gabriel Au",
+    "username": "Gabriel Au",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Drive 11/10/24",
+        "hours": 1.0,
+        "date": "November 18, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS West Essex volunteers at Millburn Lunar New Year Celebration on 2/11/24",
+        "hours": 7.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeremiah Au": {
+    "userId": "Jeremiah Au",
+    "username": "Jeremiah Au",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jasper Cheng": {
+    "userId": "Jasper Cheng",
+    "username": "Jasper Cheng",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jarett Lee": {
+    "userId": "Jarett Lee",
+    "username": "Jarett Lee",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Yang": {
+    "userId": "Ethan Yang",
+    "username": "Ethan Yang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS April 2023 Book Drive April 17th – April 23rd 2023",
+        "hours": 4.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evan Yang": {
+    "userId": "Evan Yang",
+    "username": "Evan Yang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Forest Yang": {
+    "userId": "Forest Yang",
+    "username": "Forest Yang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Yao": {
+    "userId": "Ethan Yao",
+    "username": "Ethan Yao",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nanxi Zhang": {
+    "userId": "Nanxi Zhang",
+    "username": "Nanxi Zhang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nathan Zhang": {
+    "userId": "Nathan Zhang",
+    "username": "Nathan Zhang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Millburn Neighbors Helping Neighbors Food Pantry Donations 10/20/24",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ella Chai": {
+    "userId": "Ella Chai",
+    "username": "Ella Chai",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS West Essex volunteers at Millburn Lunar New Year Celebration on 2/11/24",
+        "hours": 7.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ava Lee": {
+    "userId": "Ava Lee",
+    "username": "Ava Lee",
+    "totalHours": 44.0,
+    "entries": [
+      {
+        "eventName": "AYLUS West Essex volunteers at Millburn Lunar New Year Celebration on 2/11/24",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers for Millburn Public Library Annual Book Sale 4/29/23",
+        "hours": 4.0,
+        "date": "May 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Volunteers for Millburn Public Library Annual Book Sale 4/25-4/27",
+        "hours": 2.0,
+        "date": "May 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Member volunteers for Millburn Township Founding Day on April 22nd, 2023",
+        "hours": 6.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Member Volunteers for Millburn Public Library Annual Book Sale 4/18/23",
+        "hours": 4.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Member Volunteers for Millburn Public Library Annual Book Sale 4/16/23",
+        "hours": 1.5,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Member Volunteers for Millburn Public Library Annual Book Sale 4/15/23",
+        "hours": 3.0,
+        "date": "April 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Member Volunteers for Millburn Public Library Annual Book Sale 4/11/23",
+        "hours": 4.0,
+        "date": "April 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Helps Sort Books for Annual Library Book Sale in April",
+        "hours": 2.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS conducts book drive for annual library book sale in April",
+        "hours": 1.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS April 2023 Book Drive April 17th – April 23rd 2023",
+        "hours": 6.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS Helps Prepare Rummage Sale to Benefit The Warehouse NJ and the Oasis Distribution Center 4/29/23",
+        "hours": 3.0,
+        "date": "May 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS volunteers for NJ makers day event 3/25/2023",
+        "hours": 3.5,
+        "date": "April 20, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Richard Dong": {
+    "userId": "Richard Dong",
+    "username": "Richard Dong",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS West Essex volunteers at Millburn Lunar New Year Celebration on 2/11/24",
+        "hours": 4.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Sun": {
+    "userId": "William Sun",
+    "username": "William Sun",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS – Volunteers help “a Walk for a lifetime” by Spectrum 360 – 05/20/2025",
+        "hours": 1.0,
+        "date": "May 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "West Essex AYLUS conducts book drive for annual library book sale in April",
+        "hours": 1.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer Li": {
+    "userId": "Summer Li",
+    "username": "Summer Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Helps Sort Books for Annual Library Book Sale in April",
+        "hours": 3.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Cai": {
+    "userId": "Emily Cai",
+    "username": "Emily Cai",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Helps Sort Books for Annual Library Book Sale in April",
+        "hours": 3.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hasindu Wickramasinghe": {
+    "userId": "Hasindu Wickramasinghe",
+    "username": "Hasindu Wickramasinghe",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Helps Sort Books for Annual Library Book Sale in April",
+        "hours": 2.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nisitha Wickramasinghe": {
+    "userId": "Nisitha Wickramasinghe",
+    "username": "Nisitha Wickramasinghe",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Helps Sort Books for Annual Library Book Sale in April",
+        "hours": 2.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helped Local YMCA Healthy": {
+    "userId": "Helped Local YMCA Healthy",
+    "username": "Helped Local YMCA Healthy",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kids Day Event": {
+    "userId": "Kids Day Event",
+    "username": "Kids Day Event",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "WALK END ALZHEIMER": {
+    "userId": "WALK END ALZHEIMER",
+    "username": "WALK END ALZHEIMER",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Chinese Cultural Day": {
+    "userId": "Livingston Chinese Cultural Day",
+    "username": "Livingston Chinese Cultural Day",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helps Livingston Public Library": {
+    "userId": "Helps Livingston Public Library",
+    "username": "Helps Livingston Public Library",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "AAPI New Jersey": {
+    "userId": "AAPI New Jersey",
+    "username": "AAPI New Jersey",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Huaxia Chinese School": {
+    "userId": "Livingston Huaxia Chinese School",
+    "username": "Livingston Huaxia Chinese School",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Day Celebration": {
+    "userId": "Day Celebration",
+    "username": "Day Celebration",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Supply Donations": {
+    "userId": "Supply Donations",
+    "username": "Supply Donations",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Holiday Songs": {
+    "userId": "Holiday Songs",
+    "username": "Holiday Songs",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Provide Music Class": {
+    "userId": "Provide Music Class",
+    "username": "Provide Music Class",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Burnet Hill Elementary School": {
+    "userId": "Burnet Hill Elementary School",
+    "username": "Burnet Hill Elementary School",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Multicultural Night": {
+    "userId": "Multicultural Night",
+    "username": "Multicultural Night",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs Children": {
+    "userId": "Special Needs Children",
+    "username": "Special Needs Children",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hospitalized Children": {
+    "userId": "Hospitalized Children",
+    "username": "Hospitalized Children",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Essex County Earth Day": {
+    "userId": "Essex County Earth Day",
+    "username": "Essex County Earth Day",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Daffodil Day Festival": {
+    "userId": "Annual Daffodil Day Festival",
+    "username": "Annual Daffodil Day Festival",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Public Library": {
+    "userId": "Livingston Public Library",
+    "username": "Livingston Public Library",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bike Livingston": {
+    "userId": "Bike Livingston",
+    "username": "Bike Livingston",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ACEing Autism": {
+    "userId": "ACEing Autism",
+    "username": "ACEing Autism",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Needs Children Event Life": {
+    "userId": "Needs Children Event Life",
+    "username": "Needs Children Event Life",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Town Training": {
+    "userId": "Town Training",
+    "username": "Town Training",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Open Play": {
+    "userId": "Open Play",
+    "username": "Open Play",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs Children Rock": {
+    "userId": "Special Needs Children Rock",
+    "username": "Special Needs Children Rock",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Book Review": {
+    "userId": "Book Review",
+    "username": "Book Review",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Library": {
+    "userId": "Livingston Library",
+    "username": "Livingston Library",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Recreation Shadow Program Aug": {
+    "userId": "Recreation Shadow Program Aug",
+    "username": "Recreation Shadow Program Aug",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smile Project": {
+    "userId": "Smile Project",
+    "username": "Smile Project",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Needs Children Events Summer": {
+    "userId": "Needs Children Events Summer",
+    "username": "Needs Children Events Summer",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Making Cards For Childers": {
+    "userId": "Making Cards For Childers",
+    "username": "Making Cards For Childers",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yuan Du": {
+    "userId": "Yuan Du",
+    "username": "Yuan Du",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS Volunteers at NJ High School Fencing Event on 12/16/2023",
+        "hours": 2.0,
+        "date": "January 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jasmine Chen": {
+    "userId": "Jasmine Chen",
+    "username": "Jasmine Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS April 2023 Book Drive April 17th – April 23rd 2023",
+        "hours": 2.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Jiang": {
+    "userId": "Alex Jiang",
+    "username": "Alex Jiang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS April 2023 Book Drive April 17th – April 23rd 2023",
+        "hours": 2.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Stephanie Yan": {
+    "userId": "Stephanie Yan",
+    "username": "Stephanie Yan",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS April 2023 Book Drive April 17th – April 23rd 2023",
+        "hours": 2.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffery Yang": {
+    "userId": "Jeffery Yang",
+    "username": "Jeffery Yang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS April 2023 Book Drive April 17th – April 23rd 2023",
+        "hours": 2.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Zhang": {
+    "userId": "Emma Zhang",
+    "username": "Emma Zhang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS April 2023 Book Drive April 17th – April 23rd 2023",
+        "hours": 2.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophia Zheng": {
+    "userId": "Sophia Zheng",
+    "username": "Sophia Zheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex AYLUS April 2023 Book Drive April 17th – April 23rd 2023",
+        "hours": 2.0,
+        "date": "April 25, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

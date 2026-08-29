@@ -1,0 +1,47 @@
+{
+  "South Africa": {
+    "userId": "South Africa",
+    "username": "South Africa",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano, TX",
+        "hours": 8.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Latest Release Microsoft": {
+    "userId": "Latest Release Microsoft",
+    "username": "Latest Release Microsoft",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Microsoft 070-461 Q\u0026A Online",
+        "hours": 17.0,
+        "date": "April 20, 2010",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jia Cheng": {
+    "userId": "Jia Cheng",
+    "username": "Jia Cheng",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Microsoft 070-461 Q\u0026A Online",
+        "hours": 1.0,
+        "date": "April 20, 2010",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

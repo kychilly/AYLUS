@@ -1,0 +1,107 @@
+{
+  "Benjamin Hong": {
+    "userId": "Benjamin Hong",
+    "username": "Benjamin Hong",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Conducted Citizen Archivist Project on February 14, 2021",
+        "hours": 1.0,
+        "date": "February 23, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tarun Sivakumar": {
+    "userId": "Tarun Sivakumar",
+    "username": "Tarun Sivakumar",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Conducted Citizen Archivist Project on February 14, 2021",
+        "hours": 1.0,
+        "date": "February 23, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Amy Xu": {
+    "userId": "Amy Xu",
+    "username": "Amy Xu",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Conducted Citizen Archivist Project on February 14, 2021",
+        "hours": 1.0,
+        "date": "February 23, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xinning Lucy Liu": {
+    "userId": "Xinning Lucy Liu",
+    "username": "Xinning Lucy Liu",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Conducted Citizen Archivist Project on February 14, 2021",
+        "hours": 1.0,
+        "date": "February 23, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Edwin Zheng": {
+    "userId": "Edwin Zheng",
+    "username": "Edwin Zheng",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Conducted Citizen Archivist Project on February 14, 2021",
+        "hours": 1.0,
+        "date": "February 23, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jessica Hong": {
+    "userId": "Jessica Hong",
+    "username": "Jessica Hong",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Conducted Citizen Archivist Project on February 14, 2021",
+        "hours": 1.0,
+        "date": "February 23, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Xu": {
+    "userId": "Kevin Xu",
+    "username": "Kevin Xu",
+    "totalHours": 0.5,
+    "entries": [
+      {
+        "eventName": "Raritan Valley Branch Conducted Citizen Archivist Project on February 14, 2021",
+        "hours": 0.5,
+        "date": "February 23, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

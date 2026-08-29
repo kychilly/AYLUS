@@ -1,0 +1,107 @@
+{
+  "Leo Zheng": {
+    "userId": "Leo Zheng",
+    "username": "Leo Zheng",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Brings Joy to Intellectually Disabled Adults at Bayville (6th) on May 5th, 2024",
+        "hours": 3.0,
+        "date": "May 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maxim Li": {
+    "userId": "Maxim Li",
+    "username": "Maxim Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Brings Joy to Intellectually Disabled Adults at Bayville (6th) on May 5th, 2024",
+        "hours": 3.0,
+        "date": "May 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zihan Wang": {
+    "userId": "Zihan Wang",
+    "username": "Zihan Wang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Brings Joy to Intellectually Disabled Adults at Bayville (6th) on May 5th, 2024",
+        "hours": 3.0,
+        "date": "May 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zhiyi Cheng": {
+    "userId": "Zhiyi Cheng",
+    "username": "Zhiyi Cheng",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers with Artistic Swimming National Meet -(04/09-04/12/2026)",
+        "hours": 4.0,
+        "date": "May 1, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Justin Yu": {
+    "userId": "Justin Yu",
+    "username": "Justin Yu",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers with Artistic Swimming National Meet -(04/09-04/12/2026)",
+        "hours": 4.5,
+        "date": "May 1, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Adeline Ren": {
+    "userId": "Adeline Ren",
+    "username": "Adeline Ren",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers with Artistic Swimming National Meet -(04/09-04/12/2026)",
+        "hours": 6.0,
+        "date": "May 1, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chenlyvia Xiong": {
+    "userId": "Chenlyvia Xiong",
+    "username": "Chenlyvia Xiong",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers with Artistic Swimming National Meet -(04/09-04/12/2026)",
+        "hours": 8.0,
+        "date": "May 1, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

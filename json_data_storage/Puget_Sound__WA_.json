@@ -1,0 +1,1355 @@
+{
+  "Keyu Guo": {
+    "userId": "Keyu Guo",
+    "username": "Keyu Guo",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (April 12, 2026)",
+        "hours": 4.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yilin Tong": {
+    "userId": "Yilin Tong",
+    "username": "Yilin Tong",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (April 12, 2026)",
+        "hours": 2.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alicia Feng": {
+    "userId": "Alicia Feng",
+    "username": "Alicia Feng",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (June 20, 2026)",
+        "hours": 4.0,
+        "date": "July 4, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Feng": {
+    "userId": "William Feng",
+    "username": "William Feng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (June 20, 2026)",
+        "hours": 2.0,
+        "date": "July 4, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ava Lo": {
+    "userId": "Ava Lo",
+    "username": "Ava Lo",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (April 11, 2026)",
+        "hours": 4.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (July 2024)",
+        "hours": 8.0,
+        "date": "August 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Maynard": {
+    "userId": "Emily Maynard",
+    "username": "Emily Maynard",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (April 11, 2026)",
+        "hours": 2.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Melanie Grad": {
+    "userId": "Melanie Grad",
+    "username": "Melanie Grad",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (June 21, 2026)",
+        "hours": 4.0,
+        "date": "July 4, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evelyn Lin": {
+    "userId": "Evelyn Lin",
+    "username": "Evelyn Lin",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (June 21, 2026)",
+        "hours": 2.0,
+        "date": "July 4, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Megan Liu": {
+    "userId": "Megan Liu",
+    "username": "Megan Liu",
+    "totalHours": 32.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Hospital (February 17th, 2026)",
+        "hours": 4.0,
+        "date": "March 2, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (December 14, 2025)",
+        "hours": 4.0,
+        "date": "December 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (December 13, 2025)",
+        "hours": 4.0,
+        "date": "December 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (November 1, 2025)",
+        "hours": 4.0,
+        "date": "November 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (November 2, 2025)",
+        "hours": 4.0,
+        "date": "November 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 22nd 2025)",
+        "hours": 4.0,
+        "date": "June 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 21st 2025)",
+        "hours": 4.0,
+        "date": "June 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Citizens (6/25/2023)",
+        "hours": 4.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alisha Ma": {
+    "userId": "Alisha Ma",
+    "username": "Alisha Ma",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Hospital (February 17th, 2026)",
+        "hours": 2.0,
+        "date": "March 2, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bennett Horning": {
+    "userId": "Bennett Horning",
+    "username": "Bennett Horning",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (December 14, 2025)",
+        "hours": 2.0,
+        "date": "December 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Caileen Wan": {
+    "userId": "Caileen Wan",
+    "username": "Caileen Wan",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Hospital (February 18, 2026)",
+        "hours": 4.0,
+        "date": "March 2, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (February 22nd \u0026 23rd 2025)",
+        "hours": 4.0,
+        "date": "February 24, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Macey Liu": {
+    "userId": "Macey Liu",
+    "username": "Macey Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Hospital (February 18, 2026)",
+        "hours": 2.0,
+        "date": "March 2, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yiming Zheng": {
+    "userId": "Yiming Zheng",
+    "username": "Yiming Zheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (December 13, 2025)",
+        "hours": 2.0,
+        "date": "December 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Claire Zhang": {
+    "userId": "Claire Zhang",
+    "username": "Claire Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 31, 2025)",
+        "hours": 4.0,
+        "date": "September 1, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christina Liu": {
+    "userId": "Christina Liu",
+    "username": "Christina Liu",
+    "totalHours": 65.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 31, 2025)",
+        "hours": 2.0,
+        "date": "September 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (April 19th 2025)",
+        "hours": 4.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (April 13rd 2025)",
+        "hours": 4.0,
+        "date": "April 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (February 22nd \u0026 23rd 2025)",
+        "hours": 10.0,
+        "date": "February 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 3.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (December 2023 through January 2024).",
+        "hours": 3.0,
+        "date": "January 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 16.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (Oct. 2022 through Jan. 2023)",
+        "hours": 6.0,
+        "date": "February 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts 2023 AMC 8 Prep Class (Oct-Nov 2022)",
+        "hours": 2.0,
+        "date": "November 19, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (August 2022)",
+        "hours": 15.0,
+        "date": "August 29, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Abby Chen": {
+    "userId": "Abby Chen",
+    "username": "Abby Chen",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 30th 2025)",
+        "hours": 4.0,
+        "date": "September 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (April 13rd 2025)",
+        "hours": 2.0,
+        "date": "April 15, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffrey Zhao": {
+    "userId": "Jeffrey Zhao",
+    "username": "Jeffrey Zhao",
+    "totalHours": 34.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 30th 2025)",
+        "hours": 3.0,
+        "date": "September 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Citizens (6/25/2023)",
+        "hours": 4.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (Oct. 2022 through Jan. 2023)",
+        "hours": 6.0,
+        "date": "February 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts 2023 AMC 8 Prep Class (Oct-Nov 2022)",
+        "hours": 2.0,
+        "date": "November 19, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (August 2022)",
+        "hours": 15.0,
+        "date": "August 29, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Victor Zhao": {
+    "userId": "Victor Zhao",
+    "username": "Victor Zhao",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 30th 2025)",
+        "hours": 2.0,
+        "date": "September 1, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Scott Shen Total Individual": {
+    "userId": "Scott Shen Total Individual",
+    "username": "Scott Shen Total Individual",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Participates in Local Street Cleaning with Keep Bellevue Beautiful (May 2025)",
+        "hours": 2.0,
+        "date": "May 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michelle Chang": {
+    "userId": "Michelle Chang",
+    "username": "Michelle Chang",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (April 19th 2025)",
+        "hours": 3.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (April 13rd 2025)",
+        "hours": 3.0,
+        "date": "April 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nicholas Chen": {
+    "userId": "Nicholas Chen",
+    "username": "Nicholas Chen",
+    "totalHours": 26.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (February 22nd \u0026 23rd 2025)",
+        "hours": 8.0,
+        "date": "February 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Citizens (6/25/2023)",
+        "hours": 6.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (August 2022)",
+        "hours": 12.0,
+        "date": "August 29, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "James Lee": {
+    "userId": "James Lee",
+    "username": "James Lee",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (February 22nd \u0026 23rd 2025)",
+        "hours": 6.0,
+        "date": "February 24, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Arush Angra": {
+    "userId": "Arush Angra",
+    "username": "Arush Angra",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (February 22nd \u0026 23rd 2025)",
+        "hours": 3.0,
+        "date": "February 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin He": {
+    "userId": "Kevin He",
+    "username": "Kevin He",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (February 2025)",
+        "hours": 4.0,
+        "date": "February 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Google Drive": {
+    "userId": "Google Drive",
+    "username": "Google Drive",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound helps with Bellevue Litter Cleanup",
+        "hours": 4.0,
+        "date": "December 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Public Service Volunteering",
+        "hours": 4.0,
+        "date": "August 26, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hannah Ma": {
+    "userId": "Hannah Ma",
+    "username": "Hannah Ma",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 3.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Raymond Zhu": {
+    "userId": "Raymond Zhu",
+    "username": "Raymond Zhu",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 2.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (December 2023 through January 2024).",
+        "hours": 3.0,
+        "date": "January 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Number Theory": {
+    "userId": "Number Theory",
+    "username": "Number Theory",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 8.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Algebraic Manipulations": {
+    "userId": "Algebraic Manipulations",
+    "username": "Algebraic Manipulations",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 8.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Living Kirkland Waterfront": {
+    "userId": "Aegis Living Kirkland Waterfront",
+    "username": "Aegis Living Kirkland Waterfront",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (December 2024)",
+        "hours": 12.0,
+        "date": "December 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Living Bellevue": {
+    "userId": "Aegis Living Bellevue",
+    "username": "Aegis Living Bellevue",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (December 2024)",
+        "hours": 22.0,
+        "date": "December 10, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Performance Videos": {
+    "userId": "Performance Videos",
+    "username": "Performance Videos",
+    "totalHours": 69.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (December 2024)",
+        "hours": 12.0,
+        "date": "December 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (October 2024)",
+        "hours": 12.0,
+        "date": "October 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (September 2024)",
+        "hours": 12.0,
+        "date": "September 7, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 2024)",
+        "hours": 12.0,
+        "date": "August 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (December 2023)",
+        "hours": 9.0,
+        "date": "December 18, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Gardens Newcastle": {
+    "userId": "Aegis Gardens Newcastle",
+    "username": "Aegis Gardens Newcastle",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (October 2024)",
+        "hours": 24.0,
+        "date": "October 30, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Living Lake Union": {
+    "userId": "Aegis Living Lake Union",
+    "username": "Aegis Living Lake Union",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (September 2024)",
+        "hours": 23.0,
+        "date": "September 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Full Life Care": {
+    "userId": "Full Life Care",
+    "username": "Full Life Care",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 2024)",
+        "hours": 1.5,
+        "date": "August 30, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Living Mercer Island": {
+    "userId": "Aegis Living Mercer Island",
+    "username": "Aegis Living Mercer Island",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 2024)",
+        "hours": 17.0,
+        "date": "August 30, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ava L. Karis": {
+    "userId": "Ava L. Karis",
+    "username": "Ava L. Karis",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Albert Lu": {
+    "userId": "Albert Lu",
+    "username": "Albert Lu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 4.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lauren Lee": {
+    "userId": "Lauren Lee",
+    "username": "Lauren Lee",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Counting Principles": {
+    "userId": "Counting Principles",
+    "username": "Counting Principles",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (December 2023 through January 2024).",
+        "hours": 8.0,
+        "date": "January 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Living Marymoor": {
+    "userId": "Aegis Living Marymoor",
+    "username": "Aegis Living Marymoor",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (December 2023)",
+        "hours": 15.0,
+        "date": "December 18, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alysia Chen": {
+    "userId": "Alysia Chen",
+    "username": "Alysia Chen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Citizens (6/25/2023)",
+        "hours": 4.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Deng": {
+    "userId": "Kevin Deng",
+    "username": "Kevin Deng",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Citizens (6/25/2023)",
+        "hours": 4.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Logan Kwan": {
+    "userId": "Logan Kwan",
+    "username": "Logan Kwan",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Citizens (6/25/2023)",
+        "hours": 4.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 8.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eidee Tan": {
+    "userId": "Eidee Tan",
+    "username": "Eidee Tan",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Citizens (6/25/2023)",
+        "hours": 4.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Julia Zhang": {
+    "userId": "Julia Zhang",
+    "username": "Julia Zhang",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Citizens (6/25/2023)",
+        "hours": 4.0,
+        "date": "July 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Living Bellevue Overlake": {
+    "userId": "Aegis Living Bellevue Overlake",
+    "username": "Aegis Living Bellevue Overlake",
+    "totalHours": 28.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (August 2023)",
+        "hours": 15.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (Mar-Apr 2023)",
+        "hours": 13.0,
+        "date": "April 7, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chloe Yan": {
+    "userId": "Chloe Yan",
+    "username": "Chloe Yan",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chloe Chiang": {
+    "userId": "Chloe Chiang",
+    "username": "Chloe Chiang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hilary Yu": {
+    "userId": "Hilary Yu",
+    "username": "Hilary Yu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Courtney Tam": {
+    "userId": "Courtney Tam",
+    "username": "Courtney Tam",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zach Hogue": {
+    "userId": "Zach Hogue",
+    "username": "Zach Hogue",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (Nov-Dec 2022)",
+        "hours": 4.0,
+        "date": "December 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cecilia Sun": {
+    "userId": "Cecilia Sun",
+    "username": "Cecilia Sun",
+    "totalHours": 73.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound hosts Senior Home Concerts (August 2022)",
+        "hours": 13.0,
+        "date": "August 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of 2021 AMC 10 Course (Oct. 2021 – Nov. 2021)",
+        "hours": 20.0,
+        "date": "December 2, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Progress With 2021 AMC 10 Prep Course (Sept. 2021 – Oct. 2021)",
+        "hours": 22.5,
+        "date": "October 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts 2021 AMC 8 Webinar",
+        "hours": 9.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Ask Us : SAT Event",
+        "hours": 5.0,
+        "date": "August 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of High School Algebra Class",
+        "hours": 4.0,
+        "date": "May 11, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Xuan": {
+    "userId": "Sarah Xuan",
+    "username": "Sarah Xuan",
+    "totalHours": 144.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Calculus 1 Class (March 2022)",
+        "hours": 21.0,
+        "date": "March 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of ACSL 2021/2022 Class: Contests 3 and 4 (Feb. 2022 – April 2022)",
+        "hours": 14.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts IB Diploma Online Q \u0026 A on February 20th, 2022",
+        "hours": 5.0,
+        "date": "February 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound 2021 AMC 8 Course Completion (Dec. 2021 – Jan. 2022)",
+        "hours": 22.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Progress with ACSL 2021/2022 Class: Contests 1 and 2 (Dec. 2021 – Jan. 2022)",
+        "hours": 16.5,
+        "date": "January 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of 2021 AMC 10 Course (Oct. 2021 – Nov. 2021)",
+        "hours": 20.0,
+        "date": "December 2, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Progress With 2021 AMC 10 Prep Course (Sept. 2021 – Oct. 2021)",
+        "hours": 22.0,
+        "date": "October 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts 2021 AMC 8 Webinar",
+        "hours": 4.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Ask Us : SAT Event",
+        "hours": 5.0,
+        "date": "August 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of High School Algebra Class",
+        "hours": 15.0,
+        "date": "May 11, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophie Xuan": {
+    "userId": "Sophie Xuan",
+    "username": "Sophie Xuan",
+    "totalHours": 160.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Calculus 1 Class (March 2022)",
+        "hours": 16.0,
+        "date": "March 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of ACSL 2021/2022 Class: Contests 3 and 4 (Feb. 2022 – April 2022)",
+        "hours": 15.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of 2022 Calculus 1 Course (April 2022)",
+        "hours": 18.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts IB Diploma Online Q \u0026 A on February 20th, 2022",
+        "hours": 10.0,
+        "date": "February 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound 2021 AMC 8 Course Completion (Dec. 2021 – Jan. 2022)",
+        "hours": 20.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Progress with ACSL 2021/2022 Class: Contests 1 and 2 (Dec. 2021 – Jan. 2022)",
+        "hours": 16.5,
+        "date": "January 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Progress With 2021 AMC 10 Prep Course (Sept. 2021 – Oct. 2021)",
+        "hours": 24.0,
+        "date": "October 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts 2021 AMC 8 Webinar",
+        "hours": 4.5,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Ask Us : SAT Event",
+        "hours": 5.0,
+        "date": "August 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of 2021 Writing Series",
+        "hours": 20.0,
+        "date": "September 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of High School Algebra Class",
+        "hours": 11.0,
+        "date": "May 11, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Short": {
+    "userId": "The Short",
+    "username": "The Short",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Completion of ACSL 2021/2022 Class: Contests 3 and 4 (Feb. 2022 – April 2022)",
+        "hours": 3.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Progress with ACSL 2021/2022 Class: Contests 1 and 2 (Dec. 2021 – Jan. 2022)",
+        "hours": 3.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kelly Cai": {
+    "userId": "Kelly Cai",
+    "username": "Kelly Cai",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts IB Diploma Online Q \u0026 A on February 20th, 2022",
+        "hours": 5.0,
+        "date": "February 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Ask Us : SAT Event",
+        "hours": 3.0,
+        "date": "August 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Completion of 2021 Writing Series",
+        "hours": 11.0,
+        "date": "September 18, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Our AMC": {
+    "userId": "Our AMC",
+    "username": "Our AMC",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Opens First AMC 8 Prep Class",
+        "hours": 8.0,
+        "date": "August 14, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Prep Class": {
+    "userId": "Prep Class",
+    "username": "Prep Class",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Opens First AMC 8 Prep Class",
+        "hours": 8.0,
+        "date": "August 14, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maggie Zhang": {
+    "userId": "Maggie Zhang",
+    "username": "Maggie Zhang",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Columbus Branch organized, packed, and mailed AYLUS T-Shirts for 4 AYLUS branches across the nation on August 3rd, 2024",
+        "hours": 3.5,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dan Yi": {
+    "userId": "Dan Yi",
+    "username": "Dan Yi",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Columbus Branch organized, packed, and mailed AYLUS T-Shirts for 4 AYLUS branches across the nation on August 3rd, 2024",
+        "hours": 1.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brenna Li": {
+    "userId": "Brenna Li",
+    "username": "Brenna Li",
+    "totalHours": 0.5,
+    "entries": [
+      {
+        "eventName": "Columbus Branch organized, packed, and mailed AYLUS T-Shirts for 4 AYLUS branches across the nation on August 3rd, 2024",
+        "hours": 0.5,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

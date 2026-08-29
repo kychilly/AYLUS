@@ -1,0 +1,167 @@
+{
+  "Chinese Bittersweet": {
+    "userId": "Chinese Bittersweet",
+    "username": "Chinese Bittersweet",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills, NY",
+        "hours": 2.0,
+        "date": "August 8, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Caumsett State Historic Park": {
+    "userId": "Caumsett State Historic Park",
+    "username": "Caumsett State Historic Park",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills, NY",
+        "hours": 2.0,
+        "date": "August 8, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Half Hollow Hills Library": {
+    "userId": "Half Hollow Hills Library",
+    "username": "Half Hollow Hills Library",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills, NY",
+        "hours": 5.0,
+        "date": "August 8, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bethpage State Park": {
+    "userId": "Bethpage State Park",
+    "username": "Bethpage State Park",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills, NY",
+        "hours": 2.0,
+        "date": "August 8, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mercy Soup Kitchen": {
+    "userId": "Mercy Soup Kitchen",
+    "username": "Mercy Soup Kitchen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills, NY",
+        "hours": 2.0,
+        "date": "August 8, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Clark Botanic Garden": {
+    "userId": "Clark Botanic Garden",
+    "username": "Clark Botanic Garden",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills, NY",
+        "hours": 20.0,
+        "date": "August 8, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Zhou": {
+    "userId": "Emma Zhou",
+    "username": "Emma Zhou",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills, NY",
+        "hours": 1.0,
+        "date": "August 8, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Long Island Chinese": {
+    "userId": "Long Island Chinese",
+    "username": "Long Island Chinese",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hills Helped out at Long Island Chinese School",
+        "hours": 2.5,
+        "date": "October 26, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonathan Fan": {
+    "userId": "Jonathan Fan",
+    "username": "Jonathan Fan",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hills Helped out at Long Island Chinese School",
+        "hours": 2.5,
+        "date": "October 26, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anthony Liang": {
+    "userId": "Anthony Liang",
+    "username": "Anthony Liang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Halloween is Here at the Greater Buffalo Branch (10/18/2025)!",
+        "hours": 3.0,
+        "date": "October 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Adeline Ren": {
+    "userId": "Adeline Ren",
+    "username": "Adeline Ren",
+    "totalHours": 8.5,
+    "entries": [
+      {
+        "eventName": "Halloween is Here at the Greater Buffalo Branch (10/18/2025)!",
+        "hours": 8.5,
+        "date": "October 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

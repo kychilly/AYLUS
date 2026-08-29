@@ -1,0 +1,164 @@
+{
+  "Boxuan Robin Fu": {
+    "userId": "Boxuan Robin Fu",
+    "username": "Boxuan Robin Fu",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Mendham Volunteers Performed at LCB Senior Living (11/3/2024)",
+        "hours": 2.0,
+        "date": "November 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Mendham Branch Volunteers Supporting Youth Soccer Event in Asia (2/21/2025)",
+        "hours": 2.0,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Mendham Volunteers in Kids’ Soccer Summer Campus (8/10/2024)",
+        "hours": 2.0,
+        "date": "August 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Mendham Branch Volunteers host Experience Sharing Session of College Soccer Recruitment (8/3/2024)",
+        "hours": 2.0,
+        "date": "August 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Mendham Volunteers in Asian Kids’ Soccer Summer Campus (7/27/2024)",
+        "hours": 2.0,
+        "date": "July 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Mendham NJ Branch volunteers continue to coach in Kids’ Soccer Campus (7/20/2024)",
+        "hours": 2.0,
+        "date": "July 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Mendham Branch (NJ) Volunteers support Asian Soccer Club Summer Campus (7/13/2024)",
+        "hours": 2.0,
+        "date": "July 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Soccer Gear Collection and Donation to Kids in Argentina (12/8/2025)",
+        "hours": 1.0,
+        "date": "December 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Li": {
+    "userId": "Ryan Li",
+    "username": "Ryan Li",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Mendham Volunteers Performed at LCB Senior Living (11/3/2024)",
+        "hours": 2.0,
+        "date": "November 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Mendham Branch Volunteers Supporting Youth Soccer Event in Asia (2/21/2025)",
+        "hours": 2.0,
+        "date": "March 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Mendham Branch Volunteers host Experience Sharing Session of College Soccer Recruitment (8/3/2024)",
+        "hours": 1.0,
+        "date": "August 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Soccer Gear Collection and Donation to Kids in Argentina (12/8/2025)",
+        "hours": 1.0,
+        "date": "December 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "On Feb": {
+    "userId": "On Feb",
+    "username": "On Feb",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Aylus Mendham Branch Volunteers Supporting Youth Soccer Event in Asia (2/21/2025)",
+        "hours": 21.0,
+        "date": "March 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maggie Zhang": {
+    "userId": "Maggie Zhang",
+    "username": "Maggie Zhang",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T-shirts for 6 branches in 7 boxes on September 27th, 2024",
+        "hours": 7.5,
+        "date": "September 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T shirts to 5 branches in 7 boxes on July 27th, 2024",
+        "hours": 7.5,
+        "date": "July 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brenna Li": {
+    "userId": "Brenna Li",
+    "username": "Brenna Li",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T-shirts for 6 branches in 7 boxes on September 27th, 2024",
+        "hours": 1.0,
+        "date": "September 26, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dan Yi": {
+    "userId": "Dan Yi",
+    "username": "Dan Yi",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T-shirts for 6 branches in 7 boxes on September 27th, 2024",
+        "hours": 1.0,
+        "date": "September 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Columbus Branch Volunteered to Prepare AYLUS T shirts to 5 branches in 7 boxes on July 27th, 2024",
+        "hours": 1.0,
+        "date": "July 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

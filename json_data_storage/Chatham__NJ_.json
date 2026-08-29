@@ -1,0 +1,488 @@
+{
+  "Kelly Nie": {
+    "userId": "Kelly Nie",
+    "username": "Kelly Nie",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "Event 147: AYLUS Morris Branch Participates in Chatham Public Library Police Appreciation Event in August 2026",
+        "hours": 2.0,
+        "date": "August 2, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fundraising Event for Judge Wendy Li, Chatham, NJ, (4/13/2024, 4/20/2024)",
+        "hours": 2.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 125: Paws for a Cause: Aylus Morris Branch \u0026 Girl Scouts Pet Supply Drive in April 2026",
+        "hours": 2.0,
+        "date": "April 19, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 107: Empowering Young Girls Through STEM, Aylus Morris Branch Leads Girls Coding Program through a Five-Week Co...",
+        "hours": 10.0,
+        "date": "February 5, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 123: Supporting Families in Need: Aylus Morris Branch Diaper Drive with Moms Helping Moms in April 2026",
+        "hours": 2.0,
+        "date": "April 12, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 34: Uniting for Tradition- AYLUS Morris Branch Prepares CHS’s Lunar New Year Gala in January 2025",
+        "hours": 3.0,
+        "date": "January 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 32: Holiday Food Donations for United Methodist Church in December 2024",
+        "hours": 2.0,
+        "date": "December 18, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 9: Formula Drive in July 2024 to support underprivileged moms",
+        "hours": 2.0,
+        "date": "July 31, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ivy Bai": {
+    "userId": "Ivy Bai",
+    "username": "Ivy Bai",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Event 104: Aylus Morris Branch Partners with Chatham Library to Support Community Learning Through Book \u0026 Media Donat...",
+        "hours": 1.0,
+        "date": "January 19, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 63: AYLUS Morris Branch Joins Helping Hands for Share Summer 2025 Donation Drive in July 2025",
+        "hours": 1.0,
+        "date": "July 16, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 57: AYLUS Morris Branch Leads Food Drive to Support Local Families in May 2025",
+        "hours": 1.0,
+        "date": "May 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 49: AYLUS Morris Branch Spreads Easter Joy with 200 Candy gifts for the Community in April 2025",
+        "hours": 1.0,
+        "date": "April 15, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Bai": {
+    "userId": "Emma Bai",
+    "username": "Emma Bai",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Event 60: AYLUS Morris Partners with Chatham Library for Largest Donation of the Event in June 2025",
+        "hours": 1.0,
+        "date": "June 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 41: AYLUS Morris Donates 197 Books and 7 Puzzles to the Chatham Library in February 2025",
+        "hours": 1.0,
+        "date": "February 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Liu": {
+    "userId": "William Liu",
+    "username": "William Liu",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Event 54: AYLUS Morris Branch Supports Chatham Library’s Diaper Drive in May 2025",
+        "hours": 1.0,
+        "date": "May 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xiang Li": {
+    "userId": "Xiang Li",
+    "username": "Xiang Li",
+    "totalHours": 22.5,
+    "entries": [
+      {
+        "eventName": "Event 41: AYLUS Morris Donates 197 Books and 7 Puzzles to the Chatham Library in February 2025",
+        "hours": 0.5,
+        "date": "February 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fundraising Event for Judge Wendy Li, Chatham, NJ, (4/13/2024, 4/20/2024)",
+        "hours": 2.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Chatham Aylus branch volunteer at Summit Library for Chinese New Year (2/10/2024)",
+        "hours": 6.0,
+        "date": "February 17, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 92: AYLUS Morris Branch Partners with Helping Hands for Thanksgiving Food Drive in November 2025",
+        "hours": 2.0,
+        "date": "November 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 97: Stocking Smiles in Action: AYLUS Morris Branch Partners with the Local Library in December 2025",
+        "hours": 2.0,
+        "date": "December 13, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 66: AYLUS Morris Branch Supports local United Methodist Church with Monthly Food Drive in August 2025",
+        "hours": 2.0,
+        "date": "August 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 59: AYLUS Morris Branch Fights Hunger with local church in June 2025",
+        "hours": 2.0,
+        "date": "June 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 45: AYLUS Morris Branch and local Methodist Church Unite for Monthly Baby Food Drive in March 2025",
+        "hours": 2.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 44: AYLUS Morris Branch Partners with Helping Hands for Monthly Food Drive in March 2025",
+        "hours": 2.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 42: AYLUS Morris Branch Delivers 51 Pounds of Food to the Helping Hands Family Center for the Monthly Donation ...",
+        "hours": 2.0,
+        "date": "February 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gingerbread Houses": {
+    "userId": "Gingerbread Houses",
+    "username": "Gingerbread Houses",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Craft Preparation at the Chatham Library, Chatham, NJ, (11/27/2024)",
+        "hours": 2.0,
+        "date": "December 2, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Chen": {
+    "userId": "Alan Chen",
+    "username": "Alan Chen",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Summit NJ AYLUS provides free instrumental classes for Chatham School District (Jun.17 to Jul.3rd 2024)",
+        "hours": 16.0,
+        "date": "July 14, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Audrey Lee": {
+    "userId": "Audrey Lee",
+    "username": "Audrey Lee",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Summit NJ AYLUS provides free instrumental classes for Chatham School District (Jun.17 to Jul.3rd 2024)",
+        "hours": 16.0,
+        "date": "July 14, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Han Li": {
+    "userId": "Han Li",
+    "username": "Han Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Fundraising Event for Judge Wendy Li, Chatham, NJ, (4/13/2024, 4/20/2024)",
+        "hours": 2.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 55: Helping Hands for Moms – AYLUS Morris Branch Leads Infant Formula Drive in May 2025",
+        "hours": 1.0,
+        "date": "May 21, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shirley Nie": {
+    "userId": "Shirley Nie",
+    "username": "Shirley Nie",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Fundraising Event for Judge Wendy Li, Chatham, NJ, (4/13/2024, 4/20/2024)",
+        "hours": 1.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 107: Empowering Young Girls Through STEM, Aylus Morris Branch Leads Girls Coding Program through a Five-Week Co...",
+        "hours": 10.0,
+        "date": "February 5, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 55: Helping Hands for Moms – AYLUS Morris Branch Leads Infant Formula Drive in May 2025",
+        "hours": 1.0,
+        "date": "May 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 39: Morris Aylus Spreads Love – Valentine’s Cards for First Responders in February 2025",
+        "hours": 1.0,
+        "date": "February 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 12: Food Drive in August 2024 to local church",
+        "hours": 1.0,
+        "date": "August 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Event Day Xiang Li": {
+    "userId": "Event Day Xiang Li",
+    "username": "Event Day Xiang Li",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Fundraising Event for Judge Wendy Li, Chatham, NJ, (4/13/2024, 4/20/2024)",
+        "hours": 7.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chatham Library": {
+    "userId": "Chatham Library",
+    "username": "Chatham Library",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Event 97: Stocking Smiles in Action: AYLUS Morris Branch Partners with the Local Library in December 2025",
+        "hours": 2.0,
+        "date": "December 13, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ivan Chen": {
+    "userId": "Ivan Chen",
+    "username": "Ivan Chen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Event 32: Holiday Food Donations for United Methodist Church in December 2024",
+        "hours": 1.0,
+        "date": "December 18, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 18: Volunteer in National Suicide Prevention’s out of the darkness walks event-September 2024",
+        "hours": 3.0,
+        "date": "September 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aaron Nathan": {
+    "userId": "Aaron Nathan",
+    "username": "Aaron Nathan",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Event 28: Spreading Holiday Candy and Gift Drive for the Community",
+        "hours": 1.5,
+        "date": "November 27, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Collect Female Hygiene Products": {
+    "userId": "Collect Female Hygiene Products",
+    "username": "Collect Female Hygiene Products",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Diaper": {
+    "userId": "Community Diaper",
+    "username": "Community Diaper",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Food Drive": {
+    "userId": "Food Drive",
+    "username": "Food Drive",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local United Methodist Church": {
+    "userId": "Local United Methodist Church",
+    "username": "Local United Methodist Church",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Provide Suitcases": {
+    "userId": "Provide Suitcases",
+    "username": "Provide Suitcases",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Day Joy": {
+    "userId": "Day Joy",
+    "username": "Day Joy",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Morris, NJ",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Samuel Lau": {
+    "userId": "Samuel Lau",
+    "username": "Samuel Lau",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Event 18: Volunteer in National Suicide Prevention’s out of the darkness walks event-September 2024",
+        "hours": 3.0,
+        "date": "September 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aaron Nathan.": {
+    "userId": "Aaron Nathan.",
+    "username": "Aaron Nathan.",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Event 18: Volunteer in National Suicide Prevention’s out of the darkness walks event-September 2024",
+        "hours": 3.0,
+        "date": "September 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

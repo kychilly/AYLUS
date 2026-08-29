@@ -1,0 +1,569 @@
+{
+  "ALFC Generosity Center": {
+    "userId": "ALFC Generosity Center",
+    "username": "ALFC Generosity Center",
+    "totalHours": 268.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 07/25/26",
+        "hours": 1.0,
+        "date": "July 31, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 08/08/26",
+        "hours": 1.0,
+        "date": "August 15, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 08/15/26",
+        "hours": 1.0,
+        "date": "August 15, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 07/18/26",
+        "hours": 1.0,
+        "date": "July 25, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 07/11/26",
+        "hours": 1.0,
+        "date": "July 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 06/27/26",
+        "hours": 1.0,
+        "date": "July 3, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 06/13/26",
+        "hours": 1.0,
+        "date": "June 28, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 06/20/26",
+        "hours": 1.0,
+        "date": "June 20, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 06/06/26",
+        "hours": 1.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/23/26",
+        "hours": 1.0,
+        "date": "May 30, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/30/26",
+        "hours": 1.0,
+        "date": "June 1, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/09/26",
+        "hours": 1.0,
+        "date": "May 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/02/26",
+        "hours": 1.0,
+        "date": "May 8, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/16/26",
+        "hours": 1.0,
+        "date": "May 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 04/25/26",
+        "hours": 1.0,
+        "date": "April 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 04/18/26",
+        "hours": 1.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/28/26",
+        "hours": 1.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/21/26",
+        "hours": 1.0,
+        "date": "March 28, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 04/11/26",
+        "hours": 1.0,
+        "date": "April 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/14/26",
+        "hours": 1.0,
+        "date": "March 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 02/28/26",
+        "hours": 1.0,
+        "date": "March 3, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/07/26",
+        "hours": 1.0,
+        "date": "March 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 02/21/26",
+        "hours": 1.0,
+        "date": "February 27, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 02/14/26",
+        "hours": 1.0,
+        "date": "February 18, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 02/07/26",
+        "hours": 1.0,
+        "date": "February 7, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 01/31/26",
+        "hours": 1.0,
+        "date": "January 31, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 01/24/26",
+        "hours": 1.0,
+        "date": "January 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 01/10/26",
+        "hours": 1.0,
+        "date": "January 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 12/06/25",
+        "hours": 1.0,
+        "date": "December 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 12/20/25",
+        "hours": 1.0,
+        "date": "December 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 11/15/25",
+        "hours": 1.0,
+        "date": "November 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 10/25/25",
+        "hours": 1.0,
+        "date": "November 2, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 11/08/25",
+        "hours": 1.0,
+        "date": "November 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 11/01/25",
+        "hours": 1.0,
+        "date": "November 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 10/18/25",
+        "hours": 1.0,
+        "date": "October 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 10/04/25",
+        "hours": 1.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 09/27/25",
+        "hours": 1.0,
+        "date": "October 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 09/20/25",
+        "hours": 1.0,
+        "date": "September 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 09/06/25",
+        "hours": 1.0,
+        "date": "September 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 09/13/25",
+        "hours": 1.0,
+        "date": "September 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 08/30/2025",
+        "hours": 1.0,
+        "date": "September 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 08/23/2025",
+        "hours": 1.0,
+        "date": "August 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 08/2/2025",
+        "hours": 1.0,
+        "date": "August 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 08/09/2025",
+        "hours": 1.0,
+        "date": "August 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 08/16/2025",
+        "hours": 1.0,
+        "date": "August 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 07/19/2025",
+        "hours": 1.0,
+        "date": "August 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 07/26/2025",
+        "hours": 1.0,
+        "date": "July 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 06/28/2025",
+        "hours": 1.0,
+        "date": "July 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 07/12/2025",
+        "hours": 1.0,
+        "date": "July 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 06/14/2025",
+        "hours": 1.0,
+        "date": "June 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 06/21/2025",
+        "hours": 1.0,
+        "date": "June 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 06/07/2025",
+        "hours": 1.0,
+        "date": "June 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/31/2025",
+        "hours": 1.0,
+        "date": "June 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/17/2025",
+        "hours": 1.0,
+        "date": "May 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/24/2025",
+        "hours": 1.0,
+        "date": "May 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/10/2025",
+        "hours": 1.0,
+        "date": "May 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 05/3/2025",
+        "hours": 1.0,
+        "date": "May 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 04/12/2025",
+        "hours": 1.0,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 04/26/2025",
+        "hours": 1.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 04/05/2025",
+        "hours": 1.0,
+        "date": "April 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/29/2025",
+        "hours": 1.0,
+        "date": "April 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/08/2025",
+        "hours": 1.0,
+        "date": "March 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/15/25",
+        "hours": 1.0,
+        "date": "March 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/22/2025",
+        "hours": 1.0,
+        "date": "March 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 03/01/25",
+        "hours": 1.0,
+        "date": "March 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 02/15/2025",
+        "hours": 1.0,
+        "date": "February 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 02/22/25",
+        "hours": 1.0,
+        "date": "February 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 02/08/2025",
+        "hours": 1.0,
+        "date": "February 13, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 02/01/2025",
+        "hours": 1.0,
+        "date": "February 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 01/18/2025",
+        "hours": 1.0,
+        "date": "January 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 01/25/2025",
+        "hours": 1.0,
+        "date": "January 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 12/21/2024",
+        "hours": 1.0,
+        "date": "December 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 1/11/2025",
+        "hours": 1.0,
+        "date": "January 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 12/07/2024",
+        "hours": 1.0,
+        "date": "December 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 11/16/2024",
+        "hours": 1.0,
+        "date": "November 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 11/09/2024",
+        "hours": 1.0,
+        "date": "November 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 11/02/2024",
+        "hours": 2.0,
+        "date": "November 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 10/05/2024",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 10/26/2024",
+        "hours": 1.0,
+        "date": "October 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 09/28/2024",
+        "hours": 1.0,
+        "date": "September 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch Volunteers at ALFC Generosity Center on 10/19/2024",
+        "hours": 19.0,
+        "date": "October 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Volunteers at ALFC Generosity Center September 7, 2024",
+        "hours": 7.0,
+        "date": "September 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch volunteers at ALFC Generosity Center on September 21, 2024",
+        "hours": 1.0,
+        "date": "September 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Volunteers at ALFC Generosity Center September 14, 2024",
+        "hours": 14.0,
+        "date": "September 16, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Volunteers at ALFC Generosity Center August 24, 2024",
+        "hours": 24.0,
+        "date": "August 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Volunteers at ALFC Generosity Center August 17, 2024",
+        "hours": 17.0,
+        "date": "August 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Volunteers ALFC Generosity Center Food Packing June 21, 2024",
+        "hours": 21.0,
+        "date": "June 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Volunteers Distributing Food at ALFC Generosity Center July 20, 2024",
+        "hours": 20.0,
+        "date": "July 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Volunteers Distributing Food at ALFC Generosity Center June 22, 2024",
+        "hours": 22.0,
+        "date": "June 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Rancho Cucamonga Volunteers Distributing Food at ALFC Generosity Center May 18, 2024",
+        "hours": 1.0,
+        "date": "May 18, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Community Support Continues: AYLUS Rancho Cucamonga Branch at ALFC Generosity Center (03/23/2024)",
+        "hours": 23.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Spring Service Day Brings Joy: AYLUS Rancho Cucamonga Volunteers at ALFC Generosity Center (03/16/2024)",
+        "hours": 16.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "December Delight: AYLUS Rancho Cucamonga Volunteers Bring Cheer to ALFC Generosity Center (12/02/2023)",
+        "hours": 2.0,
+        "date": "April 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

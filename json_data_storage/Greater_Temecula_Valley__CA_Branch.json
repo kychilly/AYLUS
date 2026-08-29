@@ -1,0 +1,3203 @@
+{
+  "Adora Xiao": {
+    "userId": "Adora Xiao",
+    "username": "Adora Xiao",
+    "totalHours": 229.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (18th)",
+        "hours": 3.5,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 2.0,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (9th) in June 2022",
+        "hours": 6.0,
+        "date": "June 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Conducts their 1st Shoe Drive in July 2021",
+        "hours": 2.5,
+        "date": "July 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Recycling to Help Animals Event in June 2021",
+        "hours": 2.0,
+        "date": "June 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (4th) in July 2021",
+        "hours": 4.5,
+        "date": "July 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 1.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Visits one of their Local Senior Centers in July 2021",
+        "hours": 2.0,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experiences (2nd) w/Our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 13, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (14th)",
+        "hours": 6.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (17th)",
+        "hours": 4.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (10th)",
+        "hours": 6.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 1.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (3nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to Local Farm (8th) on August 28, 2021",
+        "hours": 2.0,
+        "date": "August 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates in a Fundraising GALA for Our Local Animal Shelter in October 2021",
+        "hours": 3.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (5th) in July 2021",
+        "hours": 4.0,
+        "date": "July 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Creates a Summer Events Video Clip in June 2021",
+        "hours": 1.0,
+        "date": "June 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Prepares Holidays Blessing Bags for the Local Homeless in November 2021",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (4th) in June 2021",
+        "hours": 1.0,
+        "date": "June 21, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (12th)",
+        "hours": 3.0,
+        "date": "July 4, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts an Informative Recycling Lesson in June 2021",
+        "hours": 2.0,
+        "date": "June 12, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Donates the Recycling Project Cash to a Local Animal Shelter in July",
+        "hours": 2.0,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experiences (2nd) w/Our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 13, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (7th) on July 31, 2021",
+        "hours": 2.0,
+        "date": "August 1, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Volunteers at the 34th Annual “Run Through the Vineyard” in April 2022",
+        "hours": 4.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in September 2021",
+        "hours": 3.0,
+        "date": "September 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in July 2021",
+        "hours": 3.0,
+        "date": "July 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (13th)",
+        "hours": 6.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (5th) in July 2021",
+        "hours": 4.0,
+        "date": "July 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (13th)",
+        "hours": 6.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Recycling to Help Animals Event in June 2021",
+        "hours": 2.0,
+        "date": "June 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 1.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.5,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in September 2021",
+        "hours": 3.0,
+        "date": "September 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (19th)",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (4th) in June 2021",
+        "hours": 1.0,
+        "date": "June 21, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (12th)",
+        "hours": 3.0,
+        "date": "July 4, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Prepares Holidays Blessing Bags for the Local Homeless in November 2021",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (6th) in July 2021",
+        "hours": 2.0,
+        "date": "July 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (14th)",
+        "hours": 6.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (15th)",
+        "hours": 6.0,
+        "date": "July 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Conducts their 1st Shoe Drive in July 2021",
+        "hours": 2.5,
+        "date": "July 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (17th)",
+        "hours": 4.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Takes a Virtual Field Trip to the Getty Museum in July 2021",
+        "hours": 4.0,
+        "date": "July 30, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.5,
+        "date": "June 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates in a Fundraising GALA for Our Local Animal Shelter in October 2021",
+        "hours": 3.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp Recital (5th) in June 2021",
+        "hours": 2.0,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (11th)",
+        "hours": 3.0,
+        "date": "June 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (15th)",
+        "hours": 6.0,
+        "date": "July 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Takes a Virtual Field Trip to the Getty Museum in July 2021",
+        "hours": 4.0,
+        "date": "July 30, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (7th) on July 31, 2021",
+        "hours": 2.0,
+        "date": "August 1, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (10th)",
+        "hours": 6.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Hosts a Recycling and Donates to a Local Animal Shelter in July 2022",
+        "hours": 2.0,
+        "date": "July 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp Recital (5th) in June 2021",
+        "hours": 2.0,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (6th) in July 2021",
+        "hours": 2.0,
+        "date": "July 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (9th) in June 2022",
+        "hours": 6.0,
+        "date": "June 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 1.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (16th)",
+        "hours": 3.0,
+        "date": "July 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Visits one of their Local Senior Centers in July 2021",
+        "hours": 2.0,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in July 2021",
+        "hours": 3.0,
+        "date": "July 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (11th)",
+        "hours": 3.0,
+        "date": "June 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Donates the Recycling Project Cash to a Local Animal Shelter in July",
+        "hours": 2.0,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (18th)",
+        "hours": 3.5,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (3nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 2.0,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (16th)",
+        "hours": 3.0,
+        "date": "July 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Hosts a Recycling and Donates to a Local Animal Shelter in July 2022",
+        "hours": 2.0,
+        "date": "July 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Volunteers at the 34th Annual “Run Through the Vineyard” in April 2022",
+        "hours": 4.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (4th) in July 2021",
+        "hours": 4.5,
+        "date": "July 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to Local Farm (8th) on August 28, 2021",
+        "hours": 2.0,
+        "date": "August 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.5,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Creates a Summer Events Video Clip in June 2021",
+        "hours": 1.0,
+        "date": "June 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (19th)",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts an Informative Recycling Lesson in June 2021",
+        "hours": 2.0,
+        "date": "June 12, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.5,
+        "date": "June 10, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jessica Lu": {
+    "userId": "Jessica Lu",
+    "username": "Jessica Lu",
+    "totalHours": 135.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (18th)",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 1.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experience (1st) w/our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in December 2021",
+        "hours": 2.0,
+        "date": "December 30, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experiences (2nd) w/Our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 13, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (14th)",
+        "hours": 6.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (17th)",
+        "hours": 4.5,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (10th)",
+        "hours": 6.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates in a Fundraising GALA for Our Local Animal Shelter in October 2021",
+        "hours": 3.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Prepares Holidays Blessing Bags for the Local Homeless in November 2021",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (12th)",
+        "hours": 3.0,
+        "date": "July 4, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experiences (2nd) w/Our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 13, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in December 2021",
+        "hours": 2.0,
+        "date": "December 30, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in September 2021",
+        "hours": 3.0,
+        "date": "September 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in July 2021",
+        "hours": 3.0,
+        "date": "July 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (13th)",
+        "hours": 3.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (13th)",
+        "hours": 3.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in September 2021",
+        "hours": 3.0,
+        "date": "September 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (19th)",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (12th)",
+        "hours": 3.0,
+        "date": "July 4, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Prepares Holidays Blessing Bags for the Local Homeless in November 2021",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (6th) in July 2021",
+        "hours": 2.0,
+        "date": "July 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (14th)",
+        "hours": 6.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (17th)",
+        "hours": 4.5,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates in a Fundraising GALA for Our Local Animal Shelter in October 2021",
+        "hours": 3.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp Recital (5th) in June 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (11th)",
+        "hours": 3.0,
+        "date": "June 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (10th)",
+        "hours": 6.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Hosts a Recycling and Donates to a Local Animal Shelter in July 2022",
+        "hours": 3.0,
+        "date": "July 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp Recital (5th) in June 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (6th) in July 2021",
+        "hours": 2.0,
+        "date": "July 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 1.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (16th)",
+        "hours": 3.0,
+        "date": "July 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in July 2021",
+        "hours": 3.0,
+        "date": "July 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (11th)",
+        "hours": 3.0,
+        "date": "June 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (18th)",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (16th)",
+        "hours": 3.0,
+        "date": "July 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Hosts a Recycling and Donates to a Local Animal Shelter in July 2022",
+        "hours": 3.0,
+        "date": "July 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (19th)",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experience (1st) w/our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ally Negulescu": {
+    "userId": "Ally Negulescu",
+    "username": "Ally Negulescu",
+    "totalHours": 226.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 2.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (9th) in June 2022",
+        "hours": 3.0,
+        "date": "June 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Recycling to Help Animals Event in June 2021",
+        "hours": 2.5,
+        "date": "June 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (4th) in July 2021",
+        "hours": 4.0,
+        "date": "July 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates Piano Accompaniment for a Senior Choir Group in July 2021",
+        "hours": 8.0,
+        "date": "July 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital and Begins the “Music Box Series” at a Local Senior Center (4th) ...",
+        "hours": 3.0,
+        "date": "August 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 2.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experience (1st) w/our Friends in June 2021",
+        "hours": 2.0,
+        "date": "June 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in December 2021",
+        "hours": 2.0,
+        "date": "December 30, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Visits one of their Local Senior Centers in July 2021",
+        "hours": 2.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experiences (2nd) w/Our Friends in June 2021",
+        "hours": 1.5,
+        "date": "June 13, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (14th)",
+        "hours": 3.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (17th)",
+        "hours": 5.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (10th)",
+        "hours": 6.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Begins Rebuilding Library Bookshelves Project (1st) in July 2021",
+        "hours": 3.0,
+        "date": "July 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 2.5,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates in a Fundraising GALA for Our Local Animal Shelter in October 2021",
+        "hours": 3.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (5th) in July 2021",
+        "hours": 4.0,
+        "date": "July 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Creates a Summer Events Video Clip in June 2021",
+        "hours": 2.5,
+        "date": "June 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Prepares Holidays Blessing Bags for the Local Homeless in November 2021",
+        "hours": 3.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (4th) in June 2021",
+        "hours": 2.0,
+        "date": "June 21, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (12th)",
+        "hours": 3.0,
+        "date": "July 4, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts an Informative Recycling Lesson in June 2021",
+        "hours": 1.5,
+        "date": "June 12, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (20th) in August 2022",
+        "hours": 3.0,
+        "date": "August 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experiences (2nd) w/Our Friends in June 2021",
+        "hours": 1.5,
+        "date": "June 13, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (20th) in August 2022",
+        "hours": 3.0,
+        "date": "August 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in December 2021",
+        "hours": 2.0,
+        "date": "December 30, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Volunteers at the 34th Annual “Run Through the Vineyard” in April 2022",
+        "hours": 4.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in September 2021",
+        "hours": 3.0,
+        "date": "September 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in July 2021",
+        "hours": 3.0,
+        "date": "July 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (5th) in July 2021",
+        "hours": 4.0,
+        "date": "July 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (21th) in August 2022",
+        "hours": 3.0,
+        "date": "September 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Recycling to Help Animals Event in June 2021",
+        "hours": 2.5,
+        "date": "June 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 2.5,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.5,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in September 2021",
+        "hours": 3.0,
+        "date": "September 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (19th)",
+        "hours": 3.5,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (4th) in June 2021",
+        "hours": 2.0,
+        "date": "June 21, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (12th)",
+        "hours": 3.0,
+        "date": "July 4, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Prepares Holidays Blessing Bags for the Local Homeless in November 2021",
+        "hours": 3.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (6th) in July 2021",
+        "hours": 2.0,
+        "date": "July 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (21th) in August 2022",
+        "hours": 3.0,
+        "date": "September 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (14th)",
+        "hours": 3.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (17th)",
+        "hours": 5.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.5,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.5,
+        "date": "June 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates in a Fundraising GALA for Our Local Animal Shelter in October 2021",
+        "hours": 3.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp Recital (5th) in June 2021",
+        "hours": 2.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital and continues the “Music Box Series” at a Local Senior Center (5t...",
+        "hours": 3.0,
+        "date": "September 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (11th)",
+        "hours": 3.0,
+        "date": "June 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital and Begins the “Music Box Series” at a Local Senior Center (4th) ...",
+        "hours": 3.0,
+        "date": "August 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Begins Rebuilding Library Bookshelves Project (1st) in July 2021",
+        "hours": 3.0,
+        "date": "July 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (10th)",
+        "hours": 6.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp Recital (5th) in June 2021",
+        "hours": 2.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates Piano Accompaniment for a Senior Choir Group in July 2021",
+        "hours": 8.0,
+        "date": "July 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (6th) in July 2021",
+        "hours": 2.0,
+        "date": "July 28, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (9th) in June 2022",
+        "hours": 3.0,
+        "date": "June 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 2.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital and continues the “Music Box Series” at a Local Senior Center (6t...",
+        "hours": 3.0,
+        "date": "October 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Visits one of their Local Senior Centers in July 2021",
+        "hours": 2.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in July 2021",
+        "hours": 3.0,
+        "date": "July 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (11th)",
+        "hours": 3.0,
+        "date": "June 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.5,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 2.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Volunteers at the 34th Annual “Run Through the Vineyard” in April 2022",
+        "hours": 4.0,
+        "date": "May 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (4th) in July 2021",
+        "hours": 4.0,
+        "date": "July 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.5,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Creates a Summer Events Video Clip in June 2021",
+        "hours": 2.5,
+        "date": "June 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (19th)",
+        "hours": 3.5,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts an Informative Recycling Lesson in June 2021",
+        "hours": 1.5,
+        "date": "June 12, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experience (1st) w/our Friends in June 2021",
+        "hours": 2.0,
+        "date": "June 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.5,
+        "date": "June 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital and continues the “Music Box Series” at a Local Senior Center (5t...",
+        "hours": 3.0,
+        "date": "September 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital and continues the “Music Box Series” at a Local Senior Center (6t...",
+        "hours": 3.0,
+        "date": "October 7, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Julie Lu": {
+    "userId": "Julie Lu",
+    "username": "Julie Lu",
+    "totalHours": 104.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Recycling to Help Animals Event in June 2021",
+        "hours": 1.5,
+        "date": "June 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 1.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experience (1st) w/our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in December 2021",
+        "hours": 2.0,
+        "date": "December 30, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experiences (2nd) w/Our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 13, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (14th)",
+        "hours": 3.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (17th)",
+        "hours": 4.5,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (10th)",
+        "hours": 6.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates in a Fundraising GALA for Our Local Animal Shelter in October 2021",
+        "hours": 3.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Prepares Holidays Blessing Bags for the Local Homeless in November 2021",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (12th)",
+        "hours": 3.0,
+        "date": "July 4, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experiences (2nd) w/Our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 13, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in December 2021",
+        "hours": 2.0,
+        "date": "December 30, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in September 2021",
+        "hours": 3.0,
+        "date": "September 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Recycling to Help Animals Event in June 2021",
+        "hours": 1.5,
+        "date": "June 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in September 2021",
+        "hours": 3.0,
+        "date": "September 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (19th)",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (12th)",
+        "hours": 3.0,
+        "date": "July 4, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Prepares Holidays Blessing Bags for the Local Homeless in November 2021",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (14th)",
+        "hours": 3.0,
+        "date": "July 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in July 2022 (17th)",
+        "hours": 4.5,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Participates in a Fundraising GALA for Our Local Animal Shelter in October 2021",
+        "hours": 3.0,
+        "date": "October 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp Recital (5th) in June 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (11th)",
+        "hours": 3.0,
+        "date": "June 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (10th)",
+        "hours": 6.0,
+        "date": "August 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Hosts a Recycling and Donates to a Local Animal Shelter in July 2022",
+        "hours": 3.0,
+        "date": "July 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp Recital (5th) in June 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 1.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in June 2022 (11th)",
+        "hours": 3.0,
+        "date": "June 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Hosts a Recycling and Donates to a Local Animal Shelter in July 2022",
+        "hours": 3.0,
+        "date": "July 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm in August 2022 (19th)",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Shares the Pandemic Experience (1st) w/our Friends in June 2021",
+        "hours": 1.0,
+        "date": "June 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaitlyn Hetsko": {
+    "userId": "Kaitlyn Hetsko",
+    "username": "Kaitlyn Hetsko",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in July 2021",
+        "hours": 3.0,
+        "date": "July 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Music Recital at a Local Senior Center in July 2021",
+        "hours": 3.0,
+        "date": "July 31, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm in June (1st) 2021",
+        "hours": 1.5,
+        "date": "July 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zaiba Choudhury": {
+    "userId": "Zaiba Choudhury",
+    "username": "Zaiba Choudhury",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Visits one of their Local Senior Centers in July 2021",
+        "hours": 1.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 1.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts an Informative Recycling Lesson in June 2021",
+        "hours": 1.0,
+        "date": "June 12, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Donates the Recycling Project Cash to a Local Animal Shelter in July",
+        "hours": 1.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 1.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Visits one of their Local Senior Centers in July 2021",
+        "hours": 1.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Donates the Recycling Project Cash to a Local Animal Shelter in July",
+        "hours": 1.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts an Informative Recycling Lesson in June 2021",
+        "hours": 1.0,
+        "date": "June 12, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shania Jin": {
+    "userId": "Shania Jin",
+    "username": "Shania Jin",
+    "totalHours": 33.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Conducts their 1st Shoe Drive in July 2021",
+        "hours": 2.0,
+        "date": "July 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (4th) in July 2021",
+        "hours": 3.5,
+        "date": "July 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Visits one of their Local Senior Centers in July 2021",
+        "hours": 1.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (3nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (5th) in July 2021",
+        "hours": 4.0,
+        "date": "July 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Donates the Recycling Project Cash to a Local Animal Shelter in July",
+        "hours": 1.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends A Hand to a Local Farm (5th) in July 2021",
+        "hours": 4.0,
+        "date": "July 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Conducts their 1st Shoe Drive in July 2021",
+        "hours": 2.0,
+        "date": "July 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Visits one of their Local Senior Centers in July 2021",
+        "hours": 1.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (2nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 7, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Donates the Recycling Project Cash to a Local Animal Shelter in July",
+        "hours": 1.5,
+        "date": "July 22, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (3nd) in July 2021",
+        "hours": 2.0,
+        "date": "July 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Lends a Hand to a Local Farm (4th) in July 2021",
+        "hours": 3.5,
+        "date": "July 18, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tonya Liu": {
+    "userId": "Tonya Liu",
+    "username": "Tonya Liu",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Recycling to Help Animals Event in June 2021",
+        "hours": 1.5,
+        "date": "June 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 1.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts an Informative Recycling Lesson in June 2021",
+        "hours": 1.0,
+        "date": "June 12, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts a Recycling to Help Animals Event in June 2021",
+        "hours": 1.5,
+        "date": "June 14, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (1st) in June 2021",
+        "hours": 2.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 1.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (3rd) in June 2021",
+        "hours": 1.0,
+        "date": "June 19, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents Music Summer Camp (2nd) in June 2021",
+        "hours": 1.0,
+        "date": "June 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Hosts an Informative Recycling Lesson in June 2021",
+        "hours": 1.0,
+        "date": "June 12, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Skylar Alksnis": {
+    "userId": "Skylar Alksnis",
+    "username": "Skylar Alksnis",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Creates a Summer Events Video Clip in June 2021",
+        "hours": 1.5,
+        "date": "June 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Creates a Summer Events Video Clip in June 2021",
+        "hours": 1.5,
+        "date": "June 3, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kai Atanassov": {
+    "userId": "Kai Atanassov",
+    "username": "Kai Atanassov",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Creates a Summer Events Video Clip in June 2021",
+        "hours": 1.0,
+        "date": "June 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Presents its Project to the Temecula Mayor and The Rotary Club of Temecula Sunrise in J...",
+        "hours": 2.0,
+        "date": "June 8, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Creates a Summer Events Video Clip in June 2021",
+        "hours": 1.0,
+        "date": "June 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Works Together to Create a Formal Letter to the Temecula Sunrise Rotary Club",
+        "hours": 1.0,
+        "date": "June 10, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hanya Yu": {
+    "userId": "Hanya Yu",
+    "username": "Hanya Yu",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (21th) in August 2022",
+        "hours": 3.0,
+        "date": "September 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Temecula Valley Lends a Hand to Local Farm (21th) in August 2022",
+        "hours": 3.0,
+        "date": "September 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "GTVA Ally Negulescu": {
+    "userId": "GTVA Ally Negulescu",
+    "username": "GTVA Ally Negulescu",
+    "totalHours": 31.0,
+    "entries": [
+      {
+        "eventName": "Greater Temecula Valley AYLUS Donates Supplies and Supports Tahquitz Shelter during Fairview Fire in September 2022",
+        "hours": 3.0,
+        "date": "September 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Repairs and Cleans Public Benches in Temecula in August 2022! (1)",
+        "hours": 3.0,
+        "date": "September 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Supports and Volunteers at Tahquitz Shelter during Fairview Fire in September 2022 (2)",
+        "hours": 8.0,
+        "date": "September 11, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Repairs and Cleans Public Benches in Temecula in August 2022! (1)",
+        "hours": 3.0,
+        "date": "September 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Repairs and Cleans Public Benches in Temecula in September 2022! (2)",
+        "hours": 3.0,
+        "date": "September 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Donates Supplies and Supports Tahquitz Shelter during Fairview Fire in September 2022",
+        "hours": 3.0,
+        "date": "September 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Temecula Valley AYLUS Supports and Volunteers at Tahquitz Shelter during Fairview Fire in September 2022 (2)",
+        "hours": 8.0,
+        "date": "September 11, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bellaire Independence Day Parade": {
+    "userId": "Bellaire Independence Day Parade",
+    "username": "Bellaire Independence Day Parade",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dragon Mandarin Immersion School": {
+    "userId": "Dragon Mandarin Immersion School",
+    "username": "Dragon Mandarin Immersion School",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "New Year Festival": {
+    "userId": "New Year Festival",
+    "username": "New Year Festival",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Public Library Warehouse": {
+    "userId": "Houston Public Library Warehouse",
+    "username": "Houston Public Library Warehouse",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rice University": {
+    "userId": "Rice University",
+    "username": "Rice University",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "STEMbotics Summer Camp": {
+    "userId": "STEMbotics Summer Camp",
+    "username": "STEMbotics Summer Camp",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Splash Day Event": {
+    "userId": "Splash Day Event",
+    "username": "Splash Day Event",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bellaire Independence Day": {
+    "userId": "Bellaire Independence Day",
+    "username": "Bellaire Independence Day",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Food Bank": {
+    "userId": "Houston Food Bank",
+    "username": "Houston Food Bank",
+    "totalHours": 163.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Freewheels Houston": {
+    "userId": "Freewheels Houston",
+    "username": "Freewheels Houston",
+    "totalHours": 54.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 17.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Beacon": {
+    "userId": "The Beacon",
+    "username": "The Beacon",
+    "totalHours": 41.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Books For Development": {
+    "userId": "Books For Development",
+    "username": "Books For Development",
+    "totalHours": 72.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "MIMA Chinese New Year": {
+    "userId": "MIMA Chinese New Year",
+    "username": "MIMA Chinese New Year",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lunar New Year Festival": {
+    "userId": "Lunar New Year Festival",
+    "username": "Lunar New Year Festival",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Beacon Day Center": {
+    "userId": "The Beacon Day Center",
+    "username": "The Beacon Day Center",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beacon Homeless Service": {
+    "userId": "Beacon Homeless Service",
+    "username": "Beacon Homeless Service",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ED White Elementary School": {
+    "userId": "ED White Elementary School",
+    "username": "ED White Elementary School",
+    "totalHours": 34.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pumpkin Patch Festival On": {
+    "userId": "Pumpkin Patch Festival On",
+    "username": "Pumpkin Patch Festival On",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bellaire High School Art": {
+    "userId": "Bellaire High School Art",
+    "username": "Bellaire High School Art",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beacon Homelessness Service": {
+    "userId": "Beacon Homelessness Service",
+    "username": "Beacon Homelessness Service",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Museum Houston": {
+    "userId": "Museum Houston",
+    "username": "Museum Houston",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beacon Homeless Services": {
+    "userId": "Beacon Homeless Services",
+    "username": "Beacon Homeless Services",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Park Earth Day": {
+    "userId": "Park Earth Day",
+    "username": "Park Earth Day",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed White Elementary School": {
+    "userId": "Ed White Elementary School",
+    "username": "Ed White Elementary School",
+    "totalHours": 52.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 11.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed White": {
+    "userId": "Ed White",
+    "username": "Ed White",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Robotics Team Garage Sale": {
+    "userId": "Robotics Team Garage Sale",
+    "username": "Robotics Team Garage Sale",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "White Elementary School": {
+    "userId": "White Elementary School",
+    "username": "White Elementary School",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ben Taub Hospital": {
+    "userId": "Ben Taub Hospital",
+    "username": "Ben Taub Hospital",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed White Elementary": {
+    "userId": "Ed White Elementary",
+    "username": "Ed White Elementary",
+    "totalHours": 82.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nature Discovery Center Pumpkin": {
+    "userId": "Nature Discovery Center Pumpkin",
+    "username": "Nature Discovery Center Pumpkin",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Patch Festival Day": {
+    "userId": "Patch Festival Day",
+    "username": "Patch Festival Day",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pumpkin Patch Festival Day": {
+    "userId": "Pumpkin Patch Festival Day",
+    "username": "Pumpkin Patch Festival Day",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Back": {
+    "userId": "Annual Back",
+    "username": "Annual Back",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Jamfest": {
+    "userId": "School Jamfest",
+    "username": "School Jamfest",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Dragon Academy": {
+    "userId": "Houston Dragon Academy",
+    "username": "Houston Dragon Academy",
+    "totalHours": 31.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "HCC Chinese School": {
+    "userId": "HCC Chinese School",
+    "username": "HCC Chinese School",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Life Inc Packing Relief": {
+    "userId": "Life Inc Packing Relief",
+    "username": "Life Inc Packing Relief",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "International Mud Day": {
+    "userId": "International Mud Day",
+    "username": "International Mud Day",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fund Raising": {
+    "userId": "Fund Raising",
+    "username": "Fund Raising",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nature Discovery Center": {
+    "userId": "Nature Discovery Center",
+    "username": "Nature Discovery Center",
+    "totalHours": 28.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Syria Earthquake": {
+    "userId": "Syria Earthquake",
+    "username": "Syria Earthquake",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christian Community Service Center": {
+    "userId": "Christian Community Service Center",
+    "username": "Christian Community Service Center",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ED White Elementary": {
+    "userId": "ED White Elementary",
+    "username": "ED White Elementary",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "End Alzheimer": {
+    "userId": "End Alzheimer",
+    "username": "End Alzheimer",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Patch Fall Festival": {
+    "userId": "Patch Fall Festival",
+    "username": "Patch Fall Festival",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pumpkin Patch Festival": {
+    "userId": "Pumpkin Patch Festival",
+    "username": "Pumpkin Patch Festival",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Houston Chinese Community": {
+    "userId": "Annual Houston Chinese Community",
+    "username": "Annual Houston Chinese Community",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Health Fair": {
+    "userId": "Health Fair",
+    "username": "Health Fair",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "South American Chinese Clinic": {
+    "userId": "South American Chinese Clinic",
+    "username": "South American Chinese Clinic",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beacon Day Center": {
+    "userId": "Beacon Day Center",
+    "username": "Beacon Day Center",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wellness Jam Fest": {
+    "userId": "Wellness Jam Fest",
+    "username": "Wellness Jam Fest",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Backpack Distribution Event": {
+    "userId": "Backpack Distribution Event",
+    "username": "Backpack Distribution Event",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Fair": {
+    "userId": "School Fair",
+    "username": "School Fair",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hand Sanitizers": {
+    "userId": "Hand Sanitizers",
+    "username": "Hand Sanitizers",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Picnic In The Park": {
+    "userId": "Picnic In The Park",
+    "username": "Picnic In The Park",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Family Nature Night Event": {
+    "userId": "Family Nature Night Event",
+    "username": "Family Nature Night Event",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Art Bike Festival": {
+    "userId": "Houston Art Bike Festival",
+    "username": "Houston Art Bike Festival",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Books Between Kids": {
+    "userId": "Books Between Kids",
+    "username": "Books Between Kids",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Public Library Book": {
+    "userId": "Houston Public Library Book",
+    "username": "Houston Public Library Book",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Earth Day Houston": {
+    "userId": "Earth Day Houston",
+    "username": "Earth Day Houston",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hermann Park Conservancy": {
+    "userId": "Hermann Park Conservancy",
+    "username": "Hermann Park Conservancy",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jingle Bell Express Program": {
+    "userId": "Jingle Bell Express Program",
+    "username": "Jingle Bell Express Program",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Salt Association": {
+    "userId": "Salt Association",
+    "username": "Salt Association",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

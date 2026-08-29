@@ -23790,5 +23790,596 @@
     ],
     "paymentHistory": [],
     "totalMoneyOwed": 0.0
+  },
+  "Annie Bao": {
+    "userId": "Annie Bao",
+    "username": "Annie Bao",
+    "totalHours": 41.92,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on April 8, 2026",
+        "hours": 2.0,
+        "date": "June 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on March 25, 2026",
+        "hours": 1.5,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on March 19, 2026",
+        "hours": 3.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on March 4, 2026",
+        "hours": 2.0,
+        "date": "March 5, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on November 26, 2025",
+        "hours": 3.0,
+        "date": "December 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on November 23, 2025",
+        "hours": 1.0,
+        "date": "December 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on October 18, 2025",
+        "hours": 1.0,
+        "date": "October 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Donated Food to Food Bank of East Alabama on October 17, 2025",
+        "hours": 0.5,
+        "date": "October 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on October 8, 2025",
+        "hours": 2.0,
+        "date": "October 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on September 20, 2025",
+        "hours": 0.75,
+        "date": "September 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 17, 2025",
+        "hours": 2.0,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 10, 2025",
+        "hours": 2.0,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 3, 2025",
+        "hours": 2.0,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Auburn Branch helped clean up after Food Truck Friday on September 6, 2025",
+        "hours": 1.0,
+        "date": "September 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on August 16, 2025",
+        "hours": 1.0,
+        "date": "August 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on July 24, 2025",
+        "hours": 2.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on July 19, 2025",
+        "hours": 0.75,
+        "date": "July 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on June 21, 2025",
+        "hours": 0.67,
+        "date": "June 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on June 7, 2025",
+        "hours": 0.75,
+        "date": "June 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on May 27, 2025",
+        "hours": 3.0,
+        "date": "May 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 8.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Planned for Fundrasing at Auburn CityFest on April 19, 2025",
+        "hours": 2.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Victoria Choo": {
+    "userId": "Victoria Choo",
+    "username": "Victoria Choo",
+    "totalHours": 31.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on April 8, 2026",
+        "hours": 2.0,
+        "date": "June 16, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on March 25, 2026",
+        "hours": 2.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on March 19, 2026",
+        "hours": 3.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on March 4, 2026",
+        "hours": 2.0,
+        "date": "March 5, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Donated Food to Food Bank of East Alabama on October 17, 2025",
+        "hours": 0.5,
+        "date": "October 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on October 8, 2025",
+        "hours": 2.0,
+        "date": "October 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 17, 2025",
+        "hours": 2.0,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 10, 2025",
+        "hours": 2.0,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 3, 2025",
+        "hours": 2.0,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 8.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Planned for Fundrasing at Auburn CityFest on April 19, 2025",
+        "hours": 2.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Helped Clean up Community Parks on April 13, 2025",
+        "hours": 2.0,
+        "date": "April 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on April 8, 2025",
+        "hours": 1.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Taylor Willoughby": {
+    "userId": "Taylor Willoughby",
+    "username": "Taylor Willoughby",
+    "totalHours": 20.65,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on March 19, 2026",
+        "hours": 3.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on November 26, 2025",
+        "hours": 3.0,
+        "date": "December 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on November 23, 2025",
+        "hours": 1.0,
+        "date": "December 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on September 20, 2025",
+        "hours": 0.75,
+        "date": "September 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Auburn Branch helped clean up after Food Truck Friday on September 6, 2025",
+        "hours": 1.0,
+        "date": "September 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on August 16, 2025",
+        "hours": 1.0,
+        "date": "August 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on July 24, 2025",
+        "hours": 2.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on July 19, 2025",
+        "hours": 0.75,
+        "date": "July 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on June 7, 2025",
+        "hours": 0.75,
+        "date": "June 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on May 27, 2025",
+        "hours": 3.0,
+        "date": "May 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on May 17, 2025",
+        "hours": 0.4,
+        "date": "May 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 4.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "East Alabama": {
+    "userId": "East Alabama",
+    "username": "East Alabama",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on December 22, 2025",
+        "hours": 3.0,
+        "date": "January 5, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jovi Feng": {
+    "userId": "Jovi Feng",
+    "username": "Jovi Feng",
+    "totalHours": 1.75,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on November 23, 2025",
+        "hours": 1.0,
+        "date": "December 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on September 20, 2025",
+        "hours": 0.75,
+        "date": "September 24, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Amy Wang": {
+    "userId": "Amy Wang",
+    "username": "Amy Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on November 23, 2025",
+        "hours": 1.0,
+        "date": "December 1, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniel Wang": {
+    "userId": "Daniel Wang",
+    "username": "Daniel Wang",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on November 23, 2025",
+        "hours": 1.0,
+        "date": "December 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on October 18, 2025",
+        "hours": 1.0,
+        "date": "October 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on May 27, 2025",
+        "hours": 3.0,
+        "date": "May 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 8.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hannah Kwon Larson": {
+    "userId": "Hannah Kwon Larson",
+    "username": "Hannah Kwon Larson",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on October 8, 2025",
+        "hours": 1.5,
+        "date": "October 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 17, 2025",
+        "hours": 1.5,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 10, 2025",
+        "hours": 1.5,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on September 3, 2025",
+        "hours": 1.5,
+        "date": "September 18, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 8.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Planned for Fundrasing at Auburn CityFest on April 19, 2025",
+        "hours": 2.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Helped Clean up Community Parks on April 13, 2025",
+        "hours": 2.0,
+        "date": "April 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered for Dream Court Adaptive Tennis Clinics on April 8, 2025",
+        "hours": 1.0,
+        "date": "April 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Will Bao": {
+    "userId": "Will Bao",
+    "username": "Will Bao",
+    "totalHours": 19.57,
+    "entries": [
+      {
+        "eventName": "Auburn Branch helped clean up after Food Truck Friday on September 6, 2025",
+        "hours": 1.0,
+        "date": "September 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on August 16, 2025",
+        "hours": 1.0,
+        "date": "August 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on July 24, 2025",
+        "hours": 2.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on July 19, 2025",
+        "hours": 0.75,
+        "date": "July 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on June 21, 2025",
+        "hours": 0.67,
+        "date": "June 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch helped clean up after Food Truck Friday on June 7, 2025",
+        "hours": 0.75,
+        "date": "June 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Volunteered at Food Bank of East Alabama on May 27, 2025",
+        "hours": 3.0,
+        "date": "May 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Helped Cleanup for Food Truck Friday on May 17, 2025",
+        "hours": 0.4,
+        "date": "May 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 8.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Planned for Fundrasing at Auburn CityFest on April 19, 2025",
+        "hours": 2.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rachel Peng": {
+    "userId": "Rachel Peng",
+    "username": "Rachel Peng",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 2.5,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Planned for Fundrasing at Auburn CityFest on April 19, 2025",
+        "hours": 2.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Austin Zhan": {
+    "userId": "Austin Zhan",
+    "username": "Austin Zhan",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 8.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Auburn Branch Planned for Fundrasing at Auburn CityFest on April 19, 2025",
+        "hours": 2.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ashlynn Au": {
+    "userId": "Ashlynn Au",
+    "username": "Ashlynn Au",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 3.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nicole Chen": {
+    "userId": "Nicole Chen",
+    "username": "Nicole Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Auburn Branch Hosted a Fundraiser for the Dream Court tennis program at CityFest on April 26, 2025",
+        "hours": 2.0,
+        "date": "April 27, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
   }
 }

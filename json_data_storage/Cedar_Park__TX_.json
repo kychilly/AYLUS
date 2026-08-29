@@ -1,0 +1,1082 @@
+{
+  "Community Service": {
+    "userId": "Community Service",
+    "username": "Community Service",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cedar Park, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Volunteering Work": {
+    "userId": "Volunteering Work",
+    "username": "Volunteering Work",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cedar Park, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cedar Park": {
+    "userId": "Cedar Park",
+    "username": "Cedar Park",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Cedar Park, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 3 in July 2023",
+        "hours": 4.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Richard Geng": {
+    "userId": "Richard Geng",
+    "username": "Richard Geng",
+    "totalHours": 305.25,
+    "entries": [
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (3/11/2024)",
+        "hours": 2.0,
+        "date": "March 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (4/15/2024)",
+        "hours": 2.0,
+        "date": "May 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (2/5/2024)",
+        "hours": 2.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (1/29/2024)",
+        "hours": 2.0,
+        "date": "January 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (12/4/2023)",
+        "hours": 2.0,
+        "date": "December 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (11/27/2023)",
+        "hours": 2.0,
+        "date": "December 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (11/6/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (10/16/2023)",
+        "hours": 2.0,
+        "date": "October 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (9/25/2023)",
+        "hours": 2.0,
+        "date": "October 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (10/02/2023)",
+        "hours": 2.0,
+        "date": "October 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (9/18/2023)",
+        "hours": 2.0,
+        "date": "September 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (8/14/2023)",
+        "hours": 2.0,
+        "date": "August 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (8/21/2023)",
+        "hours": 2.0,
+        "date": "August 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (8/28/2023)",
+        "hours": 2.0,
+        "date": "August 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (7/24/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (7/17/2023)",
+        "hours": 2.0,
+        "date": "July 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (6/26/2023)",
+        "hours": 2.0,
+        "date": "July 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (6/19/2023)",
+        "hours": 2.0,
+        "date": "June 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 1 in June 2023",
+        "hours": 15.0,
+        "date": "June 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Helps at Hill Country Ministry (4/29/2023)",
+        "hours": 5.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (4/17/2023 and 4/24/2023)",
+        "hours": 4.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Helps at Hill Country Ministry (4/22/2023)",
+        "hours": 5.0,
+        "date": "April 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (4/3/2023)",
+        "hours": 2.0,
+        "date": "April 8, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Helps at Hill Country Ministry (4/8/2023-4/10/2023)",
+        "hours": 10.0,
+        "date": "April 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Helps at Hill Country Ministry (4/15/2023)",
+        "hours": 5.0,
+        "date": "April 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Helps at Hill Country Ministry (4/1/2023)",
+        "hours": 5.0,
+        "date": "April 8, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Helps at Hill Country Ministry (3/25/2023)",
+        "hours": 4.0,
+        "date": "March 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Ministry Week 2 in Spring Break (3/13/2023-3/18/2023)",
+        "hours": 22.0,
+        "date": "March 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (3/27/2023)",
+        "hours": 2.0,
+        "date": "March 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center Week 2 in Spring Break (3/2023)",
+        "hours": 6.0,
+        "date": "March 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Ministry Week 2 Saturday in Winter Break (Dec 2022)",
+        "hours": 24.0,
+        "date": "January 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Ministry Week 1 in Winter Break (Dec 2022)",
+        "hours": 16.0,
+        "date": "January 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Ministry Week 1 in Spring Break (3/11/2023)",
+        "hours": 4.0,
+        "date": "March 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park AYLUS Cleans Up 3 Local Parks for Winter Break on December 19th, 2022",
+        "hours": 3.0,
+        "date": "January 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 8 in July 2022",
+        "hours": 18.75,
+        "date": "August 16, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 9 in July 2022",
+        "hours": 6.0,
+        "date": "August 16, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 7 in July 2022",
+        "hours": 18.5,
+        "date": "August 16, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 6 in July 2022",
+        "hours": 15.25,
+        "date": "August 16, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 4 in June 2022",
+        "hours": 12.5,
+        "date": "August 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 5 in June 2022",
+        "hours": 11.0,
+        "date": "August 16, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 3 in June 2022",
+        "hours": 16.25,
+        "date": "June 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 1 in May 2022",
+        "hours": 19.75,
+        "date": "June 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Branch Member Joins Hill Country Community Ministries Week 2 in June 2022",
+        "hours": 17.25,
+        "date": "June 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Elizabeth Geng": {
+    "userId": "Elizabeth Geng",
+    "username": "Elizabeth Geng",
+    "totalHours": 41.0,
+    "entries": [
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (3/11/2024)",
+        "hours": 2.0,
+        "date": "March 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (4/15/2024)",
+        "hours": 2.0,
+        "date": "May 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (2/5/2024)",
+        "hours": 2.0,
+        "date": "May 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (1/29/2024)",
+        "hours": 2.0,
+        "date": "January 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (12/4/2023)",
+        "hours": 2.0,
+        "date": "December 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (11/27/2023)",
+        "hours": 2.0,
+        "date": "December 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (11/6/2023)",
+        "hours": 2.0,
+        "date": "November 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (10/16/2023)",
+        "hours": 2.0,
+        "date": "October 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (9/25/2023)",
+        "hours": 2.0,
+        "date": "October 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (10/02/2023)",
+        "hours": 2.0,
+        "date": "October 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (9/18/2023)",
+        "hours": 2.0,
+        "date": "September 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (8/14/2023)",
+        "hours": 2.0,
+        "date": "August 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (8/21/2023)",
+        "hours": 2.0,
+        "date": "August 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (8/28/2023)",
+        "hours": 2.0,
+        "date": "August 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (7/24/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (7/17/2023)",
+        "hours": 2.0,
+        "date": "July 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (6/26/2023)",
+        "hours": 2.0,
+        "date": "July 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (6/19/2023)",
+        "hours": 2.0,
+        "date": "June 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park Member Joins Reveal Resource Center (6/12/2023)",
+        "hours": 2.0,
+        "date": "June 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Cedar Park AYLUS Cleans Up 3 Local Parks for Winter Break on December 19th, 2022",
+        "hours": 3.0,
+        "date": "January 6, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Jiang": {
+    "userId": "Eric Jiang",
+    "username": "Eric Jiang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "North Jersey AYLUS Cleans up West Essex Trail and Cedar Grove Community Park (8/25/2022)",
+        "hours": 2.0,
+        "date": "August 25, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Jersey AYLUS Donations and Cleanups at Cedar Grove West Essex Trail (9/4/2022)",
+        "hours": 2.0,
+        "date": "September 24, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aiden Jia": {
+    "userId": "Aiden Jia",
+    "username": "Aiden Jia",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "North Jersey AYLUS Cleans up West Essex Trail and Cedar Grove Community Park (8/25/2022)",
+        "hours": 2.0,
+        "date": "August 25, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Jersey AYLUS Donations and Cleanups at Cedar Grove West Essex Trail (9/4/2022)",
+        "hours": 2.0,
+        "date": "September 24, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bethpage State Park": {
+    "userId": "Bethpage State Park",
+    "username": "Bethpage State Park",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hill Volunteers at Bethpage State Park",
+        "hours": 2.5,
+        "date": "April 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonathan Fan": {
+    "userId": "Jonathan Fan",
+    "username": "Jonathan Fan",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hill Volunteers at Bethpage State Park",
+        "hours": 2.5,
+        "date": "April 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jake Wu": {
+    "userId": "Jake Wu",
+    "username": "Jake Wu",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hill Volunteers at Bethpage State Park",
+        "hours": 2.5,
+        "date": "April 18, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anthony Liang": {
+    "userId": "Anthony Liang",
+    "username": "Anthony Liang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Halloween is Here at the Greater Buffalo Branch (10/18/2025)!",
+        "hours": 3.0,
+        "date": "October 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Adeline Ren": {
+    "userId": "Adeline Ren",
+    "username": "Adeline Ren",
+    "totalHours": 8.5,
+    "entries": [
+      {
+        "eventName": "Halloween is Here at the Greater Buffalo Branch (10/18/2025)!",
+        "hours": 8.5,
+        "date": "October 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xiaowen Kang": {
+    "userId": "Xiaowen Kang",
+    "username": "Xiaowen Kang",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Raritan Valley Branch Conducts Fish Survey in Keyport, New Jersey on July 27th, 2024",
+        "hours": 1.5,
+        "date": "July 29, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helped Local YMCA Healthy": {
+    "userId": "Helped Local YMCA Healthy",
+    "username": "Helped Local YMCA Healthy",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kids Day Event": {
+    "userId": "Kids Day Event",
+    "username": "Kids Day Event",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "WALK END ALZHEIMER": {
+    "userId": "WALK END ALZHEIMER",
+    "username": "WALK END ALZHEIMER",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Chinese Cultural Day": {
+    "userId": "Livingston Chinese Cultural Day",
+    "username": "Livingston Chinese Cultural Day",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helps Livingston Public Library": {
+    "userId": "Helps Livingston Public Library",
+    "username": "Helps Livingston Public Library",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "AAPI New Jersey": {
+    "userId": "AAPI New Jersey",
+    "username": "AAPI New Jersey",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Huaxia Chinese School": {
+    "userId": "Livingston Huaxia Chinese School",
+    "username": "Livingston Huaxia Chinese School",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Day Celebration": {
+    "userId": "Day Celebration",
+    "username": "Day Celebration",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Supply Donations": {
+    "userId": "Supply Donations",
+    "username": "Supply Donations",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Holiday Songs": {
+    "userId": "Holiday Songs",
+    "username": "Holiday Songs",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Provide Music Class": {
+    "userId": "Provide Music Class",
+    "username": "Provide Music Class",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Burnet Hill Elementary School": {
+    "userId": "Burnet Hill Elementary School",
+    "username": "Burnet Hill Elementary School",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Multicultural Night": {
+    "userId": "Multicultural Night",
+    "username": "Multicultural Night",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs Children": {
+    "userId": "Special Needs Children",
+    "username": "Special Needs Children",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 23.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hospitalized Children": {
+    "userId": "Hospitalized Children",
+    "username": "Hospitalized Children",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Essex County Earth Day": {
+    "userId": "Essex County Earth Day",
+    "username": "Essex County Earth Day",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Daffodil Day Festival": {
+    "userId": "Annual Daffodil Day Festival",
+    "username": "Annual Daffodil Day Festival",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Public Library": {
+    "userId": "Livingston Public Library",
+    "username": "Livingston Public Library",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bike Livingston": {
+    "userId": "Bike Livingston",
+    "username": "Bike Livingston",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ACEing Autism": {
+    "userId": "ACEing Autism",
+    "username": "ACEing Autism",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Needs Children Event Life": {
+    "userId": "Needs Children Event Life",
+    "username": "Needs Children Event Life",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Town Training": {
+    "userId": "Town Training",
+    "username": "Town Training",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Open Play": {
+    "userId": "Open Play",
+    "username": "Open Play",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Special Needs Children Rock": {
+    "userId": "Special Needs Children Rock",
+    "username": "Special Needs Children Rock",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Book Review": {
+    "userId": "Book Review",
+    "username": "Book Review",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Livingston Library": {
+    "userId": "Livingston Library",
+    "username": "Livingston Library",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Recreation Shadow Program Aug": {
+    "userId": "Recreation Shadow Program Aug",
+    "username": "Recreation Shadow Program Aug",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smile Project": {
+    "userId": "Smile Project",
+    "username": "Smile Project",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Needs Children Events Summer": {
+    "userId": "Needs Children Events Summer",
+    "username": "Needs Children Events Summer",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "West Essex": {
+    "userId": "West Essex",
+    "username": "West Essex",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Making Cards For Childers": {
+    "userId": "Making Cards For Childers",
+    "username": "Making Cards For Childers",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "West Essex, NJ",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rachel Zhu": {
+    "userId": "Rachel Zhu",
+    "username": "Rachel Zhu",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Columbus branch performed music at Senior Star on November 1st, 2022",
+        "hours": 1.0,
+        "date": "November 4, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chuqiao Guan": {
+    "userId": "Chuqiao Guan",
+    "username": "Chuqiao Guan",
+    "totalHours": 0.5,
+    "entries": [
+      {
+        "eventName": "Columbus branch performed music at Senior Star on November 1st, 2022",
+        "hours": 0.5,
+        "date": "November 4, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

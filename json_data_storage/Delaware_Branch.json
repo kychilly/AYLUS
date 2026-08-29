@@ -1,0 +1,158 @@
+{
+  "Angel Zheng": {
+    "userId": "Angel Zheng",
+    "username": "Angel Zheng",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at the Delaware Park (6/30)",
+        "hours": 3.0,
+        "date": "July 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Theorem Painting": {
+    "userId": "Theorem Painting",
+    "username": "Theorem Painting",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Delaware Branch Member Lead Theorem Painting in Historical Museum at 07/26/26",
+        "hours": 1.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Victor Wang": {
+    "userId": "Victor Wang",
+    "username": "Victor Wang",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Aylus Delaware Donate used Clothes (04/27/2023)",
+        "hours": 3.0,
+        "date": "December 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Delaware volunteered in Foodbank (12/19/2022)",
+        "hours": 2.0,
+        "date": "December 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware AYLUS Help Planting Trees (11/5/2022)",
+        "hours": 4.0,
+        "date": "November 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware Aylus Participates Local Annual Halloween and Give out Candy (10/30/2022)",
+        "hours": 2.0,
+        "date": "October 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware Aylus Donate Handmade Cards to Hospitalized Kids (10/15/2022)",
+        "hours": 5.0,
+        "date": "October 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware Branch Volunteered at Food Bank (10/05/2022)",
+        "hours": 4.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware Aylus Support Community Family Day (9/18/2022)",
+        "hours": 2.0,
+        "date": "September 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brian Wang": {
+    "userId": "Brian Wang",
+    "username": "Brian Wang",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Aylus Delaware volunteered in Foodbank (12/19/2022)",
+        "hours": 3.0,
+        "date": "December 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware Member Volunteered at Local Elementary Basketball Tournament (Feb 2023)",
+        "hours": 1.0,
+        "date": "March 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Delaware Volunteered at Local Elementary Basketball Tournament (Dec 3, Dec 10, 2022)",
+        "hours": 1.0,
+        "date": "December 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware Branch Volunteered in Distance Classic 15K Run (10/08/2022)",
+        "hours": 5.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware Branch Volunteered at Food Bank (10/05/2022)",
+        "hours": 4.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Delaware Aylus Support Community Family Day (9/18/2022)",
+        "hours": 5.0,
+        "date": "September 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Miles Zhang": {
+    "userId": "Miles Zhang",
+    "username": "Miles Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Delaware Branch Volunteered at Food Bank (10/05/2022)",
+        "hours": 4.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yuhan Yan": {
+    "userId": "Yuhan Yan",
+    "username": "Yuhan Yan",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at Friendship Run (8/6/2026)",
+        "hours": 2.0,
+        "date": "August 11, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

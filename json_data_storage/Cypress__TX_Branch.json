@@ -1,0 +1,1754 @@
+{
+  "Ellie Zhou": {
+    "userId": "Ellie Zhou",
+    "username": "Ellie Zhou",
+    "totalHours": 20.5,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Animal Toy Making Event on April 5th, 2026",
+        "hours": 2.0,
+        "date": "April 5, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on July 13th 2025",
+        "hours": 2.0,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on June 15th 2025",
+        "hours": 2.0,
+        "date": "June 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on May 25th 2025",
+        "hours": 2.0,
+        "date": "May 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 2nd 2025",
+        "hours": 2.0,
+        "date": "February 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 23rd 2025",
+        "hours": 2.0,
+        "date": "February 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 19th 2025",
+        "hours": 2.0,
+        "date": "January 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on December 1st 2024",
+        "hours": 2.0,
+        "date": "December 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event For Cats and Dogs at the Animal Shelter on September 15th 2024",
+        "hours": 2.5,
+        "date": "September 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cindy Wu": {
+    "userId": "Cindy Wu",
+    "username": "Cindy Wu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Animal Toy Making Event on April 5th, 2026",
+        "hours": 2.0,
+        "date": "April 5, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evan Hou": {
+    "userId": "Evan Hou",
+    "username": "Evan Hou",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on July 13th 2025",
+        "hours": 2.0,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Animal Toy Making Event on February 22nd, 2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Addy Zhang": {
+    "userId": "Addy Zhang",
+    "username": "Addy Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on July 13th 2025",
+        "hours": 2.0,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xingguo Guo": {
+    "userId": "Xingguo Guo",
+    "username": "Xingguo Guo",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on July 13th 2025",
+        "hours": 2.0,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yu Kai Hung": {
+    "userId": "Yu Kai Hung",
+    "username": "Yu Kai Hung",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on July 13th 2025",
+        "hours": 2.0,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 23rd 2025",
+        "hours": 2.0,
+        "date": "February 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 19th 2025",
+        "hours": 2.0,
+        "date": "January 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yu Hsuan Hung": {
+    "userId": "Yu Hsuan Hung",
+    "username": "Yu Hsuan Hung",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on July 13th 2025",
+        "hours": 2.0,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on June 15th 2025",
+        "hours": 2.0,
+        "date": "June 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 23rd 2025",
+        "hours": 2.0,
+        "date": "February 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 19th 2025",
+        "hours": 2.0,
+        "date": "January 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Karen Zhou": {
+    "userId": "Karen Zhou",
+    "username": "Karen Zhou",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Animal Toy Making Event on February 22nd, 2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event For Cats and Dogs at the Animal Shelter on September 15th 2024",
+        "hours": 2.5,
+        "date": "September 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Linhui Jin": {
+    "userId": "Linhui Jin",
+    "username": "Linhui Jin",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Animal Toy Making Event on February 22nd, 2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily You": {
+    "userId": "Emily You",
+    "username": "Emily You",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Animal Toy Making Event on February 22nd, 2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ruby Chen": {
+    "userId": "Ruby Chen",
+    "username": "Ruby Chen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on June 15th 2025",
+        "hours": 2.0,
+        "date": "June 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on May 25th 2025",
+        "hours": 2.0,
+        "date": "May 25, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ruishu Zhang": {
+    "userId": "Ruishu Zhang",
+    "username": "Ruishu Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on June 15th 2025",
+        "hours": 2.0,
+        "date": "June 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on May 25th 2025",
+        "hours": 2.0,
+        "date": "May 25, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ella Wang": {
+    "userId": "Ella Wang",
+    "username": "Ella Wang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on May 25th 2025",
+        "hours": 2.0,
+        "date": "May 25, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nora Wang": {
+    "userId": "Nora Wang",
+    "username": "Nora Wang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on May 25th 2025",
+        "hours": 2.0,
+        "date": "May 25, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alice Xia": {
+    "userId": "Alice Xia",
+    "username": "Alice Xia",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on March 9th 2025",
+        "hours": 2.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiffany Xia": {
+    "userId": "Tiffany Xia",
+    "username": "Tiffany Xia",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on March 9th 2025",
+        "hours": 2.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Deyang Liu": {
+    "userId": "Deyang Liu",
+    "username": "Deyang Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on March 9th 2025",
+        "hours": 2.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cheng Jing Lee": {
+    "userId": "Cheng Jing Lee",
+    "username": "Cheng Jing Lee",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 2nd 2025",
+        "hours": 2.0,
+        "date": "February 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 23rd 2025",
+        "hours": 2.0,
+        "date": "February 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 19th 2025",
+        "hours": 2.0,
+        "date": "January 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sara Ye": {
+    "userId": "Sara Ye",
+    "username": "Sara Ye",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 2nd 2025",
+        "hours": 2.0,
+        "date": "February 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 19th 2025",
+        "hours": 2.0,
+        "date": "January 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on November 16th 2024",
+        "hours": 2.0,
+        "date": "November 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kailang Du": {
+    "userId": "Kailang Du",
+    "username": "Kailang Du",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 23rd 2025",
+        "hours": 2.0,
+        "date": "February 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alisa Tong": {
+    "userId": "Alisa Tong",
+    "username": "Alisa Tong",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on February 23rd 2025",
+        "hours": 2.0,
+        "date": "February 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lucy Guo": {
+    "userId": "Lucy Guo",
+    "username": "Lucy Guo",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 19th 2025",
+        "hours": 2.0,
+        "date": "January 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "DingWei Tsai": {
+    "userId": "DingWei Tsai",
+    "username": "DingWei Tsai",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 19th 2025",
+        "hours": 2.0,
+        "date": "January 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on December 1st 2024",
+        "hours": 2.0,
+        "date": "December 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on November 16th 2024",
+        "hours": 2.0,
+        "date": "November 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lijia Huang": {
+    "userId": "Lijia Huang",
+    "username": "Lijia Huang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ting Fei Li": {
+    "userId": "Ting Fei Li",
+    "username": "Ting Fei Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dylan Hou": {
+    "userId": "Dylan Hou",
+    "username": "Dylan Hou",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Deborah Lynn Zhao": {
+    "userId": "Deborah Lynn Zhao",
+    "username": "Deborah Lynn Zhao",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on January 5th 2025",
+        "hours": 2.0,
+        "date": "January 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "LiangYu Tsai": {
+    "userId": "LiangYu Tsai",
+    "username": "LiangYu Tsai",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on December 1st 2024",
+        "hours": 2.0,
+        "date": "December 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on November 16th 2024",
+        "hours": 2.0,
+        "date": "November 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fiona Ye": {
+    "userId": "Fiona Ye",
+    "username": "Fiona Ye",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on December 1st 2024",
+        "hours": 2.0,
+        "date": "December 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on November 16th 2024",
+        "hours": 2.0,
+        "date": "November 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tingfei Li": {
+    "userId": "Tingfei Li",
+    "username": "Tingfei Li",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on December 1st 2024",
+        "hours": 2.0,
+        "date": "December 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on November 16th 2024",
+        "hours": 2.0,
+        "date": "November 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ebony Chen": {
+    "userId": "Ebony Chen",
+    "username": "Ebony Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on November 16th 2024",
+        "hours": 2.0,
+        "date": "November 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Diana Chen": {
+    "userId": "Diana Chen",
+    "username": "Diana Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event on November 16th 2024",
+        "hours": 2.0,
+        "date": "November 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Vicki Lin": {
+    "userId": "Vicki Lin",
+    "username": "Vicki Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Iokseng Lin": {
+    "userId": "Iokseng Lin",
+    "username": "Iokseng Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ioklee Lin": {
+    "userId": "Ioklee Lin",
+    "username": "Ioklee Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ioknor Lin": {
+    "userId": "Ioknor Lin",
+    "username": "Ioknor Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Iokting Lin": {
+    "userId": "Iokting Lin",
+    "username": "Iokting Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Patrick Guan": {
+    "userId": "Patrick Guan",
+    "username": "Patrick Guan",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophia ShiHan You": {
+    "userId": "Sophia ShiHan You",
+    "username": "Sophia ShiHan You",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Stephanie ShiRan You": {
+    "userId": "Stephanie ShiRan You",
+    "username": "Stephanie ShiRan You",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evan Li": {
+    "userId": "Evan Li",
+    "username": "Evan Li",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yuan Gu": {
+    "userId": "Yuan Gu",
+    "username": "Yuan Gu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophia Lin": {
+    "userId": "Sophia Lin",
+    "username": "Sophia Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mandy Lin": {
+    "userId": "Mandy Lin",
+    "username": "Mandy Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Benny Yeung": {
+    "userId": "Benny Yeung",
+    "username": "Benny Yeung",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Patrick Yeung": {
+    "userId": "Patrick Yeung",
+    "username": "Patrick Yeung",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Karis Lau": {
+    "userId": "Karis Lau",
+    "username": "Karis Lau",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shirley Chiu": {
+    "userId": "Shirley Chiu",
+    "username": "Shirley Chiu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Justin Cheong": {
+    "userId": "Justin Cheong",
+    "username": "Justin Cheong",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michelle Song": {
+    "userId": "Michelle Song",
+    "username": "Michelle Song",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiffany Pan": {
+    "userId": "Tiffany Pan",
+    "username": "Tiffany Pan",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bowen Chen": {
+    "userId": "Bowen Chen",
+    "username": "Bowen Chen",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rex He": {
+    "userId": "Rex He",
+    "username": "Rex He",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Lu": {
+    "userId": "Alex Lu",
+    "username": "Alex Lu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sabrina Gao": {
+    "userId": "Sabrina Gao",
+    "username": "Sabrina Gao",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Derrick Gao": {
+    "userId": "Derrick Gao",
+    "username": "Derrick Gao",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophia Gao": {
+    "userId": "Sophia Gao",
+    "username": "Sophia Gao",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaisa Wu": {
+    "userId": "Kaisa Wu",
+    "username": "Kaisa Wu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shi Zhen Li": {
+    "userId": "Shi Zhen Li",
+    "username": "Shi Zhen Li",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shi Hao Li": {
+    "userId": "Shi Hao Li",
+    "username": "Shi Hao Li",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yiming Chen": {
+    "userId": "Yiming Chen",
+    "username": "Yiming Chen",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chloe Chan": {
+    "userId": "Chloe Chan",
+    "username": "Chloe Chan",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jerry Shan": {
+    "userId": "Jerry Shan",
+    "username": "Jerry Shan",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Steven Zhu": {
+    "userId": "Steven Zhu",
+    "username": "Steven Zhu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Liam Cheung": {
+    "userId": "Liam Cheung",
+    "username": "Liam Cheung",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yifei Mei": {
+    "userId": "Yifei Mei",
+    "username": "Yifei Mei",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alexander Lu": {
+    "userId": "Alexander Lu",
+    "username": "Alexander Lu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Melody Ke": {
+    "userId": "Melody Ke",
+    "username": "Melody Ke",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Elyssa Lin": {
+    "userId": "Elyssa Lin",
+    "username": "Elyssa Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cassandra Lin": {
+    "userId": "Cassandra Lin",
+    "username": "Cassandra Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aidan Zheng": {
+    "userId": "Aidan Zheng",
+    "username": "Aidan Zheng",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ziheng Jiao": {
+    "userId": "Ziheng Jiao",
+    "username": "Ziheng Jiao",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anthony Lin": {
+    "userId": "Anthony Lin",
+    "username": "Anthony Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jerry Zhu": {
+    "userId": "Jerry Zhu",
+    "username": "Jerry Zhu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jasmine Qu": {
+    "userId": "Jasmine Qu",
+    "username": "Jasmine Qu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joanna Qu": {
+    "userId": "Joanna Qu",
+    "username": "Joanna Qu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hanna Chen": {
+    "userId": "Hanna Chen",
+    "username": "Hanna Chen",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leon Chen": {
+    "userId": "Leon Chen",
+    "username": "Leon Chen",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Huaxin Zhu": {
+    "userId": "Huaxin Zhu",
+    "username": "Huaxin Zhu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Adley Zhu": {
+    "userId": "Adley Zhu",
+    "username": "Adley Zhu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tian Xiang Ding": {
+    "userId": "Tian Xiang Ding",
+    "username": "Tian Xiang Ding",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Wu": {
+    "userId": "Ryan Wu",
+    "username": "Ryan Wu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophia Xu": {
+    "userId": "Sophia Xu",
+    "username": "Sophia Xu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anthony Xu": {
+    "userId": "Anthony Xu",
+    "username": "Anthony Xu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brandon Lin": {
+    "userId": "Brandon Lin",
+    "username": "Brandon Lin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aaron Shi": {
+    "userId": "Aaron Shi",
+    "username": "Aaron Shi",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Blake Han": {
+    "userId": "Blake Han",
+    "username": "Blake Han",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Darren Li": {
+    "userId": "Darren Li",
+    "username": "Darren Li",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Austin Li": {
+    "userId": "Austin Li",
+    "username": "Austin Li",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ian Lee": {
+    "userId": "Ian Lee",
+    "username": "Ian Lee",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Elina Lee": {
+    "userId": "Elina Lee",
+    "username": "Elina Lee",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nerissa Xu": {
+    "userId": "Nerissa Xu",
+    "username": "Nerissa Xu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Paxton Xu": {
+    "userId": "Paxton Xu",
+    "username": "Paxton Xu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nina Yang": {
+    "userId": "Nina Yang",
+    "username": "Nina Yang",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 3.5,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Teng Fei Liu": {
+    "userId": "Teng Fei Liu",
+    "username": "Teng Fei Liu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 4.0,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hsinhui Liao": {
+    "userId": "Hsinhui Liao",
+    "username": "Hsinhui Liao",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 4.0,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cui Fang Li": {
+    "userId": "Cui Fang Li",
+    "username": "Cui Fang Li",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Oakland Gardens Preserve the Historic Grove in Kissena Park (9/15/24)",
+        "hours": 4.0,
+        "date": "September 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Suhui Li": {
+    "userId": "Suhui Li",
+    "username": "Suhui Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event For Cats and Dogs at the Animal Shelter on September 15th 2024",
+        "hours": 2.0,
+        "date": "September 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Judy Ning": {
+    "userId": "Judy Ning",
+    "username": "Judy Ning",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Frisco \u0026 Plano Branch Hosted Pet Toy Making Event For Cats and Dogs at the Animal Shelter on September 15th 2024",
+        "hours": 1.5,
+        "date": "September 15, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Keep Pearland Beautiful": {
+    "userId": "Keep Pearland Beautiful",
+    "username": "Keep Pearland Beautiful",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland Volunteers at Arbor Day Tree Distribution",
+        "hours": 10.0,
+        "date": "February 10, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Pearland Hosts Annual Arbor Day Tree Giveaway, January 22",
+        "hours": 10.0,
+        "date": "February 21, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jessica Wang": {
+    "userId": "Jessica Wang",
+    "username": "Jessica Wang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cobb County Branch ‘Give a Hand’—Marietta Trees Planting on Dec. 14, 2019",
+        "hours": 2.0,
+        "date": "December 17, 2019",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maxwell Jiang": {
+    "userId": "Maxwell Jiang",
+    "username": "Maxwell Jiang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cobb County Branch ‘Give a Hand’—Marietta Trees Planting on Dec. 14, 2019",
+        "hours": 2.0,
+        "date": "December 17, 2019",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Raymond Jiang": {
+    "userId": "Raymond Jiang",
+    "username": "Raymond Jiang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cobb County Branch ‘Give a Hand’—Marietta Trees Planting on Dec. 14, 2019",
+        "hours": 2.0,
+        "date": "December 17, 2019",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Download Oracle": {
+    "userId": "Download Oracle",
+    "username": "Download Oracle",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Oracle 1Z0-062 Question Description For All Candidates From All Over The World",
+        "hours": 3.0,
+        "date": "February 18, 2009",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

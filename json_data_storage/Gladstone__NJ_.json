@@ -1,0 +1,191 @@
+{
+  "Kaden Luo": {
+    "userId": "Kaden Luo",
+    "username": "Kaden Luo",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Gladstone Branch Assists Wagner Farm Arboretum in June 2024",
+        "hours": 2.0,
+        "date": "June 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Gladstone Branch Continues Helping The Wagner Farm Arboretum Vegetable Garden in September 2023",
+        "hours": 2.0,
+        "date": "September 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Gladstone Branch Assisted Wagner Farm Arboretum in September 2023",
+        "hours": 2.0,
+        "date": "September 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anderson Yu": {
+    "userId": "Anderson Yu",
+    "username": "Anderson Yu",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Gladstone Branch Assists Wagner Farm Arboretum in June 2024",
+        "hours": 2.0,
+        "date": "June 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Gladstone Branch Continues Helping The Wagner Farm Arboretum Vegetable Garden in September 2023",
+        "hours": 2.0,
+        "date": "September 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Gladstone Branch Assisted Wagner Farm Arboretum in September 2023",
+        "hours": 2.0,
+        "date": "September 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Max Peng": {
+    "userId": "Max Peng",
+    "username": "Max Peng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Gladstone Branch Assists Wagner Farm Arboretum in June 2024",
+        "hours": 2.0,
+        "date": "June 30, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anya Wang": {
+    "userId": "Anya Wang",
+    "username": "Anya Wang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Gladstone Branch Continues Helping The Wagner Farm Arboretum Vegetable Garden in September 2023",
+        "hours": 2.0,
+        "date": "September 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Adithya Bharath": {
+    "userId": "Adithya Bharath",
+    "username": "Adithya Bharath",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Gladstone Branch Continues Helping The Wagner Farm Arboretum Vegetable Garden in September 2023",
+        "hours": 2.0,
+        "date": "September 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Jiang": {
+    "userId": "Alan Jiang",
+    "username": "Alan Jiang",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 8.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alice Jiang": {
+    "userId": "Alice Jiang",
+    "username": "Alice Jiang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 5.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Wang": {
+    "userId": "Andrew Wang",
+    "username": "Andrew Wang",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 9.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ivy Zhang": {
+    "userId": "Ivy Zhang",
+    "username": "Ivy Zhang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 3.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Wang": {
+    "userId": "Ryan Wang",
+    "username": "Ryan Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 1.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grace Wang": {
+    "userId": "Grace Wang",
+    "username": "Grace Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 1.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

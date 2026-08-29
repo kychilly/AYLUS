@@ -1,0 +1,3275 @@
+{
+  "With Online Charity Sale": {
+    "userId": "With Online Charity Sale",
+    "username": "With Online Charity Sale",
+    "totalHours": 42.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 21.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 21.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chelsea Senior Living Center": {
+    "userId": "Chelsea Senior Living Center",
+    "username": "Chelsea Senior Living Center",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 10.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 10.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Feeding Hands": {
+    "userId": "Feeding Hands",
+    "username": "Feeding Hands",
+    "totalHours": 40.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 20.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 20.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Central Jersey Lunar New": {
+    "userId": "Central Jersey Lunar New",
+    "username": "Central Jersey Lunar New",
+    "totalHours": 34.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 17.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 17.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Year Festival": {
+    "userId": "Year Festival",
+    "username": "Year Festival",
+    "totalHours": 34.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 17.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 17.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Centerbridge Senior Center": {
+    "userId": "Centerbridge Senior Center",
+    "username": "Centerbridge Senior Center",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 7.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 7.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Avalon Assisted Living": {
+    "userId": "Avalon Assisted Living",
+    "username": "Avalon Assisted Living",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 3.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater New Jersey Branch",
+        "hours": 3.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonas Liu": {
+    "userId": "Jonas Liu",
+    "username": "Jonas Liu",
+    "totalHours": 74.5,
+    "entries": [
+      {
+        "eventName": "AYLUS-Bridgewater-volunteers-at-feeding-hands-06-20-2026",
+        "hours": 3.5,
+        "date": "July 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteering at JCC Spring Carnival 5/31/26",
+        "hours": 6.5,
+        "date": "June 4, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands and Donation of $2,500 to the Food Pantry 10/18/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at BCAA Mid-Autumn Festival BBQ 9/21/2025",
+        "hours": 2.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Event 149: AYLUS Bridgewater Volunteers at Feeding Hands 9/6/2025",
+        "hours": 3.0,
+        "date": "September 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Run a Charity Sale at Flea Market 8/3/2025",
+        "hours": 5.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (4/14/25)",
+        "hours": 3.5,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Spring Charity Sale at the Flea Market (4/20/2025)",
+        "hours": 2.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (2/8/2025)",
+        "hours": 3.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 2.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater BCAA Christmas Celebration (12/15/24)",
+        "hours": 6.0,
+        "date": "December 16, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Clothing Drive (12/14/24)",
+        "hours": 2.0,
+        "date": "December 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (11/23/24)",
+        "hours": 3.0,
+        "date": "December 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater ShopRite Food Drive in Hillsborough (9/28/24)",
+        "hours": 2.0,
+        "date": "September 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (9/7/24)",
+        "hours": 3.0,
+        "date": "September 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Hosts a Food Drive for Feeding Hands (8/31/24)",
+        "hours": 3.0,
+        "date": "September 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (7/6/2024)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (7/2/24)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 4.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Fundraises and Volunteers at JCC Carnival (5/19/2024)",
+        "hours": 4.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered for Feeding Hands (1/20/2024)",
+        "hours": 4.0,
+        "date": "January 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers for Feeding Hands (11/7/23)",
+        "hours": 4.0,
+        "date": "November 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annabelle Wong": {
+    "userId": "Annabelle Wong",
+    "username": "Annabelle Wong",
+    "totalHours": 51.0,
+    "entries": [
+      {
+        "eventName": "AYLUS-Bridgewater-volunteers-at-feeding-hands-06-20-2026",
+        "hours": 3.5,
+        "date": "July 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteering at JCC Spring Carnival 5/31/26",
+        "hours": 6.5,
+        "date": "June 4, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands and Donation of $2,500 to the Food Pantry 10/18/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 10/2/2025",
+        "hours": 3.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at JCC Carnival 9/14/2025",
+        "hours": 5.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at BCAA Mid-Autumn Festival BBQ 9/21/2025",
+        "hours": 4.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Feeding Hands 6/21/2025",
+        "hours": 3.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (4/12/2025)",
+        "hours": 4.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 4.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (2/1/2025)",
+        "hours": 3.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (12/7/24)",
+        "hours": 3.0,
+        "date": "December 14, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Fundraises and Volunteers at JCC Carnival (5/19/2024)",
+        "hours": 5.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands 3/16/24",
+        "hours": 4.0,
+        "date": "March 29, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kelly Zeng": {
+    "userId": "Kelly Zeng",
+    "username": "Kelly Zeng",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS-Bridgewater-volunteers-at-feeding-hands-06-20-2026",
+        "hours": 3.5,
+        "date": "July 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jake Liu": {
+    "userId": "Jake Liu",
+    "username": "Jake Liu",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS-Bridgewater-volunteers-at-feeding-hands-06-20-2026",
+        "hours": 3.5,
+        "date": "July 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annabelle Wong 6": {
+    "userId": "Annabelle Wong 6",
+    "username": "Annabelle Wong 6",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Charity Sale at the Warren Flea Market 7/19/26",
+        "hours": 6.0,
+        "date": "July 20, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kelly Zeng 6": {
+    "userId": "Kelly Zeng 6",
+    "username": "Kelly Zeng 6",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Charity Sale at the Warren Flea Market 7/19/26",
+        "hours": 6.0,
+        "date": "July 20, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonas Liu 3": {
+    "userId": "Jonas Liu 3",
+    "username": "Jonas Liu 3",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Charity Sale at the Warren Flea Market 7/19/26",
+        "hours": 6.0,
+        "date": "July 20, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angela Gong": {
+    "userId": "Angela Gong",
+    "username": "Angela Gong",
+    "totalHours": 97.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteering at JCC Spring Carnival 5/31/26",
+        "hours": 6.5,
+        "date": "June 4, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Preparation for BCAA Chinese New Year Celebration- 2/27/26",
+        "hours": 3.0,
+        "date": "March 3, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands and Donation of $2,500 to the Food Pantry 10/18/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 10/2/2025",
+        "hours": 3.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at JCC Carnival 9/14/2025",
+        "hours": 4.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at BCAA Mid-Autumn Festival BBQ 9/21/2025",
+        "hours": 4.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Run a Charity Sale at Flea Market 8/3/2025",
+        "hours": 4.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers and Fundraises at JCC Carnival 6/22/2025",
+        "hours": 3.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Runs a Charity Sale at the Flea Market 6/1/2025",
+        "hours": 4.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Spring Charity Sale at the Flea Market (4/20/2025)",
+        "hours": 4.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (3/15/2025)",
+        "hours": 3.0,
+        "date": "April 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 4.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (12/21/24)",
+        "hours": 3.0,
+        "date": "December 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Makes Halloween Costumes to Support NICU Families on 10/3/2024",
+        "hours": 4.0,
+        "date": "October 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Branch Does Fundraiser at Flea Market (10/27/24)",
+        "hours": 4.0,
+        "date": "October 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/27/24)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/16/24)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 4.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 4.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (5/26/2024)",
+        "hours": 4.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Fundraises and Volunteers at JCC Carnival (5/19/2024)",
+        "hours": 4.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (April 14, 2024)",
+        "hours": 4.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Central Jersey Lunar New Year Festival on Feb. 17, 2024",
+        "hours": 8.0,
+        "date": "March 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered for Feeding Hands (1/20/2024)",
+        "hours": 2.5,
+        "date": "January 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (12/16/2023)",
+        "hours": 4.0,
+        "date": "December 17, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jake Luo": {
+    "userId": "Jake Luo",
+    "username": "Jake Luo",
+    "totalHours": 21.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteering at JCC Spring Carnival 5/31/26",
+        "hours": 6.5,
+        "date": "June 4, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands and Donation of $2,500 to the Food Pantry 10/18/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at JCC Carnival 9/14/2025",
+        "hours": 3.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Runs a Charity Sale at the Flea Market 6/1/2025",
+        "hours": 6.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Spring Charity Sale at the Flea Market (4/20/2025)",
+        "hours": 3.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Zhu": {
+    "userId": "Jason Zhu",
+    "username": "Jason Zhu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteering at JCC Spring Carnival 5/31/26",
+        "hours": 3.0,
+        "date": "June 4, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ehtan Liu": {
+    "userId": "Ehtan Liu",
+    "username": "Ehtan Liu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteering at JCC Spring Carnival 5/31/26",
+        "hours": 3.0,
+        "date": "June 4, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Wei": {
+    "userId": "Ethan Wei",
+    "username": "Ethan Wei",
+    "totalHours": 16.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at BCAA Chinese New Year Celebration Event-2/28/26",
+        "hours": 5.0,
+        "date": "March 3, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 4.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 4.5,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffrey Hu": {
+    "userId": "Jeffrey Hu",
+    "username": "Jeffrey Hu",
+    "totalHours": 121.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 1/19/2026",
+        "hours": 2.0,
+        "date": "February 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands and Donation of $2,500 to the Food Pantry 10/18/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at JCC Carnival 9/14/2025",
+        "hours": 5.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at BCAA Mid-Autumn Festival BBQ 9/21/2025",
+        "hours": 4.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Run a Charity Sale at Flea Market 8/3/2025",
+        "hours": 3.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 7/12/2025",
+        "hours": 3.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers and Fundraises at JCC Carnival 6/22/2025",
+        "hours": 4.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Supports the Feeding Hands 5K Run 5/10/2025",
+        "hours": 3.0,
+        "date": "May 15, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Spring Charity Sale at the Flea Market (4/20/2025)",
+        "hours": 3.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (4/5/2025)",
+        "hours": 4.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (1/11/2025)",
+        "hours": 3.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 4.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (1/11/25)",
+        "hours": 3.0,
+        "date": "January 12, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Makes Halloween Costumes to Support NICU Families on 10/3/2024",
+        "hours": 4.0,
+        "date": "October 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Branch Does Fundraiser at Flea Market (10/27/24)",
+        "hours": 4.0,
+        "date": "October 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/27/24)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/20/24)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/16/24)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/5/24)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (7/2/24)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 4.5,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (6/24/24)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (6/22/24)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 3.5,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (5/26/2024)",
+        "hours": 4.5,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (May 18, 2024)",
+        "hours": 3.5,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Fundraises and Volunteers at JCC Carnival (5/19/2024)",
+        "hours": 5.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Help With Online Charity Sale (April 21, 2024)",
+        "hours": 2.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (April 20, 2024)",
+        "hours": 2.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Central Jersey Lunar New Year Festival on Feb. 17, 2024",
+        "hours": 8.0,
+        "date": "March 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered for Feeding Hands (1/20/2024)",
+        "hours": 4.0,
+        "date": "January 26, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Helped Senior Citizen with Yard Work (11/18/2023)",
+        "hours": 3.0,
+        "date": "December 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/29/23 AYLUS Bridgewater Branch Volunteers with Feeding Hands",
+        "hours": 4.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/2/23 AYLUS Bridgewater Raises Money at a Flea Market for Charity",
+        "hours": 4.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonus Liu": {
+    "userId": "Jonus Liu",
+    "username": "Jonus Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 1/19/2026",
+        "hours": 2.0,
+        "date": "February 17, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Diao": {
+    "userId": "Sarah Diao",
+    "username": "Sarah Diao",
+    "totalHours": 81.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 1/31/2026",
+        "hours": 3.0,
+        "date": "February 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 11/4/2025",
+        "hours": 3.0,
+        "date": "November 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands and Donation of $2,500 to the Food Pantry 10/18/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 11/1/2025",
+        "hours": 3.0,
+        "date": "November 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 10/7/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at JCC Carnival 9/14/2025",
+        "hours": 4.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 9/2/2025",
+        "hours": 3.0,
+        "date": "September 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 8/19/2025",
+        "hours": 3.0,
+        "date": "September 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Run a Charity Sale at Flea Market 8/3/2025",
+        "hours": 4.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 8/5/2025",
+        "hours": 3.0,
+        "date": "September 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 8/2/2025",
+        "hours": 3.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 7/1/2025",
+        "hours": 3.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers and Fundraises at JCC Carnival 6/22/2025",
+        "hours": 4.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Runs a Charity Sale at the Flea Market 6/1/2025",
+        "hours": 4.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Teaches Code at Martin Luther King Youth Center 5/2/2025",
+        "hours": 1.5,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 4.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Makes Halloween Costumes to Support NICU Families on 10/3/2024",
+        "hours": 6.0,
+        "date": "October 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (9/21/24)",
+        "hours": 3.0,
+        "date": "September 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (7/20/2024)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (7/6/2024)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (6/12/24)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (5/26/2024)",
+        "hours": 4.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (May 18, 2024)",
+        "hours": 3.5,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Fundraises and Volunteers at JCC Carnival (5/19/2024)",
+        "hours": 4.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hannah Diao": {
+    "userId": "Hannah Diao",
+    "username": "Hannah Diao",
+    "totalHours": 52.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 11/4/2025",
+        "hours": 3.0,
+        "date": "November 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands and Donation of $2,500 to the Food Pantry 10/18/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 11/1/2025",
+        "hours": 3.0,
+        "date": "November 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 10/7/2025",
+        "hours": 3.0,
+        "date": "October 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 10/2/2025",
+        "hours": 3.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Runs a Charity Sale at the Flea Market 6/1/2025",
+        "hours": 4.0,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 4.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Makes Halloween Costumes to Support NICU Families on 10/3/2024",
+        "hours": 6.0,
+        "date": "October 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Branch Does Fundraiser at Flea Market (10/27/24)",
+        "hours": 4.0,
+        "date": "October 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (8/17/2024)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (7/20/2024)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 3.5,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (6/1/2024)",
+        "hours": 3.0,
+        "date": "June 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 2.5,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (5/26/2024)",
+        "hours": 4.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gabrielle Chien": {
+    "userId": "Gabrielle Chien",
+    "username": "Gabrielle Chien",
+    "totalHours": 54.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at JCC Carnival 9/14/2025",
+        "hours": 3.0,
+        "date": "October 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Run a Charity Sale at Flea Market 8/3/2025",
+        "hours": 4.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers and Fundraises at JCC Carnival 6/22/2025",
+        "hours": 4.5,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Spring Charity Sale at the Flea Market (4/20/2025)",
+        "hours": 5.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Branch Does Fundraiser at Flea Market (10/27/24)",
+        "hours": 5.0,
+        "date": "October 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Fundraises and Volunteers at JCC Carnival (5/19/2024)",
+        "hours": 4.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (April 14, 2024)",
+        "hours": 4.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Help Neighbors with Yard Work (April 13, 2024)",
+        "hours": 4.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Branch Prepares Giving Garden for Spring (3/30/24)",
+        "hours": 3.0,
+        "date": "April 17, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Plans for a Spring Fundraiser 3/17/24",
+        "hours": 4.0,
+        "date": "March 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Central Jersey Lunar New Year Festival on Feb. 17, 2024",
+        "hours": 8.0,
+        "date": "March 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Participates in America’s Grow-A-Row in August 2021",
+        "hours": 2.5,
+        "date": "August 11, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophia Hom": {
+    "userId": "Sophia Hom",
+    "username": "Sophia Hom",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Crafted Costumes for NICU Babies 8/31/2025",
+        "hours": 4.0,
+        "date": "September 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Spring Charity Sale at the Flea Market (4/20/2025)",
+        "hours": 4.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/27/24)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/20/24)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/16/24)",
+        "hours": 3.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ivy Zhang": {
+    "userId": "Ivy Zhang",
+    "username": "Ivy Zhang",
+    "totalHours": 99.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Run a Charity Sale at Flea Market 8/3/2025",
+        "hours": 5.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands 7/15/2025",
+        "hours": 3.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (3/8/2025)",
+        "hours": 3.0,
+        "date": "April 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (1/4/2025)",
+        "hours": 3.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Raritan Food Pantry (1/4/2025)",
+        "hours": 3.0,
+        "date": "January 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Makes Halloween Costumes to Support NICU Families on 10/3/2024",
+        "hours": 4.0,
+        "date": "October 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 4.5,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (5/26/2024)",
+        "hours": 6.5,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Central Jersey Lunar New Year Festival on Feb. 17, 2024",
+        "hours": 8.0,
+        "date": "March 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/18/23 AYLUS Bridgewater Volunteers at Local Food Pantry",
+        "hours": 4.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/10-11/23 AYLUS Bridgewater Volunteers to Serve at Feeding Hands",
+        "hours": 5.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/8/23 AYLUS Bridgewater Yard Sales for Charity",
+        "hours": 4.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers Together to Help Out at a Food Bank+Soil Pick Up for Community Garden (4/27/2023)",
+        "hours": 2.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Sells at the Flea Market (4/16/2023)",
+        "hours": 7.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Pots Plants and Works on the Garden (4/9/2023)",
+        "hours": 3.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Gathers Items for Charity Fundraising (4/7/2023)",
+        "hours": 7.0,
+        "date": "April 8, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/19-21/22 AYLUS Bridgewater hosts its final charity sale",
+        "hours": 1.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/20/22 Aylus Bridgewater helps out at Feeding Hands",
+        "hours": 3.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/28/22 Aylus Bridgewater Donates to Goodwill",
+        "hours": 2.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fifth charity sale in July 2022",
+        "hours": 8.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fourth charity sale (7/14-7/16)",
+        "hours": 2.0,
+        "date": "July 18, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 3.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/18-19/22 AYLUS Bridgewater Branch hosts a charity sale",
+        "hours": 5.0,
+        "date": "June 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "5/21/2022 AYLUS Bridgewater hosts a charity sale to generate money to donate to local charities.",
+        "hours": 3.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joseph Chien": {
+    "userId": "Joseph Chien",
+    "username": "Joseph Chien",
+    "totalHours": 29.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Run a Charity Sale at Flea Market 8/3/2025",
+        "hours": 4.0,
+        "date": "August 3, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers and Fundraises at JCC Carnival 6/22/2025",
+        "hours": 4.5,
+        "date": "July 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Repotting: Spring Growth Continues (4/5/2025)",
+        "hours": 3.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Spring Charity Sale at the Flea Market (4/20/2025)",
+        "hours": 5.0,
+        "date": "April 20, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Fundraises and Volunteers at JCC Carnival (9/15/2024)",
+        "hours": 4.0,
+        "date": "September 17, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Fundraises and Volunteers at JCC Carnival (5/19/2024)",
+        "hours": 6.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Abigail Tu": {
+    "userId": "Abigail Tu",
+    "username": "Abigail Tu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Performs Music for Avalon Assisted Living at Bridgewater 4/27/2025",
+        "hours": 3.0,
+        "date": "April 29, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Wei": {
+    "userId": "Emily Wei",
+    "username": "Emily Wei",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 4.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 4.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Thomas Yang": {
+    "userId": "Thomas Yang",
+    "username": "Thomas Yang",
+    "totalHours": 33.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Helps at Chinese New Year Community Event (01/31/25 and 02/01/2025)",
+        "hours": 4.0,
+        "date": "March 4, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (April 20, 2024)",
+        "hours": 4.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (April 14, 2024)",
+        "hours": 6.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Help Neighbors with Yard Work (April 13, 2024)",
+        "hours": 4.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (11/10/2023)",
+        "hours": 3.0,
+        "date": "November 11, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "10/27/2023 AYLUS Bridgewater Volunteers Prepared Charity Yard Sale",
+        "hours": 4.0,
+        "date": "October 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "10/22/2023 AYLUS Bridgewater Volunteers helps out at Huaxia-AAF Athletics Championships",
+        "hours": 4.0,
+        "date": "October 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "10/21/2023 AYLUS Bridgewater Volunteers with Feeding Hands",
+        "hours": 4.0,
+        "date": "October 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Xu": {
+    "userId": "Emma Xu",
+    "username": "Emma Xu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Makes Halloween Costumes to Support NICU Families on 10/3/2024",
+        "hours": 4.0,
+        "date": "October 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (7/6/2024)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anna Gu": {
+    "userId": "Anna Gu",
+    "username": "Anna Gu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Makes Halloween Costumes to Support NICU Families on 10/3/2024",
+        "hours": 3.5,
+        "date": "October 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Does a Charity Sale (6/9/2024)",
+        "hours": 3.5,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Matthew Yu": {
+    "userId": "Matthew Yu",
+    "username": "Matthew Yu",
+    "totalHours": 41.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (9/21/24)",
+        "hours": 3.0,
+        "date": "September 24, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (5/26/2024)",
+        "hours": 3.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (April 20, 2024)",
+        "hours": 4.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Sell at Warren Flea Market (April 14, 2024)",
+        "hours": 8.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers Help Neighbors with Yard Work (April 13, 2024)",
+        "hours": 4.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (April 5, 2024)",
+        "hours": 4.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Performed at the Chelsea Senior Living Center on March 10, 2024",
+        "hours": 3.0,
+        "date": "March 15, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (February 20, 2024)",
+        "hours": 4.0,
+        "date": "March 4, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Central Jersey Lunar New Year Festival on Feb. 17, 2024",
+        "hours": 8.0,
+        "date": "March 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charles Wang": {
+    "userId": "Charles Wang",
+    "username": "Charles Wang",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (8/3/2024)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteered at Raritan Food Pantry (7/20/2024)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (8/5/24)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 4.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angela Zhou": {
+    "userId": "Angela Zhou",
+    "username": "Angela Zhou",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (7/2/24)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (6/25/24)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (6/24/24)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leila Zhou": {
+    "userId": "Leila Zhou",
+    "username": "Leila Zhou",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (7/2/24)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (6/25/24)",
+        "hours": 3.0,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (6/24/24)",
+        "hours": 3.0,
+        "date": "July 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sabrina Tang": {
+    "userId": "Sabrina Tang",
+    "username": "Sabrina Tang",
+    "totalHours": 21.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 4.5,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Performed for the Seniors at Avalon Assisted Living (5/26/2024)",
+        "hours": 2.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (1/15/2024)",
+        "hours": 4.0,
+        "date": "January 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Helps Out at Feeding Hands (4/22/23)",
+        "hours": 3.0,
+        "date": "April 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers with Feeding Hands (10/22+29/2022)",
+        "hours": 3.0,
+        "date": "November 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/20/22 Aylus Bridgewater helps out at Feeding Hands",
+        "hours": 3.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fifth charity sale in July 2022",
+        "hours": 2.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Olivia Tang": {
+    "userId": "Olivia Tang",
+    "username": "Olivia Tang",
+    "totalHours": 12.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Held a Charity Garage Sale (6/29/2024)",
+        "hours": 4.5,
+        "date": "August 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Branch Participated at Mid-Autumn Festival Event on October 1st, 2023",
+        "hours": 2.0,
+        "date": "October 8, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Helps Out at Feeding Hands (4/22/23)",
+        "hours": 3.0,
+        "date": "April 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/20/22 Aylus Bridgewater helps out at Feeding Hands",
+        "hours": 3.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ziqi Kang": {
+    "userId": "Ziqi Kang",
+    "username": "Ziqi Kang",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Performed for the Seniors at Avalon Assisted Living (5/26/2024)",
+        "hours": 3.0,
+        "date": "May 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (May 18, 2024)",
+        "hours": 3.5,
+        "date": "May 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zimeng Kang": {
+    "userId": "Zimeng Kang",
+    "username": "Zimeng Kang",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (May 18, 2024)",
+        "hours": 3.5,
+        "date": "May 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Wang": {
+    "userId": "Andrew Wang",
+    "username": "Andrew Wang",
+    "totalHours": 191.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Central Jersey Lunar New Year Festival on Feb. 17, 2024",
+        "hours": 8.0,
+        "date": "March 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Raises Funds for Feeding Hands Charity with Online Sale (1/13/2024)",
+        "hours": 2.0,
+        "date": "January 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater participates in community mental health survey (9/2023)",
+        "hours": 1.0,
+        "date": "November 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Hosts Final Flea Market Sale on 9/17/23",
+        "hours": 5.0,
+        "date": "November 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Branch Feeding Hands Raises Money at Flea Market 8/27/23",
+        "hours": 5.0,
+        "date": "November 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/29/23 AYLUS Bridgewater Branch Volunteers with Feeding Hands",
+        "hours": 4.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/13/23 AYLUS Bridgewater Sells Donated Items for Charity",
+        "hours": 7.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/28/23 AYLUS Bridgewater Sells Items for Charity",
+        "hours": 6.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/1/23 AYLUS Bridgewater Volunteers with Feeding Hands",
+        "hours": 4.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/10-11/23 AYLUS Bridgewater Volunteers to Serve at Feeding Hands",
+        "hours": 5.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/2/23 AYLUS Bridgewater Raises Money at a Flea Market for Charity",
+        "hours": 7.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/8/23 AYLUS Bridgewater Yard Sales for Charity",
+        "hours": 1.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/23/2023 AYLUS Bridgewater Volunteers at Feeding Hands",
+        "hours": 3.0,
+        "date": "June 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Helps Out at Feeding Hands (4/22/23)",
+        "hours": 3.0,
+        "date": "April 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Sells at the Flea Market (4/16/2023)",
+        "hours": 9.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Continues Charity Sales (4/15/2023)",
+        "hours": 7.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Lists Items for Sale and Works on the Community Garden (4/13/2023)",
+        "hours": 8.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Pots Plants and Works on the Garden (4/9/2023)",
+        "hours": 2.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Charity Sales Begin Once More Garden Work (4/8/23)",
+        "hours": 6.0,
+        "date": "April 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Gathers Items for Charity Fundraising (4/7/2023)",
+        "hours": 8.0,
+        "date": "April 8, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers with Local Food Pantry (2/26/2023)",
+        "hours": 3.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Help Out at Feeding Hands (2/18/2023)",
+        "hours": 3.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers with Local Food Pantry (2/11/2023)",
+        "hours": 3.0,
+        "date": "February 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers with Feeding Hands (2/4/2023)",
+        "hours": 3.0,
+        "date": "February 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps out at Feeding Hands (1/21/2023)",
+        "hours": 3.0,
+        "date": "January 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps out at a Local Food Pantry (1/14/2023)",
+        "hours": 3.0,
+        "date": "January 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers with Feeding Hands (10/22+29/2022)",
+        "hours": 3.0,
+        "date": "November 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/19-21/22 AYLUS Bridgewater hosts its final charity sale",
+        "hours": 5.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/20/22 Aylus Bridgewater helps out at Feeding Hands",
+        "hours": 3.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/28/22 Aylus Bridgewater Donates to Goodwill",
+        "hours": 2.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (8/13/22)",
+        "hours": 2.5,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (7/23/2022) and (7/30/2022)",
+        "hours": 2.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fifth charity sale in July 2022",
+        "hours": 8.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Tends to The Giving Garden on July 16th, 2022",
+        "hours": 2.0,
+        "date": "July 17, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fourth charity sale (7/14-7/16)",
+        "hours": 8.0,
+        "date": "July 18, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 9.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/18-19/22 AYLUS Bridgewater Branch hosts a charity sale",
+        "hours": 5.5,
+        "date": "June 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "5/21/2022 AYLUS Bridgewater hosts a charity sale to generate money to donate to local charities.",
+        "hours": 6.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "5/14/2022 AYLUS Bridgewater continues work on the Giving Garden",
+        "hours": 3.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps Construct Community Garden (4/23/2022)",
+        "hours": 6.0,
+        "date": "April 24, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Makes Plastic Mats for Homeless",
+        "hours": 4.5,
+        "date": "July 20, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater NJ AYLUS Makes Cards for Somerset Senior Wellness Centers in May 2021",
+        "hours": 2.5,
+        "date": "June 2, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jollen Dai": {
+    "userId": "Jollen Dai",
+    "username": "Jollen Dai",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Central Jersey Lunar New Year Festival on Feb. 17, 2024",
+        "hours": 8.0,
+        "date": "March 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Li": {
+    "userId": "Ryan Li",
+    "username": "Ryan Li",
+    "totalHours": 8.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Arranged a Concert for the Seniors at Avalon Assisted Living on December 3, 2023",
+        "hours": 3.0,
+        "date": "December 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/18-19/22 AYLUS Bridgewater Branch hosts a charity sale",
+        "hours": 5.5,
+        "date": "June 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alice Wang": {
+    "userId": "Alice Wang",
+    "username": "Alice Wang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "10/28/2023 AYLUS Bridgewater Volunteers Hosted a Charity Yard Sale",
+        "hours": 4.0,
+        "date": "October 28, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wesley Lin": {
+    "userId": "Wesley Lin",
+    "username": "Wesley Lin",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bridgewater Branch Participated at Mid-Autumn Festival Event on October 1st, 2023",
+        "hours": 4.0,
+        "date": "October 8, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alina Zhu": {
+    "userId": "Alina Zhu",
+    "username": "Alina Zhu",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bridgewater Branch Participated at Mid-Autumn Festival Event on October 1st, 2023",
+        "hours": 1.0,
+        "date": "October 8, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Katy Zeng": {
+    "userId": "Katy Zeng",
+    "username": "Katy Zeng",
+    "totalHours": 94.0,
+    "entries": [
+      {
+        "eventName": "8/15/23 AYLUS Bridgewater Volunteers with Feeding Hands",
+        "hours": 4.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/13/23 AYLUS Bridgewater Sells Donated Items for Charity",
+        "hours": 4.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/8/23 AYLUS Bridgewater Volunteers With Feeding Hands",
+        "hours": 4.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/28/23 AYLUS Bridgewater Sells Items for Charity",
+        "hours": 5.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/25/23 AYLUS Bridgewater Volunteers at Local Food Pantry",
+        "hours": 4.0,
+        "date": "August 2, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/10-11/23 AYLUS Bridgewater Volunteers to Serve at Feeding Hands",
+        "hours": 3.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/30/23 AYLUS Bridgewater Helps With Charity Moving",
+        "hours": 3.0,
+        "date": "July 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers at Feeding Hands (5/13/23 )",
+        "hours": 3.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/10/23 AYLUS Bridgewater Volunteers at Local Food Pantry",
+        "hours": 3.0,
+        "date": "June 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/23/2023 AYLUS Bridgewater Volunteers at Feeding Hands",
+        "hours": 3.0,
+        "date": "June 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers Together to Help Out at a Food Bank+Soil Pick Up for Community Garden (4/27/2023)",
+        "hours": 3.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Helps Out at Feeding Hands (4/22/23)",
+        "hours": 3.0,
+        "date": "April 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Sells at the Flea Market (4/16/2023)",
+        "hours": 6.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Continues Charity Sales (4/15/2023)",
+        "hours": 5.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Helps Serve People at Feeding Hands (3/25/2023)",
+        "hours": 3.0,
+        "date": "March 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Collaborates with Other Branches to Feed the Community",
+        "hours": 3.0,
+        "date": "April 7, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteer Helps Out at Local Food Pantry (3/18/2023)",
+        "hours": 3.0,
+        "date": "March 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Collaborates with Nearby Branches to Help Local Food Pantry (3/4/2023)",
+        "hours": 3.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Aids in Disaster Relief and Begins Fundraising More (2/19/2023)",
+        "hours": 3.5,
+        "date": "March 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Help Out at Feeding Hands (2/18/2023)",
+        "hours": 3.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers with Local Food Pantry (2/11/2023)",
+        "hours": 3.0,
+        "date": "February 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers with Feeding Hands (2/4/2023)",
+        "hours": 3.0,
+        "date": "February 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Works on Food Bank Donations (1/27/23)",
+        "hours": 1.5,
+        "date": "February 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps out at Feeding Hands (1/21/2023)",
+        "hours": 3.0,
+        "date": "January 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps out at a Local Food Pantry (1/14/2023)",
+        "hours": 3.0,
+        "date": "January 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Food Drive (11/19/2022)",
+        "hours": 3.0,
+        "date": "November 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "5/21/2022 AYLUS Bridgewater hosts a charity sale to generate money to donate to local charities.",
+        "hours": 6.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Jiang": {
+    "userId": "Alan Jiang",
+    "username": "Alan Jiang",
+    "totalHours": 71.5,
+    "entries": [
+      {
+        "eventName": "8/13/23 AYLUS Bridgewater Sells Donated Items for Charity",
+        "hours": 5.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/28/23 AYLUS Bridgewater Sells Items for Charity",
+        "hours": 4.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Continues Charity Sales (4/15/2023)",
+        "hours": 4.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers with Feeding Hands (10/22+29/2022)",
+        "hours": 3.0,
+        "date": "November 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/19-21/22 AYLUS Bridgewater hosts its final charity sale",
+        "hours": 3.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Feeding Hands (8/13/22)",
+        "hours": 2.5,
+        "date": "August 15, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (7/23/2022) and (7/30/2022)",
+        "hours": 4.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fifth charity sale in July 2022",
+        "hours": 8.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fourth charity sale (7/14-7/16)",
+        "hours": 8.0,
+        "date": "July 18, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 8.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Gives Supplies to Feeding Hands 6/11/22",
+        "hours": 2.0,
+        "date": "June 14, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/18-19/22 AYLUS Bridgewater Branch hosts a charity sale",
+        "hours": 4.0,
+        "date": "June 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "5/21/2022 AYLUS Bridgewater hosts a charity sale to generate money to donate to local charities.",
+        "hours": 2.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps In Community Garden (4/30/2022)",
+        "hours": 2.0,
+        "date": "May 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps Construct Community Garden (4/23/2022)",
+        "hours": 6.0,
+        "date": "April 24, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Makes Plastic Mats for Homeless",
+        "hours": 6.0,
+        "date": "July 20, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alice Jiang": {
+    "userId": "Alice Jiang",
+    "username": "Alice Jiang",
+    "totalHours": 33.0,
+    "entries": [
+      {
+        "eventName": "8/13/23 AYLUS Bridgewater Sells Donated Items for Charity",
+        "hours": 5.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/28/23 AYLUS Bridgewater Sells Items for Charity",
+        "hours": 4.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/19-21/22 AYLUS Bridgewater hosts its final charity sale",
+        "hours": 3.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/28/22 Aylus Bridgewater Donates to Goodwill",
+        "hours": 2.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fourth charity sale (7/14-7/16)",
+        "hours": 2.0,
+        "date": "July 18, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 5.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Gives Supplies to Feeding Hands 6/11/22",
+        "hours": 2.0,
+        "date": "June 14, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/18-19/22 AYLUS Bridgewater Branch hosts a charity sale",
+        "hours": 1.0,
+        "date": "June 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "5/21/2022 AYLUS Bridgewater hosts a charity sale to generate money to donate to local charities.",
+        "hours": 3.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps Construct Community Garden (4/23/2022)",
+        "hours": 6.0,
+        "date": "April 24, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eva Nilsson": {
+    "userId": "Eva Nilsson",
+    "username": "Eva Nilsson",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "8/13/23 AYLUS Bridgewater Sells Donated Items for Charity",
+        "hours": 5.0,
+        "date": "August 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "7/28/23 AYLUS Bridgewater Sells Items for Charity",
+        "hours": 5.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fifth charity sale in July 2022",
+        "hours": 3.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "5/21/2022 AYLUS Bridgewater hosts a charity sale to generate money to donate to local charities.",
+        "hours": 2.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps In Community Garden (4/30/2022)",
+        "hours": 2.0,
+        "date": "May 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ivy Zang": {
+    "userId": "Ivy Zang",
+    "username": "Ivy Zang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "7/28/23 AYLUS Bridgewater Sells Items for Charity",
+        "hours": 5.0,
+        "date": "August 15, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christine Hu": {
+    "userId": "Christine Hu",
+    "username": "Christine Hu",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "6/10/23 AYLUS Bridgewater Volunteers at Local Food Pantry",
+        "hours": 3.0,
+        "date": "June 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Help Out at Feeding Hands (2/18/2023)",
+        "hours": 3.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers with Local Food Pantry (2/11/2023)",
+        "hours": 3.0,
+        "date": "February 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps out at Feeding Hands (1/21/2023)",
+        "hours": 3.0,
+        "date": "January 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps out at a Local Food Pantry (1/14/2023)",
+        "hours": 3.0,
+        "date": "January 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Volunteers with Feeding Hands (10/22+29/2022)",
+        "hours": 3.0,
+        "date": "November 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helen Zhou": {
+    "userId": "Helen Zhou",
+    "username": "Helen Zhou",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Bridgewater Hosts Charity Sale (4/22/23)",
+        "hours": 3.0,
+        "date": "April 23, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Henry Jiang": {
+    "userId": "Henry Jiang",
+    "username": "Henry Jiang",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Bridgewater Continues Charity Sales (4/15/2023)",
+        "hours": 5.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Lists Items for Sale and Works on the Community Garden (4/13/2023)",
+        "hours": 6.0,
+        "date": "April 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Bridgewater Volunteers with Feeding Hands (2/4/2023)",
+        "hours": 3.0,
+        "date": "February 18, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "And Crystal Zhang": {
+    "userId": "And Crystal Zhang",
+    "username": "And Crystal Zhang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers with Feeding Hands (10/22+29/2022)",
+        "hours": 3.0,
+        "date": "November 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Wang": {
+    "userId": "Ryan Wang",
+    "username": "Ryan Wang",
+    "totalHours": 15.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers at Food Drive (11/19/2022)",
+        "hours": 3.0,
+        "date": "November 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "8/19-21/22 AYLUS Bridgewater hosts its final charity sale",
+        "hours": 2.0,
+        "date": "August 28, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts fourth charity sale (7/14-7/16)",
+        "hours": 1.0,
+        "date": "July 18, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 1.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "5/14/2022 AYLUS Bridgewater continues work on the Giving Garden",
+        "hours": 3.0,
+        "date": "May 22, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps Construct Community Garden (4/23/2022)",
+        "hours": 2.5,
+        "date": "April 24, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Participates in Daffodil Day at Reeves-Reed Arboretum April 2022",
+        "hours": 3.0,
+        "date": "April 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ivalyn Zhang": {
+    "userId": "Ivalyn Zhang",
+    "username": "Ivalyn Zhang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Volunteers for Feeding Hands (7/23/2022) and (7/30/2022)",
+        "hours": 4.0,
+        "date": "August 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps In Community Garden (4/30/2022)",
+        "hours": 2.0,
+        "date": "May 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Crystal Zhang": {
+    "userId": "Crystal Zhang",
+    "username": "Crystal Zhang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater hosts fifth charity sale in July 2022",
+        "hours": 2.0,
+        "date": "August 8, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/18-19/22 AYLUS Bridgewater Branch hosts a charity sale",
+        "hours": 4.0,
+        "date": "June 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grace Wang": {
+    "userId": "Grace Wang",
+    "username": "Grace Wang",
+    "totalHours": 13.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater hosts third charity sale(6/24-26/22)",
+        "hours": 1.0,
+        "date": "June 27, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "6/18-19/22 AYLUS Bridgewater Branch hosts a charity sale",
+        "hours": 2.0,
+        "date": "June 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Bridgewater Helps Construct Community Garden (4/23/2022)",
+        "hours": 2.5,
+        "date": "April 24, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Warren Branch Volunteers at Central Jersey Regional Lunar New Year Festival on February 17th, 2024",
+        "hours": 8.0,
+        "date": "February 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Milan Williams": {
+    "userId": "Milan Williams",
+    "username": "Milan Williams",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Bridgewater Participates in America’s Grow-A-Row in August 2021",
+        "hours": 2.5,
+        "date": "August 11, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Johanna Xu": {
+    "userId": "Johanna Xu",
+    "username": "Johanna Xu",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Bridgewater NJ AYLUS Makes Cards for Somerset Senior Wellness Centers in May 2021",
+        "hours": 2.5,
+        "date": "June 2, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Claire Zhang": {
+    "userId": "Claire Zhang",
+    "username": "Claire Zhang",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Basking Ridge volunteered at Feeding Hands on 8/27/24",
+        "hours": 4.0,
+        "date": "August 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Basking Ridge volunteered at Feeding Hands on 8/20/24",
+        "hours": 4.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Basking Ridge Branch organized Disaster Relief Drive for Turkey Earthquake Survivors and delivered the donations to N...",
+        "hours": 15.0,
+        "date": "February 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Selina Zhan": {
+    "userId": "Selina Zhan",
+    "username": "Selina Zhan",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Warren Branch Volunteers at Central Jersey Regional Lunar New Year Festival on February 17th, 2024",
+        "hours": 8.0,
+        "date": "February 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Megan Li": {
+    "userId": "Megan Li",
+    "username": "Megan Li",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Warren Branch Volunteers at Central Jersey Regional Lunar New Year Festival on February 17th, 2024",
+        "hours": 8.0,
+        "date": "February 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eddie Zhan": {
+    "userId": "Eddie Zhan",
+    "username": "Eddie Zhan",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Warren Branch Volunteers at Central Jersey Regional Lunar New Year Festival on February 17th, 2024",
+        "hours": 8.0,
+        "date": "February 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kayla Peng": {
+    "userId": "Kayla Peng",
+    "username": "Kayla Peng",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Warren Branch Volunteers at Central Jersey Regional Lunar New Year Festival on February 17th, 2024",
+        "hours": 7.0,
+        "date": "February 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Jin": {
+    "userId": "Kevin Jin",
+    "username": "Kevin Jin",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Basking Ridge Branch volunteered at Feeding Hands on 5/27/23 (5th)",
+        "hours": 4.0,
+        "date": "May 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Basking Ridge Branch organized Disaster Relief Drive for Turkey Earthquake Survivors and delivered the donations to N...",
+        "hours": 10.0,
+        "date": "February 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angela Hu": {
+    "userId": "Angela Hu",
+    "username": "Angela Hu",
+    "totalHours": 44.0,
+    "entries": [
+      {
+        "eventName": "Edison Branch Volunteered at Feeding Hands and Cleaned the Square on 4/22/2023",
+        "hours": 22.0,
+        "date": "April 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Edison Branch Volunteers at Feeding Hands on 4/21/2023",
+        "hours": 21.0,
+        "date": "April 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Edison Branch Help Out at Feeding Hands on 4/1/2023",
+        "hours": 1.0,
+        "date": "April 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Erika Yu": {
+    "userId": "Erika Yu",
+    "username": "Erika Yu",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Edison Branch Helped out at Feeding Hands on 3/4/2023",
+        "hours": 3.0,
+        "date": "March 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Edison AYLUS aids in Disaster Relief for Turkey Earthquake Survivors on 2/21/2023",
+        "hours": 3.0,
+        "date": "March 6, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bruce He": {
+    "userId": "Bruce He",
+    "username": "Bruce He",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Edison AYLUS aids in Disaster Relief for Turkey Earthquake Survivors on 2/21/2023",
+        "hours": 3.0,
+        "date": "March 6, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Zhang": {
+    "userId": "Ethan Zhang",
+    "username": "Ethan Zhang",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Basking Ridge Branch organized Disaster Relief Drive for Turkey Earthquake Survivors and delivered the donations to N...",
+        "hours": 15.0,
+        "date": "February 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Olivia Chen": {
+    "userId": "Olivia Chen",
+    "username": "Olivia Chen",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Basking Ridge Branch organized Disaster Relief Drive for Turkey Earthquake Survivors and delivered the donations to N...",
+        "hours": 11.0,
+        "date": "February 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabelle Qi": {
+    "userId": "Isabelle Qi",
+    "username": "Isabelle Qi",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Basking Ridge Branch organized Disaster Relief Drive for Turkey Earthquake Survivors and delivered the donations to N...",
+        "hours": 11.0,
+        "date": "February 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kenneth Cheng": {
+    "userId": "Kenneth Cheng",
+    "username": "Kenneth Cheng",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Basking Ridge Branch organized Disaster Relief Drive for Turkey Earthquake Survivors and delivered the donations to N...",
+        "hours": 10.0,
+        "date": "February 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "ALYUS Basking Ridge Branch volunteered at Science \u0026 Technology Showcase on 10/2/2022",
+        "hours": 2.0,
+        "date": "October 2, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Jin": {
+    "userId": "Emily Jin",
+    "username": "Emily Jin",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Basking Ridge Branch organized Disaster Relief Drive for Turkey Earthquake Survivors and delivered the donations to N...",
+        "hours": 10.0,
+        "date": "February 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Leng": {
+    "userId": "Andrew Leng",
+    "username": "Andrew Leng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "ALYUS Basking Ridge Branch volunteered at Science \u0026 Technology Showcase on 10/2/2022",
+        "hours": 2.0,
+        "date": "October 2, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ru Xue Jiang": {
+    "userId": "Ru Xue Jiang",
+    "username": "Ru Xue Jiang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills Branch Packages Turkey Earthquake Relief Donations on March 4, 2023",
+        "hours": 5.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sara Kong": {
+    "userId": "Sara Kong",
+    "username": "Sara Kong",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills Branch Packages Turkey Earthquake Relief Donations on March 4, 2023",
+        "hours": 4.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Cheng": {
+    "userId": "Jason Cheng",
+    "username": "Jason Cheng",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills Branch Packages Turkey Earthquake Relief Donations on March 4, 2023",
+        "hours": 4.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ming Chen": {
+    "userId": "Ming Chen",
+    "username": "Ming Chen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills Branch Packages Turkey Earthquake Relief Donations on March 4, 2023",
+        "hours": 4.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bryan Fan": {
+    "userId": "Bryan Fan",
+    "username": "Bryan Fan",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Dix Hills Branch Packages Turkey Earthquake Relief Donations on March 4, 2023",
+        "hours": 1.0,
+        "date": "March 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

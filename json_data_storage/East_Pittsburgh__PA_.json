@@ -1,0 +1,941 @@
+{
+  "Xin Yan Li": {
+    "userId": "Xin Yan Li",
+    "username": "Xin Yan Li",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "EAST PITTSBURGH AYLUS BRANCH HELPS OUT WITH CHINESE NEW YEAR FESTAVAL AT MURRYSVILLE COMMUNITY LIBRARY.",
+        "hours": 2.0,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh AYLUS Helps With Local Food Bank Conveyor Belt Line.",
+        "hours": 2.0,
+        "date": "November 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Makes Flowers To Hand Out On Mothers Day (5/13/2023)",
+        "hours": 5.0,
+        "date": "May 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Pave Parking Lot (5/6/2023)",
+        "hours": 4.0,
+        "date": "May 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Aids in the Asian Food Culture Event “Taste of Asia”",
+        "hours": 5.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joanna Li": {
+    "userId": "Joanna Li",
+    "username": "Joanna Li",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "EAST PITTSBURGH AYLUS BRANCH HELPS OUT WITH CHINESE NEW YEAR FESTAVAL AT MURRYSVILLE COMMUNITY LIBRARY.",
+        "hours": 2.0,
+        "date": "February 21, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Aids in the Asian Food Culture Event “Taste of Asia”",
+        "hours": 5.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Carry Flag": {
+    "userId": "Carry Flag",
+    "username": "Carry Flag",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh, PA",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christmas Joy": {
+    "userId": "Christmas Joy",
+    "username": "Christmas Joy",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh, PA",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Refugee Families": {
+    "userId": "Refugee Families",
+    "username": "Refugee Families",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh, PA",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eliot Chen": {
+    "userId": "Eliot Chen",
+    "username": "Eliot Chen",
+    "totalHours": 59.45,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Pack Gift Bags For The Homeless",
+        "hours": 1.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Donates Bags of Clothing (4/29/2024)",
+        "hours": 3.0,
+        "date": "May 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteers At Murrysville Community Library’s Christmas Holiday Event December 4th, 2023",
+        "hours": 3.5,
+        "date": "December 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Volunteers At Local Food Bank To Help Pack Boxes (7/22/2023)",
+        "hours": 2.5,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "The East Pittsburgh Aylus Branch Help Local Food Bank Make Boxes And Pack Food",
+        "hours": 2.0,
+        "date": "July 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Local Food Bank Pack Vegtables and Fruits.",
+        "hours": 2.25,
+        "date": "July 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Westmoreland Food Bank Make Boxes",
+        "hours": 2.5,
+        "date": "July 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Helps Carry Flag and Give Out Candy For July 4th March",
+        "hours": 2.0,
+        "date": "July 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Once Again Helps Out The Westmoreland Food Bank To Pack Food",
+        "hours": 2.0,
+        "date": "July 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Helps Food Bank Pack Boxes (6/28/2023)",
+        "hours": 2.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Helps Westmoreland Food Bank Pack Boxes (6/24/2023)",
+        "hours": 2.7,
+        "date": "June 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Barbecues And Serves Food for Father’s Day (6/18/2023)",
+        "hours": 2.5,
+        "date": "June 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Wash Police Cars (6/14/2023)",
+        "hours": 3.0,
+        "date": "June 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Makes Flowers To Hand Out On Mothers Day (5/13/2023)",
+        "hours": 5.0,
+        "date": "May 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteers at local Food Bank (6/5/2023)",
+        "hours": 2.5,
+        "date": "June 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh AYLUS Participates in the Samaritan’s Purse Gift Event on November 23rd, 2022",
+        "hours": 2.0,
+        "date": "December 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "EAST PITTSBURGH BRANCH HELPS LAY FRESH MULCH OVER CHILDREN’S PLAYGROUND",
+        "hours": 3.0,
+        "date": "October 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Helps Carry Flag and Give Out Candy For July 4th March",
+        "hours": 3.0,
+        "date": "July 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Members Help Out With a Police Car Wash",
+        "hours": 3.0,
+        "date": "June 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Group Volunteers At Food Bank (August 15th+16th)",
+        "hours": 4.0,
+        "date": "August 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Helps Dr. Ming Wang’s Charity Fundraising Event",
+        "hours": 4.0,
+        "date": "August 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsbugh Aylus Branch Helps Local Food Bank Pack Bread Items",
+        "hours": 2.0,
+        "date": "July 8, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joshua Chen": {
+    "userId": "Joshua Chen",
+    "username": "Joshua Chen",
+    "totalHours": 64.25,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh AYLUS Helps With Local Food Bank Conveyor Belt Line.",
+        "hours": 2.0,
+        "date": "November 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch volunteers during Fourth of July Parade",
+        "hours": 2.0,
+        "date": "July 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteers At Murrysville Community Library’s Christmas Holiday Event December 4th, 2023",
+        "hours": 4.5,
+        "date": "December 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh AYLUS Once Again Participates in the Samaritan’s Purse Gift Event (11/11/2023)",
+        "hours": 3.5,
+        "date": "November 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Helps Pack Boxes At Local Food Bank",
+        "hours": 3.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "The East Pittsburgh Aylus Branch Help Local Food Bank Make Boxes And Pack Food",
+        "hours": 2.0,
+        "date": "July 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Local Food Bank Pack Vegtables and Fruits.",
+        "hours": 2.25,
+        "date": "July 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Westmoreland Food Bank Make Boxes",
+        "hours": 2.0,
+        "date": "July 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Once Again Helps Out The Westmoreland Food Bank To Pack Food",
+        "hours": 2.0,
+        "date": "July 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Helps Food Bank Pack Boxes (6/28/2023)",
+        "hours": 2.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Wash Police Cars (6/14/2023)",
+        "hours": 3.0,
+        "date": "June 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Makes Flowers To Hand Out On Mothers Day (5/13/2023)",
+        "hours": 5.0,
+        "date": "May 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteers at local Food Bank (6/5/2023)",
+        "hours": 2.5,
+        "date": "June 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh AYLUS Participates in the Samaritan’s Purse Gift Event on November 23rd, 2022",
+        "hours": 2.0,
+        "date": "December 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Pave Parking Lot (5/6/2023)",
+        "hours": 4.0,
+        "date": "May 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "EAST PITTSBURGH BRANCH HELPS LAY FRESH MULCH OVER CHILDREN’S PLAYGROUND",
+        "hours": 2.5,
+        "date": "October 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Helps Carry Flag and Give Out Candy For July 4th March",
+        "hours": 3.0,
+        "date": "July 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Members Help Out With a Police Car Wash",
+        "hours": 3.0,
+        "date": "June 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Group Volunteers At Food Bank (August 15th+16th)",
+        "hours": 4.0,
+        "date": "August 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Pittsburgh Branch Spreads Christmas Joy to 16 Refugee Families on December 3rd, 2022",
+        "hours": 4.0,
+        "date": "December 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Helps Dr. Ming Wang’s Charity Fundraising Event",
+        "hours": 4.0,
+        "date": "August 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsbugh Aylus Branch Helps Local Food Bank Pack Bread Items",
+        "hours": 2.0,
+        "date": "July 8, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evan Chen": {
+    "userId": "Evan Chen",
+    "username": "Evan Chen",
+    "totalHours": 61.75,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh AYLUS Helps With Local Food Bank Conveyor Belt Line.",
+        "hours": 2.0,
+        "date": "November 2, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Donates Bags of Clothing (4/29/2024)",
+        "hours": 3.0,
+        "date": "May 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteers At Murrysville Community Library’s Christmas Holiday Event December 4th, 2023",
+        "hours": 3.5,
+        "date": "December 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Volunteers Participate In The Westmoreland County Food Bank Volunteer Event",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh AYLUS Once Again Participates in the Samaritan’s Purse Gift Event (11/11/2023)",
+        "hours": 2.0,
+        "date": "November 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Helps Pack Boxes At Local Food Bank",
+        "hours": 2.5,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Volunteers At Local Food Bank To Help Pack Boxes (7/22/2023)",
+        "hours": 2.5,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Once Again Helps Out The Westmoreland Food Bank To Pack Food",
+        "hours": 1.5,
+        "date": "July 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Helps Food Bank Pack Boxes (6/28/2023)",
+        "hours": 2.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Helps Westmoreland Food Bank Pack Boxes (6/24/2023)",
+        "hours": 2.75,
+        "date": "June 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Barbecues And Serves Food for Father’s Day (6/18/2023)",
+        "hours": 2.0,
+        "date": "June 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Wash Police Cars (6/14/2023)",
+        "hours": 3.0,
+        "date": "June 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Makes Flowers To Hand Out On Mothers Day (5/13/2023)",
+        "hours": 5.0,
+        "date": "May 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteers at local Food Bank (6/5/2023)",
+        "hours": 2.5,
+        "date": "June 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh AYLUS Participates in the Samaritan’s Purse Gift Event on November 23rd, 2022",
+        "hours": 2.0,
+        "date": "December 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Helps Carry Flag and Give Out Candy For July 4th March",
+        "hours": 3.0,
+        "date": "July 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Members Help Weed and Plant Flowers At Murrysville Community Park",
+        "hours": 3.0,
+        "date": "June 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Members Help Out With a Police Car Wash",
+        "hours": 3.0,
+        "date": "June 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Group Volunteers At Food Bank (August 15th+16th)",
+        "hours": 4.0,
+        "date": "August 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Pittsburgh Branch Spreads Christmas Joy to 16 Refugee Families on December 3rd, 2022",
+        "hours": 4.0,
+        "date": "December 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Helps Dr. Ming Wang’s Charity Fundraising Event",
+        "hours": 4.0,
+        "date": "August 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Aids Local Food Bank By Picking Blueberries",
+        "hours": 2.0,
+        "date": "July 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Li": {
+    "userId": "Jason Li",
+    "username": "Jason Li",
+    "totalHours": 34.0,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh Branch Donates Bags of Clothing (4/29/2024)",
+        "hours": 3.0,
+        "date": "May 8, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteers At Murrysville Community Library’s Christmas Holiday Event December 4th, 2023",
+        "hours": 1.5,
+        "date": "December 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Volunteers Participate In The Westmoreland County Food Bank Volunteer Event",
+        "hours": 2.5,
+        "date": "October 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Helps Pack Boxes At Local Food Bank",
+        "hours": 3.0,
+        "date": "November 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Local Food Bank Pack Vegtables and Fruits.",
+        "hours": 2.25,
+        "date": "July 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Westmoreland Food Bank Make Boxes",
+        "hours": 2.5,
+        "date": "July 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Helps Carry Flag and Give Out Candy For July 4th March",
+        "hours": 2.0,
+        "date": "July 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Once Again Helps Out The Westmoreland Food Bank To Pack Food",
+        "hours": 2.0,
+        "date": "July 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Helps Westmoreland Food Bank Pack Boxes (6/24/2023)",
+        "hours": 2.75,
+        "date": "June 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Wash Police Cars (6/14/2023)",
+        "hours": 3.0,
+        "date": "June 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Makes Flowers To Hand Out On Mothers Day (5/13/2023)",
+        "hours": 2.5,
+        "date": "May 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteers at local Food Bank (6/5/2023)",
+        "hours": 2.5,
+        "date": "June 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Helps Pave Parking Lot (5/6/2023)",
+        "hours": 2.5,
+        "date": "May 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Aids Local Food Bank By Picking Blueberries",
+        "hours": 2.0,
+        "date": "July 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Reagan He": {
+    "userId": "Reagan He",
+    "username": "Reagan He",
+    "totalHours": 27.0,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh Branch Volunteers At Murrysville Community Library’s Christmas Holiday Event December 4th, 2023",
+        "hours": 2.0,
+        "date": "December 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Helps Westmoreland Food Bank Pack Food (8/2/2023)",
+        "hours": 2.0,
+        "date": "August 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Volunteers At Local Food Bank To Help Pack Boxes (7/22/2023)",
+        "hours": 2.0,
+        "date": "July 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Helps Carry Flag and Give Out Candy For July 4th March",
+        "hours": 2.0,
+        "date": "July 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Aylus Branch Barbecues And Serves Food for Father’s Day (6/18/2023)",
+        "hours": 2.5,
+        "date": "June 25, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Makes Flowers To Hand Out On Mothers Day (5/13/2023)",
+        "hours": 3.5,
+        "date": "May 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Aids in the Asian Food Culture Event “Taste of Asia”",
+        "hours": 5.0,
+        "date": "May 29, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Helps Dr. Ming Wang’s Charity Fundraising Event",
+        "hours": 6.0,
+        "date": "August 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Aids Local Food Bank By Picking Blueberries",
+        "hours": 2.0,
+        "date": "July 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Quan Tian": {
+    "userId": "Quan Tian",
+    "username": "Quan Tian",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh AYLUS Once Again Participates in the Samaritan’s Purse Gift Event (11/11/2023)",
+        "hours": 2.0,
+        "date": "November 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh AYLUS Participates in the Samaritan’s Purse Gift Event on November 23rd, 2022",
+        "hours": 2.0,
+        "date": "December 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "EAST PITTSBURGH BRANCH HELPS LAY FRESH MULCH OVER CHILDREN’S PLAYGROUND",
+        "hours": 3.0,
+        "date": "October 2, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Helps Carry Flag and Give Out Candy For July 4th March",
+        "hours": 3.0,
+        "date": "July 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Members Help Out With a Police Car Wash",
+        "hours": 3.0,
+        "date": "June 20, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Pittsburgh Branch Spreads Christmas Joy to 16 Refugee Families on December 3rd, 2022",
+        "hours": 4.0,
+        "date": "December 10, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Meiling Hitchcock": {
+    "userId": "Meiling Hitchcock",
+    "username": "Meiling Hitchcock",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh Branch Helps Westmoreland Food Bank Pack Food (8/2/2023)",
+        "hours": 2.0,
+        "date": "August 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Aylus Pittsburgh Branch Helps Dr. Ming Wang’s Charity Fundraising Event",
+        "hours": 4.0,
+        "date": "August 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Chen": {
+    "userId": "Jason Chen",
+    "username": "Jason Chen",
+    "totalHours": 28.5,
+    "entries": [
+      {
+        "eventName": "AYLUS East Pittsburgh Garden Work for a local Church",
+        "hours": 2.0,
+        "date": "July 16, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 6.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Participated in Assembling Food Boxes At Westmoreland County Food Bank on July 18th, 2020",
+        "hours": 2.5,
+        "date": "July 18, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Packing Food at Westmoreland County Food Bank on July 2nd, 2020",
+        "hours": 2.0,
+        "date": "July 3, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Volunteers from East Pittsburgh Consistently Help out at Westmoreland Food Bank",
+        "hours": 8.0,
+        "date": "August 8, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteering at Westmoreland County Food Bank on June 29, 2020",
+        "hours": 2.0,
+        "date": "June 30, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 6.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kiyara Sawyers": {
+    "userId": "Kiyara Sawyers",
+    "username": "Kiyara Sawyers",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 1.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 1.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dietrich Zeisloft": {
+    "userId": "Dietrich Zeisloft",
+    "username": "Dietrich Zeisloft",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 1.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Volunteers from East Pittsburgh Consistently Help out at Westmoreland Food Bank",
+        "hours": 2.0,
+        "date": "August 8, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 1.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christa Davey": {
+    "userId": "Christa Davey",
+    "username": "Christa Davey",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 5.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Packing Food at Westmoreland County Food Bank on July 2nd, 2020",
+        "hours": 2.0,
+        "date": "July 3, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 5.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jacob Davey": {
+    "userId": "Jacob Davey",
+    "username": "Jacob Davey",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 5.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "East Pittsburgh Branch Volunteering at Westmoreland County Food Bank on June 29, 2020",
+        "hours": 2.0,
+        "date": "June 30, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS East Pittsburgh Branch Makes Cards for Mother’s Day",
+        "hours": 5.0,
+        "date": "May 9, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Prerit Yadav": {
+    "userId": "Prerit Yadav",
+    "username": "Prerit Yadav",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "East Pittsburgh Branch Participated in Assembling Food Boxes At Westmoreland County Food Bank on July 18th, 2020",
+        "hours": 2.5,
+        "date": "July 18, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Volunteers from East Pittsburgh Consistently Help out at Westmoreland Food Bank",
+        "hours": 4.0,
+        "date": "August 8, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kiyara Sawers": {
+    "userId": "Kiyara Sawers",
+    "username": "Kiyara Sawers",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS East Pittsburgh Packing Food at Westmoreland County Food Bank on July 2nd, 2020",
+        "hours": 2.0,
+        "date": "July 3, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

@@ -1,0 +1,1028 @@
+{
+  "Rachel Truong": {
+    "userId": "Rachel Truong",
+    "username": "Rachel Truong",
+    "totalHours": 17.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 2/15/2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Friends of Accotink Creek Pickett Road Event 10/11/2025",
+        "hours": 2.0,
+        "date": "October 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/9/2025",
+        "hours": 2.0,
+        "date": "August 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Pediatric Therapy Studio Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – CAPA NoVA’s Fall Community Fair 9/28/2024",
+        "hours": 6.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "William Tian": {
+    "userId": "William Tian",
+    "username": "William Tian",
+    "totalHours": 34.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 2/15/2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packaging Tomatoes 6/20/2026",
+        "hours": 1.5,
+        "date": "July 3, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/1/2026",
+        "hours": 2.0,
+        "date": "August 2, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Friends of Accotink Creek Pickett Road Event 10/11/2025",
+        "hours": 2.0,
+        "date": "October 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/9/2025",
+        "hours": 2.0,
+        "date": "August 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Pediatric Therapy Studio Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Autism Reimagined Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packing Broccoli 11/4/24",
+        "hours": 1.5,
+        "date": "November 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – CAPA NoVA’s Fall Community Fair 9/28/2024",
+        "hours": 8.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Volunteer at the Clock Tower Thrift Shop 8/11/2024",
+        "hours": 3.0,
+        "date": "August 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Ma": {
+    "userId": "Michael Ma",
+    "username": "Michael Ma",
+    "totalHours": 19.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 2/15/2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Friends of Accotink Creek Pickett Road Event 10/11/2025",
+        "hours": 2.0,
+        "date": "October 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Pediatric Therapy Studio Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Autism Reimagined Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packing Broccoli 11/4/24",
+        "hours": 1.5,
+        "date": "November 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – CAPA NoVA’s Fall Community Fair 9/28/2024",
+        "hours": 6.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabella Xue": {
+    "userId": "Isabella Xue",
+    "username": "Isabella Xue",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 2/15/2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – CAPA NoVA’s Fall Community Fair 9/28/2024",
+        "hours": 6.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rachel Wu": {
+    "userId": "Rachel Wu",
+    "username": "Rachel Wu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 2/15/2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Julianna Sun": {
+    "userId": "Julianna Sun",
+    "username": "Julianna Sun",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 2/15/2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/1/2026",
+        "hours": 2.0,
+        "date": "August 2, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Pediatric Therapy Studio Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Autism Reimagined Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aliana Yee": {
+    "userId": "Aliana Yee",
+    "username": "Aliana Yee",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 2/15/2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packaging Tomatoes 6/20/2026",
+        "hours": 1.5,
+        "date": "July 3, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alicia Yee": {
+    "userId": "Alicia Yee",
+    "username": "Alicia Yee",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 2/15/2026",
+        "hours": 2.0,
+        "date": "February 22, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packaging Tomatoes 6/20/2026",
+        "hours": 1.5,
+        "date": "July 3, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Harry Bai": {
+    "userId": "Harry Bai",
+    "username": "Harry Bai",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/1/2026",
+        "hours": 2.0,
+        "date": "August 2, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zoey Gu": {
+    "userId": "Zoey Gu",
+    "username": "Zoey Gu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/1/2026",
+        "hours": 2.0,
+        "date": "August 2, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jay Sun": {
+    "userId": "Jay Sun",
+    "username": "Jay Sun",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/1/2026",
+        "hours": 2.0,
+        "date": "August 2, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Justin Yuan": {
+    "userId": "Justin Yuan",
+    "username": "Justin Yuan",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/1/2026",
+        "hours": 1.0,
+        "date": "August 2, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – CAPA NoVA’s Fall Community Fair 9/28/2024",
+        "hours": 6.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Raeka Zhang": {
+    "userId": "Raeka Zhang",
+    "username": "Raeka Zhang",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Amber Jin": {
+    "userId": "Amber Jin",
+    "username": "Amber Jin",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/9/2025",
+        "hours": 2.0,
+        "date": "August 11, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Tian": {
+    "userId": "Eric Tian",
+    "username": "Eric Tian",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ike Chen": {
+    "userId": "Ike Chen",
+    "username": "Ike Chen",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Zheng": {
+    "userId": "Jason Zheng",
+    "username": "Jason Zheng",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jack Zheng": {
+    "userId": "Jack Zheng",
+    "username": "Jack Zheng",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Oliver Lu": {
+    "userId": "Oliver Lu",
+    "username": "Oliver Lu",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aric Chen": {
+    "userId": "Aric Chen",
+    "username": "Aric Chen",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Jin": {
+    "userId": "Michael Jin",
+    "username": "Michael Jin",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaylie Liu": {
+    "userId": "Kaylie Liu",
+    "username": "Kaylie Liu",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Manyu Luo": {
+    "userId": "Manyu Luo",
+    "username": "Manyu Luo",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophia Zhang": {
+    "userId": "Sophia Zhang",
+    "username": "Sophia Zhang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Harry Xu": {
+    "userId": "Harry Xu",
+    "username": "Harry Xu",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eileen Ruan": {
+    "userId": "Eileen Ruan",
+    "username": "Eileen Ruan",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Lin": {
+    "userId": "Andrew Lin",
+    "username": "Andrew Lin",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Washington Chinese Cultural Festival 8/30/2025",
+        "hours": 5.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lucas Shen": {
+    "userId": "Lucas Shen",
+    "username": "Lucas Shen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grace Yuan": {
+    "userId": "Grace Yuan",
+    "username": "Grace Yuan",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – CAPA NoVA’s Fall Community Fair 9/28/2024",
+        "hours": 6.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Shen": {
+    "userId": "Kevin Shen",
+    "username": "Kevin Shen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Holy Cross Hospital Event 8/12/2025",
+        "hours": 4.0,
+        "date": "August 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Melody Cui": {
+    "userId": "Melody Cui",
+    "username": "Melody Cui",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/9/2025",
+        "hours": 2.0,
+        "date": "August 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Pediatric Therapy Studio Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Autism Reimagined Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rachel Wang": {
+    "userId": "Rachel Wang",
+    "username": "Rachel Wang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Recording Audio for the Disabled Event 8/9/2025",
+        "hours": 2.0,
+        "date": "August 11, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nima Shadpour": {
+    "userId": "Nima Shadpour",
+    "username": "Nima Shadpour",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Pediatric Therapy Studio Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Noam Gottesman": {
+    "userId": "Noam Gottesman",
+    "username": "Noam Gottesman",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – Autism Reimagined Center AYLUS Event 6/7/25",
+        "hours": 1.5,
+        "date": "June 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hanna Xue": {
+    "userId": "Hanna Xue",
+    "username": "Hanna Xue",
+    "totalHours": 12.5,
+    "entries": [
+      {
+        "eventName": "Fairfax Branch – AFAC Volunteer Event: Packing Broccoli 11/4/24",
+        "hours": 1.5,
+        "date": "November 5, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – CAPA NoVA’s Fall Community Fair 9/28/2024",
+        "hours": 8.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Fairfax Branch – Volunteer at the Clock Tower Thrift Shop 8/11/2024",
+        "hours": 3.0,
+        "date": "August 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Tao": {
+    "userId": "Emma Tao",
+    "username": "Emma Tao",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Mclean Branch Burke Lake Environmental Clean Up 05/31/2025",
+        "hours": 1.5,
+        "date": "June 1, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Tsao": {
+    "userId": "Emma Tsao",
+    "username": "Emma Tsao",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Mclean Branch Burke Lake Environmental Clean Up 05/31/2025",
+        "hours": 1.5,
+        "date": "June 1, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emma Zhang": {
+    "userId": "Emma Zhang",
+    "username": "Emma Zhang",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Mclean Branch Burke Lake Environmental Clean Up 05/31/2025",
+        "hours": 1.5,
+        "date": "June 1, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lexin Zhu": {
+    "userId": "Lexin Zhu",
+    "username": "Lexin Zhu",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Mclean Branch Burke Lake Environmental Clean Up 05/31/2025",
+        "hours": 1.5,
+        "date": "June 1, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Tao": {
+    "userId": "Sarah Tao",
+    "username": "Sarah Tao",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Mclean Branch Burke Lake Environmental Clean Up 05/31/2025",
+        "hours": 1.5,
+        "date": "June 1, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brenna Li": {
+    "userId": "Brenna Li",
+    "username": "Brenna Li",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Columbus member helps to pack and ship T shirt orders to 8 branches (6/2/2023)",
+        "hours": 8.0,
+        "date": "June 3, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Huang": {
+    "userId": "Alan Huang",
+    "username": "Alan Huang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jasmine Chen": {
+    "userId": "Jasmine Chen",
+    "username": "Jasmine Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leo Cheng": {
+    "userId": "Leo Cheng",
+    "username": "Leo Cheng",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Leung": {
+    "userId": "Ryan Leung",
+    "username": "Ryan Leung",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "John Thach": {
+    "userId": "John Thach",
+    "username": "John Thach",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tommy Tang": {
+    "userId": "Tommy Tang",
+    "username": "Tommy Tang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jessica Albrecht": {
+    "userId": "Jessica Albrecht",
+    "username": "Jessica Albrecht",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ru Xue Jiang": {
+    "userId": "Ru Xue Jiang",
+    "username": "Ru Xue Jiang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophie Liu": {
+    "userId": "Sophie Liu",
+    "username": "Sophie Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Elvis Li": {
+    "userId": "Elvis Li",
+    "username": "Elvis Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Victoria Huang": {
+    "userId": "Victoria Huang",
+    "username": "Victoria Huang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Syosset Celebrates New Year with Performace at Times Square 2022 Ball Drop Opening Show",
+        "hours": 2.0,
+        "date": "January 17, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

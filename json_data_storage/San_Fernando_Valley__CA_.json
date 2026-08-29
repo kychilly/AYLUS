@@ -1,0 +1,1418 @@
+{
+  "Max Gorodetzki": {
+    "userId": "Max Gorodetzki",
+    "username": "Max Gorodetzki",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Park Cleanup of Chaparral Park on January 26th, 2024",
+        "hours": 1.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gabriel Beltran": {
+    "userId": "Gabriel Beltran",
+    "username": "Gabriel Beltran",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Park Cleanup of Chaparral Park on January 26th, 2024",
+        "hours": 1.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Participates in Nothin’ but Sand Beach Cleanup",
+        "hours": 2.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "George Wang": {
+    "userId": "George Wang",
+    "username": "George Wang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Park Cleanup of Chaparral Park on January 26th, 2024",
+        "hours": 1.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers at the Great Race of Agoura Hills",
+        "hours": 2.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Potluck Fundraiser and Donates Food to Librarians on December 29th, 2022",
+        "hours": 1.0,
+        "date": "December 31, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Vaibhav Sridhar": {
+    "userId": "Vaibhav Sridhar",
+    "username": "Vaibhav Sridhar",
+    "totalHours": 13.66,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Park Cleanup of Chaparral Park on January 26th, 2024",
+        "hours": 1.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.16,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Hosts Park Cleanup of Deerhill Park on August 25, 2023”",
+        "hours": 1.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers at Los Angeles Regional Food Bank on June 21st, 2023",
+        "hours": 4.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on January 15th, 2023",
+        "hours": 1.0,
+        "date": "January 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Potluck Fundraiser and Donates Food to Librarians on December 29th, 2022",
+        "hours": 1.0,
+        "date": "December 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Helps in American Cancer Society’s Relay for Life of 2022 on October 1st, 2022",
+        "hours": 2.5,
+        "date": "October 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Branch Hosts Cleanup of Oak Canyon Community Park on Earth Day (4/22/2023)",
+        "hours": 1.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Subhash Srinivasa": {
+    "userId": "Subhash Srinivasa",
+    "username": "Subhash Srinivasa",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Park Cleanup of Chaparral Park on January 26th, 2024",
+        "hours": 1.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.5,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers at Los Angeles Regional Food Bank on June 21st, 2023",
+        "hours": 4.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Valley Assists Safe Passage Families in Lunar New Year Celebration on February 4th, 2023",
+        "hours": 3.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on January 15th, 2023",
+        "hours": 1.0,
+        "date": "January 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Helps in American Cancer Society’s Relay for Life of 2022 on October 1st, 2022",
+        "hours": 2.5,
+        "date": "October 1, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Xie": {
+    "userId": "Jason Xie",
+    "username": "Jason Xie",
+    "totalHours": 54.75,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Park Cleanup of Chaparral Park on January 26th, 2024",
+        "hours": 1.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers at the Great Race of Agoura Hills",
+        "hours": 2.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers at Los Angeles Regional Food Bank on June 21st, 2023",
+        "hours": 4.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Valley Hosts Book Drive with Welby Way Elementary School and Ships to Books for Africa in March 2023",
+        "hours": 3.0,
+        "date": "March 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Valley Assists Safe Passage Families in Lunar New Year Celebration on February 4th, 2023",
+        "hours": 4.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on January 15th, 2023",
+        "hours": 1.0,
+        "date": "January 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Potluck Fundraiser and Donates Food to Librarians on December 29th, 2022",
+        "hours": 1.0,
+        "date": "December 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Helps in American Cancer Society’s Relay for Life of 2022 on October 1st, 2022",
+        "hours": 2.5,
+        "date": "October 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Collects Cards from Neighborhood and Donates to Local Senior Center on July 31st, 2022",
+        "hours": 4.0,
+        "date": "August 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Reyes Adobe Park on July 10th, 2022",
+        "hours": 1.0,
+        "date": "July 11, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Shadow Ranch Community Park on June 5th, 2022",
+        "hours": 1.5,
+        "date": "June 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Plants Together With Oak Park Community in “Monarch Day in Action” on March 19th, 2022",
+        "hours": 0.5,
+        "date": "March 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Rock of the Valley Food Bank Sort Food Into Boxes For Distribution on April 12...",
+        "hours": 2.5,
+        "date": "April 14, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Cleanup of Shadow Ranch Community Park on January 30th, 2022",
+        "hours": 1.0,
+        "date": "February 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Rock of the Valley Food Bank Sort Food Into Boxes For Distribution on December...",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Pack and Sort Food at Valley Food Bank on November 24, 2021",
+        "hours": 2.0,
+        "date": "November 24, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on Oct 24th, 2021",
+        "hours": 1.0,
+        "date": "October 26, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on August 15th, 2021",
+        "hours": 1.0,
+        "date": "August 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Organizes Cleanup of Reseda Community Park on September 26, 2021",
+        "hours": 1.25,
+        "date": "September 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Participates in AYLUS National Conference (Community Service and College Application Panel)...",
+        "hours": 2.0,
+        "date": "August 1, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on July 17th, 2021",
+        "hours": 1.0,
+        "date": "July 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteer at Royal Garden Senior Living Center in Valley Glen on June 19th, 2021",
+        "hours": 1.0,
+        "date": "June 21, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Spreads Ocean Awareness in May 2021",
+        "hours": 2.5,
+        "date": "June 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Donates to Salvation Army Donation Center in Canoga Park on April 30th, 2021",
+        "hours": 1.0,
+        "date": "May 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Book Drive and Donates to Salvation Army Donation Center in Canoga Park on January 24...",
+        "hours": 1.0,
+        "date": "January 25, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Teams Up with GoFundMe to #SpreadSchoolOnWheels in December, 2020",
+        "hours": 2.5,
+        "date": "December 28, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Organizes Cleanup of Reseda Community Park on November 29",
+        "hours": 1.5,
+        "date": "November 29, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Cleanup of Shadow Ranch Community Park on Sep 7",
+        "hours": 1.5,
+        "date": "September 7, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assists Community Distribution Center Food Bank on October 17",
+        "hours": 1.5,
+        "date": "October 18, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Branch Hosts Cleanup of Oak Canyon Community Park on Earth Day (4/22/2023)",
+        "hours": 1.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Owen Hansen": {
+    "userId": "Owen Hansen",
+    "username": "Owen Hansen",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers at the Great Race of Agoura Hills",
+        "hours": 2.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 6.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angel Wan": {
+    "userId": "Angel Wan",
+    "username": "Angel Wan",
+    "totalHours": 3.16,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.16,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Hosts Park Cleanup of Deerhill Park on August 25, 2023”",
+        "hours": 1.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "David Wan": {
+    "userId": "David Wan",
+    "username": "David Wan",
+    "totalHours": 14.16,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.16,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Hosts Park Cleanup of Deerhill Park on August 25, 2023”",
+        "hours": 1.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers at Los Angeles Regional Food Bank on June 21st, 2023",
+        "hours": 4.0,
+        "date": "June 28, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Valley Hosts Book Drive with Welby Way Elementary School and Ships to Books for Africa in March 2023",
+        "hours": 1.0,
+        "date": "March 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Valley Assists Safe Passage Families in Lunar New Year Celebration on February 4th, 2023",
+        "hours": 4.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Potluck Fundraiser and Donates Food to Librarians on December 29th, 2022",
+        "hours": 1.0,
+        "date": "December 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Branch Hosts Cleanup of Oak Canyon Community Park on Earth Day (4/22/2023)",
+        "hours": 1.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evelyn Gelman": {
+    "userId": "Evelyn Gelman",
+    "username": "Evelyn Gelman",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gabriel Beltran Castillo": {
+    "userId": "Gabriel Beltran Castillo",
+    "username": "Gabriel Beltran Castillo",
+    "totalHours": 2.33,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.33,
+        "date": "December 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helena Heshmatipour": {
+    "userId": "Helena Heshmatipour",
+    "username": "Helena Heshmatipour",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nicolas Storch": {
+    "userId": "Nicolas Storch",
+    "username": "Nicolas Storch",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "“AYLUS San Fernando Valley Hosts Park Cleanup of Deerhill Park on August 25, 2023”",
+        "hours": 1.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on January 15th, 2023",
+        "hours": 1.0,
+        "date": "January 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Potluck Fundraiser and Donates Food to Librarians on December 29th, 2022",
+        "hours": 1.0,
+        "date": "December 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Helps in American Cancer Society’s Relay for Life of 2022 on October 1st, 2022",
+        "hours": 2.5,
+        "date": "October 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Collects Cards from Neighborhood and Donates to Local Senior Center on July 31st, 2022",
+        "hours": 4.0,
+        "date": "August 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Shadow Ranch Community Park on June 5th, 2022",
+        "hours": 1.5,
+        "date": "June 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Plants Together With Oak Park Community in “Monarch Day in Action” on March 19th, 2022",
+        "hours": 1.0,
+        "date": "March 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Rock of the Valley Food Bank Sort Food Into Boxes For Distribution on December...",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Benjamin Kozikaro Sanchez": {
+    "userId": "Benjamin Kozikaro Sanchez",
+    "username": "Benjamin Kozikaro Sanchez",
+    "totalHours": 34.5,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on July 23, 2023”",
+        "hours": 1.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Valley Hosts Book Drive with Welby Way Elementary School and Ships to Books for Africa in March 2023",
+        "hours": 3.0,
+        "date": "March 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Valley Assists Safe Passage Families in Lunar New Year Celebration on February 4th, 2023",
+        "hours": 4.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on January 15th, 2023",
+        "hours": 1.0,
+        "date": "January 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Potluck Fundraiser and Donates Food to Librarians on December 29th, 2022",
+        "hours": 1.0,
+        "date": "December 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Collects Cards from Neighborhood and Donates to Local Senior Center on July 31st, 2022",
+        "hours": 5.0,
+        "date": "August 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Reyes Adobe Park on July 10th, 2022",
+        "hours": 1.0,
+        "date": "July 11, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Cleanup of Shadow Ranch Community Park on January 30th, 2022",
+        "hours": 1.0,
+        "date": "February 7, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Rock of the Valley Food Bank Sort Food Into Boxes For Distribution on December...",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Pack and Sort Food at Valley Food Bank on November 24, 2021",
+        "hours": 1.5,
+        "date": "November 24, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on Oct 24th, 2021",
+        "hours": 1.0,
+        "date": "October 26, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on August 15th, 2021",
+        "hours": 1.0,
+        "date": "August 15, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on July 17th, 2021",
+        "hours": 1.0,
+        "date": "July 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Spreads Ocean Awareness in May 2021",
+        "hours": 2.5,
+        "date": "June 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Donates to Salvation Army Donation Center in Canoga Park on April 30th, 2021",
+        "hours": 1.0,
+        "date": "May 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Book Drive and Donates to Salvation Army Donation Center in Canoga Park on January 24...",
+        "hours": 1.0,
+        "date": "January 25, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Teams Up with GoFundMe to #SpreadSchoolOnWheels in December, 2020",
+        "hours": 2.0,
+        "date": "December 28, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Organizes Cleanup of Reseda Community Park on November 29",
+        "hours": 1.5,
+        "date": "November 29, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Cleanup of Shadow Ranch Community Park on Sep 7",
+        "hours": 1.5,
+        "date": "September 7, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assists Community Distribution Center Food Bank on October 17",
+        "hours": 1.5,
+        "date": "October 18, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Natalie Tu": {
+    "userId": "Natalie Tu",
+    "username": "Natalie Tu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Volunteers in American Cancer Society’s Relay for Life of 2023 on September 30, 2023”",
+        "hours": 2.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniel Lahmanchuk": {
+    "userId": "Daniel Lahmanchuk",
+    "username": "Daniel Lahmanchuk",
+    "totalHours": 1.25,
+    "entries": [
+      {
+        "eventName": "“AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on July 23, 2023”",
+        "hours": 1.0,
+        "date": "December 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Valley Hosts Book Drive with Welby Way Elementary School and Ships to Books for Africa in March 2023",
+        "hours": 0.25,
+        "date": "March 26, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Vaibhav Sridhar MO": {
+    "userId": "Vaibhav Sridhar MO",
+    "username": "Vaibhav Sridhar MO",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers in CicLAvia Event in the Valley on February 26th, 2023",
+        "hours": 2.5,
+        "date": "March 4, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jason Xie AN": {
+    "userId": "Jason Xie AN",
+    "username": "Jason Xie AN",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteers in CicLAvia Event in the Valley on February 26th, 2023",
+        "hours": 2.5,
+        "date": "March 4, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aaron Hekmatjah": {
+    "userId": "Aaron Hekmatjah",
+    "username": "Aaron Hekmatjah",
+    "totalHours": 21.25,
+    "entries": [
+      {
+        "eventName": "San Fernando Valley Hosts Book Drive with Welby Way Elementary School and Ships to Books for Africa in March 2023",
+        "hours": 2.0,
+        "date": "March 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on January 15th, 2023",
+        "hours": 1.0,
+        "date": "January 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Potluck Fundraiser and Donates Food to Librarians on December 29th, 2022",
+        "hours": 1.0,
+        "date": "December 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Helps in American Cancer Society’s Relay for Life of 2022 on October 1st, 2022",
+        "hours": 2.5,
+        "date": "October 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Collects Cards from Neighborhood and Donates to Local Senior Center on July 31st, 2022",
+        "hours": 4.0,
+        "date": "August 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Reyes Adobe Park on July 10th, 2022",
+        "hours": 1.5,
+        "date": "July 11, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Shadow Ranch Community Park on June 5th, 2022",
+        "hours": 1.5,
+        "date": "June 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Plants Together With Oak Park Community in “Monarch Day in Action” on March 19th, 2022",
+        "hours": 1.5,
+        "date": "March 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Rock of the Valley Food Bank Sort Food Into Boxes For Distribution on April 12...",
+        "hours": 2.5,
+        "date": "April 14, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Pack and Sort Food at Valley Food Bank on November 24, 2021",
+        "hours": 1.5,
+        "date": "November 24, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on Oct 24th, 2021",
+        "hours": 1.0,
+        "date": "October 26, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Organizes Cleanup of Reseda Community Park on September 26, 2021",
+        "hours": 1.25,
+        "date": "September 27, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Oren Hekmatjah": {
+    "userId": "Oren Hekmatjah",
+    "username": "Oren Hekmatjah",
+    "totalHours": 7.75,
+    "entries": [
+      {
+        "eventName": "San Fernando Valley Hosts Book Drive with Welby Way Elementary School and Ships to Books for Africa in March 2023",
+        "hours": 1.0,
+        "date": "March 26, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on January 15th, 2023",
+        "hours": 1.0,
+        "date": "January 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Helps in American Cancer Society’s Relay for Life of 2022 on October 1st, 2022",
+        "hours": 2.5,
+        "date": "October 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Plants Together With Oak Park Community in “Monarch Day in Action” on March 19th, 2022",
+        "hours": 1.0,
+        "date": "March 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on Oct 24th, 2021",
+        "hours": 1.0,
+        "date": "October 26, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Organizes Cleanup of Reseda Community Park on September 26, 2021",
+        "hours": 1.25,
+        "date": "September 27, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tobi Kumapayi": {
+    "userId": "Tobi Kumapayi",
+    "username": "Tobi Kumapayi",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Fernando Valley Hosts Book Drive with Welby Way Elementary School and Ships to Books for Africa in March 2023",
+        "hours": 1.0,
+        "date": "March 26, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jerry Jin": {
+    "userId": "Jerry Jin",
+    "username": "Jerry Jin",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "San Fernando Valley Assists Safe Passage Families in Lunar New Year Celebration on February 4th, 2023",
+        "hours": 4.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Marc Hua": {
+    "userId": "Marc Hua",
+    "username": "Marc Hua",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Oak Canyon Community Park on January 15th, 2023",
+        "hours": 1.0,
+        "date": "January 16, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Potluck Fundraiser and Donates Food to Librarians on December 29th, 2022",
+        "hours": 1.0,
+        "date": "December 31, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Reyes Adobe Park on July 10th, 2022",
+        "hours": 1.0,
+        "date": "July 11, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Hosts Park Cleanup of Shadow Ranch Community Park on June 5th, 2022",
+        "hours": 1.0,
+        "date": "June 6, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Plants Together With Oak Park Community in “Monarch Day in Action” on March 19th, 2022",
+        "hours": 1.0,
+        "date": "March 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Rock of the Valley Food Bank Sort Food Into Boxes For Distribution on December...",
+        "hours": 2.0,
+        "date": "January 1, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Helps Pack and Sort Food at Valley Food Bank on November 24, 2021",
+        "hours": 2.0,
+        "date": "November 24, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Participates in AYLUS National Conference (Community Service and College Application Panel)...",
+        "hours": 2.0,
+        "date": "August 1, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assist The Elderly at Royal Garden Senior Living Center in Tarzana on July 17th, 2021",
+        "hours": 1.0,
+        "date": "July 18, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Volunteer at Royal Garden Senior Living Center in Valley Glen on June 19th, 2021",
+        "hours": 1.0,
+        "date": "June 21, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Spreads Ocean Awareness in May 2021",
+        "hours": 2.5,
+        "date": "June 5, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Donates to Salvation Army Donation Center in Canoga Park on April 30th, 2021",
+        "hours": 1.0,
+        "date": "May 3, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Book Drive and Donates to Salvation Army Donation Center in Canoga Park on January 24...",
+        "hours": 1.0,
+        "date": "January 25, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Teams Up with GoFundMe to #SpreadSchoolOnWheels in December, 2020",
+        "hours": 2.0,
+        "date": "December 28, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Organizes Cleanup of Reseda Community Park on November 29",
+        "hours": 1.5,
+        "date": "November 29, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Cleanup of Shadow Ranch Community Park on Sep 7",
+        "hours": 1.5,
+        "date": "September 7, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assists Community Distribution Center Food Bank on October 17",
+        "hours": 1.5,
+        "date": "October 18, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Fernando Branch Hosts Cleanup of Oak Canyon Community Park on Earth Day (4/22/2023)",
+        "hours": 1.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Peter Monev": {
+    "userId": "Peter Monev",
+    "username": "Peter Monev",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Cleanup of Shadow Ranch Community Park on January 30th, 2022",
+        "hours": 1.0,
+        "date": "February 7, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Harshaa Balaji Researcher": {
+    "userId": "Harshaa Balaji Researcher",
+    "username": "Harshaa Balaji Researcher",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Writes and Finishes Second Part of Comprehensive Document for Middle-School Children on “Ho...",
+        "hours": 7.0,
+        "date": "March 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Writes and Finishes First Part of Comprehensive Document for Middle-School Children on “How...",
+        "hours": 6.0,
+        "date": "March 8, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Logan Weinstein Researcher": {
+    "userId": "Logan Weinstein Researcher",
+    "username": "Logan Weinstein Researcher",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Writes and Finishes Second Part of Comprehensive Document for Middle-School Children on “Ho...",
+        "hours": 5.0,
+        "date": "March 27, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Writes and Finishes First Part of Comprehensive Document for Middle-School Children on “How...",
+        "hours": 4.0,
+        "date": "March 8, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Logan Weinstein": {
+    "userId": "Logan Weinstein",
+    "username": "Logan Weinstein",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS San Fernando Valley Branch Teams Up with GoFundMe to #SpreadSchoolOnWheels in December, 2020",
+        "hours": 2.0,
+        "date": "December 28, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Hosts Cleanup of Shadow Ranch Community Park on Sep 7",
+        "hours": 1.5,
+        "date": "September 7, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS San Fernando Valley Assists Community Distribution Center Food Bank on October 17",
+        "hours": 1.5,
+        "date": "October 18, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Paria Vahdat": {
+    "userId": "Paria Vahdat",
+    "username": "Paria Vahdat",
+    "totalHours": 13.5,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Volunteers at Calles Verdes Tree Planting in San Fernando | November 2, 2024",
+        "hours": 3.0,
+        "date": "November 10, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS North Hollywood Volunteers at Calles Verdes Tree Planting in San Fernando | October 19, 2024",
+        "hours": 4.0,
+        "date": "October 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS North Hollywood Fundraises for Sack Lunches for the Homeless | March 14-28, 2025",
+        "hours": 6.5,
+        "date": "April 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kayla Arvisu": {
+    "userId": "Kayla Arvisu",
+    "username": "Kayla Arvisu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Volunteers at Calles Verdes Tree Planting in San Fernando | November 2, 2024",
+        "hours": 3.0,
+        "date": "November 10, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gideon Said": {
+    "userId": "Gideon Said",
+    "username": "Gideon Said",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Volunteers at Calles Verdes Tree Planting in San Fernando | October 19, 2024",
+        "hours": 4.0,
+        "date": "October 22, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pi Day": {
+    "userId": "Pi Day",
+    "username": "Pi Day",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Fundraises for Sack Lunches for the Homeless | March 14-28, 2025",
+        "hours": 14.0,
+        "date": "April 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan De Guzman": {
+    "userId": "Ethan De Guzman",
+    "username": "Ethan De Guzman",
+    "totalHours": 7.5,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Fundraises for Sack Lunches for the Homeless | March 14-28, 2025",
+        "hours": 7.5,
+        "date": "April 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alessandra Villamor": {
+    "userId": "Alessandra Villamor",
+    "username": "Alessandra Villamor",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Fundraises for Sack Lunches for the Homeless | March 14-28, 2025",
+        "hours": 6.5,
+        "date": "April 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ellice Kim": {
+    "userId": "Ellice Kim",
+    "username": "Ellice Kim",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Fundraises for Sack Lunches for the Homeless | March 14-28, 2025",
+        "hours": 6.5,
+        "date": "April 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Liaison Officer": {
+    "userId": "Liaison Officer",
+    "username": "Liaison Officer",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Fundraises for Sack Lunches for the Homeless | March 14-28, 2025",
+        "hours": 6.5,
+        "date": "April 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evan Goodman": {
+    "userId": "Evan Goodman",
+    "username": "Evan Goodman",
+    "totalHours": 6.5,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Fundraises for Sack Lunches for the Homeless | March 14-28, 2025",
+        "hours": 6.5,
+        "date": "April 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Noah Nguyen": {
+    "userId": "Noah Nguyen",
+    "username": "Noah Nguyen",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS North Hollywood Fundraises for Sack Lunches for the Homeless | March 14-28, 2025",
+        "hours": 5.0,
+        "date": "April 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Henry Sun": {
+    "userId": "Henry Sun",
+    "username": "Henry Sun",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 4.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Derek Liu": {
+    "userId": "Derek Liu",
+    "username": "Derek Liu",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 4.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yufei Liu": {
+    "userId": "Yufei Liu",
+    "username": "Yufei Liu",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 4.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aiden Ji": {
+    "userId": "Aiden Ji",
+    "username": "Aiden Ji",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 4.0,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ShengSheng Zhang": {
+    "userId": "ShengSheng Zhang",
+    "username": "ShengSheng Zhang",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 3.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pengpeng Zhang": {
+    "userId": "Pengpeng Zhang",
+    "username": "Pengpeng Zhang",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 3.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Zhang": {
+    "userId": "Ethan Zhang",
+    "username": "Ethan Zhang",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 4.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Matthew Zhang": {
+    "userId": "Matthew Zhang",
+    "username": "Matthew Zhang",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 4.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Danny Wang": {
+    "userId": "Danny Wang",
+    "username": "Danny Wang",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS RSM Cross line Church food pantry volunteer April 2nd 2024",
+        "hours": 4.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

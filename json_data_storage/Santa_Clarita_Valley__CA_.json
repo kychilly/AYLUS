@@ -1,0 +1,23 @@
+{
+  "Arbor Day": {
+    "userId": "Arbor Day",
+    "username": "Arbor Day",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Santa Clarita Valley Branch joined Neighborhood Clean-Up event on Apr. 29, 2023",
+        "hours": 8.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Santa Clarita Valley Branch joined Neighborhood Clean-Up event on Apr. 29, 2023",
+        "hours": 8.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

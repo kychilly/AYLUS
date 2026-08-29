@@ -1,0 +1,47 @@
+{
+  "Brian Xiong": {
+    "userId": "Brian Xiong",
+    "username": "Brian Xiong",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Provides Food to Local Families Through NOSH Delivery! Food Pantry (14th) on July 23rd, 2024",
+        "hours": 4.0,
+        "date": "July 26, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Xiong": {
+    "userId": "Eric Xiong",
+    "username": "Eric Xiong",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Provides Food to Local Families Through NOSH Delivery! Food Pantry (14th) on July 23rd, 2024",
+        "hours": 4.0,
+        "date": "July 26, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kacie Li": {
+    "userId": "Kacie Li",
+    "username": "Kacie Li",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Roslyn Provides Food to Local Families Through NOSH Delivery! Food Pantry (14th) on July 23rd, 2024",
+        "hours": 4.0,
+        "date": "July 26, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "Elissa Song": {
+    "userId": "Elissa Song",
+    "username": "Elissa Song",
+    "totalHours": 28.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the 2025 Redmond Lights Event in Redmond Town Center on Dec. 06, 2025(#93)",
+        "hours": 3.0,
+        "date": "December 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days on July 25, 2026(#147)",
+        "hours": 4.5,
+        "date": "July 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington member volunteered at the Big Rock Park Central Heritage Garden On July 28, 2026(#148)",
+        "hours": 2.0,
+        "date": "July 30, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2025 Little Masters Bike-a-Thon event on Oct.5,2025(#84)",
+        "hours": 4.5,
+        "date": "October 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch participated in the 2025 Seattle Asian Cultural Gala on Sep. 20, 2025(#83)",
+        "hours": 5.0,
+        "date": "September 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the CARES 5K Walk/Run World Autism Awareness Day Event on Apr. 06, 2025(#34)",
+        "hours": 4.5,
+        "date": "April 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2024 Little Masters Bike-a-Thon event on Oct.6,2024(#4)",
+        "hours": 5.0,
+        "date": "October 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Qi": {
+    "userId": "Emily Qi",
+    "username": "Emily Qi",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the 2025 Redmond Lights Event in Redmond Town Center on Dec. 06, 2025(#93)",
+        "hours": 3.0,
+        "date": "December 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch participated in the 2025 Seattle Asian Cultural Gala on Sep. 20, 2025(#83)",
+        "hours": 5.0,
+        "date": "September 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2024 Little Masters Bike-a-Thon event on Oct.6,2024(#4)",
+        "hours": 5.0,
+        "date": "October 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Redmond Derby Days Day": {
+    "userId": "Redmond Derby Days Day",
+    "username": "Redmond Derby Days Day",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days (Day 2) on July 12, 2025",
+        "hours": 2.0,
+        "date": "July 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Huang": {
+    "userId": "Eric Huang",
+    "username": "Eric Huang",
+    "totalHours": 27.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days on July 25, 2026(#147)",
+        "hours": 4.5,
+        "date": "July 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days (Day 1) on July 11, 2025",
+        "hours": 3.5,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2025 Little Masters Bike-a-Thon event on Oct.5,2025(#84)",
+        "hours": 4.5,
+        "date": "October 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch participated in the 2025 Seattle Asian Cultural Gala on Sep. 20, 2025(#83)",
+        "hours": 5.0,
+        "date": "September 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the CARES 5K Walk/Run World Autism Awareness Day Event on Apr. 06, 2025(#34)",
+        "hours": 4.5,
+        "date": "April 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2024 Little Masters Bike-a-Thon event on Oct.6,2024(#4)",
+        "hours": 5.0,
+        "date": "October 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jiayi Zhu": {
+    "userId": "Jiayi Zhu",
+    "username": "Jiayi Zhu",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days on July 25, 2026(#147)",
+        "hours": 4.5,
+        "date": "July 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2025 Little Masters Bike-a-Thon event on Oct.5,2025(#84)",
+        "hours": 5.5,
+        "date": "October 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Chen": {
+    "userId": "Kevin Chen",
+    "username": "Kevin Chen",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days on July 25, 2026(#147)",
+        "hours": 4.5,
+        "date": "July 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days (Day 1) on July 11, 2025",
+        "hours": 3.5,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2025 Little Masters Bike-a-Thon event on Oct.5,2025(#84)",
+        "hours": 4.5,
+        "date": "October 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the CARES 5K Walk/Run World Autism Awareness Day Event on Apr. 06, 2025(#34)",
+        "hours": 4.5,
+        "date": "April 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2024 Little Masters Bike-a-Thon event on Oct.6,2024(#4)",
+        "hours": 5.0,
+        "date": "October 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kerui Xu": {
+    "userId": "Kerui Xu",
+    "username": "Kerui Xu",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days on July 25, 2026(#147)",
+        "hours": 4.5,
+        "date": "July 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2025 Little Masters Bike-a-Thon event on Oct.5,2025(#84)",
+        "hours": 5.5,
+        "date": "October 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anthony Cao": {
+    "userId": "Anthony Cao",
+    "username": "Anthony Cao",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days on July 25, 2026(#147)",
+        "hours": 4.5,
+        "date": "July 26, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yufei Ye": {
+    "userId": "Yufei Ye",
+    "username": "Yufei Ye",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days on July 25, 2026(#147)",
+        "hours": 4.5,
+        "date": "July 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2025 Little Masters Bike-a-Thon event on Oct.5,2025(#84)",
+        "hours": 4.5,
+        "date": "October 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Arjun Rammohan": {
+    "userId": "Arjun Rammohan",
+    "username": "Arjun Rammohan",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days on July 25, 2026(#147)",
+        "hours": 4.5,
+        "date": "July 26, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jerry Yang": {
+    "userId": "Jerry Yang",
+    "username": "Jerry Yang",
+    "totalHours": 22.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the Redmond Derby Days (Day 1) on July 11, 2025",
+        "hours": 3.5,
+        "date": "July 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2025 Little Masters Bike-a-Thon event on Oct.5,2025(#84)",
+        "hours": 4.5,
+        "date": "October 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch participated in the 2025 Seattle Asian Cultural Gala on Sep. 20, 2025(#83)",
+        "hours": 5.0,
+        "date": "September 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at the CARES 5K Walk/Run World Autism Awareness Day Event on Apr. 06, 2025(#34)",
+        "hours": 4.5,
+        "date": "April 7, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2024 Little Masters Bike-a-Thon event on Oct.6,2024(#4)",
+        "hours": 5.0,
+        "date": "October 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Melanie Grad": {
+    "userId": "Melanie Grad",
+    "username": "Melanie Grad",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (June 21, 2026)",
+        "hours": 4.0,
+        "date": "July 4, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evelyn Lin": {
+    "userId": "Evelyn Lin",
+    "username": "Evelyn Lin",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (June 21, 2026)",
+        "hours": 2.0,
+        "date": "July 4, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Megan Liu": {
+    "userId": "Megan Liu",
+    "username": "Megan Liu",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concert for Senior Homes (November 1, 2025)",
+        "hours": 4.0,
+        "date": "November 11, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 22nd 2025)",
+        "hours": 4.0,
+        "date": "June 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xingchen Song": {
+    "userId": "Xingchen Song",
+    "username": "Xingchen Song",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch Volunteered at 2025 Little Masters Bike-a-Thon event on Oct.5,2025(#84)",
+        "hours": 5.5,
+        "date": "October 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jacky Yan": {
+    "userId": "Jacky Yan",
+    "username": "Jacky Yan",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch participated in the 2025 Seattle Asian Cultural Gala on Sep. 20, 2025(#83)",
+        "hours": 5.0,
+        "date": "September 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yuhan Song": {
+    "userId": "Yuhan Song",
+    "username": "Yuhan Song",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch participated in the 2025 Seattle Asian Cultural Gala on Sep. 20, 2025(#83)",
+        "hours": 5.0,
+        "date": "September 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Amanda Huang": {
+    "userId": "Amanda Huang",
+    "username": "Amanda Huang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Lake Washington Branch participated in the 2025 Seattle Asian Cultural Gala on Sep. 20, 2025(#83)",
+        "hours": 5.0,
+        "date": "September 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hannah Ma": {
+    "userId": "Hannah Ma",
+    "username": "Hannah Ma",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 3.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christina Liu": {
+    "userId": "Christina Liu",
+    "username": "Christina Liu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 3.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Raymond Zhu": {
+    "userId": "Raymond Zhu",
+    "username": "Raymond Zhu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 2.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Number Theory": {
+    "userId": "Number Theory",
+    "username": "Number Theory",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 8.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Algebraic Manipulations": {
+    "userId": "Algebraic Manipulations",
+    "username": "Algebraic Manipulations",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts AMC 8 Prep Class (November 2024 -January 2025).",
+        "hours": 8.0,
+        "date": "January 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Gardens Newcastle": {
+    "userId": "Aegis Gardens Newcastle",
+    "username": "Aegis Gardens Newcastle",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (October 2024)",
+        "hours": 24.0,
+        "date": "October 30, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Performance Videos": {
+    "userId": "Performance Videos",
+    "username": "Performance Videos",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (October 2024)",
+        "hours": 12.0,
+        "date": "October 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aegis Living Kirkland Waterfront": {
+    "userId": "Aegis Living Kirkland Waterfront",
+    "username": "Aegis Living Kirkland Waterfront",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ava L. Karis": {
+    "userId": "Ava L. Karis",
+    "username": "Ava L. Karis",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Albert Lu": {
+    "userId": "Albert Lu",
+    "username": "Albert Lu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 4.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ava Lo": {
+    "userId": "Ava Lo",
+    "username": "Ava Lo",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lauren Lee": {
+    "userId": "Lauren Lee",
+    "username": "Lauren Lee",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Puget Sound Hosts Concerts for Senior Homes (June 2024)",
+        "hours": 12.0,
+        "date": "August 20, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

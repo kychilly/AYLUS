@@ -1,0 +1,896 @@
+{
+  "Eric Zhou": {
+    "userId": "Eric Zhou",
+    "username": "Eric Zhou",
+    "totalHours": 77.0,
+    "entries": [
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Technology Help Clinic for Seniors",
+        "hours": 4.0,
+        "date": "May 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Partners with Jersey Cares for Community Winter Coat Drive",
+        "hours": 8.0,
+        "date": "March 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "NJ Ridgewood NJ AYLUS Hosts Technology Assistance Clinic at Broadway Senior Center on Thanksgiving 2025",
+        "hours": 2.5,
+        "date": "December 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood NJ Branch Holds Winter Clothing Drive",
+        "hours": 10.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Holds English Classes For Chinese Speakers at Ridgecrest Senior Center",
+        "hours": 19.5,
+        "date": "April 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 8.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Flat Rock Brook",
+        "hours": 5.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 3.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Ridgewood 4th of July Parade",
+        "hours": 0.5,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 6.5,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 2.5,
+        "date": "April 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Proposed Bench Cleaning Program to Ridgewood Park \u0026 Recreation Department (04/16/2024)",
+        "hours": 2.0,
+        "date": "April 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 3.0,
+        "date": "February 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Winter Clothing Drive – 11/26/2023 and 12/3/2023",
+        "hours": 2.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Cheng": {
+    "userId": "Ryan Cheng",
+    "username": "Ryan Cheng",
+    "totalHours": 60.0,
+    "entries": [
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Technology Help Clinic for Seniors",
+        "hours": 4.0,
+        "date": "May 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Partners with Jersey Cares for Community Winter Coat Drive",
+        "hours": 6.0,
+        "date": "March 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "NJ Ridgewood NJ AYLUS Hosts Technology Assistance Clinic at Broadway Senior Center on Thanksgiving 2025",
+        "hours": 2.5,
+        "date": "December 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood NJ Branch Holds Winter Clothing Drive",
+        "hours": 8.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Holds English Classes For Chinese Speakers at Ridgecrest Senior Center",
+        "hours": 7.5,
+        "date": "April 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 8.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Flat Rock Brook",
+        "hours": 5.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 6.5,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 3.5,
+        "date": "April 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Proposed Bench Cleaning Program to Ridgewood Park \u0026 Recreation Department (04/16/2024)",
+        "hours": 2.0,
+        "date": "April 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood NJ AYLUS Assists Lunar New Year Festival on 2/4/2024",
+        "hours": 6.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Winter Clothing Drive – 11/26/2023 and 12/3/2023",
+        "hours": 1.0,
+        "date": "December 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jacob Yuan": {
+    "userId": "Jacob Yuan",
+    "username": "Jacob Yuan",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Technology Help Clinic for Seniors",
+        "hours": 4.0,
+        "date": "May 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Partners with Jersey Cares for Community Winter Coat Drive",
+        "hours": 6.0,
+        "date": "March 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Ridgewood 4th of July Parade",
+        "hours": 4.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 2.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Roy Sun": {
+    "userId": "Roy Sun",
+    "username": "Roy Sun",
+    "totalHours": 39.0,
+    "entries": [
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Technology Help Clinic for Seniors",
+        "hours": 4.0,
+        "date": "May 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Partners with Jersey Cares for Community Winter Coat Drive",
+        "hours": 6.0,
+        "date": "March 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood NJ Branch Holds Winter Clothing Drive",
+        "hours": 6.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 5.5,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Ridgewood 4th of July Parade",
+        "hours": 4.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 3.5,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 2.5,
+        "date": "April 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood NJ AYLUS Assists Lunar New Year Festival on 2/4/2024",
+        "hours": 6.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 1.5,
+        "date": "February 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leo Chen Jacob Yuan": {
+    "userId": "Leo Chen Jacob Yuan",
+    "username": "Leo Chen Jacob Yuan",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Ridgewood AYLUS Hosts Follow-Up AI Workshop for Fair Lawn Seniors",
+        "hours": 4.0,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jack Yuan": {
+    "userId": "Jack Yuan",
+    "username": "Jack Yuan",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood NJ AYLUS Hosts Technology Assistance Clinic at Broadway Senior Center on Thanksgiving 2025",
+        "hours": 2.5,
+        "date": "December 29, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Justin Sheng": {
+    "userId": "Justin Sheng",
+    "username": "Justin Sheng",
+    "totalHours": 25.5,
+    "entries": [
+      {
+        "eventName": "Ridgewood NJ Branch Holds Winter Clothing Drive",
+        "hours": 7.5,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Ridgewood 4th of July Parade",
+        "hours": 4.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 4.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 4.0,
+        "date": "April 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Proposed Bench Cleaning Program to Ridgewood Park \u0026 Recreation Department (04/16/2024)",
+        "hours": 2.0,
+        "date": "April 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 1.5,
+        "date": "February 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Winter Clothing Drive – 11/26/2023 and 12/3/2023",
+        "hours": 2.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rachel Sun": {
+    "userId": "Rachel Sun",
+    "username": "Rachel Sun",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Ridgewood NJ Branch Holds Winter Clothing Drive",
+        "hours": 6.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 3.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Ridgewood 4th of July Parade",
+        "hours": 4.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 3.5,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 2.5,
+        "date": "April 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 3.0,
+        "date": "February 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Syz": {
+    "userId": "Ryan Syz",
+    "username": "Ryan Syz",
+    "totalHours": 23.5,
+    "entries": [
+      {
+        "eventName": "Ridgewood NJ Branch Holds Winter Clothing Drive",
+        "hours": 4.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 14.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 2.5,
+        "date": "April 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 3.0,
+        "date": "February 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angela Casey": {
+    "userId": "Angela Casey",
+    "username": "Angela Casey",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Ridgewood NJ Branch Holds Winter Clothing Drive",
+        "hours": 1.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 3.5,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Proposed Bench Cleaning Program to Ridgewood Park \u0026 Recreation Department (04/16/2024)",
+        "hours": 2.0,
+        "date": "April 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood NJ AYLUS Assists Lunar New Year Festival on 2/4/2024",
+        "hours": 7.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 3.0,
+        "date": "February 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Winter Clothing Drive – 11/26/2023 and 12/3/2023",
+        "hours": 2.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jack Zhang": {
+    "userId": "Jack Zhang",
+    "username": "Jack Zhang",
+    "totalHours": 23.5,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 14.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 4.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 3.0,
+        "date": "February 19, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Holds Winter Clothing Drive – 11/26/2023 and 12/3/2023",
+        "hours": 2.5,
+        "date": "December 10, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gavin Lee": {
+    "userId": "Gavin Lee",
+    "username": "Gavin Lee",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 7.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hubert Shen": {
+    "userId": "Hubert Shen",
+    "username": "Hubert Shen",
+    "totalHours": 10.5,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 7.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 3.5,
+        "date": "July 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nathan Zhang": {
+    "userId": "Nathan Zhang",
+    "username": "Nathan Zhang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 7.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leo Chen": {
+    "userId": "Leo Chen",
+    "username": "Leo Chen",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 7.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 2.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 3.0,
+        "date": "April 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Zhang": {
+    "userId": "Michael Zhang",
+    "username": "Michael Zhang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 7.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lucas Sun": {
+    "userId": "Lucas Sun",
+    "username": "Lucas Sun",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 7.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 2.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grace Sun": {
+    "userId": "Grace Sun",
+    "username": "Grace Sun",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "NJ Ridgewood AYLUS organized a Chinese New Year Performance at the Bristol Englewood Senior Center on January 29th",
+        "hours": 7.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Gao": {
+    "userId": "Ryan Gao",
+    "username": "Ryan Gao",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 5.5,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 2.5,
+        "date": "April 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fred Huang": {
+    "userId": "Fred Huang",
+    "username": "Fred Huang",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 5.5,
+        "date": "October 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Wang": {
+    "userId": "Alan Wang",
+    "username": "Alan Wang",
+    "totalHours": 5.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 2.5,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 3.0,
+        "date": "February 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Pan": {
+    "userId": "Andrew Pan",
+    "username": "Andrew Pan",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 2.0,
+        "date": "October 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Ridgewood 4th of July Parade",
+        "hours": 4.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 3.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 4.0,
+        "date": "April 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ethan Yang": {
+    "userId": "Ethan Yang",
+    "username": "Ethan Yang",
+    "totalHours": 0.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Branch Runs Garage Sale to Raise Money",
+        "hours": 0.5,
+        "date": "October 3, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nellie Po": {
+    "userId": "Nellie Po",
+    "username": "Nellie Po",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Ridgewood AYLUS Volunteers at Ridgewood 4th of July Parade",
+        "hours": 4.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Lee": {
+    "userId": "Eric Lee",
+    "username": "Eric Lee",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 3.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood NJ AYLUS Assists Lunar New Year Festival on 2/4/2024",
+        "hours": 6.0,
+        "date": "March 30, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Ridgewood AYLUS Branch Finds Donations for the Lunar New Year Festival (1/13 and 1/15/2024)",
+        "hours": 3.0,
+        "date": "February 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Max Liu": {
+    "userId": "Max Liu",
+    "username": "Max Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 2.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Enson Dong": {
+    "userId": "Enson Dong",
+    "username": "Enson Dong",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 2.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Ridgewood NJ Branch Fundraises for Bench Cleaning, 4/21/2024",
+        "hours": 2.0,
+        "date": "April 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Julia Wang": {
+    "userId": "Julia Wang",
+    "username": "Julia Wang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Cleans Countless Benches in Ridgewood Parks",
+        "hours": 2.0,
+        "date": "July 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Parks In Ridgewood NJ": {
+    "userId": "Parks In Ridgewood NJ",
+    "username": "Parks In Ridgewood NJ",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Proposed Bench Cleaning Program to Ridgewood Park \u0026 Recreation Department (04/16/2024)",
+        "hours": 1.0,
+        "date": "April 22, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Veterans Park": {
+    "userId": "Veterans Park",
+    "username": "Veterans Park",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Ridgewood Proposed Bench Cleaning Program to Ridgewood Park \u0026 Recreation Department (04/16/2024)",
+        "hours": 3.0,
+        "date": "April 22, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Zhou": {
+    "userId": "Andrew Zhou",
+    "username": "Andrew Zhou",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS West Essex – Elementary/Middle School Introductory IAC Tournament – 1/24/26",
+        "hours": 8.0,
+        "date": "January 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kenneth Wu": {
+    "userId": "Kenneth Wu",
+    "username": "Kenneth Wu",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS West Essex – Elementary/Middle School Introductory IAC Tournament – 1/24/26",
+        "hours": 8.0,
+        "date": "January 31, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

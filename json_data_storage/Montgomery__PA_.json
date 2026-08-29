@@ -1,0 +1,128 @@
+{
+  "Alejandro WM": {
+    "userId": "Alejandro WM",
+    "username": "Alejandro WM",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Warrington Branch fundraises to aid the Warrington Rotary Club on January 12",
+        "hours": 8.0,
+        "date": "March 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer He": {
+    "userId": "Summer He",
+    "username": "Summer He",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 8, 2022",
+        "hours": 2.0,
+        "date": "September 10, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 22, 2022",
+        "hours": 2.0,
+        "date": "September 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 22, 2022",
+        "hours": 2.0,
+        "date": "September 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lower Merion AYLUS Encourages Asian Americans to register to vote in the upcoming elections (Oct 1 and Oct 8th, 2022)",
+        "hours": 2.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 8, 2022",
+        "hours": 2.0,
+        "date": "September 10, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sabrina Lu": {
+    "userId": "Sabrina Lu",
+    "username": "Sabrina Lu",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bergen Branch Walks to End Alzheimer’s (11/7/2021)",
+        "hours": 1.0,
+        "date": "November 24, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Timur Gleybman": {
+    "userId": "Timur Gleybman",
+    "username": "Timur Gleybman",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Bergen Branch Walks to End Alzheimer’s (11/7/2021)",
+        "hours": 1.0,
+        "date": "November 24, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Amy Luo": {
+    "userId": "Amy Luo",
+    "username": "Amy Luo",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 22, 2022",
+        "hours": 2.0,
+        "date": "September 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Montgomery PA Branch Helps Clean Wynnefield on September 22, 2022",
+        "hours": 2.0,
+        "date": "September 26, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lower Merion AYLUS Encourages Asian Americans to register to vote in the upcoming elections (Oct 1 and Oct 8th, 2022)",
+        "hours": 2.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cynthia He": {
+    "userId": "Cynthia He",
+    "username": "Cynthia He",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Lower Merion AYLUS Encourages Asian Americans to register to vote in the upcoming elections (Oct 1 and Oct 8th, 2022)",
+        "hours": 1.0,
+        "date": "October 9, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

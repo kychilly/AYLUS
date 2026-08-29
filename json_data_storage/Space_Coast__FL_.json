@@ -1,0 +1,1016 @@
+{
+  "Cancer Awareness": {
+    "userId": "Cancer Awareness",
+    "username": "Cancer Awareness",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Hosts a Cancer Awareness Booth",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Madison Shi": {
+    "userId": "Madison Shi",
+    "username": "Madison Shi",
+    "totalHours": 48.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Hosts a Cancer Awareness Booth",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Raises Awareness for Colorectal Cancer",
+        "hours": 2.0,
+        "date": "March 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 7, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "February 23, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Raises Awareness for Cervical Cancer",
+        "hours": 2.5,
+        "date": "February 1, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at the Space Coast Marathon \u0026 Half-Marathon at Cocoa Day 1",
+        "hours": 4.5,
+        "date": "November 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast participated in the International Coastal Cleanup",
+        "hours": 3.0,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Plays Music for Hospital Patients",
+        "hours": 4.0,
+        "date": "June 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast branch participated in a beach cleanup at Ocean Park (9/21/2024)",
+        "hours": 3.0,
+        "date": "September 22, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 10.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniel Shi": {
+    "userId": "Daniel Shi",
+    "username": "Daniel Shi",
+    "totalHours": 50.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Hosts a Cancer Awareness Booth",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Hosts a Cancer Awareness Booth",
+        "hours": 2.0,
+        "date": "April 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "April 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Raises Awareness for Colorectal Cancer",
+        "hours": 2.0,
+        "date": "March 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Raises Awareness for Cervical Cancer",
+        "hours": 2.5,
+        "date": "February 1, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at the Space Coast Marathon \u0026 Half-Marathon at Cocoa Day 1",
+        "hours": 4.5,
+        "date": "November 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast participated in the International Coastal Cleanup",
+        "hours": 3.0,
+        "date": "September 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "August 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast volunteered at the Melbourne Art Festival",
+        "hours": 7.0,
+        "date": "April 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast participated in the food drive on November 9, 2024",
+        "hours": 2.0,
+        "date": "November 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Branch Participated Food Drive on 11/02/2024",
+        "hours": 2.0,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 10.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Van Gogh": {
+    "userId": "Van Gogh",
+    "username": "Van Gogh",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bryan Brett": {
+    "userId": "Bryan Brett",
+    "username": "Bryan Brett",
+    "totalHours": 29.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "April 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "April 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Raises Awareness for Colorectal Cancer",
+        "hours": 2.0,
+        "date": "March 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 7, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "February 23, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "August 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Organized a Beach Cleanup",
+        "hours": 2.0,
+        "date": "May 31, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast volunteered at Literacy Night on January 30, 2025",
+        "hours": 2.0,
+        "date": "February 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Blake Nursing Home": {
+    "userId": "The Blake Nursing Home",
+    "username": "The Blake Nursing Home",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Brett": {
+    "userId": "Sarah Brett",
+    "username": "Sarah Brett",
+    "totalHours": 26.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "June 14, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "April 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Raises Awareness for Colorectal Cancer",
+        "hours": 2.0,
+        "date": "March 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 7, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at The Blake",
+        "hours": 2.0,
+        "date": "February 23, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "August 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Branch Volunteers “Be A Buddy 5K” Activities on 10/19/2024",
+        "hours": 3.0,
+        "date": "November 3, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 2.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Skyler Time": {
+    "userId": "Skyler Time",
+    "username": "Skyler Time",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Annual Blueberry Festival",
+        "hours": 4.0,
+        "date": "April 30, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Blake Nursing Home": {
+    "userId": "Blake Nursing Home",
+    "username": "Blake Nursing Home",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "March 29, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Volunteers at the Blake",
+        "hours": 2.0,
+        "date": "April 26, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Suntree Public Library": {
+    "userId": "Suntree Public Library",
+    "username": "Suntree Public Library",
+    "totalHours": 4.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Space Coast Raises Awareness for Colorectal Cancer",
+        "hours": 2.0,
+        "date": "March 10, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Raises Awareness for Cervical Cancer",
+        "hours": 2.5,
+        "date": "February 1, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Children": {
+    "userId": "The Children",
+    "username": "The Children",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "August 25, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hunger Project": {
+    "userId": "Hunger Project",
+    "username": "Hunger Project",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "August 25, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brevard County": {
+    "userId": "Brevard County",
+    "username": "Brevard County",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "August 25, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Olivia Irsa": {
+    "userId": "Olivia Irsa",
+    "username": "Olivia Irsa",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 4.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Oliver Irsa": {
+    "userId": "Oliver Irsa",
+    "username": "Oliver Irsa",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 1.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hayden Wang": {
+    "userId": "Hayden Wang",
+    "username": "Hayden Wang",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "August 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 4.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lucas Wang": {
+    "userId": "Lucas Wang",
+    "username": "Lucas Wang",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "December 27, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "August 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 4.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Claire Perlee": {
+    "userId": "Claire Perlee",
+    "username": "Claire Perlee",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Plays Music for Hospital Patients",
+        "hours": 4.0,
+        "date": "June 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 2.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Caroline Perlee": {
+    "userId": "Caroline Perlee",
+    "username": "Caroline Perlee",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Space Coast Plays Music for Hospital Patients",
+        "hours": 4.0,
+        "date": "June 29, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 6.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cate Perlee": {
+    "userId": "Cate Perlee",
+    "username": "Cate Perlee",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jerry Li": {
+    "userId": "Jerry Li",
+    "username": "Jerry Li",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered at The Children’s Hunger Project",
+        "hours": 2.0,
+        "date": "September 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 4.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "International Coastal Cleanup": {
+    "userId": "International Coastal Cleanup",
+    "username": "International Coastal Cleanup",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Space Coast participated in the International Coastal Cleanup",
+        "hours": 3.0,
+        "date": "September 28, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hightower Beach Park": {
+    "userId": "Hightower Beach Park",
+    "username": "Hightower Beach Park",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Space Coast participated in the International Coastal Cleanup",
+        "hours": 3.0,
+        "date": "September 28, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Satellite Beach": {
+    "userId": "Satellite Beach",
+    "username": "Satellite Beach",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Space Coast participated in the International Coastal Cleanup",
+        "hours": 3.0,
+        "date": "September 28, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ocean Conservancy": {
+    "userId": "Ocean Conservancy",
+    "username": "Ocean Conservancy",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Space Coast participated in the International Coastal Cleanup",
+        "hours": 3.0,
+        "date": "September 28, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Keep Brevard Beautiful": {
+    "userId": "Keep Brevard Beautiful",
+    "username": "Keep Brevard Beautiful",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Space Coast participated in the International Coastal Cleanup",
+        "hours": 3.0,
+        "date": "September 28, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The House": {
+    "userId": "The House",
+    "username": "The House",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Skyler Morin": {
+    "userId": "Skyler Morin",
+    "username": "Skyler Morin",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Volunteered with the House of Hope",
+        "hours": 3.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 1.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Space Coast": {
+    "userId": "Space Coast",
+    "username": "Space Coast",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Space Coast Assisted in Planting Sea Oats",
+        "hours": 15.0,
+        "date": "February 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christina Mink": {
+    "userId": "Christina Mink",
+    "username": "Christina Mink",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Cultivating Nature’s Harmony: AYLUS Oyster Bay’s Volunteer Efforts at Jones Beach Energy and Nature Center on March 1...",
+        "hours": 3.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Johnny Chen": {
+    "userId": "Johnny Chen",
+    "username": "Johnny Chen",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Cultivating Nature’s Harmony: AYLUS Oyster Bay’s Volunteer Efforts at Jones Beach Energy and Nature Center on March 1...",
+        "hours": 2.5,
+        "date": "March 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helen Chen": {
+    "userId": "Helen Chen",
+    "username": "Helen Chen",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Cultivating Nature’s Harmony: AYLUS Oyster Bay’s Volunteer Efforts at Jones Beach Energy and Nature Center on March 1...",
+        "hours": 2.5,
+        "date": "March 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bill You": {
+    "userId": "Bill You",
+    "username": "Bill You",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Cultivating Nature’s Harmony: AYLUS Oyster Bay’s Volunteer Efforts at Jones Beach Energy and Nature Center on March 1...",
+        "hours": 2.5,
+        "date": "March 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Byran Brett": {
+    "userId": "Byran Brett",
+    "username": "Byran Brett",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Makes Valentine’s Day Cards",
+        "hours": 4.0,
+        "date": "February 15, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Thanksgiving Brunch": {
+    "userId": "Thanksgiving Brunch",
+    "username": "Thanksgiving Brunch",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Thanksgiving Brunch:Feeding the Homeless",
+        "hours": 4.0,
+        "date": "December 30, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Homeless Date": {
+    "userId": "Homeless Date",
+    "username": "Homeless Date",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Thanksgiving Brunch:Feeding the Homeless",
+        "hours": 24.0,
+        "date": "December 30, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

@@ -1,0 +1,3221 @@
+{
+  "Amanda Weng": {
+    "userId": "Amanda Weng",
+    "username": "Amanda Weng",
+    "totalHours": 51.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch volunteers at Asbury Second Saturday on April 12th, 2025",
+        "hours": 8.0,
+        "date": "April 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Book drive to Tulsa Pop! Kids on Dec. 14",
+        "hours": 5.0,
+        "date": "December 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Asbury Church": {
+    "userId": "Asbury Church",
+    "username": "Asbury Church",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch volunteers at Asbury Second Saturday on April 12th, 2025",
+        "hours": 8.0,
+        "date": "April 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Edwin Cai": {
+    "userId": "Edwin Cai",
+    "username": "Edwin Cai",
+    "totalHours": 35.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on September 13th",
+        "hours": 4.0,
+        "date": "September 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 2.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 29th, 2025",
+        "hours": 3.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 23rd, 2025",
+        "hours": 2.5,
+        "date": "March 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Tulsa Branch continues homeless mats project on March 17th, 2025",
+        "hours": 2.5,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniel Huo": {
+    "userId": "Daniel Huo",
+    "username": "Daniel Huo",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 2.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 23rd, 2025",
+        "hours": 2.5,
+        "date": "March 24, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rosemary Li": {
+    "userId": "Rosemary Li",
+    "username": "Rosemary Li",
+    "totalHours": 37.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch members participated the 2025 AYLUS Poster Contest to celebrate AYLUS 10 years anniversary o...",
+        "hours": 4.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch did Book drives for African Library Project on March 24",
+        "hours": 2.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Tulsa Branch continues homeless mats project on March 17th, 2025",
+        "hours": 2.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 2.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dannis Weng": {
+    "userId": "Dannis Weng",
+    "username": "Dannis Weng",
+    "totalHours": 47.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch volunteers at Asbury Second Saturday on April 12th, 2025",
+        "hours": 8.0,
+        "date": "April 19, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Book drive to Tulsa Pop! Kids on Dec. 14",
+        "hours": 5.0,
+        "date": "December 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Canlin Zhang": {
+    "userId": "Canlin Zhang",
+    "username": "Canlin Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Junyu Zhang": {
+    "userId": "Junyu Zhang",
+    "username": "Junyu Zhang",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yipeng Zhou": {
+    "userId": "Yipeng Zhou",
+    "username": "Yipeng Zhou",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on August 8th",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniel Xiao": {
+    "userId": "Daniel Xiao",
+    "username": "Daniel Xiao",
+    "totalHours": 16.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Town Village Tulsa": {
+    "userId": "Town Village Tulsa",
+    "username": "Town Village Tulsa",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Freddie Cai": {
+    "userId": "Freddie Cai",
+    "username": "Freddie Cai",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tessa Crider": {
+    "userId": "Tessa Crider",
+    "username": "Tessa Crider",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joseph Haokip": {
+    "userId": "Joseph Haokip",
+    "username": "Joseph Haokip",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Catherine Li": {
+    "userId": "Catherine Li",
+    "username": "Catherine Li",
+    "totalHours": 29.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 2.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Tulsa Branch continues homeless mats project on March 17th, 2025",
+        "hours": 2.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 2.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Justin Li": {
+    "userId": "Justin Li",
+    "username": "Justin Li",
+    "totalHours": 28.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch did Book drives for African Library Project on March 24",
+        "hours": 4.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 2.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tate Millington": {
+    "userId": "Tate Millington",
+    "username": "Tate Millington",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yessiah Portugal": {
+    "userId": "Yessiah Portugal",
+    "username": "Yessiah Portugal",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Abel Shoucair": {
+    "userId": "Abel Shoucair",
+    "username": "Abel Shoucair",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jaccob Shoucair": {
+    "userId": "Jaccob Shoucair",
+    "username": "Jaccob Shoucair",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Luke Shoucair": {
+    "userId": "Luke Shoucair",
+    "username": "Luke Shoucair",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ruth Shoucair": {
+    "userId": "Ruth Shoucair",
+    "username": "Ruth Shoucair",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charli Williamson": {
+    "userId": "Charli Williamson",
+    "username": "Charli Williamson",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alyssa Xiang": {
+    "userId": "Alyssa Xiang",
+    "username": "Alyssa Xiang",
+    "totalHours": 24.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Town Village Tulsa on August 10th, 2026",
+        "hours": 1.5,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch did Book drives for African Library Project on March 24",
+        "hours": 1.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Tulsa Branch continues homeless mats project on March 17th, 2025",
+        "hours": 2.5,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 3.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaylin Chen": {
+    "userId": "Kaylin Chen",
+    "username": "Kaylin Chen",
+    "totalHours": 49.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 1.5,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch did the last book drives before shipping a library to Ghana on April 18",
+        "hours": 3.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch members participated the 2025 AYLUS Poster Contest to celebrate AYLUS 10 years anniversary o...",
+        "hours": 4.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Tulsa Branch continues homeless mats project on March 17th, 2025",
+        "hours": 2.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch crocheted plastic mats for the homeless on March 8th.",
+        "hours": 2.5,
+        "date": "March 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch African Library Project Febrary book drives",
+        "hours": 3.0,
+        "date": "February 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 3.5,
+        "date": "February 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Book drive to Tulsa Pop! Kids on Dec. 14",
+        "hours": 5.0,
+        "date": "December 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 1.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 2.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Virginia Li": {
+    "userId": "Virginia Li",
+    "username": "Virginia Li",
+    "totalHours": 15.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 2.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch members participated the 2025 AYLUS Poster Contest to celebrate AYLUS 10 years anniversary o...",
+        "hours": 4.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yuxuan Li": {
+    "userId": "Yuxuan Li",
+    "username": "Yuxuan Li",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 3.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Phoenix Xu": {
+    "userId": "Phoenix Xu",
+    "username": "Phoenix Xu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yuna Zhang": {
+    "userId": "Yuna Zhang",
+    "username": "Yuna Zhang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joyce Hsu": {
+    "userId": "Joyce Hsu",
+    "username": "Joyce Hsu",
+    "totalHours": 43.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa branch hosted an Annual Member Meeting on January 10th, 2026",
+        "hours": 4.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch crocheted plastic mats for the homeless on March 8th.",
+        "hours": 1.0,
+        "date": "March 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 3.5,
+        "date": "February 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 3.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch launched African Library Project at Pan-Asia Supermarket on Nov. 23",
+        "hours": 3.0,
+        "date": "November 24, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fang Liu": {
+    "userId": "Fang Liu",
+    "username": "Fang Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zhili Qin": {
+    "userId": "Zhili Qin",
+    "username": "Zhili Qin",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Volunteers at Tulsa Dream Center with Asbury Second Saturday on Feb.8",
+        "hours": 4.0,
+        "date": "February 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch crocheted plastic mats for the homeless on March 8th.",
+        "hours": 2.5,
+        "date": "March 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ming Li": {
+    "userId": "Ming Li",
+    "username": "Ming Li",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chaoying Zhang": {
+    "userId": "Chaoying Zhang",
+    "username": "Chaoying Zhang",
+    "totalHours": 30.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch made seasonal greeting cards and crafts for senior homes on June 13, 2026",
+        "hours": 2.0,
+        "date": "June 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch crocheted plastic mats for the homeless on March 8th.",
+        "hours": 2.5,
+        "date": "March 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch African Library Project Febrary book drives",
+        "hours": 1.0,
+        "date": "February 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 3.5,
+        "date": "February 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Book drive to Tulsa Pop! Kids on Dec. 14",
+        "hours": 1.0,
+        "date": "December 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 1.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 2.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch launched African Library Project at Pan-Asia Supermarket on Nov. 23",
+        "hours": 3.0,
+        "date": "November 24, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Food Bank": {
+    "userId": "Food Bank",
+    "username": "Food Bank",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eastern Oklahoma": {
+    "userId": "Eastern Oklahoma",
+    "username": "Eastern Oklahoma",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabella Jiang": {
+    "userId": "Isabella Jiang",
+    "username": "Isabella Jiang",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch sorted and packed food on July 7th, 2026",
+        "hours": 2.0,
+        "date": "July 27, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "University Village": {
+    "userId": "University Village",
+    "username": "University Village",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ivan You": {
+    "userId": "Ivan You",
+    "username": "Ivan You",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jacob Stors": {
+    "userId": "Jacob Stors",
+    "username": "Jacob Stors",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Neddy Cai": {
+    "userId": "Neddy Cai",
+    "username": "Neddy Cai",
+    "totalHours": 32.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 2.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 29th, 2025",
+        "hours": 3.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch members participated the 2025 AYLUS Poster Contest to celebrate AYLUS 10 years anniversary o...",
+        "hours": 4.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 23rd, 2025",
+        "hours": 2.5,
+        "date": "March 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Tulsa Branch continues homeless mats project on March 17th, 2025",
+        "hours": 2.5,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch crocheted plastic mats for the homeless on March 8th.",
+        "hours": 2.5,
+        "date": "March 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch African Library Project Febrary book drives",
+        "hours": 3.0,
+        "date": "February 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaiting Hsu": {
+    "userId": "Kaiting Hsu",
+    "username": "Kaiting Hsu",
+    "totalHours": 52.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch members participated the 2025 AYLUS Poster Contest to celebrate AYLUS 10 years anniversary o...",
+        "hours": 4.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch did Book drives for African Library Project on March 24",
+        "hours": 3.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Tulsa Branch continues homeless mats project on March 17th, 2025",
+        "hours": 2.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Volunteers at Tulsa Dream Center with Asbury Second Saturday on Feb.8",
+        "hours": 4.0,
+        "date": "February 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch crocheted plastic mats for the homeless on March 8th.",
+        "hours": 2.5,
+        "date": "March 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 3.5,
+        "date": "February 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 3.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 1.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joseph Haunung": {
+    "userId": "Joseph Haunung",
+    "username": "Joseph Haunung",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophie Qin": {
+    "userId": "Sophie Qin",
+    "username": "Sophie Qin",
+    "totalHours": 28.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 29th, 2025",
+        "hours": 3.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch did Book drives for African Library Project on March 24",
+        "hours": 1.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Volunteers at Tulsa Dream Center with Asbury Second Saturday on Feb.8",
+        "hours": 4.0,
+        "date": "February 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch crocheted plastic mats for the homeless on March 8th.",
+        "hours": 2.5,
+        "date": "March 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued Africa Library Project at Pan-Asia Supermarket on December 7th, 2024",
+        "hours": 3.0,
+        "date": "December 13, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "David Li": {
+    "userId": "David Li",
+    "username": "David Li",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bella Huynh": {
+    "userId": "Bella Huynh",
+    "username": "Bella Huynh",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch volunteers at Asbury Second Saturday on April 12th, 2025",
+        "hours": 8.0,
+        "date": "April 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Prairie House Assisted Living": {
+    "userId": "Prairie House Assisted Living",
+    "username": "Prairie House Assisted Living",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Memory Care": {
+    "userId": "Memory Care",
+    "username": "Memory Care",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Prairie House": {
+    "userId": "Prairie House",
+    "username": "Prairie House",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aunezti Burk": {
+    "userId": "Aunezti Burk",
+    "username": "Aunezti Burk",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grecia Madrid": {
+    "userId": "Grecia Madrid",
+    "username": "Grecia Madrid",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Stephany Raygoza Ibarra": {
+    "userId": "Stephany Raygoza Ibarra",
+    "username": "Stephany Raygoza Ibarra",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Danielle Son": {
+    "userId": "Danielle Son",
+    "username": "Danielle Son",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dong Xiang": {
+    "userId": "Dong Xiang",
+    "username": "Dong Xiang",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at Prairie House Assisted Living and Memory Care on January 3rd, 2026",
+        "hours": 3.5,
+        "date": "February 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sunny Chen": {
+    "userId": "Sunny Chen",
+    "username": "Sunny Chen",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on September 13th",
+        "hours": 4.0,
+        "date": "September 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaiting Hsu.": {
+    "userId": "Kaiting Hsu.",
+    "username": "Kaiting Hsu.",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers with Asbury Second Saturday on September 13th",
+        "hours": 4.0,
+        "date": "September 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ayeasu Atrensu DA School": {
+    "userId": "Ayeasu Atrensu DA School",
+    "username": "Ayeasu Atrensu DA School",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch completed the first African Library Project on April 19",
+        "hours": 16.0,
+        "date": "April 24, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Li": {
+    "userId": "Andrew Li",
+    "username": "Andrew Li",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch did the last book drives before shipping a library to Ghana on April 18",
+        "hours": 2.0,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch did Book drives for African Library Project on March 24",
+        "hours": 4.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Book drive to Tulsa Pop! Kids on Dec. 14",
+        "hours": 5.0,
+        "date": "December 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 2.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Audrey Rea": {
+    "userId": "Audrey Rea",
+    "username": "Audrey Rea",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bryan Navarro": {
+    "userId": "Bryan Navarro",
+    "username": "Bryan Navarro",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Coby Elliot": {
+    "userId": "Coby Elliot",
+    "username": "Coby Elliot",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Chen": {
+    "userId": "Kevin Chen",
+    "username": "Kevin Chen",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Greater Tulsa Branch members participated the 2025 AYLUS Poster Contest to celebrate AYLUS 10 years anniversary o...",
+        "hours": 4.0,
+        "date": "March 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch African Library Project Febrary book drives",
+        "hours": 2.0,
+        "date": "February 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 2.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Luis Martinez": {
+    "userId": "Luis Martinez",
+    "username": "Luis Martinez",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zach Rea": {
+    "userId": "Zach Rea",
+    "username": "Zach Rea",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch performs music at University Village on April 18th, 2025",
+        "hours": 2.5,
+        "date": "April 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hunter Elliot": {
+    "userId": "Hunter Elliot",
+    "username": "Hunter Elliot",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers at Asbury Second Saturday on April 12th, 2025",
+        "hours": 8.0,
+        "date": "April 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yuzhen Li": {
+    "userId": "Yuzhen Li",
+    "username": "Yuzhen Li",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch volunteers at Asbury Second Saturday on April 12th, 2025",
+        "hours": 8.0,
+        "date": "April 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ted Cai": {
+    "userId": "Ted Cai",
+    "username": "Ted Cai",
+    "totalHours": 17.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 2.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 29th, 2025",
+        "hours": 3.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 23rd, 2025",
+        "hours": 2.5,
+        "date": "March 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch crocheted plastic mats for the homeless on March 8th.",
+        "hours": 2.5,
+        "date": "March 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 3.5,
+        "date": "February 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Meizhu Liu": {
+    "userId": "Meizhu Liu",
+    "username": "Meizhu Liu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 1.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 23rd, 2025",
+        "hours": 1.5,
+        "date": "March 24, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jean Cai": {
+    "userId": "Jean Cai",
+    "username": "Jean Cai",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 0.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 29th, 2025",
+        "hours": 3.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Qin Shen": {
+    "userId": "Qin Shen",
+    "username": "Qin Shen",
+    "totalHours": 0.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mat Project on April 6, 2025",
+        "hours": 0.5,
+        "date": "April 9, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonathan Tan": {
+    "userId": "Jonathan Tan",
+    "username": "Jonathan Tan",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 29th, 2025",
+        "hours": 3.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 23rd, 2025",
+        "hours": 2.5,
+        "date": "March 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 3.5,
+        "date": "February 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kai McDaniel": {
+    "userId": "Kai McDaniel",
+    "username": "Kai McDaniel",
+    "totalHours": 12.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 29th, 2025",
+        "hours": 3.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 3.5,
+        "date": "February 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 2.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chtherine Li": {
+    "userId": "Chtherine Li",
+    "username": "Chtherine Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Continues Homeless Mats Project on March 29th, 2025",
+        "hours": 3.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Covenant Living": {
+    "userId": "Covenant Living",
+    "username": "Covenant Living",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Grateful Heart": {
+    "userId": "Grateful Heart",
+    "username": "Grateful Heart",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eli Martin": {
+    "userId": "Eli Martin",
+    "username": "Eli Martin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Virginia Lee": {
+    "userId": "Virginia Lee",
+    "username": "Virginia Lee",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Tulsa Branch continues homeless mats project on March 17th, 2025",
+        "hours": 2.5,
+        "date": "March 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brayden Skaggs": {
+    "userId": "Brayden Skaggs",
+    "username": "Brayden Skaggs",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Louis Garcia": {
+    "userId": "Louis Garcia",
+    "username": "Louis Garcia",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Noah Vasquez": {
+    "userId": "Noah Vasquez",
+    "username": "Noah Vasquez",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Qin": {
+    "userId": "Alex Qin",
+    "username": "Alex Qin",
+    "totalHours": 3.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maggie Xiao": {
+    "userId": "Maggie Xiao",
+    "username": "Maggie Xiao",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Covenant Living on March 22nd",
+        "hours": 1.5,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Asher Point Independent Living": {
+    "userId": "Asher Point Independent Living",
+    "username": "Asher Point Independent Living",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jack Xue": {
+    "userId": "Jack Xue",
+    "username": "Jack Xue",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jessica Xue": {
+    "userId": "Jessica Xue",
+    "username": "Jessica Xue",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jennifer Xue": {
+    "userId": "Jennifer Xue",
+    "username": "Jennifer Xue",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Liu": {
+    "userId": "Emily Liu",
+    "username": "Emily Liu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs music at Asher Point Independent Living on March 21st",
+        "hours": 2.0,
+        "date": "March 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 2.0,
+        "date": "February 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dennis Weng": {
+    "userId": "Dennis Weng",
+    "username": "Dennis Weng",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch book sorting and packaging for African Library Project on March 16",
+        "hours": 4.0,
+        "date": "March 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tulsa Dream Center": {
+    "userId": "Tulsa Dream Center",
+    "username": "Tulsa Dream Center",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Volunteers at Tulsa Dream Center with Asbury Second Saturday on Feb.8",
+        "hours": 4.0,
+        "date": "February 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Tulsa Dream Center": {
+    "userId": "The Tulsa Dream Center",
+    "username": "The Tulsa Dream Center",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Volunteers at Tulsa Dream Center with Asbury Second Saturday on Feb.8",
+        "hours": 4.0,
+        "date": "February 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "North Tulsa": {
+    "userId": "North Tulsa",
+    "username": "North Tulsa",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Volunteers at Tulsa Dream Center with Asbury Second Saturday on Feb.8",
+        "hours": 4.0,
+        "date": "February 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nhu Nguyen": {
+    "userId": "Nhu Nguyen",
+    "username": "Nhu Nguyen",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Volunteers at Tulsa Dream Center with Asbury Second Saturday on Feb.8",
+        "hours": 4.0,
+        "date": "February 10, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Danielle Son Adult": {
+    "userId": "Danielle Son Adult",
+    "username": "Danielle Son Adult",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Volunteers at Tulsa Dream Center with Asbury Second Saturday on Feb.8",
+        "hours": 4.0,
+        "date": "February 10, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anya McDaniel": {
+    "userId": "Anya McDaniel",
+    "username": "Anya McDaniel",
+    "totalHours": 28.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch African Library Project Febrary book drives",
+        "hours": 22.0,
+        "date": "February 25, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 2.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lingbo Li": {
+    "userId": "Lingbo Li",
+    "username": "Lingbo Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 3.0,
+        "date": "February 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Austin Liu": {
+    "userId": "Austin Liu",
+    "username": "Austin Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch participates in creating plastic mats on Feb. 15th",
+        "hours": 2.0,
+        "date": "February 17, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Vy Tran Adult": {
+    "userId": "Vy Tran Adult",
+    "username": "Vy Tran Adult",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch participated in creating plastic mats on Jan. 11th, 2025",
+        "hours": 8.0,
+        "date": "January 13, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "University Village Retirement Home": {
+    "userId": "University Village Retirement Home",
+    "username": "University Village Retirement Home",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hannah Flaherty": {
+    "userId": "Hannah Flaherty",
+    "username": "Hannah Flaherty",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Tulsa Branch continued in creating plastic mats for homeless people on Oct.20, 2024",
+        "hours": 2.0,
+        "date": "October 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Huang": {
+    "userId": "Alex Huang",
+    "username": "Alex Huang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andy Huang": {
+    "userId": "Andy Huang",
+    "username": "Andy Huang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Vincent Aaron Huang": {
+    "userId": "Vincent Aaron Huang",
+    "username": "Vincent Aaron Huang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Jiang": {
+    "userId": "Eric Jiang",
+    "username": "Eric Jiang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at University Village Retirement Community on Jan. 4th, 2025",
+        "hours": 2.0,
+        "date": "January 8, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Che": {
+    "userId": "Kevin Che",
+    "username": "Kevin Che",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Book drive to Tulsa Pop! Kids on Dec. 14",
+        "hours": 5.0,
+        "date": "December 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jack Wang": {
+    "userId": "Jack Wang",
+    "username": "Jack Wang",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Keenon Canada": {
+    "userId": "Keenon Canada",
+    "username": "Keenon Canada",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Tulsa Branch Performs Music at Covenant Living Retirement Community on Dec. 21st, 2024",
+        "hours": 2.0,
+        "date": "December 23, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anthony Liang": {
+    "userId": "Anthony Liang",
+    "username": "Anthony Liang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Halloween is Here at the Greater Buffalo Branch (10/18/2025)!",
+        "hours": 3.0,
+        "date": "October 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Adeline Ren": {
+    "userId": "Adeline Ren",
+    "username": "Adeline Ren",
+    "totalHours": 8.5,
+    "entries": [
+      {
+        "eventName": "Halloween is Here at the Greater Buffalo Branch (10/18/2025)!",
+        "hours": 8.5,
+        "date": "October 19, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lucy Lin": {
+    "userId": "Lucy Lin",
+    "username": "Lucy Lin",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Greater Buffalo Branch Volunteers at Buffalo String Works -(4/29/2026)",
+        "hours": 2.5,
+        "date": "May 1, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

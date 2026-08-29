@@ -1,0 +1,62 @@
+{
+  "Jeng Academic Center": {
+    "userId": "Jeng Academic Center",
+    "username": "Jeng Academic Center",
+    "totalHours": 70.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Conejo Valley Branch 2nd Study Buddy Session",
+        "hours": 10.0,
+        "date": "July 17, 2016",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Conejo Valley Branch hosts another Study Buddy Session",
+        "hours": 10.0,
+        "date": "August 15, 2016",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Conejo Valley Branch 3rd study buddy session",
+        "hours": 15.0,
+        "date": "July 17, 2016",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Conejo Valley Branch 3rd study buddy session",
+        "hours": 15.0,
+        "date": "July 17, 2016",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Conejo Valley Branch 2nd Study Buddy Session",
+        "hours": 10.0,
+        "date": "July 17, 2016",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Conejo Valley Branch hosts another Study Buddy Session",
+        "hours": 10.0,
+        "date": "August 15, 2016",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Earth Day": {
+    "userId": "Earth Day",
+    "username": "Earth Day",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Earth Day",
+        "hours": 24.0,
+        "date": "March 10, 2016",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "Miya Ji": {
+    "userId": "Miya Ji",
+    "username": "Miya Ji",
+    "totalHours": 48.0,
+    "entries": [
+      {
+        "eventName": "North Fulton volunteers at Grady Hospital 06/22/2025",
+        "hours": 13.0,
+        "date": "October 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton spreads Christmas Cheer with the John’s Creek Symphony Orchestra on December 16th, 2023",
+        "hours": 6.5,
+        "date": "December 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton Visits Grady Hospital 07/10/25",
+        "hours": 5.0,
+        "date": "October 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton Volunteers at the Cumming County State Fair on October 15, 2023",
+        "hours": 3.0,
+        "date": "October 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton Volunteers at Raksha on August 19, 2023",
+        "hours": 5.0,
+        "date": "August 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton Participates at the John’s Creek Symphony Orchestra on September 30, 2023",
+        "hours": 3.0,
+        "date": "October 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton AYLUS Helps Improve Global Health at Medshare on March 31st and June 1st, 2023",
+        "hours": 6.0,
+        "date": "June 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton AYLUS donates handmade gifts to Kits to Hearts on April 8 and 9, 2023",
+        "hours": 6.5,
+        "date": "April 18, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Teresa Zhao": {
+    "userId": "Teresa Zhao",
+    "username": "Teresa Zhao",
+    "totalHours": 32.0,
+    "entries": [
+      {
+        "eventName": "North Fulton spreads Christmas Cheer with the John’s Creek Symphony Orchestra on December 16th, 2023",
+        "hours": 6.5,
+        "date": "December 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton Volunteers at the Cumming County State Fair on October 15, 2023",
+        "hours": 3.0,
+        "date": "October 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton Volunteers at Raksha on August 19, 2023",
+        "hours": 5.0,
+        "date": "August 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton Participates at the John’s Creek Symphony Orchestra on September 30, 2023",
+        "hours": 3.0,
+        "date": "October 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton AYLUS Helps Improve Global Health at Medshare on March 31st and June 1st, 2023",
+        "hours": 6.0,
+        "date": "June 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton AYLUS donates handmade gifts to Kits to Hearts on April 8 and 9, 2023",
+        "hours": 8.5,
+        "date": "April 18, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alexis Liu": {
+    "userId": "Alexis Liu",
+    "username": "Alexis Liu",
+    "totalHours": 27.0,
+    "entries": [
+      {
+        "eventName": "North Fulton Volunteers at the Cumming County State Fair on October 15, 2023",
+        "hours": 3.0,
+        "date": "October 17, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton Volunteers at Raksha on August 19, 2023",
+        "hours": 5.0,
+        "date": "August 20, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton AYLUS Helps Relieve Food Insecurity in the Local Community at Meals by Grace",
+        "hours": 6.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton AYLUS Helps Improve Global Health at Medshare on March 31st and June 1st, 2023",
+        "hours": 6.0,
+        "date": "June 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "North Fulton AYLUS donates handmade gifts to Kits to Hearts on April 8 and 9, 2023",
+        "hours": 7.0,
+        "date": "April 18, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Liya Zhang": {
+    "userId": "Liya Zhang",
+    "username": "Liya Zhang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "North Fulton Participates at the John’s Creek Symphony Orchestra on September 30, 2023",
+        "hours": 3.0,
+        "date": "October 6, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

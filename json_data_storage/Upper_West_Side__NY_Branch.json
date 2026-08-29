@@ -1,0 +1,47 @@
+{
+  "Community Service": {
+    "userId": "Community Service",
+    "username": "Community Service",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cedar Park, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Volunteering Work": {
+    "userId": "Volunteering Work",
+    "username": "Volunteering Work",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cedar Park, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cedar Park": {
+    "userId": "Cedar Park",
+    "username": "Cedar Park",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Cedar Park, TX",
+        "hours": 3.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

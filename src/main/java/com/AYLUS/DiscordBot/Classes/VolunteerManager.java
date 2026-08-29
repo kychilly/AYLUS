@@ -37,6 +37,22 @@ public class VolunteerManager {
         }
     }
 
+    /**
+     * Clears all in-memory volunteer profiles and flushes the map state.
+     */
+    public void clear() {
+        if (this.profiles != null) {
+            this.profiles.clear();
+        }
+    }
+
+    /**
+     * Returns the underlying profiles map for serialization.
+     */
+    public Map<String, UserVolunteerProfile> getProfiles() {
+        return profiles;
+    }
+
     // Returns set of all tracked user IDs / formatted names
     public Set<String> getAllVolunteers() {
         return profiles.keySet();
@@ -77,7 +93,24 @@ public class VolunteerManager {
     public void logHours(String userId, String username, String eventName, double hours, String date, double moneyOwed) {
         UserVolunteerProfile profile = getProfile(userId, username);
         profile.addEntry(eventName, hours, date, moneyOwed);
-        saveData();
+        // saveData();
+    }
+
+    /**
+     * Convenience method used by AylusScraper to process scraped entries directly into profile logs.
+     * Maps volunteerName as both the unique key and display name.
+     */
+    public void addLog(String volunteerName, String branchName, String eventTitle, String eventDate, double hours, double fundsRaised) {
+        if (volunteerName == null || volunteerName.trim().isEmpty()) return;
+
+        // Format date string safely if omitted
+        String validDate = (eventDate != null && !eventDate.trim().isEmpty()) ? eventDate : LocalDate.now().toString();
+
+        // Use event title or fall back to generic event title
+        String validTitle = (eventTitle != null && !eventTitle.trim().isEmpty()) ? eventTitle : "AYLUS Volunteer Event";
+
+        // Pass to standard logHours method using volunteerName as both key & display username
+        logHours(volunteerName, volunteerName, validTitle, hours, validDate, fundsRaised);
     }
 
     public List<UserVolunteerProfile> getLeaderboard() {

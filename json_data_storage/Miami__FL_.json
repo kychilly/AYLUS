@@ -1,0 +1,236 @@
+{
+  "Leo Xiao": {
+    "userId": "Leo Xiao",
+    "username": "Leo Xiao",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on September 15, 2024",
+        "hours": 3.0,
+        "date": "September 16, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Erin Rodriguez": {
+    "userId": "Erin Rodriguez",
+    "username": "Erin Rodriguez",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on September 15, 2024",
+        "hours": 3.0,
+        "date": "September 16, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on December 8th, 2024",
+        "hours": 3.0,
+        "date": "December 10, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophia Xue": {
+    "userId": "Sophia Xue",
+    "username": "Sophia Xue",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on May 24th 2026",
+        "hours": 3.0,
+        "date": "May 25, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alisa Wu": {
+    "userId": "Alisa Wu",
+    "username": "Alisa Wu",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on April 26, 2026",
+        "hours": 3.0,
+        "date": "May 25, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on January 21, 2024",
+        "hours": 3.0,
+        "date": "February 18, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on October 8, 2023",
+        "hours": 3.0,
+        "date": "October 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Miami Branch Volunteers at SMH NICU Reunion on February 18, 2023",
+        "hours": 8.0,
+        "date": "February 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nathan Liu": {
+    "userId": "Nathan Liu",
+    "username": "Nathan Liu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on December 8th, 2024",
+        "hours": 3.0,
+        "date": "December 10, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bianca Li": {
+    "userId": "Bianca Li",
+    "username": "Bianca Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Miami Branch Performs for Seniors at NSPIRE Healthcare Kendall on February 18, 2024",
+        "hours": 3.0,
+        "date": "February 18, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "BOOKS RAISED FOR THE": {
+    "userId": "BOOKS RAISED FOR THE",
+    "username": "BOOKS RAISED FOR THE",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Orlando, FL",
+        "hours": 3.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Phillipino Company": {
+    "userId": "Phillipino Company",
+    "username": "Phillipino Company",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Orlando, FL",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sort Donations": {
+    "userId": "Sort Donations",
+    "username": "Sort Donations",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Orlando, FL",
+        "hours": 6.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "FEED HUNGER NOW": {
+    "userId": "FEED HUNGER NOW",
+    "username": "FEED HUNGER NOW",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Orlando, FL",
+        "hours": 15.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Movie Viewing": {
+    "userId": "Movie Viewing",
+    "username": "Movie Viewing",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Orlando, FL",
+        "hours": 19.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Johanna Duan": {
+    "userId": "Johanna Duan",
+    "username": "Johanna Duan",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "Jericho Branch Planted Dune Grass at Tobay Beach 3/30/2024",
+        "hours": 2.5,
+        "date": "April 6, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rachel Zhu": {
+    "userId": "Rachel Zhu",
+    "username": "Rachel Zhu",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Columbus branch performed music at Senior Star on November 1st, 2022",
+        "hours": 1.0,
+        "date": "November 4, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chuqiao Guan": {
+    "userId": "Chuqiao Guan",
+    "username": "Chuqiao Guan",
+    "totalHours": 0.5,
+    "entries": [
+      {
+        "eventName": "Columbus branch performed music at Senior Star on November 1st, 2022",
+        "hours": 0.5,
+        "date": "November 4, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

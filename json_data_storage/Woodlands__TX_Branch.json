@@ -1,0 +1,152 @@
+{
+  "Kevin Li": {
+    "userId": "Kevin Li",
+    "username": "Kevin Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Great Neck Branch Volunteered at Planting Fields Arboretum on 9/14/2024(44th)",
+        "hours": 2.0,
+        "date": "September 16, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kate Liu": {
+    "userId": "Kate Liu",
+    "username": "Kate Liu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland Staff Connects with Greater Houston Area Organizations on June 11th",
+        "hours": 3.0,
+        "date": "June 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aila Jiang": {
+    "userId": "Aila Jiang",
+    "username": "Aila Jiang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland Staff Connects with Greater Houston Area Organizations on June 11th",
+        "hours": 3.0,
+        "date": "June 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andy Jiang": {
+    "userId": "Andy Jiang",
+    "username": "Andy Jiang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland Staff Connects with Greater Houston Area Organizations on June 11th",
+        "hours": 3.0,
+        "date": "June 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fred Guo": {
+    "userId": "Fred Guo",
+    "username": "Fred Guo",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland Staff Connects with Greater Houston Area Organizations on June 11th",
+        "hours": 3.0,
+        "date": "June 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Derek Zhu": {
+    "userId": "Derek Zhu",
+    "username": "Derek Zhu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland Staff Connects with Greater Houston Area Organizations on June 11th",
+        "hours": 3.0,
+        "date": "June 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonathan Niu": {
+    "userId": "Jonathan Niu",
+    "username": "Jonathan Niu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland Staff Connects with Greater Houston Area Organizations on June 11th",
+        "hours": 3.0,
+        "date": "June 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Matthew Niu": {
+    "userId": "Matthew Niu",
+    "username": "Matthew Niu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Pearland Staff Connects with Greater Houston Area Organizations on June 11th",
+        "hours": 3.0,
+        "date": "June 19, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bryan Fan": {
+    "userId": "Bryan Fan",
+    "username": "Bryan Fan",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hills Cleans up the hiking trail at Garvies Point Preserve",
+        "hours": 2.0,
+        "date": "April 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jonathan Fan": {
+    "userId": "Jonathan Fan",
+    "username": "Jonathan Fan",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Dix Hills Cleans up the hiking trail at Garvies Point Preserve",
+        "hours": 2.0,
+        "date": "April 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

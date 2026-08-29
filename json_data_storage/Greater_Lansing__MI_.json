@@ -1,0 +1,293 @@
+{
+  "Mia Chen": {
+    "userId": "Mia Chen",
+    "username": "Mia Chen",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Greater Lansing AYLUS Picks Up Trash At Local Park",
+        "hours": 1.0,
+        "date": "April 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.5,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Lansing AYLUS hosts a Beginner Greeting Card Craft Class on October 17, 2020",
+        "hours": 1.0,
+        "date": "October 19, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Donates Face Masks on July 8, 2020",
+        "hours": 1.0,
+        "date": "July 8, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lansing AYLUS Branch Hosts Neighborhood Recycling Event on July 18, 2020",
+        "hours": 2.0,
+        "date": "July 24, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Lansing AYLUS Picks Up Trash At Local Park",
+        "hours": 1.0,
+        "date": "April 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Lansing AYLUS hosts a Beginner Greeting Card Craft Class on October 17, 2020",
+        "hours": 1.0,
+        "date": "October 19, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.5,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Donates Face Masks on July 8, 2020",
+        "hours": 1.0,
+        "date": "July 8, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lansing AYLUS Branch Hosts Neighborhood Recycling Event on July 18, 2020",
+        "hours": 2.0,
+        "date": "July 24, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aaron Liu": {
+    "userId": "Aaron Liu",
+    "username": "Aaron Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Lansing AYLUS Picks Up Trash At Local Park",
+        "hours": 1.0,
+        "date": "April 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Lansing AYLUS Picks Up Trash At Local Park",
+        "hours": 1.0,
+        "date": "April 9, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Estella Gan": {
+    "userId": "Estella Gan",
+    "username": "Estella Gan",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Greater Lansing AYLUS Picks Up Trash At Local Park",
+        "hours": 1.0,
+        "date": "April 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.5,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Lansing AYLUS Donates Face Masks on July 2, 2020",
+        "hours": 1.0,
+        "date": "July 2, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lansing AYLUS Branch Hosts Neighborhood Recycling Event on July 18, 2020",
+        "hours": 2.0,
+        "date": "July 24, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Lansing AYLUS Picks Up Trash At Local Park",
+        "hours": 1.0,
+        "date": "April 9, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.5,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lansing AYLUS Branch Hosts Neighborhood Recycling Event on July 18, 2020",
+        "hours": 2.0,
+        "date": "July 24, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Angie Zhu": {
+    "userId": "Angie Zhu",
+    "username": "Angie Zhu",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.5,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lansing AYLUS Branch Hosts Neighborhood Recycling Event on July 18, 2020",
+        "hours": 8.0,
+        "date": "July 24, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.5,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lansing AYLUS Branch Hosts Neighborhood Recycling Event on July 18, 2020",
+        "hours": 8.0,
+        "date": "July 24, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniella Gan": {
+    "userId": "Daniella Gan",
+    "username": "Daniella Gan",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.5,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.5,
+        "date": "August 10, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aiko Major": {
+    "userId": "Aiko Major",
+    "username": "Aiko Major",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.0,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.0,
+        "date": "August 10, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Audrey Chen": {
+    "userId": "Audrey Chen",
+    "username": "Audrey Chen",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.0,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lansing AYLUS Branch Hosts Neighborhood Recycling Event on July 18, 2020",
+        "hours": 1.5,
+        "date": "July 24, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Greater Lansing Hosts Local Park Clean-up on August 8, 2020",
+        "hours": 2.0,
+        "date": "August 10, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Lansing AYLUS Branch Hosts Neighborhood Recycling Event on July 18, 2020",
+        "hours": 1.5,
+        "date": "July 24, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Karthick Satheesh Kumar": {
+    "userId": "Karthick Satheesh Kumar",
+    "username": "Karthick Satheesh Kumar",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Greater Lansing AYLUS hosts a Beginner Greeting Card Craft Class on October 17, 2020",
+        "hours": 1.0,
+        "date": "October 19, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Lansing AYLUS hosts a Beginner Greeting Card Craft Class on October 17, 2020",
+        "hours": 1.0,
+        "date": "October 19, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aanchal Jain": {
+    "userId": "Aanchal Jain",
+    "username": "Aanchal Jain",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Greater Lansing AYLUS hosts a Beginner Greeting Card Craft Class on October 17, 2020",
+        "hours": 1.5,
+        "date": "October 19, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Greater Lansing AYLUS hosts a Beginner Greeting Card Craft Class on October 17, 2020",
+        "hours": 1.5,
+        "date": "October 19, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "Meredith Berkun": {
+    "userId": "Meredith Berkun",
+    "username": "Meredith Berkun",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Aylus Wallingford CT FOOD SHARE June 23 2025",
+        "hours": 3.0,
+        "date": "June 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wallingford Aylus Food Share Event",
+        "hours": 3.0,
+        "date": "July 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wallingford Cards for the Community August 23, 2025",
+        "hours": 2.0,
+        "date": "August 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Autumn Butler": {
+    "userId": "Autumn Butler",
+    "username": "Autumn Butler",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Aylus Wallingford CT FOOD SHARE June 23 2025",
+        "hours": 3.0,
+        "date": "June 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wallingford Aylus Food Share Event",
+        "hours": 3.0,
+        "date": "July 17, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wallingford Cards for the Community August 23, 2025",
+        "hours": 2.0,
+        "date": "August 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Danika Le": {
+    "userId": "Danika Le",
+    "username": "Danika Le",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Aylus Wallingford CT FOOD SHARE June 23 2025",
+        "hours": 3.0,
+        "date": "June 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wallingford Cards for the Community August 23, 2025",
+        "hours": 2.0,
+        "date": "August 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Priya Patel": {
+    "userId": "Priya Patel",
+    "username": "Priya Patel",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Aylus Wallingford CT FOOD SHARE June 23 2025",
+        "hours": 3.0,
+        "date": "June 24, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Wallingford Cards for the Community August 23, 2025",
+        "hours": 2.0,
+        "date": "August 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Miles Races Park Cleanup": {
+    "userId": "Miles Races Park Cleanup",
+    "username": "Miles Races Park Cleanup",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wallingford CT Foodshare Local": {
+    "userId": "Wallingford CT Foodshare Local",
+    "username": "Wallingford CT Foodshare Local",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Foodshare Wallingford": {
+    "userId": "Foodshare Wallingford",
+    "username": "Foodshare Wallingford",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "CT Foodshare": {
+    "userId": "CT Foodshare",
+    "username": "CT Foodshare",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "CT Cheshire Food Drive": {
+    "userId": "CT Cheshire Food Drive",
+    "username": "CT Cheshire Food Drive",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Food Drive Cheshire": {
+    "userId": "Local Food Drive Cheshire",
+    "username": "Local Food Drive Cheshire",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Book Review": {
+    "userId": "Book Review",
+    "username": "Book Review",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wolcott Library": {
+    "userId": "Wolcott Library",
+    "username": "Wolcott Library",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 3.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Music Performance": {
+    "userId": "Music Performance",
+    "username": "Music Performance",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Trail Cleaning": {
+    "userId": "Trail Cleaning",
+    "username": "Trail Cleaning",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mixville Park": {
+    "userId": "Mixville Park",
+    "username": "Mixville Park",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sleeping GiantSleeping Giant With": {
+    "userId": "Sleeping GiantSleeping Giant With",
+    "username": "Sleeping GiantSleeping Giant With",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 3.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hubbard Park": {
+    "userId": "Hubbard Park",
+    "username": "Hubbard Park",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hammonasset State Park": {
+    "userId": "Hammonasset State Park",
+    "username": "Hammonasset State Park",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Tutoring Center YMCA": {
+    "userId": "Local Tutoring Center YMCA",
+    "username": "Local Tutoring Center YMCA",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Apple Harvest Road": {
+    "userId": "Apple Harvest Road",
+    "username": "Apple Harvest Road",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "YMCA Apple Harvest Road": {
+    "userId": "YMCA Apple Harvest Road",
+    "username": "YMCA Apple Harvest Road",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Miles Race Annual Car": {
+    "userId": "Miles Race Annual Car",
+    "username": "Miles Race Annual Car",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Miles Race": {
+    "userId": "Miles Race",
+    "username": "Miles Race",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Water Station": {
+    "userId": "Water Station",
+    "username": "Water Station",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mile Road Race": {
+    "userId": "Mile Road Race",
+    "username": "Mile Road Race",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "One Clean Day": {
+    "userId": "One Clean Day",
+    "username": "One Clean Day",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mile Walk": {
+    "userId": "Mile Walk",
+    "username": "Mile Walk",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Local Preschool": {
+    "userId": "Local Preschool",
+    "username": "Local Preschool",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cheshire, CT",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Arthur Hu": {
+    "userId": "Arthur Hu",
+    "username": "Arthur Hu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cheshire AYLUS Branch Volunteers at Master’s Manna 8/22/22",
+        "hours": 2.0,
+        "date": "August 31, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffrey Yam": {
+    "userId": "Jeffrey Yam",
+    "username": "Jeffrey Yam",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cheshire AYLUS Branch Volunteers at Master’s Manna 8/22/22",
+        "hours": 2.0,
+        "date": "August 31, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Owen Sun": {
+    "userId": "Owen Sun",
+    "username": "Owen Sun",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Cheshire AYLUS Branch Volunteers at Master’s Manna 8/22/22",
+        "hours": 2.0,
+        "date": "August 31, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

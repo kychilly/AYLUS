@@ -1,0 +1,5354 @@
+{
+  "Lucy Zhang": {
+    "userId": "Lucy Zhang",
+    "username": "Lucy Zhang",
+    "totalHours": 63.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Workshop Chinese/Art/Math Session 8 (08/15/2026)",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Workshop Chinese/Art/Math Session 7 (08/08/2026)",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Branch: Chinese/Art/Math Summer Workshop – Session 5",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 3 (07/11/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Creating Father’s Day Cards for Seniors (6/6/2026)",
+        "hours": 2.0,
+        "date": "June 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Mother’s Day Card Making Event (04/25/2026)",
+        "hours": 2.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 2.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Branch: Jerry’s Bagging and Fundraising Event -(02/15/2026)",
+        "hours": 15.0,
+        "date": "February 25, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for St. Jude Children’s Hospital at Kowalski’s Markets (12/24/25)",
+        "hours": 4.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Sports Classic Bocce (08/17/2025)",
+        "hours": 8.0,
+        "date": "August 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for ICA local food shelf at Kowalski’s Markets (12/14/24)",
+        "hours": 1.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at Opportunity Partners Gala (4/26/24)",
+        "hours": 2.5,
+        "date": "May 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 2.5,
+        "date": "December 13, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ellen Yuan": {
+    "userId": "Ellen Yuan",
+    "username": "Ellen Yuan",
+    "totalHours": 40.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Workshop Chinese/Art/Math Session 8 (08/15/2026)",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Workshop Chinese/Art/Math Session 7 (08/08/2026)",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Branch: Chinese/Art/Math Summer Workshop – Session 5",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for St. Jude Children’s Hospital at Kowalski’s Markets (12/24/25)",
+        "hours": 2.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Medtronic Twin Cities Marathon (10/06/2024)",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Supports Special Olympics Polar Plunge (1/27/24)",
+        "hours": 4.0,
+        "date": "January 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 2.5,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 2.5,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Megan Wang": {
+    "userId": "Megan Wang",
+    "username": "Megan Wang",
+    "totalHours": 48.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Workshop Chinese/Art/Math Session 8 (08/15/2026)",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Branch: Chinese/Art/Math Summer Workshop – Session 5",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 4",
+        "hours": 3.0,
+        "date": "July 21, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 3 (07/11/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 2 (06/27/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Creating Father’s Day Cards for Seniors (6/6/2026)",
+        "hours": 1.0,
+        "date": "June 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Mother’s Day Card Making Event (04/25/2026)",
+        "hours": 5.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 2.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for St. Jude Children’s Hospital at Kowalski’s Markets (12/24/25)",
+        "hours": 2.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Creating Holiday Cards for Seniors At Starbucks( 12/13/205)",
+        "hours": 5.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 2.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 2.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joey Nordgaard": {
+    "userId": "Joey Nordgaard",
+    "username": "Joey Nordgaard",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Workshop Chinese/Art/Math Session 8 (08/15/2026)",
+        "hours": 4.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 2 (06/27/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Inner Peace Project": {
+    "userId": "Inner Peace Project",
+    "username": "Inner Peace Project",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Pickleball Tournament \u0026 Bake Sale for Mental Health MN Fundraising Event(08/16/2026)",
+        "hours": 2.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mental Health MN": {
+    "userId": "Mental Health MN",
+    "username": "Mental Health MN",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Pickleball Tournament \u0026 Bake Sale for Mental Health MN Fundraising Event(08/16/2026)",
+        "hours": 2.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hannabella Li": {
+    "userId": "Hannabella Li",
+    "username": "Hannabella Li",
+    "totalHours": 124.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Computer Science Summer Workshop(08/20/2026-08/21/2026)",
+        "hours": 7.0,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Medtronic Marathon Report (10/5/2025)",
+        "hours": 8.0,
+        "date": "November 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Sports Classic Bocce (08/17/2025)",
+        "hours": 14.5,
+        "date": "August 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: 2025 Computer Science Workshop (7/7/25-7/9/25)",
+        "hours": 20.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: 2025 Chess Workshop (7/2/25)",
+        "hours": 11.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at the Taste of Asia Health Support Desk (10/20/2024)",
+        "hours": 7.0,
+        "date": "October 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Special Olympics State Flag Football (10/13/2024)",
+        "hours": 5.0,
+        "date": "October 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Medtronic Twin Cities Marathon (10/06/2024)",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts an 2-Year Anniversary Earth Day Cleanup (4/14/24)",
+        "hours": 4.5,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 5.0,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 8.0,
+        "date": "August 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.5,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Plants at Liu Ming Yuan Garden in St. Paul, MN (10/9/22)",
+        "hours": 4.0,
+        "date": "October 12, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.5,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Plants at Liu Ming Yuan Garden in St. Paul, MN (10/9/22)",
+        "hours": 4.0,
+        "date": "October 12, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zachray Li": {
+    "userId": "Zachray Li",
+    "username": "Zachray Li",
+    "totalHours": 114.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Computer Science Summer Workshop(08/20/2026-08/21/2026)",
+        "hours": 10.0,
+        "date": "August 24, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Medtronic Marathon Report (10/5/2025)",
+        "hours": 8.0,
+        "date": "November 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Sports Classic Bocce (08/17/2025)",
+        "hours": 14.5,
+        "date": "August 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: 2025 Computer Science Workshop (7/7/25-7/9/25)",
+        "hours": 20.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: 2025 Chess Workshop (7/2/25)",
+        "hours": 12.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Special Olympics State Flag Football (10/13/2024)",
+        "hours": 5.0,
+        "date": "October 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Medtronic Twin Cities Marathon (10/06/2024)",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 6.5,
+        "date": "August 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 4.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Plants at Liu Ming Yuan Garden in St. Paul, MN (10/9/22)",
+        "hours": 4.0,
+        "date": "October 12, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 4.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Plants at Liu Ming Yuan Garden in St. Paul, MN (10/9/22)",
+        "hours": 4.0,
+        "date": "October 12, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Megan Li": {
+    "userId": "Megan Li",
+    "username": "Megan Li",
+    "totalHours": 50.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Math Workshop(08/10-08/13/2026)",
+        "hours": 16.0,
+        "date": "August 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Medtronic Marathon Report (10/5/2025)",
+        "hours": 8.0,
+        "date": "November 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Night Market (6/19/25)",
+        "hours": 3.0,
+        "date": "June 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 8.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Special Olympics State Flag Football (10/13/2024)",
+        "hours": 5.0,
+        "date": "October 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Medtronic Twin Cities Marathon (10/06/2024)",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Math Workshop": {
+    "userId": "Math Workshop",
+    "username": "Math Workshop",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 4",
+        "hours": 3.0,
+        "date": "July 21, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 2 (06/27/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer Palace": {
+    "userId": "Summer Palace",
+    "username": "Summer Palace",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 4",
+        "hours": 3.0,
+        "date": "July 21, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Event Supervisor": {
+    "userId": "Event Supervisor",
+    "username": "Event Supervisor",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 4",
+        "hours": 3.0,
+        "date": "July 21, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 2 (06/27/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Caixia Ge": {
+    "userId": "Caixia Ge",
+    "username": "Caixia Ge",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 4",
+        "hours": 3.0,
+        "date": "July 21, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 2 (06/27/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lucy Chen": {
+    "userId": "Lucy Chen",
+    "username": "Lucy Chen",
+    "totalHours": 25.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 4",
+        "hours": 3.0,
+        "date": "July 21, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Harvest Moon 5th Annual Mid-Autumn Festival(10/04/25)",
+        "hours": 3.0,
+        "date": "October 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Volunteered at Tonka Youth Triathlon (5/18/24)",
+        "hours": 4.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Winter Clothes Drive (12/17/23 – 12/31/23)",
+        "hours": 2.0,
+        "date": "January 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 5.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 5.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rosie Chen": {
+    "userId": "Rosie Chen",
+    "username": "Rosie Chen",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 4",
+        "hours": 3.0,
+        "date": "July 21, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evelyn Ge": {
+    "userId": "Evelyn Ge",
+    "username": "Evelyn Ge",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 3 (07/11/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Chinese/Art/Math Workshop Session 2 (06/27/2026)",
+        "hours": 4.0,
+        "date": "July 13, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Branch: Volunteering at Snow Wolves members 5K or 10K run Event",
+        "hours": 2.0,
+        "date": "May 17, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anna Hou": {
+    "userId": "Anna Hou",
+    "username": "Anna Hou",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Creating Father’s Day Cards for Seniors (6/6/2026)",
+        "hours": 1.0,
+        "date": "June 26, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Creating Holiday Cards for Seniors At Starbucks( 12/13/205)",
+        "hours": 2.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Megan Wang Volunteered": {
+    "userId": "Megan Wang Volunteered",
+    "username": "Megan Wang Volunteered",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Fundraising Event at Asian Fair 05/30/2026",
+        "hours": 8.0,
+        "date": "June 5, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fung Evelyn Ge Volunteered": {
+    "userId": "Fung Evelyn Ge Volunteered",
+    "username": "Fung Evelyn Ge Volunteered",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Fundraising Event at Asian Fair 05/30/2026",
+        "hours": 2.0,
+        "date": "June 5, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Purgatory Creek": {
+    "userId": "Purgatory Creek",
+    "username": "Purgatory Creek",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Volunteering at Snow Wolves members 5K or 10K run Event",
+        "hours": 2.0,
+        "date": "May 17, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Snow Wolves": {
+    "userId": "Snow Wolves",
+    "username": "Snow Wolves",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Volunteering at Snow Wolves members 5K or 10K run Event",
+        "hours": 2.0,
+        "date": "May 17, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Event Organizer": {
+    "userId": "Event Organizer",
+    "username": "Event Organizer",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Volunteering at Snow Wolves members 5K or 10K run Event",
+        "hours": 2.0,
+        "date": "May 17, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Mother’s Day Card Making Event (04/25/2026)",
+        "hours": 2.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabel Chen": {
+    "userId": "Isabel Chen",
+    "username": "Isabel Chen",
+    "totalHours": 107.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Mother’s Day Card Making Event (04/25/2026)",
+        "hours": 2.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 2.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Branch: Jerry’s Bagging and Fundraising Event -(02/15/2026)",
+        "hours": 6.0,
+        "date": "February 25, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for St. Jude Children’s Hospital at Kowalski’s Markets (12/24/25)",
+        "hours": 3.5,
+        "date": "December 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Summer Debate Workshop for A Talented Youth – Session 5 (7/26/25)",
+        "hours": 9.5,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asian Fair Event (5/31/25)",
+        "hours": 7.0,
+        "date": "June 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 3.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: ICA Thanksgiving Bagging for Tips at Cub Foods (11/26/2024)",
+        "hours": 1.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Volunteered at Tonka Youth Triathlon (5/18/24)",
+        "hours": 4.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Weekly Long Summer Talent [ Drawing ] Workshop(8/7-8/10/23)",
+        "hours": 18.0,
+        "date": "August 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 11.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 2.5,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Weekly Long Summer Talent [ Drawing ] Workshop(8/7-8/10/23)",
+        "hours": 18.0,
+        "date": "August 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 11.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 2.5,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Penny Pang": {
+    "userId": "Penny Pang",
+    "username": "Penny Pang",
+    "totalHours": 100.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 2.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asian Fair Event (5/31/25)",
+        "hours": 7.0,
+        "date": "June 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hopkins Library K-pop Program Volunteering (02/16/2025)",
+        "hours": 2.0,
+        "date": "March 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 7.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hopkins Library Tech Support (11/17/2024)",
+        "hours": 2.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Special Olympics 2024 Regional Metro Bocce Competition (7/26/24)",
+        "hours": 3.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Library (3/24/24)",
+        "hours": 2.0,
+        "date": "April 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Library (1/21/24)",
+        "hours": 2.0,
+        "date": "January 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Serving Seniors Holiday Dinner at Plymouth Towne Square(12/5/23)",
+        "hours": 1.0,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 5.0,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Public Library (10/15/23)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch Volunteers at Hopkins Central Library in Hopkins, MN (11/12/23)",
+        "hours": 2.0,
+        "date": "November 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Library (9/24/23)",
+        "hours": 2.0,
+        "date": "September 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps with Tech Support at Hopkins Library (8/27/23)",
+        "hours": 2.0,
+        "date": "September 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at Hopkins Central Library (7/23/23)",
+        "hours": 2.0,
+        "date": "July 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 5.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 2.0,
+        "date": "August 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 10.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Writing Letters for Love for Our Elders (11/21/22 – 11/27/22)",
+        "hours": 0.5,
+        "date": "November 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 2.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps Fundraise for ICA (11/5/22)",
+        "hours": 3.0,
+        "date": "November 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Helps ICA Fundraise at Cub Foods on 10/29/22",
+        "hours": 3.0,
+        "date": "November 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps with Tech Support at Hopkins Library (8/27/23)",
+        "hours": 2.0,
+        "date": "September 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 5.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 10.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Writing Letters for Love for Our Elders (11/21/22 – 11/27/22)",
+        "hours": 0.5,
+        "date": "November 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 2.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps Fundraise for ICA (11/5/22)",
+        "hours": 3.0,
+        "date": "November 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Helps ICA Fundraise at Cub Foods on 10/29/22",
+        "hours": 3.0,
+        "date": "November 3, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Olivia Peng": {
+    "userId": "Olivia Peng",
+    "username": "Olivia Peng",
+    "totalHours": 97.5,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 2.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Medtronic Marathon Report (10/5/2025)",
+        "hours": 8.0,
+        "date": "November 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Harvest Moon 5th Annual Mid-Autumn Festival(10/04/25)",
+        "hours": 5.5,
+        "date": "October 22, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Night Market (6/19/25)",
+        "hours": 3.0,
+        "date": "June 28, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asian Fair Event (5/31/25)",
+        "hours": 7.0,
+        "date": "June 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hopkins Library K-pop Program Volunteering (02/16/2025)",
+        "hours": 2.0,
+        "date": "March 1, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for ICA local food shelf at Kowalski’s Markets (12/14/24)",
+        "hours": 4.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Medtronic Twin Cities Marathon (10/06/2024)",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Library (3/24/24)",
+        "hours": 2.0,
+        "date": "April 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts an 2-Year Anniversary Earth Day Cleanup (4/14/24)",
+        "hours": 3.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Public Library (10/15/23)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch Volunteers at Hopkins Central Library in Hopkins, MN (11/12/23)",
+        "hours": 2.0,
+        "date": "November 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Weekly Long Summer Talent [ Drawing ] Workshop(8/7-8/10/23)",
+        "hours": 10.0,
+        "date": "August 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 4.0,
+        "date": "August 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 3.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 0.5,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 6.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Weekly Long Summer Talent [ Drawing ] Workshop(8/7-8/10/23)",
+        "hours": 10.0,
+        "date": "August 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 3.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 0.5,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 6.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Luo": {
+    "userId": "Eric Luo",
+    "username": "Eric Luo",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 6.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 6.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Ren": {
+    "userId": "Alex Ren",
+    "username": "Alex Ren",
+    "totalHours": 27.5,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Summer Debate Workshop for A Talented Youth – Session 5 (7/26/25)",
+        "hours": 6.5,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 6.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 6.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Evan Truong": {
+    "userId": "Evan Truong",
+    "username": "Evan Truong",
+    "totalHours": 15.5,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Summer Debate Workshop for A Talented Youth – Session 5 (7/26/25)",
+        "hours": 6.5,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Michael Luo": {
+    "userId": "Michael Luo",
+    "username": "Michael Luo",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jessica Cao": {
+    "userId": "Jessica Cao",
+    "username": "Jessica Cao",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Helps Out At The Edina Community Summer Picnic (7/14/24)",
+        "hours": 5.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Claire Cao": {
+    "userId": "Claire Cao",
+    "username": "Claire Cao",
+    "totalHours": 104.5,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for St. Jude Children’s Hospital at Kowalski’s Markets (12/24/25)",
+        "hours": 6.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asian Fair Event (5/31/25)",
+        "hours": 7.0,
+        "date": "June 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for ICA local food shelf at Kowalski’s Markets (12/14/24)",
+        "hours": 4.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: ICA Thanksgiving Bagging for Tips at Cub Foods (11/26/2024)",
+        "hours": 3.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Medtronic Twin Cities Marathon (10/06/2024)",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Helps Out At The Edina Community Summer Picnic (7/14/24)",
+        "hours": 5.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts an 2-Year Anniversary Earth Day Cleanup (4/14/24)",
+        "hours": 3.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Supports Special Olympics Polar Plunge (1/27/24)",
+        "hours": 4.0,
+        "date": "January 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 2.5,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Weekly Long Summer Talent [ Drawing ] Workshop(8/7-8/10/23)",
+        "hours": 10.0,
+        "date": "August 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 9.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 1.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 2.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/19 – 1/1)",
+        "hours": 1.5,
+        "date": "January 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Weekly Long Summer Talent [ Drawing ] Workshop(8/7-8/10/23)",
+        "hours": 10.0,
+        "date": "August 14, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 9.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 1.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 2.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/19 – 1/1)",
+        "hours": 1.5,
+        "date": "January 4, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Helen Liu": {
+    "userId": "Helen Liu",
+    "username": "Helen Liu",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 3.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jacob Lee": {
+    "userId": "Jacob Lee",
+    "username": "Jacob Lee",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 3.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: ICA Thanksgiving Bagging for Tips at Cub Foods (11/26/2024)",
+        "hours": 3.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Du": {
+    "userId": "Alex Du",
+    "username": "Alex Du",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for St. Jude Children’s Hospital at Kowalski’s Markets (12/24/25)",
+        "hours": 5.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hannabell Li": {
+    "userId": "Hannabell Li",
+    "username": "Hannabell Li",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Earth Day Cleaning and Aylus Anniversary Event(4/26/2026)",
+        "hours": 3.0,
+        "date": "May 9, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "JADE Youth Expo": {
+    "userId": "JADE Youth Expo",
+    "username": "JADE Youth Expo",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Volunteering at the JADE Youth Expo (4/12/2025)",
+        "hours": 3.0,
+        "date": "April 19, 2026",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at the JADE Youth Expo (1/5/2025)",
+        "hours": 4.0,
+        "date": "January 11, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "With Hope Bridging Event": {
+    "userId": "With Hope Bridging Event",
+    "username": "With Hope Bridging Event",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Furnishing Homes With Hope Bridging Event (1/26/26)",
+        "hours": 2.0,
+        "date": "February 1, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Day Event": {
+    "userId": "Day Event",
+    "username": "Day Event",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Senior Home Valentine’s Day Event – 02/08/2026",
+        "hours": 2.0,
+        "date": "February 24, 2026",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mingchi Mathur": {
+    "userId": "Mingchi Mathur",
+    "username": "Mingchi Mathur",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Fundraising for St. Jude Children’s Hospital at Kowalski’s Markets (12/24/25)",
+        "hours": 6.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Branch: Summer Sports Classic Bocce (08/17/2025)",
+        "hours": 5.0,
+        "date": "August 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gavin Peng": {
+    "userId": "Gavin Peng",
+    "username": "Gavin Peng",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Fundraising for St. Jude Children’s Hospital at Kowalski’s Markets (12/24/25)",
+        "hours": 5.0,
+        "date": "December 26, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 2.0,
+        "date": "August 6, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Plymouth Towne Square": {
+    "userId": "Plymouth Towne Square",
+    "username": "Plymouth Towne Square",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch – Senior Home Holiday Dinner Event (12/09/2025)",
+        "hours": 3.0,
+        "date": "December 14, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Performs and Sings with Seniors at Plymouth Towne Square (6/25/23)",
+        "hours": 3.0,
+        "date": "July 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Volunteers at Senior Center 6/25/22",
+        "hours": 3.0,
+        "date": "July 3, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Performs and Sings with Seniors at Plymouth Towne Square (6/25/23)",
+        "hours": 3.0,
+        "date": "July 3, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Senior Home": {
+    "userId": "Annual Senior Home",
+    "username": "Annual Senior Home",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch – Senior Home Holiday Dinner Event (12/09/2025)",
+        "hours": 3.0,
+        "date": "December 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Senior Home Fall Raking": {
+    "userId": "Senior Home Fall Raking",
+    "username": "Senior Home Fall Raking",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Senior Home Fall Raking Event 1(10/19/2025)",
+        "hours": 1.0,
+        "date": "October 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zacharay Li": {
+    "userId": "Zacharay Li",
+    "username": "Zacharay Li",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Harvest Moon 5th Annual Mid-Autumn Festival(10/04/25)",
+        "hours": 5.0,
+        "date": "October 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Drawing Workshop": {
+    "userId": "Drawing Workshop",
+    "username": "Drawing Workshop",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Summer Drawing Workshop session 3 (8/30/25)",
+        "hours": 3.0,
+        "date": "September 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Labor Day": {
+    "userId": "Labor Day",
+    "username": "Labor Day",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Branch: Summer Drawing Workshop session 3 (8/30/25)",
+        "hours": 3.0,
+        "date": "September 2, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kaining Zhang": {
+    "userId": "Kaining Zhang",
+    "username": "Kaining Zhang",
+    "totalHours": 41.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: 2025 Computer Science Workshop (7/7/25-7/9/25)",
+        "hours": 1.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: 2025 Chess Workshop (7/2/25)",
+        "hours": 1.0,
+        "date": "July 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 3.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: ICA Thanksgiving Bagging for Tips at Cub Foods (11/26/2024)",
+        "hours": 3.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Special Olympics State Flag Football (10/13/2024)",
+        "hours": 5.0,
+        "date": "October 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Medtronic Twin Cities Marathon (10/06/2024)",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Helps Out At The Edina Community Summer Picnic (7/14/24)",
+        "hours": 5.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 5.0,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 3.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 3.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annabelle Alanen": {
+    "userId": "Annabelle Alanen",
+    "username": "Annabelle Alanen",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Night Market (6/19/25)",
+        "hours": 3.0,
+        "date": "June 28, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alivia Alanen": {
+    "userId": "Alivia Alanen",
+    "username": "Alivia Alanen",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Night Market (6/19/25)",
+        "hours": 3.0,
+        "date": "June 28, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Curtis Ying": {
+    "userId": "Curtis Ying",
+    "username": "Curtis Ying",
+    "totalHours": 96.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Asian Fair Event (5/31/25)",
+        "hours": 7.0,
+        "date": "June 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Library (3/24/24)",
+        "hours": 2.0,
+        "date": "April 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Library (1/21/24)",
+        "hours": 2.0,
+        "date": "January 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Supports Special Olympics Polar Plunge (1/27/24)",
+        "hours": 4.0,
+        "date": "January 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Public Library (10/15/23)",
+        "hours": 2.0,
+        "date": "October 15, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Library (9/24/23)",
+        "hours": 2.0,
+        "date": "September 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps with Tech Support at Hopkins Library (8/27/23)",
+        "hours": 2.0,
+        "date": "September 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at Hopkins Central Library (7/23/23)",
+        "hours": 2.0,
+        "date": "July 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 12.0,
+        "date": "August 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 10.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Weeds a Yard for Senior Community Services (5/28/23)",
+        "hours": 3.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 2.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (1/14/23 – 1/16/23)",
+        "hours": 1.0,
+        "date": "January 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Clothes Drive for Goodwill (12/17/22 – 1/8/23)",
+        "hours": 2.0,
+        "date": "January 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/19 – 1/1)",
+        "hours": 1.0,
+        "date": "January 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/12 – 12/18)",
+        "hours": 1.0,
+        "date": "December 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 1.5,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Writing Letters for Love for Our Elders (11/21/22 – 11/27/22)",
+        "hours": 1.5,
+        "date": "November 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 1.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps Fundraise for ICA (11/5/22)",
+        "hours": 1.0,
+        "date": "November 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps with Tech Support at Hopkins Library (8/27/23)",
+        "hours": 2.0,
+        "date": "September 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 10.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 2.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (1/14/23 – 1/16/23)",
+        "hours": 1.0,
+        "date": "January 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Clothes Drive for Goodwill (12/17/22 – 1/8/23)",
+        "hours": 2.0,
+        "date": "January 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/19 – 1/1)",
+        "hours": 1.0,
+        "date": "January 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/12 – 12/18)",
+        "hours": 1.0,
+        "date": "December 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 1.5,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Writing Letters for Love for Our Elders (11/21/22 – 11/27/22)",
+        "hours": 1.5,
+        "date": "November 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 1.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps Fundraise for ICA (11/5/22)",
+        "hours": 1.0,
+        "date": "November 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tony Liu": {
+    "userId": "Tony Liu",
+    "username": "Tony Liu",
+    "totalHours": 85.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Asian Fair Event (5/31/25)",
+        "hours": 7.0,
+        "date": "June 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for ICA local food shelf at Kowalski’s Markets (12/14/24)",
+        "hours": 4.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts an 2-Year Anniversary Earth Day Cleanup (4/14/24)",
+        "hours": 4.0,
+        "date": "April 27, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Winter Clothes Drive (12/17/23 – 12/31/23)",
+        "hours": 4.0,
+        "date": "January 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/29/23)",
+        "hours": 4.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 5.0,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Weeds a Yard for Senior Community Services (5/28/23)",
+        "hours": 3.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Transcribes Documents for Citizen Archivist in January 2023",
+        "hours": 1.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (1/14/23 – 1/16/23)",
+        "hours": 1.0,
+        "date": "January 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Clothes Drive for Goodwill (12/17/22 – 1/8/23)",
+        "hours": 2.0,
+        "date": "January 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/12 – 12/18)",
+        "hours": 0.5,
+        "date": "December 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 1.0,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Writing Letters for Love for Our Elders (11/21/22 – 11/27/22)",
+        "hours": 0.5,
+        "date": "November 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 2.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps Fundraise for ICA (11/5/22)",
+        "hours": 2.0,
+        "date": "November 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Helps ICA Fundraise at Cub Foods on 10/29/22",
+        "hours": 2.0,
+        "date": "November 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Taste of Asia in Saint Paul (10/23/22)",
+        "hours": 6.0,
+        "date": "October 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Transcribes Documents for Citizen Archivist in January 2023",
+        "hours": 1.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (1/14/23 – 1/16/23)",
+        "hours": 1.0,
+        "date": "January 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Clothes Drive for Goodwill (12/17/22 – 1/8/23)",
+        "hours": 2.0,
+        "date": "January 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/12 – 12/18)",
+        "hours": 0.5,
+        "date": "December 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 1.0,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Writing Letters for Love for Our Elders (11/21/22 – 11/27/22)",
+        "hours": 0.5,
+        "date": "November 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 2.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Helps Fundraise for ICA (11/5/22)",
+        "hours": 2.0,
+        "date": "November 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Helps ICA Fundraise at Cub Foods on 10/29/22",
+        "hours": 2.0,
+        "date": "November 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Taste of Asia in Saint Paul (10/23/22)",
+        "hours": 6.0,
+        "date": "October 29, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kai Huang": {
+    "userId": "Kai Huang",
+    "username": "Kai Huang",
+    "totalHours": 75.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Asian Fair Event (5/31/25)",
+        "hours": 7.0,
+        "date": "June 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 3.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for ICA local food shelf at Kowalski’s Markets (12/14/24)",
+        "hours": 4.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 5.0,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 4.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 9.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Clothes Drive for Goodwill (12/17/22 – 1/8/23)",
+        "hours": 3.0,
+        "date": "January 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 1.0,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Taste of Asia in Saint Paul (10/23/22)",
+        "hours": 6.0,
+        "date": "October 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 4.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 9.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Clothes Drive for Goodwill (12/17/22 – 1/8/23)",
+        "hours": 3.0,
+        "date": "January 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 1.0,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Taste of Asia in Saint Paul (10/23/22)",
+        "hours": 6.0,
+        "date": "October 29, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Katie Huang": {
+    "userId": "Katie Huang",
+    "username": "Katie Huang",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Asian Fair Event (5/31/25)",
+        "hours": 7.0,
+        "date": "June 9, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 3.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising for ICA local food shelf at Kowalski’s Markets (12/14/24)",
+        "hours": 1.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hopkins Library Tech Support (11/17/2024)",
+        "hours": 2.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at the Taste of Asia Health Support Desk (10/20/2024)",
+        "hours": 3.0,
+        "date": "October 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Special Olympics 2024 Regional Metro Bocce Competition (7/26/24)",
+        "hours": 3.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Addison Shi": {
+    "userId": "Addison Shi",
+    "username": "Addison Shi",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffrey Chen": {
+    "userId": "Jeffrey Chen",
+    "username": "Jeffrey Chen",
+    "totalHours": 56.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Annual Lake Cleanup at Bde Maka Ska (04/19/2025)",
+        "hours": 4.0,
+        "date": "May 5, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at the Taste of Asia Health Support Desk (10/20/2024)",
+        "hours": 3.0,
+        "date": "October 20, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Helps Out At The Edina Community Summer Picnic (7/14/24)",
+        "hours": 5.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 5.0,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 3.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 2.5,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 5.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Volunteers at Liu Ming Yuan Garden (10/2/2022)",
+        "hours": 4.0,
+        "date": "October 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 3.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Food Drive (3/17 – 3/31)",
+        "hours": 2.5,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 2.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 5.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Volunteers at Liu Ming Yuan Garden (10/2/2022)",
+        "hours": 4.0,
+        "date": "October 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alice Yi": {
+    "userId": "Alice Yi",
+    "username": "Alice Yi",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 3.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.5,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 1.5,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.5,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 1.5,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Owen Cai": {
+    "userId": "Owen Cai",
+    "username": "Owen Cai",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Asia Mall Chinese New Year Volunteering (1/19, 1/25, 1/26/2025)",
+        "hours": 3.0,
+        "date": "January 30, 2025",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Feed My Starving Children": {
+    "userId": "Feed My Starving Children",
+    "username": "Feed My Starving Children",
+    "totalHours": 82.5,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (3/22/24)",
+        "hours": 9.0,
+        "date": "March 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (3/21/24)",
+        "hours": 9.0,
+        "date": "March 31, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 9.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 7.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 9.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Volunteers at FMSC on 10/29/22",
+        "hours": 1.75,
+        "date": "November 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fundraises for Feed My Starving Children (7/10/22)",
+        "hours": 4.0,
+        "date": "July 11, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fundraises for Feed My Starving Children (6/25/22)",
+        "hours": 5.0,
+        "date": "July 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 7.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 9.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Volunteers at FMSC on 10/29/22",
+        "hours": 1.75,
+        "date": "November 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fundraises for Feed My Starving Children (7/10/22)",
+        "hours": 4.0,
+        "date": "July 11, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Fundraises for Feed My Starving Children (6/25/22)",
+        "hours": 5.0,
+        "date": "July 3, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Thomas Chen": {
+    "userId": "Thomas Chen",
+    "username": "Thomas Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Summer Liu": {
+    "userId": "Summer Liu",
+    "username": "Summer Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rayna Liu": {
+    "userId": "Rayna Liu",
+    "username": "Rayna Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Venice Liu": {
+    "userId": "Venice Liu",
+    "username": "Venice Liu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ariana Yang": {
+    "userId": "Ariana Yang",
+    "username": "Ariana Yang",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Volunteering at Medtronic Twin Cities Marathon (10/06/2024)",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Yi": {
+    "userId": "Sarah Yi",
+    "username": "Sarah Yi",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Josie Snaza": {
+    "userId": "Josie Snaza",
+    "username": "Josie Snaza",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lavender Truong": {
+    "userId": "Lavender Truong",
+    "username": "Lavender Truong",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Zhong": {
+    "userId": "Sarah Zhong",
+    "username": "Sarah Zhong",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Katie Chen": {
+    "userId": "Katie Chen",
+    "username": "Katie Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Thanksgiving FMSC Special Events \u0026 Celebration (11/30/2024)",
+        "hours": 2.0,
+        "date": "December 25, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabelle Wong": {
+    "userId": "Isabelle Wong",
+    "username": "Isabelle Wong",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: ICA Thanksgiving Bagging for Tips at Cub Foods (11/26/2024)",
+        "hours": 3.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "On Nov": {
+    "userId": "On Nov",
+    "username": "On Nov",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Hopkins Library Tech Support (11/17/2024)",
+        "hours": 17.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Two Alyus": {
+    "userId": "Two Alyus",
+    "username": "Two Alyus",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Hopkins Library Tech Support (11/17/2024)",
+        "hours": 17.0,
+        "date": "November 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Edina Chinese Community": {
+    "userId": "Edina Chinese Community",
+    "username": "Edina Chinese Community",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Helps Out At The Edina Community Summer Picnic (7/14/24)",
+        "hours": 5.0,
+        "date": "August 7, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kai 8.5hrs": {
+    "userId": "Kai 8.5hrs",
+    "username": "Kai 8.5hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Curtis 3hrs": {
+    "userId": "Curtis 3hrs",
+    "username": "Curtis 3hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabel 7hrs": {
+    "userId": "Isabel 7hrs",
+    "username": "Isabel 7hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lucy 3hrs": {
+    "userId": "Lucy 3hrs",
+    "username": "Lucy 3hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ellen Y 3hrs": {
+    "userId": "Ellen Y 3hrs",
+    "username": "Ellen Y 3hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hannabella 8.5hrs": {
+    "userId": "Hannabella 8.5hrs",
+    "username": "Hannabella 8.5hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zachary 8.5hrs": {
+    "userId": "Zachary 8.5hrs",
+    "username": "Zachary 8.5hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffrey 4hrs": {
+    "userId": "Jeffrey 4hrs",
+    "username": "Jeffrey 4hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tony 6hrs": {
+    "userId": "Tony 6hrs",
+    "username": "Tony 6hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Olivia 8.5hrs": {
+    "userId": "Olivia 8.5hrs",
+    "username": "Olivia 8.5hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Penny 6hrs": {
+    "userId": "Penny 6hrs",
+    "username": "Penny 6hrs",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Aylus Twin Cities Branch: Asian Fair Event on 6/1/2024",
+        "hours": 3.0,
+        "date": "June 9, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Motion Get In Gear": {
+    "userId": "Motion Get In Gear",
+    "username": "Motion Get In Gear",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at Twin Cities in Motion Get In Gear (4/27/24)",
+        "hours": 15.0,
+        "date": "May 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jerry Lin": {
+    "userId": "Jerry Lin",
+    "username": "Jerry Lin",
+    "totalHours": 17.25,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at Twin Cities in Motion Get In Gear (4/27/24)",
+        "hours": 3.25,
+        "date": "May 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Chinese New Year Celebration in the Asia Mall (1/16/23)",
+        "hours": 4.0,
+        "date": "January 21, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Chinese New Year Celebration in the Asia Mall (1/16/23)",
+        "hours": 4.0,
+        "date": "January 21, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nicole Lin": {
+    "userId": "Nicole Lin",
+    "username": "Nicole Lin",
+    "totalHours": 3.25,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at Twin Cities in Motion Get In Gear (4/27/24)",
+        "hours": 3.25,
+        "date": "May 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Penny Peng": {
+    "userId": "Penny Peng",
+    "username": "Penny Peng",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Winter Clothes Drive (12/17/23 – 12/31/23)",
+        "hours": 2.0,
+        "date": "January 1, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Chinese New Year Celebration in the Asia Mall (1/22/23)",
+        "hours": 4.0,
+        "date": "January 23, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Chinese New Year Celebration in the Asia Mall (1/22/23)",
+        "hours": 4.0,
+        "date": "January 23, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabelle Chen": {
+    "userId": "Isabelle Chen",
+    "username": "Isabelle Chen",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Winter Clothes Drive (12/17/23 – 12/31/23)",
+        "hours": 2.0,
+        "date": "January 1, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Karn Kaura": {
+    "userId": "Karn Kaura",
+    "username": "Karn Kaura",
+    "totalHours": 51.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Weeds a Yard for Senior Community Services (5/28/23)",
+        "hours": 3.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at the Blake Service Day for Appetite for Change (5/20/23)",
+        "hours": 3.0,
+        "date": "May 27, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 8.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 2.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Transcribes Documents for Citizen Archivist in January 2023",
+        "hours": 1.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (1/14/23 – 1/16/23)",
+        "hours": 1.0,
+        "date": "January 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 1.5,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Helps ICA Fundraise at Cub Foods on 10/29/22",
+        "hours": 2.0,
+        "date": "November 3, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Hosts a Spring Break Clothes Drive (3/17 – 3/31)",
+        "hours": 8.0,
+        "date": "April 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Fights Hunger at Feed My Starving Children (3/20/23)",
+        "hours": 2.0,
+        "date": "March 22, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Transcribes Documents for Citizen Archivist in January 2023",
+        "hours": 1.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (1/14/23 – 1/16/23)",
+        "hours": 1.0,
+        "date": "January 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 1.5,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Aylus Twin Cities Helps ICA Fundraise at Cub Foods on 10/29/22",
+        "hours": 2.0,
+        "date": "November 3, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hamza Banatwala": {
+    "userId": "Hamza Banatwala",
+    "username": "Hamza Banatwala",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nyel Uffa": {
+    "userId": "Nyel Uffa",
+    "username": "Nyel Uffa",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Fights Hunger at Feed My Starving Children (12/27/23)",
+        "hours": 2.0,
+        "date": "December 31, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 1.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 1.0,
+        "date": "August 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 1.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zachary Li": {
+    "userId": "Zachary Li",
+    "username": "Zachary Li",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Fundraising at Jerrys Foods (12/10/23)",
+        "hours": 5.0,
+        "date": "December 13, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 3.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.5,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 3.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.5,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hopkins Central Library": {
+    "userId": "Hopkins Central Library",
+    "username": "Hopkins Central Library",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch Volunteers at Hopkins Central Library in Hopkins, MN (11/12/23)",
+        "hours": 2.0,
+        "date": "November 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hopkins Library": {
+    "userId": "Hopkins Library",
+    "username": "Hopkins Library",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Hosts Tech Support at Hopkins Library (9/24/23)",
+        "hours": 2.0,
+        "date": "September 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shivam Walia": {
+    "userId": "Shivam Walia",
+    "username": "Shivam Walia",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 2.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 2.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shayan Farhan": {
+    "userId": "Shayan Farhan",
+    "username": "Shayan Farhan",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 1.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 1.0,
+        "date": "August 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Initiating Summer Talent Chess Workshop(8/6/23)",
+        "hours": 1.0,
+        "date": "August 12, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alex Zhang": {
+    "userId": "Alex Zhang",
+    "username": "Alex Zhang",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Creates and Teaches at a Computer Science Workshop (8/5/23-8/6/23)",
+        "hours": 2.0,
+        "date": "August 6, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 4.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 4.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffery Chen": {
+    "userId": "Jeffery Chen",
+    "username": "Jeffery Chen",
+    "totalHours": 43.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Supports the 50th Special Olympics Summer State Competition (6/17/23 – 6/18/23)",
+        "hours": 4.0,
+        "date": "June 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Transcribes Documents for Citizen Archivist in January 2023",
+        "hours": 1.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (1/14/23 – 1/16/23)",
+        "hours": 3.5,
+        "date": "January 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 15.0,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Transcribes Documents for Citizen Archivist in January 2023",
+        "hours": 1.0,
+        "date": "February 5, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (1/14/23 – 1/16/23)",
+        "hours": 3.5,
+        "date": "January 18, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 15.0,
+        "date": "January 1, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ahan Devgun": {
+    "userId": "Ahan Devgun",
+    "username": "Ahan Devgun",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.5,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Weeds a Yard for Senior Community Services (5/28/23)",
+        "hours": 3.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 2.5,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/19 – 1/1)",
+        "hours": 2.0,
+        "date": "January 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/12 – 12/18)",
+        "hours": 1.5,
+        "date": "December 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Writing Letters for Love for Our Elders (11/21/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 30, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.5,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 2.5,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/19 – 1/1)",
+        "hours": 2.0,
+        "date": "January 4, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/12 – 12/18)",
+        "hours": 1.5,
+        "date": "December 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Writing Letters for Love for Our Elders (11/21/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 30, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alvin Liu": {
+    "userId": "Alvin Liu",
+    "username": "Alvin Liu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.5,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.5,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aidan Zhang": {
+    "userId": "Aidan Zhang",
+    "username": "Aidan Zhang",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 4.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 4.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aaron Zou": {
+    "userId": "Aaron Zou",
+    "username": "Aaron Zou",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Clothes Drive for Goodwill (12/17/22 – 1/8/23)",
+        "hours": 2.0,
+        "date": "January 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 2.0,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 29, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Hosts a Clothes Drive for Goodwill (12/17/22 – 1/8/23)",
+        "hours": 2.0,
+        "date": "January 10, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (12/19/22 – 12/31/22)",
+        "hours": 2.0,
+        "date": "January 1, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Transcribes Documents for Citizen Archivist (11/23/22 – 11/27/22)",
+        "hours": 1.0,
+        "date": "November 29, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nickole Lin": {
+    "userId": "Nickole Lin",
+    "username": "Nickole Lin",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Logan Lin": {
+    "userId": "Logan Lin",
+    "username": "Logan Lin",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isabel Cheng": {
+    "userId": "Isabel Cheng",
+    "username": "Isabel Cheng",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christine Chen": {
+    "userId": "Christine Chen",
+    "username": "Christine Chen",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Vinina Chen": {
+    "userId": "Vinina Chen",
+    "username": "Vinina Chen",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Felix Cheng": {
+    "userId": "Felix Cheng",
+    "username": "Felix Cheng",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zoe Wicklund": {
+    "userId": "Zoe Wicklund",
+    "username": "Zoe Wicklund",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 6.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 6.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xinlai Tan": {
+    "userId": "Xinlai Tan",
+    "username": "Xinlai Tan",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Supporting Twin Cities Metro West Asian Fair (6/3/23)",
+        "hours": 3.0,
+        "date": "June 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Louis Park": {
+    "userId": "Louis Park",
+    "username": "Louis Park",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Weeds a Yard for Senior Community Services (5/28/23)",
+        "hours": 4.0,
+        "date": "May 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alice Ling": {
+    "userId": "Alice Ling",
+    "username": "Alice Ling",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 3.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Cleaning The Lake On Earth Day To Celebrate Our First Year Anniversary(4/23/23)",
+        "hours": 3.0,
+        "date": "April 30, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Alan Hodder": {
+    "userId": "Alan Hodder",
+    "username": "Alan Hodder",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Helps Pack Food for Feed My Starving Children (3/18/2023)",
+        "hours": 2.0,
+        "date": "March 19, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Faith Zhao": {
+    "userId": "Faith Zhao",
+    "username": "Faith Zhao",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/12 – 12/18)",
+        "hours": 4.0,
+        "date": "December 21, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Writes Letters to Elders for Love for Our Elders (12/12 – 12/18)",
+        "hours": 4.0,
+        "date": "December 21, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brooklyn Park": {
+    "userId": "Brooklyn Park",
+    "username": "Brooklyn Park",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Rakes Leaves for Senior Care Services (11/5/22)",
+        "hours": 9.0,
+        "date": "November 13, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Rakes Leaves for Senior Care Services (11/5/22)",
+        "hours": 9.0,
+        "date": "November 13, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Avin Liu": {
+    "userId": "Avin Liu",
+    "username": "Avin Liu",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 6.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 6.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Max Peng": {
+    "userId": "Max Peng",
+    "username": "Max Peng",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 6.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "Twin Cities Branch: Hosting Thanksgiving Food/Supply Drive for ICA Food Shelf (11/6/22-11/20/22)",
+        "hours": 6.0,
+        "date": "November 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ICA Food Shelf": {
+    "userId": "ICA Food Shelf",
+    "username": "ICA Food Shelf",
+    "totalHours": 30.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at ICA Food Shelf (10/22/22)",
+        "hours": 15.0,
+        "date": "October 23, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Volunteers at ICA Food Shelf (10/22/22)",
+        "hours": 15.0,
+        "date": "October 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Medtronic Twin Cities Marathon": {
+    "userId": "Medtronic Twin Cities Marathon",
+    "username": "Medtronic Twin Cities Marathon",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Twin Cities Runs a Water Stop at the Medtronic Twin Cities Marathon (10/2/22)",
+        "hours": 9.0,
+        "date": "October 5, 2022",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Twin Cities Runs a Water Stop at the Medtronic Twin Cities Marathon (10/2/22)",
+        "hours": 9.0,
+        "date": "October 5, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bellaire Independence Day Parade": {
+    "userId": "Bellaire Independence Day Parade",
+    "username": "Bellaire Independence Day Parade",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dragon Mandarin Immersion School": {
+    "userId": "Dragon Mandarin Immersion School",
+    "username": "Dragon Mandarin Immersion School",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "New Year Festival": {
+    "userId": "New Year Festival",
+    "username": "New Year Festival",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Public Library Warehouse": {
+    "userId": "Houston Public Library Warehouse",
+    "username": "Houston Public Library Warehouse",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rice University": {
+    "userId": "Rice University",
+    "username": "Rice University",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "STEMbotics Summer Camp": {
+    "userId": "STEMbotics Summer Camp",
+    "username": "STEMbotics Summer Camp",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Splash Day Event": {
+    "userId": "Splash Day Event",
+    "username": "Splash Day Event",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bellaire Independence Day": {
+    "userId": "Bellaire Independence Day",
+    "username": "Bellaire Independence Day",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Food Bank": {
+    "userId": "Houston Food Bank",
+    "username": "Houston Food Bank",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Freewheels Houston": {
+    "userId": "Freewheels Houston",
+    "username": "Freewheels Houston",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Beacon": {
+    "userId": "The Beacon",
+    "username": "The Beacon",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Books For Development": {
+    "userId": "Books For Development",
+    "username": "Books For Development",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "MIMA Chinese New Year": {
+    "userId": "MIMA Chinese New Year",
+    "username": "MIMA Chinese New Year",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lunar New Year Festival": {
+    "userId": "Lunar New Year Festival",
+    "username": "Lunar New Year Festival",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "The Beacon Day Center": {
+    "userId": "The Beacon Day Center",
+    "username": "The Beacon Day Center",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beacon Homeless Service": {
+    "userId": "Beacon Homeless Service",
+    "username": "Beacon Homeless Service",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ED White Elementary School": {
+    "userId": "ED White Elementary School",
+    "username": "ED White Elementary School",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 9.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pumpkin Patch Festival On": {
+    "userId": "Pumpkin Patch Festival On",
+    "username": "Pumpkin Patch Festival On",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bellaire High School Art": {
+    "userId": "Bellaire High School Art",
+    "username": "Bellaire High School Art",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beacon Homelessness Service": {
+    "userId": "Beacon Homelessness Service",
+    "username": "Beacon Homelessness Service",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Museum Houston": {
+    "userId": "Museum Houston",
+    "username": "Museum Houston",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beacon Homeless Services": {
+    "userId": "Beacon Homeless Services",
+    "username": "Beacon Homeless Services",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Park Earth Day": {
+    "userId": "Park Earth Day",
+    "username": "Park Earth Day",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed White": {
+    "userId": "Ed White",
+    "username": "Ed White",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Robotics Team Garage Sale": {
+    "userId": "Robotics Team Garage Sale",
+    "username": "Robotics Team Garage Sale",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "White Elementary School": {
+    "userId": "White Elementary School",
+    "username": "White Elementary School",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ben Taub Hospital": {
+    "userId": "Ben Taub Hospital",
+    "username": "Ben Taub Hospital",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 22.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ed White Elementary": {
+    "userId": "Ed White Elementary",
+    "username": "Ed White Elementary",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 4.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nature Discovery Center Pumpkin": {
+    "userId": "Nature Discovery Center Pumpkin",
+    "username": "Nature Discovery Center Pumpkin",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Patch Festival Day": {
+    "userId": "Patch Festival Day",
+    "username": "Patch Festival Day",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 2.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pumpkin Patch Festival Day": {
+    "userId": "Pumpkin Patch Festival Day",
+    "username": "Pumpkin Patch Festival Day",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Back": {
+    "userId": "Annual Back",
+    "username": "Annual Back",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Jamfest": {
+    "userId": "School Jamfest",
+    "username": "School Jamfest",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Dragon Academy": {
+    "userId": "Houston Dragon Academy",
+    "username": "Houston Dragon Academy",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 16.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "HCC Chinese School": {
+    "userId": "HCC Chinese School",
+    "username": "HCC Chinese School",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 12.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Life Inc Packing Relief": {
+    "userId": "Life Inc Packing Relief",
+    "username": "Life Inc Packing Relief",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 8.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "International Mud Day": {
+    "userId": "International Mud Day",
+    "username": "International Mud Day",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fund Raising": {
+    "userId": "Fund Raising",
+    "username": "Fund Raising",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 19.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nature Discovery Center": {
+    "userId": "Nature Discovery Center",
+    "username": "Nature Discovery Center",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 7.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Syria Earthquake": {
+    "userId": "Syria Earthquake",
+    "username": "Syria Earthquake",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christian Community Service Center": {
+    "userId": "Christian Community Service Center",
+    "username": "Christian Community Service Center",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "End Alzheimer": {
+    "userId": "End Alzheimer",
+    "username": "End Alzheimer",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Patch Fall Festival": {
+    "userId": "Patch Fall Festival",
+    "username": "Patch Fall Festival",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pumpkin Patch Festival": {
+    "userId": "Pumpkin Patch Festival",
+    "username": "Pumpkin Patch Festival",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annual Houston Chinese Community": {
+    "userId": "Annual Houston Chinese Community",
+    "username": "Annual Houston Chinese Community",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Health Fair": {
+    "userId": "Health Fair",
+    "username": "Health Fair",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 1.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "South American Chinese Clinic": {
+    "userId": "South American Chinese Clinic",
+    "username": "South American Chinese Clinic",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 18.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beacon Day Center": {
+    "userId": "Beacon Day Center",
+    "username": "Beacon Day Center",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 5.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Wellness Jam Fest": {
+    "userId": "Wellness Jam Fest",
+    "username": "Wellness Jam Fest",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 13.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Backpack Distribution Event": {
+    "userId": "Backpack Distribution Event",
+    "username": "Backpack Distribution Event",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Fair": {
+    "userId": "School Fair",
+    "username": "School Fair",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 6.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hand Sanitizers": {
+    "userId": "Hand Sanitizers",
+    "username": "Hand Sanitizers",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Picnic In The Park": {
+    "userId": "Picnic In The Park",
+    "username": "Picnic In The Park",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Family Nature Night Event": {
+    "userId": "Family Nature Night Event",
+    "username": "Family Nature Night Event",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Art Bike Festival": {
+    "userId": "Houston Art Bike Festival",
+    "username": "Houston Art Bike Festival",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 21.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Books Between Kids": {
+    "userId": "Books Between Kids",
+    "username": "Books Between Kids",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 14.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Public Library Book": {
+    "userId": "Houston Public Library Book",
+    "username": "Houston Public Library Book",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 24.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Earth Day Houston": {
+    "userId": "Earth Day Houston",
+    "username": "Earth Day Houston",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hermann Park Conservancy": {
+    "userId": "Hermann Park Conservancy",
+    "username": "Hermann Park Conservancy",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 15.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jingle Bell Express Program": {
+    "userId": "Jingle Bell Express Program",
+    "username": "Jingle Bell Express Program",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 10.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Salt Association": {
+    "userId": "Salt Association",
+    "username": "Salt Association",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "Bellaire, TX",
+        "hours": 20.0,
+        "date": "October 12, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

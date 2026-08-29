@@ -1,0 +1,407 @@
+{
+  "Arcadia Lake": {
+    "userId": "Arcadia Lake",
+    "username": "Arcadia Lake",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Edmond Aylus Branch Cleans Local Park (10/15/22)",
+        "hours": 3.0,
+        "date": "October 16, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joanna Liu": {
+    "userId": "Joanna Liu",
+    "username": "Joanna Liu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Edmond Aylus Branch Cleans Local Park (10/15/22)",
+        "hours": 3.0,
+        "date": "October 16, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jacob Meng": {
+    "userId": "Jacob Meng",
+    "username": "Jacob Meng",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Edmond Aylus Branch Cleans Local Park (10/15/22)",
+        "hours": 3.0,
+        "date": "October 16, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Hong": {
+    "userId": "Eric Hong",
+    "username": "Eric Hong",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "Edmond Branch Members Volunteer At Arcadia Lake Sweep on 4-1",
+        "hours": 3.0,
+        "date": "April 3, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Street Beach": {
+    "userId": "Street Beach",
+    "username": "Street Beach",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "New project in September",
+        "hours": 19.0,
+        "date": "August 7, 2015",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Zixuan Wang": {
+    "userId": "Zixuan Wang",
+    "username": "Zixuan Wang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Morgan Li": {
+    "userId": "Morgan Li",
+    "username": "Morgan Li",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yangxuezhe Sun": {
+    "userId": "Yangxuezhe Sun",
+    "username": "Yangxuezhe Sun",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xuanming Zhang": {
+    "userId": "Xuanming Zhang",
+    "username": "Xuanming Zhang",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 14.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Qinran Zhang": {
+    "userId": "Qinran Zhang",
+    "username": "Qinran Zhang",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 4.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeff Si": {
+    "userId": "Jeff Si",
+    "username": "Jeff Si",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 4.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Haohua Feng": {
+    "userId": "Haohua Feng",
+    "username": "Haohua Feng",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 14.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jiayi Bai": {
+    "userId": "Jiayi Bai",
+    "username": "Jiayi Bai",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 6.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yixuan Yuan": {
+    "userId": "Yixuan Yuan",
+    "username": "Yixuan Yuan",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 11.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Wang": {
+    "userId": "Eric Wang",
+    "username": "Eric Wang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yongxi Hu": {
+    "userId": "Yongxi Hu",
+    "username": "Yongxi Hu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ryan Kan": {
+    "userId": "Ryan Kan",
+    "username": "Ryan Kan",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jiahe Song": {
+    "userId": "Jiahe Song",
+    "username": "Jiahe Song",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Puyang Liu": {
+    "userId": "Puyang Liu",
+    "username": "Puyang Liu",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 4.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kayden Shi": {
+    "userId": "Kayden Shi",
+    "username": "Kayden Shi",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 4.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xia Ning": {
+    "userId": "Xia Ning",
+    "username": "Xia Ning",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 10.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Mengyu He": {
+    "userId": "Mengyu He",
+    "username": "Mengyu He",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Xinyu Hu": {
+    "userId": "Xinyu Hu",
+    "username": "Xinyu Hu",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yi Wang": {
+    "userId": "Yi Wang",
+    "username": "Yi Wang",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ziyuan Gao": {
+    "userId": "Ziyuan Gao",
+    "username": "Ziyuan Gao",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chengzhou Ye": {
+    "userId": "Chengzhou Ye",
+    "username": "Chengzhou Ye",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Rancho Cucamonga Branch participated in the 2023 Asian Fall Festival event on 10/07/2023 and 10/08/2023",
+        "hours": 7.0,
+        "date": "April 19, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Anthony 15 Lin": {
+    "userId": "Anthony 15 Lin",
+    "username": "Anthony 15 Lin",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "Remembering William and Anthony Lin: A Letter from Christie Yu",
+        "hours": 16.0,
+        "date": "February 20, 2016",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

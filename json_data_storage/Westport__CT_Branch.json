@@ -1,0 +1,23 @@
+{
+  "In Westport": {
+    "userId": "In Westport",
+    "username": "In Westport",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "The Gillespie Center \u0026 Homes With Hope",
+        "hours": 5.0,
+        "date": "March 2, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "The Gillespie Center \u0026 Homes With Hope",
+        "hours": 5.0,
+        "date": "March 2, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

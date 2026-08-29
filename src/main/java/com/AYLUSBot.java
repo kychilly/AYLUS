@@ -56,15 +56,15 @@ public class AYLUSBot {
                     registerCommands(event.getJDA());
 
                     // Start background scraping after bot is connected
-//                    CompletableFuture.runAsync(() -> {
-//                        System.out.println("🚀 Starting full AYLUS branch scrape in background...");
-//                        AylusScraper.runFullScrape();
-//                        System.out.println("✅ Scrape finished! Data saved to volunteer_data.json.");
-//                    }).exceptionally(ex -> {
-//                        System.err.println("❌ Scrape error encountered: " + ex.getMessage());
-//                        ex.printStackTrace();
-//                        return null;
-//                    });
+                    CompletableFuture.runAsync(() -> {
+                        System.out.println("🚀 Starting full AYLUS branch scrape in background...");
+                        AylusScraper.runFullScrape();
+                        System.out.println("✅ Scrape finished! Data saved to volunteer_data.json.");
+                    }).exceptionally(ex -> {
+                        System.err.println("❌ Scrape error encountered: " + ex.getMessage());
+                        ex.printStackTrace();
+                        return null;
+                    });
                 }
             }
         });

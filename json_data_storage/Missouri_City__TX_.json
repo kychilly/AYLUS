@@ -1,0 +1,284 @@
+{
+  "Hastings Elementary School Art": {
+    "userId": "Hastings Elementary School Art",
+    "username": "Hastings Elementary School Art",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Volunteered at Hastings Elementary School Art Fair on May 23",
+        "hours": 23.0,
+        "date": "May 23, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Catherine Sun": {
+    "userId": "Catherine Sun",
+    "username": "Catherine Sun",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch volunteered at local library – Feb 2025",
+        "hours": 4.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston TX": {
+    "userId": "Houston TX",
+    "username": "Houston TX",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch volunteered at local library – Feb 2025",
+        "hours": 4.0,
+        "date": "March 30, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sugar Land": {
+    "userId": "Sugar Land",
+    "username": "Sugar Land",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch Volunteered Park Maintenance in July 2024",
+        "hours": 2.0,
+        "date": "September 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Park Maintenance in June 2024",
+        "hours": 2.0,
+        "date": "July 28, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Volunteered Park Maintenance in July 2024",
+        "hours": 2.0,
+        "date": "September 6, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Park Maintenance in June 2024",
+        "hours": 2.0,
+        "date": "July 28, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "On Nov": {
+    "userId": "On Nov",
+    "username": "On Nov",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch Houston Food Bank, Nov. 22, 2023",
+        "hours": 22.0,
+        "date": "November 29, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "On Oct": {
+    "userId": "On Oct",
+    "username": "On Oct",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch Participated in Community Craft Showcase on Oct. 14, 2023",
+        "hours": 14.0,
+        "date": "October 16, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "On Sept": {
+    "userId": "On Sept",
+    "username": "On Sept",
+    "totalHours": 64.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch Park Maintenance #7, Sept 23, 2023",
+        "hours": 23.0,
+        "date": "September 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Donated to Soles4souls on Sept. 9, 2023",
+        "hours": 9.0,
+        "date": "September 9, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Park Maintenance #7, Sept 23, 2023",
+        "hours": 23.0,
+        "date": "September 24, 2023",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Donated to Soles4souls on Sept. 9, 2023",
+        "hours": 9.0,
+        "date": "September 9, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Civic Test": {
+    "userId": "Civic Test",
+    "username": "Civic Test",
+    "totalHours": 168.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch Helped Senior Adults with Citizenship Exam in Aug. 2021",
+        "hours": 21.0,
+        "date": "September 17, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Missouri City Branch Helped Senior Adults with Citizenship Exam in June 2021",
+        "hours": 21.0,
+        "date": "September 17, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Helped Senior Adults with Citizenship Exam in July 2021",
+        "hours": 21.0,
+        "date": "September 17, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Missouri City Branch Held the Citizenship Exam Preparation Classes",
+        "hours": 21.0,
+        "date": "January 17, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Helped Senior Adults with Citizenship Exam in July 2021",
+        "hours": 21.0,
+        "date": "September 17, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Helped Senior Adults with Citizenship Exam in Aug. 2021",
+        "hours": 21.0,
+        "date": "September 17, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Missouri City Branch Helped Senior Adults with Citizenship Exam in June 2021",
+        "hours": 21.0,
+        "date": "September 17, 2021",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Missouri City Branch Held the Citizenship Exam Preparation Classes",
+        "hours": 21.0,
+        "date": "January 17, 2021",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nocture Op": {
+    "userId": "Nocture Op",
+    "username": "Nocture Op",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch Played Online Music for Barton House Senior Living #2 on 12/5/2020",
+        "hours": 9.0,
+        "date": "December 6, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Played Online Music for Barton House Senior Living #2 on 12/5/2020",
+        "hours": 9.0,
+        "date": "December 6, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "AOPS Algebra Chapter": {
+    "userId": "AOPS Algebra Chapter",
+    "username": "AOPS Algebra Chapter",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "Missouri City Branch Tutored CWE Math Club on 9/9/2020",
+        "hours": 2.0,
+        "date": "September 13, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "Missouri City Branch Tutored CWE Math Club on 9/9/2020",
+        "hours": 2.0,
+        "date": "September 13, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "YouTube Channel": {
+    "userId": "YouTube Channel",
+    "username": "YouTube Channel",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Missouri City Branch Launched 3rd Tutorial Video on Origami on 7/14/2020",
+        "hours": 3.0,
+        "date": "July 15, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Missouri City Branch Launched 3rd Tutorial Video on Origami on 7/14/2020",
+        "hours": 3.0,
+        "date": "July 15, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Commonwealth Elementary School Math": {
+    "userId": "Commonwealth Elementary School Math",
+    "username": "Commonwealth Elementary School Math",
+    "totalHours": 36.0,
+    "entries": [
+      {
+        "eventName": "AYLUS Missouri City Branch Tutored CWE math club summer camp from 6/8 to 6/18",
+        "hours": 18.0,
+        "date": "June 19, 2020",
+        "money": 0.0
+      },
+      {
+        "eventName": "AYLUS Missouri City Branch Tutored CWE math club summer camp from 6/8 to 6/18",
+        "hours": 18.0,
+        "date": "June 19, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

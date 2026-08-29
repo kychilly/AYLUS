@@ -1,0 +1,32 @@
+{
+  "Ian Ian Ho": {
+    "userId": "Ian Ian Ho",
+    "username": "Ian Ian Ho",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Malden branch volunteers at their local art studio on Dec. 15, 2024",
+        "hours": 1.5,
+        "date": "December 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Yingyan Xia": {
+    "userId": "Yingyan Xia",
+    "username": "Yingyan Xia",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "AYLUS Malden branch volunteers at their local art studio on Dec. 15, 2024",
+        "hours": 1.5,
+        "date": "December 17, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}

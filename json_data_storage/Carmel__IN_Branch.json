@@ -1,0 +1,3269 @@
+{
+  "Gavin Zheng": {
+    "userId": "Gavin Zheng",
+    "username": "Gavin Zheng",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Hosted the 6th Melody Project event on December 6, 2025",
+        "hours": 2.5,
+        "date": "December 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Isha Nemani": {
+    "userId": "Isha Nemani",
+    "username": "Isha Nemani",
+    "totalHours": 1.5,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Hosted the 6th Melody Project event on December 6, 2025",
+        "hours": 1.5,
+        "date": "December 14, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Carmel Valley Recreation Center": {
+    "userId": "Carmel Valley Recreation Center",
+    "username": "Carmel Valley Recreation Center",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch organized the cleaning up environment event at Carmel Valley Recreation Center on July 9th, 2022",
+        "hours": 9.0,
+        "date": "July 12, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Enze Luo": {
+    "userId": "Enze Luo",
+    "username": "Enze Luo",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in 2nd Cleaning up enviroment event at Carmel Valley Trail On May 21st, 2022",
+        "hours": 2.5,
+        "date": "May 23, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Audrey Wu": {
+    "userId": "Audrey Wu",
+    "username": "Audrey Wu",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Hosted 3rd Volunteer Support at Youth Kitchen San Diego Farmer’s Market on September 21, 2025",
+        "hours": 2.5,
+        "date": "September 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Serena Liu": {
+    "userId": "Serena Liu",
+    "username": "Serena Liu",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Hosted 3rd Volunteer Support at Youth Kitchen San Diego Farmer’s Market on September 21, 2025",
+        "hours": 2.5,
+        "date": "September 22, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kenneth Chen": {
+    "userId": "Kenneth Chen",
+    "username": "Kenneth Chen",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Hosted 1st Volunteer Support at Youth Kitchen San Diego Farmer’s Market on August 24, 2025",
+        "hours": 2.5,
+        "date": "August 30, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charles Liu": {
+    "userId": "Charles Liu",
+    "username": "Charles Liu",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Hosted 1st Volunteer Support at Youth Kitchen San Diego Farmer’s Market on August 24, 2025",
+        "hours": 2.5,
+        "date": "August 30, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Chen": {
+    "userId": "Emily Chen",
+    "username": "Emily Chen",
+    "totalHours": 2.5,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Hosted 2nd Volunteer Support at Youth Kitchen San Diego Farmer’s Market on August 31, 2025",
+        "hours": 2.5,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sophie Xie": {
+    "userId": "Sophie Xie",
+    "username": "Sophie Xie",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Hosted 2nd Volunteer Support at Youth Kitchen San Diego Farmer’s Market on August 31, 2025",
+        "hours": 3.0,
+        "date": "August 31, 2025",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Committee Chairs": {
+    "userId": "Committee Chairs",
+    "username": "Committee Chairs",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hope Beast Academy Online": {
+    "userId": "Hope Beast Academy Online",
+    "username": "Hope Beast Academy Online",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 6.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Interfaith Community Services": {
+    "userId": "Interfaith Community Services",
+    "username": "Interfaith Community Services",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 6.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cans Recycling Event": {
+    "userId": "Cans Recycling Event",
+    "username": "Cans Recycling Event",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 11.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego": {
+    "userId": "San Diego",
+    "username": "San Diego",
+    "totalHours": 32.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 11.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Diego Branch donated 3D Printed Face Shields equipment to local hospitals on August 30th, 2020",
+        "hours": 21.0,
+        "date": "September 1, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Used Batteries Recycling Event": {
+    "userId": "Used Batteries Recycling Event",
+    "username": "Used Batteries Recycling Event",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hope Online Tutoring Class": {
+    "userId": "Hope Online Tutoring Class",
+    "username": "Hope Online Tutoring Class",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Program Event": {
+    "userId": "Program Event",
+    "username": "Program Event",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Food Bank": {
+    "userId": "San Diego Food Bank",
+    "username": "San Diego Food Bank",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Pacific Highlands Ranch Library": {
+    "userId": "Pacific Highlands Ranch Library",
+    "username": "Pacific Highlands Ranch Library",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bookstore Event": {
+    "userId": "Bookstore Event",
+    "username": "Bookstore Event",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lantern Festival Celebration Event": {
+    "userId": "Lantern Festival Celebration Event",
+    "username": "Lantern Festival Celebration Event",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 15.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Year Celebration Event": {
+    "userId": "Year Celebration Event",
+    "username": "Year Celebration Event",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 14.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Melody Project Event": {
+    "userId": "Melody Project Event",
+    "username": "Melody Project Event",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smiling Stars": {
+    "userId": "Smiling Stars",
+    "username": "Smiling Stars",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch hosts a Smiling Stars Trail Hike on August 3 , 2024",
+        "hours": 3.0,
+        "date": "August 4, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2018 Jeffery": {
+    "userId": "2018 Jeffery",
+    "username": "2018 Jeffery",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2018 Joshua Trost": {
+    "userId": "2018 Joshua Trost",
+    "username": "2018 Joshua Trost",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2018 David He": {
+    "userId": "2018 David He",
+    "username": "2018 David He",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2018 Raymond Li": {
+    "userId": "2018 Raymond Li",
+    "username": "2018 Raymond Li",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2018 Eric Li": {
+    "userId": "2018 Eric Li",
+    "username": "2018 Eric Li",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "David He": {
+    "userId": "David He",
+    "username": "David He",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2018 Leon Wang": {
+    "userId": "2018 Leon Wang",
+    "username": "2018 Leon Wang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2018 Jeffrey Guo": {
+    "userId": "2018 Jeffrey Guo",
+    "username": "2018 Jeffrey Guo",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nathan Guo": {
+    "userId": "Nathan Guo",
+    "username": "Nathan Guo",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2017 Christopher Yang": {
+    "userId": "2017 Christopher Yang",
+    "username": "2017 Christopher Yang",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "2017 Daniel Li": {
+    "userId": "2017 Daniel Li",
+    "username": "2017 Daniel Li",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "450 New Lenses": {
+    "userId": "450 New Lenses",
+    "username": "450 New Lenses",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "35 Boxes of Linens": {
+    "userId": "35 Boxes of Linens",
+    "username": "35 Boxes of Linens",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Stephen Yang Collected": {
+    "userId": "Stephen Yang Collected",
+    "username": "Stephen Yang Collected",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "CA !!!": {
+    "userId": "CA !!!",
+    "username": "CA !!!",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Elderly Program": {
+    "userId": "Elderly Program",
+    "username": "Elderly Program",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Youth Kitchen San Diego": {
+    "userId": "Youth Kitchen San Diego",
+    "username": "Youth Kitchen San Diego",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Farmers Market": {
+    "userId": "Farmers Market",
+    "username": "Farmers Market",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 21.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Supplies Donation Drive": {
+    "userId": "Supplies Donation Drive",
+    "username": "Supplies Donation Drive",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Humane Society": {
+    "userId": "Humane Society",
+    "username": "Humane Society",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beast Academy Online Class": {
+    "userId": "Beast Academy Online Class",
+    "username": "Beast Academy Online Class",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 9.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cans Recycling": {
+    "userId": "Cans Recycling",
+    "username": "Cans Recycling",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 10.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Marvin Gerst Trail": {
+    "userId": "Marvin Gerst Trail",
+    "username": "Marvin Gerst Trail",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 9.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smiling Stars Easter Party": {
+    "userId": "Smiling Stars Easter Party",
+    "username": "Smiling Stars Easter Party",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smiling Stars Reading": {
+    "userId": "Smiling Stars Reading",
+    "username": "Smiling Stars Reading",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 19.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kids Lab": {
+    "userId": "Kids Lab",
+    "username": "Kids Lab",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kids Flea Market": {
+    "userId": "Kids Flea Market",
+    "username": "Kids Flea Market",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "China Balboa Park San": {
+    "userId": "China Balboa Park San",
+    "username": "China Balboa Park San",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chinese New Year Celebration": {
+    "userId": "Chinese New Year Celebration",
+    "username": "Chinese New Year Celebration",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 9.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Canyon Crest Academy": {
+    "userId": "Canyon Crest Academy",
+    "username": "Canyon Crest Academy",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 8.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Table Tennis Clinic": {
+    "userId": "Table Tennis Clinic",
+    "username": "Table Tennis Clinic",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cancer Patients": {
+    "userId": "Cancer Patients",
+    "username": "Cancer Patients",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Solana Ranch Park": {
+    "userId": "Solana Ranch Park",
+    "username": "Solana Ranch Park",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 18.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "School Supply Drive": {
+    "userId": "School Supply Drive",
+    "username": "School Supply Drive",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smiling Stars Trail Hike": {
+    "userId": "Smiling Stars Trail Hike",
+    "username": "Smiling Stars Trail Hike",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 3.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charity Book Sale": {
+    "userId": "Charity Book Sale",
+    "username": "Charity Book Sale",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Annual Clothing": {
+    "userId": "San Diego Annual Clothing",
+    "username": "San Diego Annual Clothing",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Senior Services Foundation": {
+    "userId": "Senior Services Foundation",
+    "username": "Senior Services Foundation",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 10.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Community Cleanup Event": {
+    "userId": "Community Cleanup Event",
+    "username": "Community Cleanup Event",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hope AoPS Online Class": {
+    "userId": "Hope AoPS Online Class",
+    "username": "Hope AoPS Online Class",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 21.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Spring Showcase Performance": {
+    "userId": "Spring Showcase Performance",
+    "username": "Spring Showcase Performance",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smiling Stars Reading Online": {
+    "userId": "Smiling Stars Reading Online",
+    "username": "Smiling Stars Reading Online",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 9.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Homemade": {
+    "userId": "San Diego Homemade",
+    "username": "San Diego Homemade",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 11.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Celebration Event": {
+    "userId": "Celebration Event",
+    "username": "Celebration Event",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 10.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Feeding San Diego": {
+    "userId": "Feeding San Diego",
+    "username": "Feeding San Diego",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 13.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dance Camp": {
+    "userId": "Dance Camp",
+    "username": "Dance Camp",
+    "totalHours": 11.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 11.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Baja Dog Rescue": {
+    "userId": "Baja Dog Rescue",
+    "username": "Baja Dog Rescue",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Dog Adoption": {
+    "userId": "Dog Adoption",
+    "username": "Dog Adoption",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jewish Family Services": {
+    "userId": "Jewish Family Services",
+    "username": "Jewish Family Services",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 4.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Rose Creek Garden": {
+    "userId": "Rose Creek Garden",
+    "username": "Rose Creek Garden",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Machine Learning Online Workshop": {
+    "userId": "Machine Learning Online Workshop",
+    "username": "Machine Learning Online Workshop",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Used Glasses Donation Drive": {
+    "userId": "Used Glasses Donation Drive",
+    "username": "Used Glasses Donation Drive",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Swim Meet": {
+    "userId": "Swim Meet",
+    "username": "Swim Meet",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 15.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hope Tutoring Class": {
+    "userId": "Hope Tutoring Class",
+    "username": "Hope Tutoring Class",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chinese Food": {
+    "userId": "Chinese Food",
+    "username": "Chinese Food",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 4.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charity Sales": {
+    "userId": "Charity Sales",
+    "username": "Charity Sales",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 4.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Balboa Park": {
+    "userId": "Balboa Park",
+    "username": "Balboa Park",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "African Library Book Drive": {
+    "userId": "African Library Book Drive",
+    "username": "African Library Book Drive",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Charity Sales Fundraising Event": {
+    "userId": "Charity Sales Fundraising Event",
+    "username": "Charity Sales Fundraising Event",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 13.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hope Beast Academy": {
+    "userId": "Hope Beast Academy",
+    "username": "Hope Beast Academy",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Run Book Donation Event": {
+    "userId": "Run Book Donation Event",
+    "username": "Run Book Donation Event",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hope Fundraising Event": {
+    "userId": "Hope Fundraising Event",
+    "username": "Hope Fundraising Event",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 13.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kids Lab Service": {
+    "userId": "Kids Lab Service",
+    "username": "Kids Lab Service",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 9.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Solutions For Hope Summer": {
+    "userId": "Solutions For Hope Summer",
+    "username": "Solutions For Hope Summer",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Solution For Hope Tutoring": {
+    "userId": "Solution For Hope Tutoring",
+    "username": "Solution For Hope Tutoring",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kids Lab Activity": {
+    "userId": "Kids Lab Activity",
+    "username": "Kids Lab Activity",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Online Challenge Camp Activity": {
+    "userId": "Online Challenge Camp Activity",
+    "username": "Online Challenge Camp Activity",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Online Solutions For Hope": {
+    "userId": "Online Solutions For Hope",
+    "username": "Online Solutions For Hope",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 18.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "ESL Students Program": {
+    "userId": "ESL Students Program",
+    "username": "ESL Students Program",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Activity Beast Academy": {
+    "userId": "Activity Beast Academy",
+    "username": "Activity Beast Academy",
+    "totalHours": 21.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 21.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Solutions For Hope Activity": {
+    "userId": "Solutions For Hope Activity",
+    "username": "Solutions For Hope Activity",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Beast Academy": {
+    "userId": "Beast Academy",
+    "username": "Beast Academy",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Solutions For Hope": {
+    "userId": "Solutions For Hope",
+    "username": "Solutions For Hope",
+    "totalHours": 10.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 10.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Academy Activity": {
+    "userId": "Academy Activity",
+    "username": "Academy Activity",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tutoring Activity": {
+    "userId": "Tutoring Activity",
+    "username": "Tutoring Activity",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Disadvantaged Students": {
+    "userId": "Disadvantaged Students",
+    "username": "Disadvantaged Students",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Solutions For Hope Beast": {
+    "userId": "Solutions For Hope Beast",
+    "username": "Solutions For Hope Beast",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Heroes Event": {
+    "userId": "Heroes Event",
+    "username": "Heroes Event",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Competition Tutoring": {
+    "userId": "Competition Tutoring",
+    "username": "Competition Tutoring",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Winter Clothing Drive": {
+    "userId": "Winter Clothing Drive",
+    "username": "Winter Clothing Drive",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ever Online Challenge Camp": {
+    "userId": "Ever Online Challenge Camp",
+    "username": "Ever Online Challenge Camp",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tenth Ever Online Challenge": {
+    "userId": "Tenth Ever Online Challenge",
+    "username": "Tenth Ever Online Challenge",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Excess Medical Face Masks": {
+    "userId": "Excess Medical Face Masks",
+    "username": "Excess Medical Face Masks",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Brain Injury": {
+    "userId": "San Diego Brain Injury",
+    "username": "San Diego Brain Injury",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "End Alzheimer": {
+    "userId": "End Alzheimer",
+    "username": "End Alzheimer",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Foundation Kyne Xie Recycled": {
+    "userId": "Foundation Kyne Xie Recycled",
+    "username": "Foundation Kyne Xie Recycled",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Water Bottles": {
+    "userId": "Water Bottles",
+    "username": "Water Bottles",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "STEAM Challenge Camp": {
+    "userId": "STEAM Challenge Camp",
+    "username": "STEAM Challenge Camp",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Xu Collected": {
+    "userId": "Eric Xu Collected",
+    "username": "Eric Xu Collected",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 19.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students": {
+    "userId": "San Diego Students",
+    "username": "San Diego Students",
+    "totalHours": 9.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 9.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brain Injury Patient": {
+    "userId": "Brain Injury Patient",
+    "username": "Brain Injury Patient",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joshua Trost": {
+    "userId": "Joshua Trost",
+    "username": "Joshua Trost",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joshua Trost Provided Music": {
+    "userId": "Joshua Trost Provided Music",
+    "username": "Joshua Trost Provided Music",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 8.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nathan Yang Collected": {
+    "userId": "Nathan Yang Collected",
+    "username": "Nathan Yang Collected",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Soda Cans": {
+    "userId": "Soda Cans",
+    "username": "Soda Cans",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Raymond Li": {
+    "userId": "Raymond Li",
+    "username": "Raymond Li",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 19.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Li": {
+    "userId": "Eric Li",
+    "username": "Eric Li",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Raymond Li Provided Music": {
+    "userId": "Raymond Li Provided Music",
+    "username": "Raymond Li Provided Music",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 18.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Tiara He Collected": {
+    "userId": "Tiara He Collected",
+    "username": "Tiara He Collected",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 13.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chengda Li Collected": {
+    "userId": "Chengda Li Collected",
+    "username": "Chengda Li Collected",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Gary Wu Collected": {
+    "userId": "Gary Wu Collected",
+    "username": "Gary Wu Collected",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Xu Provided Music": {
+    "userId": "Eric Xu Provided Music",
+    "username": "Eric Xu Provided Music",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 8.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brian Zhu Collected": {
+    "userId": "Brian Zhu Collected",
+    "username": "Brian Zhu Collected",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 7.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Leon Wang": {
+    "userId": "Leon Wang",
+    "username": "Leon Wang",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bai Collected": {
+    "userId": "Bai Collected",
+    "username": "Bai Collected",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 18.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Raymond Li Collected": {
+    "userId": "Raymond Li Collected",
+    "username": "Raymond Li Collected",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Provided": {
+    "userId": "San Diego Students Provided",
+    "username": "San Diego Students Provided",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "United Cerebral Palsy": {
+    "userId": "United Cerebral Palsy",
+    "username": "United Cerebral Palsy",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 19.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Chengda Li": {
+    "userId": "Chengda Li",
+    "username": "Chengda Li",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Water Bottle Recycling Drive": {
+    "userId": "Water Bottle Recycling Drive",
+    "username": "Water Bottle Recycling Drive",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Cerebral Palsy Patients": {
+    "userId": "Cerebral Palsy Patients",
+    "username": "Cerebral Palsy Patients",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 15.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Xu Participated": {
+    "userId": "Eric Xu Participated",
+    "username": "Eric Xu Participated",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 15.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Organized": {
+    "userId": "San Diego Students Organized",
+    "username": "San Diego Students Organized",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 6.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Petco Park": {
+    "userId": "Petco Park",
+    "username": "Petco Park",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 13.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jeffrey Guo": {
+    "userId": "Jeffrey Guo",
+    "username": "Jeffrey Guo",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christopher Yang": {
+    "userId": "Christopher Yang",
+    "username": "Christopher Yang",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Performed": {
+    "userId": "San Diego Students Performed",
+    "username": "San Diego Students Performed",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Joyce Beers Uptown Community": {
+    "userId": "Joyce Beers Uptown Community",
+    "username": "Joyce Beers Uptown Community",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Peng Collected": {
+    "userId": "Andrew Peng Collected",
+    "username": "Andrew Peng Collected",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 8.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eric Xu": {
+    "userId": "Eric Xu",
+    "username": "Eric Xu",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ashley Zhang": {
+    "userId": "Ashley Zhang",
+    "username": "Ashley Zhang",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 18.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Sarah Cheng": {
+    "userId": "Sarah Cheng",
+    "username": "Sarah Cheng",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 18.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Smythe Ave Elementary School": {
+    "userId": "Smythe Ave Elementary School",
+    "username": "Smythe Ave Elementary School",
+    "totalHours": 4.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 4.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Richard Wu": {
+    "userId": "Richard Wu",
+    "username": "Richard Wu",
+    "totalHours": 20.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 20.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Daniel Li": {
+    "userId": "Daniel Li",
+    "username": "Daniel Li",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 19.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Held": {
+    "userId": "San Diego Students Held",
+    "username": "San Diego Students Held",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Harvey Flood All Day": {
+    "userId": "Harvey Flood All Day",
+    "username": "Harvey Flood All Day",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Started": {
+    "userId": "San Diego Students Started",
+    "username": "San Diego Students Started",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 2.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Houston Families Whose Homes": {
+    "userId": "Houston Families Whose Homes",
+    "username": "Houston Families Whose Homes",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Were Flooded": {
+    "userId": "Were Flooded",
+    "username": "Were Flooded",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Therapeutic Riding Center Project": {
+    "userId": "Therapeutic Riding Center Project",
+    "username": "Therapeutic Riding Center Project",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Donated": {
+    "userId": "San Diego Students Donated",
+    "username": "San Diego Students Donated",
+    "totalHours": 18.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 18.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Held Planning Meeting": {
+    "userId": "Held Planning Meeting",
+    "username": "Held Planning Meeting",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "African Children": {
+    "userId": "African Children",
+    "username": "African Children",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 3.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Congressman Scott Peters": {
+    "userId": "Congressman Scott Peters",
+    "username": "Congressman Scott Peters",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Raised": {
+    "userId": "San Diego Students Raised",
+    "username": "San Diego Students Raised",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ronald McDonald House": {
+    "userId": "Ronald McDonald House",
+    "username": "Ronald McDonald House",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Worked": {
+    "userId": "San Diego Students Worked",
+    "username": "San Diego Students Worked",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 15.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Dieguito River Valley": {
+    "userId": "San Dieguito River Valley",
+    "username": "San Dieguito River Valley",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 14.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Volunteered": {
+    "userId": "San Diego Students Volunteered",
+    "username": "San Diego Students Volunteered",
+    "totalHours": 14.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 14.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Therapeutic Riding Center": {
+    "userId": "Therapeutic Riding Center",
+    "username": "Therapeutic Riding Center",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Second Time": {
+    "userId": "Second Time",
+    "username": "Second Time",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Taught": {
+    "userId": "San Diego Students Taught",
+    "username": "San Diego Students Taught",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 8.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bottle Rockets": {
+    "userId": "Bottle Rockets",
+    "username": "Bottle Rockets",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 8.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Sorted": {
+    "userId": "San Diego Students Sorted",
+    "username": "San Diego Students Sorted",
+    "totalHours": 8.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 8.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Medical Supplies": {
+    "userId": "Medical Supplies",
+    "username": "Medical Supplies",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 6.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Africa Children": {
+    "userId": "Africa Children",
+    "username": "Africa Children",
+    "totalHours": 6.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 6.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Fourth Computer": {
+    "userId": "Fourth Computer",
+    "username": "Fourth Computer",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 7.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Third Lagoon Nature Project": {
+    "userId": "Third Lagoon Nature Project",
+    "username": "Third Lagoon Nature Project",
+    "totalHours": 7.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 7.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Second Lagoon Nature Project": {
+    "userId": "Second Lagoon Nature Project",
+    "username": "Second Lagoon Nature Project",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "San Diego Students Delivered": {
+    "userId": "San Diego Students Delivered",
+    "username": "San Diego Students Delivered",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "First Lagoon Nature Project": {
+    "userId": "First Lagoon Nature Project",
+    "username": "First Lagoon Nature Project",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Second Notebook Repair": {
+    "userId": "Second Notebook Repair",
+    "username": "Second Notebook Repair",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Christopher Yang Collected": {
+    "userId": "Christopher Yang Collected",
+    "username": "Christopher Yang Collected",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Low Income Families": {
+    "userId": "Low Income Families",
+    "username": "Low Income Families",
+    "totalHours": 13.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 13.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Shipped All": {
+    "userId": "Shipped All",
+    "username": "Shipped All",
+    "totalHours": 19.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 19.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "La Jolla Country Day": {
+    "userId": "La Jolla Country Day",
+    "username": "La Jolla Country Day",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Eighth Challenge Camp": {
+    "userId": "Eighth Challenge Camp",
+    "username": "Eighth Challenge Camp",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Seventh Challenge Camp": {
+    "userId": "Seventh Challenge Camp",
+    "username": "Seventh Challenge Camp",
+    "totalHours": 5.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 5.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Held Sixth Challenge Camp": {
+    "userId": "Held Sixth Challenge Camp",
+    "username": "Held Sixth Challenge Camp",
+    "totalHours": 15.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 15.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Torrey Pines State Beach": {
+    "userId": "Torrey Pines State Beach",
+    "username": "Torrey Pines State Beach",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 17.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Held Fifth Challenge Camp": {
+    "userId": "Held Fifth Challenge Camp",
+    "username": "Held Fifth Challenge Camp",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 3.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Held Second Challenge Camp": {
+    "userId": "Held Second Challenge Camp",
+    "username": "Held Second Challenge Camp",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Successfully Held First Challenge": {
+    "userId": "Successfully Held First Challenge",
+    "username": "Successfully Held First Challenge",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Senior Citizens": {
+    "userId": "Senior Citizens",
+    "username": "Senior Citizens",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "La Jolla": {
+    "userId": "La Jolla",
+    "username": "La Jolla",
+    "totalHours": 16.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 16.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nationwide Gift Drive San": {
+    "userId": "Nationwide Gift Drive San",
+    "username": "Nationwide Gift Drive San",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Second Food Drive": {
+    "userId": "Second Food Drive",
+    "username": "Second Food Drive",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Food Drive": {
+    "userId": "Food Drive",
+    "username": "Food Drive",
+    "totalHours": 22.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 22.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emily Zhong Collected": {
+    "userId": "Emily Zhong Collected",
+    "username": "Emily Zhong Collected",
+    "totalHours": 1.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 1.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Earth Day": {
+    "userId": "Earth Day",
+    "username": "Earth Day",
+    "totalHours": 44.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 22.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      },
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/22/23",
+        "hours": 22.0,
+        "date": "April 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Andrew Zhou": {
+    "userId": "Andrew Zhou",
+    "username": "Andrew Zhou",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 3.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Felicity Chu": {
+    "userId": "Felicity Chu",
+    "username": "Felicity Chu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 3.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Maxwell Yang": {
+    "userId": "Maxwell Yang",
+    "username": "Maxwell Yang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 3.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Brianna Chu": {
+    "userId": "Brianna Chu",
+    "username": "Brianna Chu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 3.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Emmy Zhu": {
+    "userId": "Emmy Zhu",
+    "username": "Emmy Zhu",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 3.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Annie Luo": {
+    "userId": "Annie Luo",
+    "username": "Annie Luo",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 3.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Aliya Tang": {
+    "userId": "Aliya Tang",
+    "username": "Aliya Tang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 3.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Jessica Chen": {
+    "userId": "Jessica Chen",
+    "username": "Jessica Chen",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/20/24",
+        "hours": 3.0,
+        "date": "April 21, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Third Computer": {
+    "userId": "Third Computer",
+    "username": "Third Computer",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Second Challenge Camp": {
+    "userId": "Second Challenge Camp",
+    "username": "Second Challenge Camp",
+    "totalHours": 24.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 24.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Held First Challenge Camp": {
+    "userId": "Held First Challenge Camp",
+    "username": "Held First Challenge Camp",
+    "totalHours": 23.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 23.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Nationwide Gift Drive": {
+    "userId": "Nationwide Gift Drive",
+    "username": "Nationwide Gift Drive",
+    "totalHours": 12.0,
+    "entries": [
+      {
+        "eventName": "San Diego, CA",
+        "hours": 12.0,
+        "date": "October 11, 2024",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Hans Yang": {
+    "userId": "Hans Yang",
+    "username": "Hans Yang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/22/23",
+        "hours": 3.0,
+        "date": "April 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Steven Xiao": {
+    "userId": "Steven Xiao",
+    "username": "Steven Xiao",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/22/23",
+        "hours": 3.0,
+        "date": "April 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Kevin Kan": {
+    "userId": "Kevin Kan",
+    "username": "Kevin Kan",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/22/23",
+        "hours": 3.0,
+        "date": "April 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Lauren Kan": {
+    "userId": "Lauren Kan",
+    "username": "Lauren Kan",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/22/23",
+        "hours": 3.0,
+        "date": "April 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Bruce Xiao": {
+    "userId": "Bruce Xiao",
+    "username": "Bruce Xiao",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/22/23",
+        "hours": 3.0,
+        "date": "April 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Ayden Liang": {
+    "userId": "Ayden Liang",
+    "username": "Ayden Liang",
+    "totalHours": 3.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Participated in the Largest Earth Day Cleanup in San Diego on 4/22/23",
+        "hours": 3.0,
+        "date": "April 24, 2023",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Linky Yu": {
+    "userId": "Linky Yu",
+    "username": "Linky Yu",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Volunteer Kicked off the 1st National Geographic Kids Camp event on Dec 24th , 2022",
+        "hours": 2.0,
+        "date": "December 25, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Palomar Hospital ICU": {
+    "userId": "Palomar Hospital ICU",
+    "username": "Palomar Hospital ICU",
+    "totalHours": 17.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch donated 3D Printed Face Shields equipment to local hospitals on August 30th, 2020",
+        "hours": 17.0,
+        "date": "September 1, 2020",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  },
+  "Enke Luo": {
+    "userId": "Enke Luo",
+    "username": "Enke Luo",
+    "totalHours": 2.0,
+    "entries": [
+      {
+        "eventName": "San Diego Branch Volunteer Kicked off the 2nd National Geographic Kids Camp event on Dec 26th , 2022",
+        "hours": 2.0,
+        "date": "December 27, 2022",
+        "money": 0.0
+      }
+    ],
+    "paymentHistory": [],
+    "totalMoneyOwed": 0.0
+  }
+}
