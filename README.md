@@ -9,4 +9,3 @@
 | **Total Hours Tracked** | $431,760\text{ hrs}$   |
 | **Total Volunteers**    | $9,791$                |
 | **Total Events**        | $114,112$              |
-| **Total Funds Raised**  | $40,673.90             |
