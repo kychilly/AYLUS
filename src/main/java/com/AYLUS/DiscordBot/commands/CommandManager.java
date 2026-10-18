@@ -39,6 +39,8 @@ public class CommandManager extends ListenerAdapter {
             VolunteeringRemovePaymentCommand.execute(event);
         } else if (command.equals("ask")) {
             Z_GPTCommand.execute(event);
+        } else if (command.equals("aihelp")) {
+            VolunteerLookupCommand.execute(event);
         }
     }
 
@@ -48,6 +50,7 @@ public class CommandManager extends ListenerAdapter {
         commandData.add(HelpCommand.getCommandData());
         commandData.add(VolunteeringRemovePaymentCommand.getCommandData());
         commandData.add(Z_GPTCommand.getCommandData());
+        commandData.add(VolunteerLookupCommand.getCommandData());
     }
 
     @Override
