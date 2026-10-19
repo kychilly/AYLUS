@@ -46,7 +46,7 @@ public class VolunteerLookupCommand extends ListenerAdapter {
             // Path to infer.py relative to the IntelliJ project root
             String pythonScriptPath = Paths.get("src", "main", "slm_python_engine", "infer.py").toString();
 
-            ProcessBuilder processBuilder = new ProcessBuilder("python", pythonScriptPath, userPrompt);
+            ProcessBuilder processBuilder = new ProcessBuilder("py", pythonScriptPath, userPrompt);
             processBuilder.redirectErrorStream(true);
 
             Process process = processBuilder.start();
@@ -54,10 +54,11 @@ public class VolunteerLookupCommand extends ListenerAdapter {
             try (BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()))) {
                 String line;
                 while ((line = reader.readLine()) != null) {
-                    // Ignore internal debug/stderr logs from PyTorch/Transformers loading
-                    if (!line.startsWith("Loading") && !line.startsWith("Applying") && !line.startsWith("Warning")) {
-                        output.append(line).append("\n");
+                    // Skip warning/deprecation lines
+                    if (line.contains("transformers") || line.contains("torch_dtype") || line.contains("deprecate") || line.contains("Loading") || line.contains("Warning")) {
+                        continue;
                     }
+                    output.append(line).append("\n");
                 }
             }
 

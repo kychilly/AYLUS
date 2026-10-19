@@ -1,4 +1,12 @@
 import os
+
+
+MAX_THREADS = "4"
+os.environ["OMP_NUM_THREADS"] = MAX_THREADS
+os.environ["MKL_NUM_THREADS"] = MAX_THREADS
+os.environ["OPENBLAS_NUM_THREADS"] = MAX_THREADS
+os.environ["NUMEXPR_NUM_THREADS"] = MAX_THREADS
+
 import torch
 from dotenv import load_dotenv
 from datasets import load_dataset

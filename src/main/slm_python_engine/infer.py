@@ -2,17 +2,23 @@ import sys
 import os
 import json
 import torch
+
+# Suppress noisy transformer warnings before imports
+os.environ["TRANSFORMERS_VERBOSITY"] = "error"
+
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel
 from json_reader import get_volunteer_field
 
-# Paths & Base Model Configuration
-ADAPTER_DIR = "./slm_lora_adapter"
+# Get absolute path of the engine directory and project root
+ENGINE_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.abspath(os.path.join(ENGINE_DIR, "../../../"))
+ADAPTER_DIR = os.path.join(ENGINE_DIR, "slm_lora_adapter")
+STORAGE_DIR = os.path.join(PROJECT_ROOT, "json_data_storage")
+
 BASE_MODEL = "Qwen/Qwen2.5-0.5B-Instruct"
 
 def load_inference_model():
-    """Loads base model and attaches the fine-tuned LoRA adapter weights."""
-    print("Loading tokenizer and model for inference...", file=sys.stderr)
     tokenizer = AutoTokenizer.from_pretrained(BASE_MODEL, trust_remote_code=True)
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -26,16 +32,13 @@ def load_inference_model():
     )
 
     if os.path.exists(ADAPTER_DIR):
-        print(f"Applying fine-tuned LoRA weights from '{ADAPTER_DIR}'...", file=sys.stderr)
         model = PeftModel.from_pretrained(base_model, ADAPTER_DIR)
     else:
-        print("Warning: Fine-tuned adapter not found. Using base model.", file=sys.stderr)
         model = base_model
 
     return model, tokenizer
 
 def run_inference(user_prompt):
-    """Executes SLM intent parsing, extracts parameters, and queries json_reader."""
     model, tokenizer = load_inference_model()
 
     messages = [
@@ -50,7 +53,6 @@ def run_inference(user_prompt):
         {"role": "user", "content": user_prompt}
     ]
 
-    # Format using ChatML template
     prompt = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
@@ -58,14 +60,13 @@ def run_inference(user_prompt):
         outputs = model.generate(
             **inputs,
             max_new_tokens=128,
-            temperature=0.01,  # Low temperature for deterministic output formatting
+            temperature=0.01,
             do_sample=False
         )
 
     decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
 
     try:
-        # Isolate and parse the assistant's generated JSON payload
         assistant_text = decoded.split("assistant")[-1].strip()
         start_idx = assistant_text.find("{")
         end_idx = assistant_text.rfind("}") + 1
@@ -77,16 +78,18 @@ def run_inference(user_prompt):
         branch = params.get("branch")
         field = params.get("field", "totalHours")
 
-        # Execute deterministic data retrieval via json_reader.py
-        # Adjust relative path to json_data_storage based on execution context
-        storage_path = "../../../json_data_storage" if os.path.exists("../../../json_data_storage") else "json_data_storage"
-        result = get_volunteer_field(name, branch, field, json_dir=storage_path)
+        # Normalize field names to match json_data_storage keys (e.g., hours -> totalHours)
+        if field.lower() in ["hour", "hours", "totalhours"]:
+            field = "totalHours"
+        elif field.lower() in ["money", "owed", "payment"]:
+            field = "totalMoneyOwed"
 
-        # Print final formatted response string to stdout for Java capture
+        result = get_volunteer_field(name, branch, field, json_dir=STORAGE_DIR)
+
         print(f"{name} has {result} for '{field}' in the {branch} branch.")
 
     except Exception as e:
-        print(f"Error parsing model tool call: {str(e)} | Raw Output: {decoded}")
+        print(f"Error parsing model tool call: {str(e)}")
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
